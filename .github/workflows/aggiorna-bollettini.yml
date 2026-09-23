@@ -1,0 +1,28 @@
+name: Aggiorna bollettini GPS
+
+on:
+  schedule:
+    # Ogni 6 ore. Gli orari sono in UTC (le 5:00 UTC sono le 7:00 in Italia).
+    - cron: '0 5,11,17,23 * * *'
+  workflow_dispatch: {}   # per lanciarlo anche a mano dalla scheda "Actions" di GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  aggiorna:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm install
+      - run: node scripts/fetch-province.mjs
+      - name: Salva data/bollettini.json se è cambiato
+        run: |
+          git config user.name "Atrium bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/bollettini.json
+          git diff --cached --quiet || git commit -m "Aggiorna bollettini GPS"
+          git push
