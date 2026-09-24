@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-09-24T05:10:55.528Z",
+  "aggiornato": "2026-09-24T08:33:25.122Z",
   "province": {
     "MO": {
       "bollettini": [
@@ -11,6 +11,86 @@
           "nomine": 1218,
           "url": "https://mo.istruzioneer.gov.it/2026/08/31/nomine-a-t-d-docenti-ogni-ordine-e-grado-da-gps-1-turno-a-s-2026-27/",
           "dubbio": false
+        },
+        {
+          "id": "MO-2026-09-22",
+          "turno": null,
+          "data": "2026-09-22",
+          "titolo": "Nomine a t.d. docenti ogni ordine e grado da GPS a.s. 2026/27",
+          "nomine": 0,
+          "url": "https://mo.istruzioneer.gov.it/2026/09/22/nomine-a-t-d-docenti-ogni-ordine-e-grado-da-gps-a-s-2026-27-3-turno/",
+          "pdfUrl": "https://mo.istruzioneer.gov.it/wp-content/uploads/sites/6/2026/09/Bollettino_TotaleNomine-2.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "MO-2",
+          "turno": 2,
+          "data": "2026-09-11",
+          "titolo": "Nomine a t.d. docenti ogni ordine e grado da GPS a.s. 2026/27 &#8211; 2° TURNO &#8211; Ufficio VIII &#8211; Ambito Territoriale di Modena",
+          "nomine": 0,
+          "url": "https://mo.istruzioneer.gov.it/2026/09/11/nomine-a-t-d-docenti-ogni-ordine-e-grado-da-gps-a-s-2026-27-2-turno/",
+          "pdfUrl": "https://mo.istruzioneer.gov.it/wp-content/uploads/sites/6/2026/09/Bollettino_TotaleNomine.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "MO-1",
+          "turno": 1,
+          "data": "2026-08-31",
+          "titolo": "Nomine a t.d. docenti ogni ordine e grado da GPS 1° turno a.s. 2026/27 &#8211; Ufficio VIII &#8211; Ambito Territoriale di Modena",
+          "nomine": 1218,
+          "url": "https://mo.istruzioneer.gov.it/2026/08/31/nomine-a-t-d-docenti-ogni-ordine-e-grado-da-gps-1-turno-a-s-2026-27/",
+          "pdfUrl": "https://mo.istruzioneer.gov.it/wp-content/uploads/sites/6/2026/08/Bollettino_TotaleNomine.pdf",
+          "dubbio": false
+        },
+        {
+          "id": "MO-2026-08-28",
+          "turno": null,
+          "data": "2026-08-28",
+          "titolo": "Disponibilità nomine continuità sostegno e GPS T.D.ogni ordine e grado a.s.26/27 &#8211; Ufficio VIII &#8211; Ambito Territoriale di Modena",
+          "nomine": 0,
+          "url": "https://mo.istruzioneer.gov.it/2026/08/28/disponibilita-nomine-continuita-sostegno-e-gps-t-d-ogni-ordine-e-grado-a-s-26-27/",
+          "pdfUrl": "https://mo.istruzioneer.gov.it/wp-content/uploads/sites/6/2026/08/m_pi.AOOCSAMO.REGISTRO-UFFICIALEU.0014005.28-08-2026.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "MO-2026-08-04",
+          "turno": null,
+          "data": "2026-08-04",
+          "titolo": "Esiti nomine a t.d. finalizzate al ruolo da 1^ fascia GPS ADAA-ADEE",
+          "nomine": 0,
+          "url": "https://mo.istruzioneer.gov.it/2026/08/04/esiti-nomine-a-t-d-finalizzate-al-ruolo-da-1-fascia-gps-adaa-adee-a-s-26-27/",
+          "pdfUrl": "https://mo.istruzioneer.gov.it/wp-content/uploads/sites/6/2026/08/Bollettino_TotaleNomine-ADAA-ADEE-2.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "MO-2026-08-03",
+          "turno": null,
+          "data": "2026-08-03",
+          "titolo": "sedi vacanti per nomine a TD finalizzato al ruolo GPS sostegno I fsc &#8211; ADAA",
+          "nomine": 0,
+          "url": "https://mo.istruzioneer.gov.it/2026/08/03/sedi-vacanti-per-nomine-a-td-finalizzato-al-ruolo-gps-sostegno-i-fsc-adaa-adee/",
+          "pdfUrl": "https://mo.istruzioneer.gov.it/wp-content/uploads/sites/6/2026/08/ADAA-disponibilita-sedi-nomine-t.d.-finalizzate-al-ruolo-GPS-1-fascia-1.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "MO-2025-09-02",
+          "turno": null,
+          "data": "2025-09-02",
+          "titolo": "Rettifica parziale nomine a T.D. da GPS cdc AS48 &#8211; AM30 &#8211; B022 &#8211; Ufficio VIII &#8211; Ambito Territoriale di Modena",
+          "nomine": 0,
+          "url": "https://mo.istruzioneer.gov.it/2025/09/02/rettifica-parziale-nomine-a-t-d-da-gps-cdc-as48-am30-b022/",
+          "pdfUrl": "https://mo.istruzioneer.gov.it/wp-content/uploads/sites/6/2025/09/m_pi.AOODRER.Registro-DecretiR.0001272.02-09-2025.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "MO-2026-09-02",
+          "turno": null,
+          "data": "2026-09-02",
+          "titolo": "Rettifica sede continuità sostegno e annullamento di una nomina Turno 1 GPS &#8211; Ufficio VIII &#8211; Ambito Territoriale di Modena",
+          "nomine": 0,
+          "url": "https://mo.istruzioneer.gov.it/2026/09/02/rettifica-sede-continuita-sostegno-e-annullamento-di-una-nomina-turno-1-gps/",
+          "pdfUrl": "https://mo.istruzioneer.gov.it/wp-content/uploads/sites/6/2026/09/m_pi.AOOCSAMO.REGISTRO-UFFICIALEU.0014415.02-09-2026.pdf",
+          "dubbio": true
         },
         {
           "id": "MO-2026-09-22",
@@ -1473,12 +1553,172 @@
           "url": "https://fe.istruzioneer.gov.it/2025/12/22/nomine-a-td-da-gps-docenti-di-ogni-ordine-e-grado-a-s-2025-26-xxi-turno/",
           "pdfUrl": "https://fe.istruzioneer.gov.it/wp-content/uploads/sites/11/2025/12/Avviso-nomine-21-TURNO-GPS_m_pi.AOOUSPFE.REGISTRO-UFFICIALEU.0011612.22-12-2025.pdf",
           "dubbio": true
+        },
+        {
+          "id": "FE-2026-09-21",
+          "turno": null,
+          "data": "2026-09-21",
+          "titolo": "NOMINE A T.D. DA GPS – PERSONALE DOCENTE DI OGNI ORDINE E GRADO",
+          "nomine": 0,
+          "url": "https://fe.istruzioneer.gov.it/2026/09/21/nomine-a-t-d-da-gps-personale-docente-di-ogni-ordine-e-grado-turno-3/",
+          "pdfUrl": "https://fe.istruzioneer.gov.it/wp-content/uploads/sites/11/2026/09/Bollettino-3-TURNO-GPS.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "FE-2026-09-21",
+          "turno": null,
+          "data": "2026-09-21",
+          "titolo": "Nomine a T.D. da GPS",
+          "nomine": 0,
+          "url": "https://fe.istruzioneer.gov.it/2026/09/21/nomine-a-t-d-da-gps-nomine-per-la-continuita-didattica-posto-sostegno-ogni-ordine-e-grado-a-s-2026-27-rettifica-2/",
+          "pdfUrl": "https://fe.istruzioneer.gov.it/wp-content/uploads/sites/11/2026/08/RETTIFICA-BOLLETTINO-CONFERME-SOSTEGNO_Firmato.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "FE-2026-09-11",
+          "turno": null,
+          "data": "2026-09-11",
+          "titolo": "NOMINE A T.D. DA GPS – PERSONALE DOCENTE DI OGNI ORDINE E GRADO",
+          "nomine": 0,
+          "url": "https://fe.istruzioneer.gov.it/2026/09/11/nomine-a-t-d-da-gps-personale-docente-di-ogni-ordine-e-grado-turno-2/",
+          "pdfUrl": "https://fe.istruzioneer.gov.it/wp-content/uploads/sites/11/2026/09/Disp.-NOMINE-GPS-II-TURNO_m_pi.AOOUSPFE.REGISTRO-UFFICIALEU.0008405.11-09-2026.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "FE-2026-08-31",
+          "turno": null,
+          "data": "2026-08-31",
+          "titolo": "NOMINE A T.D. DA GPS &#8211; PERSONALE DOCENTE DI OGNI ORDINE E GRADO &#8211; TURNO 1 &#8211; Ufficio VI &#8211; Ambito Territoriale di Ferrara",
+          "nomine": 0,
+          "url": "https://fe.istruzioneer.gov.it/2026/08/31/nomine-a-t-d-da-gps-personale-docente-di-ogni-ordine-e-grado-turno-1/",
+          "pdfUrl": "https://fe.istruzioneer.gov.it/wp-content/uploads/sites/11/2026/08/BOLLETTINO-GPS-TURNO-1.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "FE-2026-08-31",
+          "turno": null,
+          "data": "2026-08-31",
+          "titolo": "Nomine a T.D. da GPS",
+          "nomine": 0,
+          "url": "https://fe.istruzioneer.gov.it/2026/08/31/nomine-a-t-d-da-gps-nomine-per-la-continuita-didattica-posto-sostegno-ogni-ordine-e-grado-a-s-2026-27-rettifica/",
+          "pdfUrl": "https://fe.istruzioneer.gov.it/wp-content/uploads/sites/11/2026/08/RETTIFICA-BOLLETTINO-CONFERME-SOSTEGNO_Firmato-1.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "FE-2026-08-28",
+          "turno": null,
+          "data": "2026-08-28",
+          "titolo": "Nomine a T.D. da GPS",
+          "nomine": 0,
+          "url": "https://fe.istruzioneer.gov.it/2026/08/28/nomine-a-t-d-da-gps-nomine-per-la-continuita-didattica-posto-sostegno-ogni-ordine-e-grado-a-s-2026-27/",
+          "pdfUrl": "https://fe.istruzioneer.gov.it/wp-content/uploads/sites/11/2026/08/Bollettino-Turno-0-CONFERME-SOSTEGNO-FE.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "FE-2026-08-28",
+          "turno": null,
+          "data": "2026-08-28",
+          "titolo": "Quadro disponibilità nomine a T.D. da GPS Continuità su posti di sostegno a.s. 2026-27",
+          "nomine": 0,
+          "url": "https://fe.istruzioneer.gov.it/2026/08/28/quadro-disponibilita-nomine-a-t-d-da-gps-continuita-su-posti-di-sostegno-a-s-2026-27-docenti-di-ogni-ordine-e-grado/",
+          "pdfUrl": "https://fe.istruzioneer.gov.it/wp-content/uploads/sites/11/2026/08/Avviso-posti-dip.-continuita_sostegno_m_pi.AOOUSPFE.REGISTRO-UFFICIALEU.0007801.28-08-2026.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "FE-2026-08-27",
+          "turno": null,
+          "data": "2026-08-27",
+          "titolo": "Posti orario esterni di ogni ordine e grado &#8211; Per nomine da GPS a.s. 2026/27 &#8211; Ufficio VI &#8211; Ambito Territoriale di Ferrara",
+          "nomine": 0,
+          "url": "https://fe.istruzioneer.gov.it/2026/08/27/posti-orario-esterni-di-ogni-ordine-e-grado-per-nomine-da-gps-a-s-2026-27/",
+          "pdfUrl": "https://fe.istruzioneer.gov.it/wp-content/uploads/sites/11/2026/08/Nota-POE_FE_m_pi.AOOUSPFE.REGISTRO-UFFICIALEU.0007744.27-08-2026.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "FE-2026-08-03",
+          "turno": null,
+          "data": "2026-08-03",
+          "titolo": "Nomine a T.D. finalizzate al ruolo docenti ai sensi dell&#8217;art. 5, co. 5",
+          "nomine": 0,
+          "url": "https://fe.istruzioneer.gov.it/2026/08/03/nomine-a-t-d-finalizzate-al-ruolo-docenti-ai-sensi-dellart-5-co-5-12-del-d-l-n-44-2023-da-1-fascia-gps-a-s-2026-27/",
+          "pdfUrl": "https://fe.istruzioneer.gov.it/wp-content/uploads/sites/11/2026/08/Bollettino-privacy-ADEE-ADAA_Firmato.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "FE-2025-12-22",
+          "turno": null,
+          "data": "2025-12-22",
+          "titolo": "Nomine a TD da GPS – docenti di ogni ordine e grado a.s. 2025/26",
+          "nomine": 0,
+          "url": "https://fe.istruzioneer.gov.it/2025/12/22/nomine-a-td-da-gps-docenti-di-ogni-ordine-e-grado-a-s-2025-26-xxi-turno/",
+          "pdfUrl": "https://fe.istruzioneer.gov.it/wp-content/uploads/sites/11/2025/12/Avviso-nomine-21-TURNO-GPS_m_pi.AOOUSPFE.REGISTRO-UFFICIALEU.0011612.22-12-2025.pdf",
+          "dubbio": true
         }
       ],
       "soglie": {}
     },
     "RE": {
       "bollettini": [
+        {
+          "id": "RE-2021-11-15",
+          "turno": null,
+          "data": "2021-11-15",
+          "titolo": "Nomine a tempo determinato GPS di ogni ordine e grado – bollettino definitivo",
+          "nomine": 0,
+          "url": "https://re.istruzioneer.gov.it/2021/11/15/nomine-a-tempo-determinato-gps-di-ogni-ordine-e-grado-bollettino-definitivo-tredicesima-fase/",
+          "pdfUrl": "https://re.istruzioneer.gov.it/wp-content/uploads/sites/10/2021/11/bollettino-fase-13.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "RE-2021-11-11",
+          "turno": null,
+          "data": "2021-11-11",
+          "titolo": "Nomine a tempo determinato GPS di ogni ordine e grado – bollettino definitivo",
+          "nomine": 0,
+          "url": "https://re.istruzioneer.gov.it/2021/11/11/nomine-a-tempo-determinato-gps-di-ogni-ordine-e-grado-bollettino-definitivo-dodicesima-fase/",
+          "pdfUrl": "https://re.istruzioneer.gov.it/wp-content/uploads/sites/10/2021/11/BOLLETTINO-fase-12.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "RE-2021-11-08",
+          "turno": null,
+          "data": "2021-11-08",
+          "titolo": "Nomine a tempo determinato GPS di ogni ordine e grado – bollettino definitivo",
+          "nomine": 0,
+          "url": "https://re.istruzioneer.gov.it/2021/11/08/nomine-a-tempo-determinato-gps-di-ogni-ordine-e-grado-bollettino-definitivo-undicesima-fase/",
+          "pdfUrl": "https://re.istruzioneer.gov.it/wp-content/uploads/sites/10/2021/11/bollettino-fase-11.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "RE-2021-11-04",
+          "turno": null,
+          "data": "2021-11-04",
+          "titolo": "Nomine a tempo determinato GPS di ogni ordine e grado – bollettino definitivo",
+          "nomine": 0,
+          "url": "https://re.istruzioneer.gov.it/2021/11/04/nomine-a-tempo-determinato-gps-di-ogni-ordine-e-grado-bollettino-definitivo-decima-fase/",
+          "pdfUrl": "https://re.istruzioneer.gov.it/wp-content/uploads/sites/10/2021/11/bollettino-fase-10.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "RE-2021-10-29",
+          "turno": null,
+          "data": "2021-10-29",
+          "titolo": "Nomine a tempo determinato GPS di ogni ordine e grado – bollettino definitivo",
+          "nomine": 0,
+          "url": "https://re.istruzioneer.gov.it/2021/10/29/nomine-a-tempo-determinato-gps-di-ogni-ordine-e-grado-bollettino-definitivo-nona-fase/",
+          "pdfUrl": "https://re.istruzioneer.gov.it/wp-content/uploads/sites/10/2021/10/Bollettino_Nomine_29.10.2021-signed.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "RE-2021-09-18",
+          "turno": null,
+          "data": "2021-09-18",
+          "titolo": "Nomine a tempo determinato GPS di ogni ordine e grado",
+          "nomine": 0,
+          "url": "https://re.istruzioneer.gov.it/2021/09/18/nomine-a-tempo-determinato-gps-di-ogni-ordine-e-grado-a018-rettifica-bollettino-definitivo/",
+          "pdfUrl": "https://re.istruzioneer.gov.it/wp-content/uploads/sites/10/2021/09/m_pi.AOOCSARE.REGISTRO-UFFICIALEU.0012771.18-09-2021-3.pdf",
+          "dubbio": true
+        },
         {
           "id": "RE-2021-11-15",
           "turno": null,
@@ -1728,6 +1968,106 @@
     },
     "FC": {
       "bollettini": [
+        {
+          "id": "FC-2026-09-22",
+          "turno": null,
+          "data": "2026-09-22",
+          "titolo": "Disponibilità nomine docenti da Gps – turno del 22.09.2026 &#8211; Ufficio VII &#8211; sede di Forlì",
+          "nomine": 0,
+          "url": "https://fc.istruzioneer.gov.it/2026/09/22/disponibilita-nomine-docenti-da-gps-turno-del-22-09-2026/",
+          "pdfUrl": "https://fc.istruzioneer.gov.it/wp-content/uploads/sites/4/2026/09/m_pi.AOOCSAFO.REGISTRO-UFFICIALEU.0005229.22-09-2026.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "FC-2026-09-10",
+          "turno": null,
+          "data": "2026-09-10",
+          "titolo": "Disponibilità nomine docenti da Gps – turno del 10.09.2026 &#8211; Ufficio VII &#8211; sede di Forlì",
+          "nomine": 0,
+          "url": "https://fc.istruzioneer.gov.it/2026/09/10/disponibilita-nomine-docenti-da-gps-turno-del-10-09-2026/",
+          "pdfUrl": "https://fc.istruzioneer.gov.it/wp-content/uploads/sites/4/2026/09/m_pi.AOOCSAFO.REGISTRO-UFFICIALEU.0004836.10-09-2026.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "FC-2026-08-04",
+          "turno": null,
+          "data": "2026-08-04",
+          "titolo": "Esiti delle nomine a t.d. finalizzate al ruolo da 1^ fascia GPS &#8211; Ufficio VII &#8211; sede di Forlì",
+          "nomine": 0,
+          "url": "https://fc.istruzioneer.gov.it/2026/08/04/esiti-delle-nomine-a-t-d-finalizzate-al-ruolo-da-1-fascia-gps-3/",
+          "pdfUrl": "https://fc.istruzioneer.gov.it/wp-content/uploads/sites/4/2026/08/ESITI-NOMINE-SUPPLENZE-FINALIZZATE-AL-RUOLO.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "FC-2026-08-03",
+          "turno": null,
+          "data": "2026-08-03",
+          "titolo": "Disponibilità per nomine a t.d. finalizzate al ruolo 1^ fascia GPS &#8211; Ufficio VII &#8211; sede di Forlì",
+          "nomine": 0,
+          "url": "https://fc.istruzioneer.gov.it/2026/08/03/disponibilita-per-nomine-a-t-d-finalizzate-al-ruolo-1-fascia-gps-3/",
+          "pdfUrl": "https://fc.istruzioneer.gov.it/wp-content/uploads/sites/4/2026/08/m_pi.AOOCSAFO.REGISTRO-UFFICIALEU.0003930.03-08-2026.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "FC-2025-08-11",
+          "turno": null,
+          "data": "2025-08-11",
+          "titolo": "Scorrimento &#8211; Esiti delle nomine a t.d. finalizzate al ruolo da 1^ fascia GPS &#8211; Ufficio VII &#8211; sede di Forlì",
+          "nomine": 0,
+          "url": "https://fc.istruzioneer.gov.it/2025/08/11/scorrimento-esiti-delle-nomine-a-t-d-finalizzate-al-ruolo-da-1-fascia-gps/",
+          "pdfUrl": "https://fc.istruzioneer.gov.it/wp-content/uploads/sites/4/2025/08/esiti-nomine-scorrimento-procedura-D.M.-n.-111-del-2024-a.s.-2025-26.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "FC-2025-08-04",
+          "turno": null,
+          "data": "2025-08-04",
+          "titolo": "Esiti delle nomine a t.d. finalizzate al ruolo da 1^ fascia GPS &#8211; Ufficio VII &#8211; sede di Forlì",
+          "nomine": 0,
+          "url": "https://fc.istruzioneer.gov.it/2025/08/04/esiti-delle-nomine-a-t-d-finalizzate-al-ruolo-da-1-fascia-gps-2/",
+          "pdfUrl": "https://fc.istruzioneer.gov.it/wp-content/uploads/sites/4/2025/08/esiti-nomine-procedura-D.M.-n.-111-del-2024-a.s.-2025-26.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "FC-2025-08-01",
+          "turno": null,
+          "data": "2025-08-01",
+          "titolo": "Disponibilità per nomine a t.d. finalizzate al ruolo 1^ fascia GPS &#8211; Ufficio VII &#8211; sede di Forlì",
+          "nomine": 0,
+          "url": "https://fc.istruzioneer.gov.it/2025/08/01/disponibilita-per-nomine-a-t-d-finalizzate-al-ruolo-1-fascia-gps-2/",
+          "pdfUrl": "https://fc.istruzioneer.gov.it/wp-content/uploads/sites/4/2025/08/Disponibilita-procedura-D.M.-n.-111-del-2024-a.s.-2025-26.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "FC-2024-08-22",
+          "turno": null,
+          "data": "2024-08-22",
+          "titolo": "Esiti delle nomine a t.d. finalizzate al ruolo da 1^ fascia GPS &#8211; Ufficio VII &#8211; sede di Forlì",
+          "nomine": 0,
+          "url": "https://fc.istruzioneer.gov.it/2024/08/22/esiti-delle-nomine-a-t-d-finalizzate-al-ruolo-da-1-fascia-gps/",
+          "pdfUrl": "https://fc.istruzioneer.gov.it/wp-content/uploads/sites/4/2024/08/esiti-nomine-D.M.-n-111-2024.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "FC-2024-08-22",
+          "turno": null,
+          "data": "2024-08-22",
+          "titolo": "Disponibilità per nomine a t.d. finalizzate al ruolo  1^ fascia GPS &#8211; Ufficio VII &#8211; sede di Forlì",
+          "nomine": 0,
+          "url": "https://fc.istruzioneer.gov.it/2024/08/22/disponibilita-per-nomine-a-t-d-finalizzate-al-ruolo-1-fascia-gps/",
+          "pdfUrl": "https://fc.istruzioneer.gov.it/wp-content/uploads/sites/4/2024/08/Disponibilita-procedura-D.M.-n.-111-2024.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "FC-2023-08-04",
+          "turno": null,
+          "data": "2023-08-04",
+          "titolo": "Esiti Gps I fascia sostegno nomine art. 5 d.l. 22.04.2023, n. 44 &#8211; Ufficio VII &#8211; sede di Forlì",
+          "nomine": 0,
+          "url": "https://fc.istruzioneer.gov.it/2023/08/04/esiti-gps-i-fascia-sostegno-nomine-art-5-d-l-22-04-2023-n-44/",
+          "pdfUrl": "https://fc.istruzioneer.gov.it/wp-content/uploads/sites/4/2023/08/Bollettino_TotaleNomine-signed.pdf",
+          "dubbio": true
+        },
         {
           "id": "FC-2026-09-22",
           "turno": null,
@@ -2532,6 +2872,106 @@
           "url": "https://pr.istruzioneer.gov.it/2022/10/17/esito-nomine-posti-comuni-per-nomine-gps-scuola-secondaria-di-1-grado/",
           "pdfUrl": "https://pr.istruzioneer.gov.it/wp-content/uploads/sites/8/2022/10/AVVISO-PUBBLICAZIONE-NOMINE-GPS-14.10.22-signed.pdf",
           "dubbio": true
+        },
+        {
+          "id": "PR-2024-09-16",
+          "turno": null,
+          "data": "2024-09-16",
+          "titolo": "Disponibilità per secondo turno di nomine GPS &#8211; Tutti gli ordini &#8211; Ufficio IX &#8211; Ambito Territoriale di Parma",
+          "nomine": 0,
+          "url": "https://pr.istruzioneer.gov.it/2024/09/16/disponibilita-per-secondo-turno-di-nomine-gps-tutti-gli-ordini/",
+          "pdfUrl": "https://pr.istruzioneer.gov.it/wp-content/uploads/sites/8/2024/09/ReportDettDispScuola-3-turno-nomina.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "PR-2024-09-12",
+          "turno": null,
+          "data": "2024-09-12",
+          "titolo": "Integrazione pubblicazione disponibilità per secondo turno di nomine GPS",
+          "nomine": 0,
+          "url": "https://pr.istruzioneer.gov.it/2024/09/12/integrazione-pubblicazione-disponibilita-per-secondo-turno-di-nomine-gps-tutti-gli-ordini/",
+          "pdfUrl": "https://pr.istruzioneer.gov.it/wp-content/uploads/sites/8/2024/09/Integrazione-disponibilita-totale-2-turno-ogni-ordine-1.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "PR-2024-09-12",
+          "turno": null,
+          "data": "2024-09-12",
+          "titolo": "Pubblicazione disponibilità per secondo turno di nomine GPS &#8211; Tutti gli ordini &#8211; Ufficio IX &#8211; Ambito Territoriale di Parma",
+          "nomine": 0,
+          "url": "https://pr.istruzioneer.gov.it/2024/09/12/pubblicazione-disponibilita-per-secondo-turno-di-nomine-gps-tutti-gli-ordini/",
+          "pdfUrl": "https://pr.istruzioneer.gov.it/wp-content/uploads/sites/8/2024/09/Disponibilita-totale-2-turno-ogni-ordine_Firmato-1.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "PR-2022-12-02",
+          "turno": null,
+          "data": "2022-12-02",
+          "titolo": "Esito nomine GPS scuola secondaria 1 e 2 grado &#8211; Ufficio IX &#8211; Ambito Territoriale di Parma",
+          "nomine": 0,
+          "url": "https://pr.istruzioneer.gov.it/2022/12/02/esito-nomine-gps-scuola-secondaria-1-e-2-grado/",
+          "pdfUrl": "https://pr.istruzioneer.gov.it/wp-content/uploads/sites/8/2022/12/AVVISO-PUBBLICAZIONE-NOMINE-GPS-signed.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "PR-2022-11-21",
+          "turno": null,
+          "data": "2022-11-21",
+          "titolo": "Disponibilità posti comuni per nomine GPS scuola secondaria di 1 grado &#8211; Ufficio IX &#8211; Ambito Territoriale di Parma",
+          "nomine": 0,
+          "url": "https://pr.istruzioneer.gov.it/2022/11/21/disponibilita-posti-comuni-per-nomine-gps-scuola-secondaria-di-1-grado-2/",
+          "pdfUrl": "https://pr.istruzioneer.gov.it/wp-content/uploads/sites/8/2022/11/Disponibilita-al-21.11.2022.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "PR-2022-11-17",
+          "turno": null,
+          "data": "2022-11-17",
+          "titolo": "Esito nomine GPS scuola secondaria di 2 grado &#8211; Ufficio IX &#8211; Ambito Territoriale di Parma",
+          "nomine": 0,
+          "url": "https://pr.istruzioneer.gov.it/2022/11/17/esito-nomine-gps-scuola-secondaria-di-2-grado-2/",
+          "pdfUrl": "https://pr.istruzioneer.gov.it/wp-content/uploads/sites/8/2022/11/Bollettino-Totale-Nomine-del-17-11-2022.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "PR-2022-11-17",
+          "turno": null,
+          "data": "2022-11-17",
+          "titolo": "Disponibilità nomine GPS scuola secondaria di 2 grado &#8211; Ufficio IX &#8211; Ambito Territoriale di Parma",
+          "nomine": 0,
+          "url": "https://pr.istruzioneer.gov.it/2022/11/17/disponibilita-nomine-gps-scuola-secondaria-di-2-grado-2/",
+          "pdfUrl": "https://pr.istruzioneer.gov.it/wp-content/uploads/sites/8/2022/11/Disponibilita-2-grado.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "PR-2022-11-11",
+          "turno": null,
+          "data": "2022-11-11",
+          "titolo": "Esito nomine GPS scuola secondaria di 2 grado &#8211; Ufficio IX &#8211; Ambito Territoriale di Parma",
+          "nomine": 0,
+          "url": "https://pr.istruzioneer.gov.it/2022/11/11/esito-nomine-gps-scuola-secondaria-di-2-grado/",
+          "pdfUrl": "https://pr.istruzioneer.gov.it/wp-content/uploads/sites/8/2022/11/Bollettino-Totale-Nomine-del-11-11-2022.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "PR-2022-11-11",
+          "turno": null,
+          "data": "2022-11-11",
+          "titolo": "Disponibilità nomine GPS scuola secondaria di 2 grado &#8211; Ufficio IX &#8211; Ambito Territoriale di Parma",
+          "nomine": 0,
+          "url": "https://pr.istruzioneer.gov.it/2022/11/11/disponibilita-nomine-gps-scuola-secondaria-di-2-grado/",
+          "pdfUrl": "https://pr.istruzioneer.gov.it/wp-content/uploads/sites/8/2022/11/Disponibilita-posti-2-grado.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "PR-2022-10-17",
+          "turno": null,
+          "data": "2022-10-17",
+          "titolo": "Esito nomine posti comuni per nomine GPS scuola secondaria di 1 grado &#8211; Ufficio IX &#8211; Ambito Territoriale di Parma",
+          "nomine": 0,
+          "url": "https://pr.istruzioneer.gov.it/2022/10/17/esito-nomine-posti-comuni-per-nomine-gps-scuola-secondaria-di-1-grado/",
+          "pdfUrl": "https://pr.istruzioneer.gov.it/wp-content/uploads/sites/8/2022/10/AVVISO-PUBBLICAZIONE-NOMINE-GPS-14.10.22-signed.pdf",
+          "dubbio": true
         }
       ],
       "soglie": {}
@@ -2937,12 +3377,262 @@
           "url": "https://pc.istruzioneer.gov.it/2024/12/18/disponibilita-per-27-turno-di-nomine-gps/",
           "pdfUrl": "https://pc.istruzioneer.gov.it/wp-content/uploads/sites/9/2024/12/DISPONIBILITA-SECONDARIA-DI-I-GRADO-2.pdf",
           "dubbio": true
+        },
+        {
+          "id": "PC-8",
+          "turno": 8,
+          "data": "2025-10-01",
+          "titolo": "Disponibilità per 8° turno di nomine GPS &#8211; Ufficio IX &#8211; sede di Piacenza",
+          "nomine": 0,
+          "url": "https://pc.istruzioneer.gov.it/2025/10/01/disponibilita-per-8-turno-di-nomine-gps/",
+          "pdfUrl": "https://pc.istruzioneer.gov.it/wp-content/uploads/sites/9/2025/10/m_pi.AOOUSPPC.REGISTRO-UFFICIALEI.0006404.01-10-2025.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "PC-7",
+          "turno": 7,
+          "data": "2025-09-23",
+          "titolo": "Disponibilità per 7° turno di nomine GPS &#8211; Ufficio IX &#8211; sede di Piacenza",
+          "nomine": 0,
+          "url": "https://pc.istruzioneer.gov.it/2025/09/23/disponibilita-per-7-turno-di-nomine-gps/",
+          "pdfUrl": "https://pc.istruzioneer.gov.it/wp-content/uploads/sites/9/2025/09/m_pi.AOOUSPPC.REGISTRO-UFFICIALEI.0006212.23-09-2025.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "PC-6",
+          "turno": 6,
+          "data": "2025-09-22",
+          "titolo": "Disponibilità per 6° turno di nomine GPS &#8211; Ufficio IX &#8211; sede di Piacenza",
+          "nomine": 0,
+          "url": "https://pc.istruzioneer.gov.it/2025/09/22/disponibilita-per-6-turno-di-nomine-gps/",
+          "pdfUrl": "https://pc.istruzioneer.gov.it/wp-content/uploads/sites/9/2025/09/m_pi.AOOUSPPC.REGISTRO-UFFICIALEI.0006149.22-09-2025.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "PC-5",
+          "turno": 5,
+          "data": "2025-09-19",
+          "titolo": "Disponibilità per 5° turno di nomine GPS &#8211; Ufficio IX &#8211; sede di Piacenza",
+          "nomine": 0,
+          "url": "https://pc.istruzioneer.gov.it/2025/09/19/disponibilita-per-5-turno-di-nomine-gps/",
+          "pdfUrl": "https://pc.istruzioneer.gov.it/wp-content/uploads/sites/9/2025/09/m_pi.AOOUSPPC.REGISTRO-UFFICIALEI.0006126.19-09-2025.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "PC-4",
+          "turno": 4,
+          "data": "2025-09-16",
+          "titolo": "Disponibilità per 4° turno di nomine GPS &#8211; Ufficio IX &#8211; sede di Piacenza",
+          "nomine": 0,
+          "url": "https://pc.istruzioneer.gov.it/2025/09/16/disponibilita-per-4-turno-di-nomine-gps/",
+          "pdfUrl": "https://pc.istruzioneer.gov.it/wp-content/uploads/sites/9/2025/09/m_pi.AOOUSPPC.REGISTRO-UFFICIALEI.0006049.16-09-2025.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "PC-3",
+          "turno": 3,
+          "data": "2025-09-12",
+          "titolo": "Disponibilità per 3° turno di nomine GPS &#8211; Ufficio IX &#8211; sede di Piacenza",
+          "nomine": 0,
+          "url": "https://pc.istruzioneer.gov.it/2025/09/12/disponibilita-per-3-turno-di-nomine-gps/",
+          "pdfUrl": "https://pc.istruzioneer.gov.it/wp-content/uploads/sites/9/2025/09/m_pi.AOOUSPPC.REGISTRO-UFFICIALEU.0005975.12-09-2025.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "PC-2",
+          "turno": 2,
+          "data": "2025-09-09",
+          "titolo": "Disponibilità per 2° turno di nomine GPS &#8211; Ufficio IX &#8211; sede di Piacenza",
+          "nomine": 0,
+          "url": "https://pc.istruzioneer.gov.it/2025/09/09/disponibilita-per-2-turno-di-nomine-gps/",
+          "pdfUrl": "https://pc.istruzioneer.gov.it/wp-content/uploads/sites/9/2025/09/m_pi.AOOUSPPC.REGISTRO-UFFICIALEI.0005882.09-09-2025.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "PC-2025-09-09",
+          "turno": null,
+          "data": "2025-09-09",
+          "titolo": "ANNULLAMENTO NOMINA ADMM I TURNO NOMINE GPS &#8211; Ufficio IX &#8211; sede di Piacenza",
+          "nomine": 0,
+          "url": "https://pc.istruzioneer.gov.it/2025/09/09/annullamento-nomina-admm-i-turno-nomine-gps/",
+          "pdfUrl": "https://pc.istruzioneer.gov.it/wp-content/uploads/sites/9/2025/09/m_pi.AOOUSPPC.REGISTRO-UFFICIALEI.0005881.09-09-2025.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "PC-28",
+          "turno": 28,
+          "data": "2024-12-20",
+          "titolo": "Disponibilità per 28° turno di nomine GPS &#8211; Ufficio IX &#8211; sede di Piacenza",
+          "nomine": 0,
+          "url": "https://pc.istruzioneer.gov.it/2024/12/20/disponibilita-per-28-turno-di-nomine-gps/",
+          "pdfUrl": "https://pc.istruzioneer.gov.it/wp-content/uploads/sites/9/2024/12/DISPONIBILITA-SCUOLA-SECONDARIA-DI-I-GRADO-1.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "PC-27",
+          "turno": 27,
+          "data": "2024-12-18",
+          "titolo": "Disponibilità per 27° turno di nomine GPS &#8211; Ufficio IX &#8211; sede di Piacenza",
+          "nomine": 0,
+          "url": "https://pc.istruzioneer.gov.it/2024/12/18/disponibilita-per-27-turno-di-nomine-gps/",
+          "pdfUrl": "https://pc.istruzioneer.gov.it/wp-content/uploads/sites/9/2024/12/DISPONIBILITA-SECONDARIA-DI-I-GRADO-2.pdf",
+          "dubbio": true
         }
       ],
       "soglie": {}
     },
     "RA": {
       "bollettini": [
+        {
+          "id": "RA-2025-01-02",
+          "turno": null,
+          "data": "2025-01-02",
+          "titolo": "Nomine a tempo determinato da GPS personale docente 2024/25",
+          "nomine": 0,
+          "url": "https://ra.istruzioneer.gov.it/2025/01/02/nomine-a-tempo-determinato-da-gps-personale-docente-2024-25-xxviii-turno/",
+          "pdfUrl": "https://ra.istruzioneer.gov.it/wp-content/uploads/sites/7/2025/01/m_pi.AOOCSARA.REGISTRO-UFFICIALEU.0000017.02-01-2025-1.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "RA-2024-12-20",
+          "turno": null,
+          "data": "2024-12-20",
+          "titolo": "Nomine a tempo determinato da GPS personale docente 2024/25",
+          "nomine": 0,
+          "url": "https://ra.istruzioneer.gov.it/2024/12/20/nomine-a-tempo-determinato-da-gps-personale-docente-2024-25-xxvii-turno/",
+          "pdfUrl": "https://ra.istruzioneer.gov.it/wp-content/uploads/sites/7/2024/12/m_pi.AOOCSARA.REGISTRO-UFFICIALEU.0007839.20-12-2024.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "RA-2024-12-17",
+          "turno": null,
+          "data": "2024-12-17",
+          "titolo": "Nomine a tempo determinato da GPS personale docente 2024/25",
+          "nomine": 0,
+          "url": "https://ra.istruzioneer.gov.it/2024/12/17/nomine-a-tempo-determinato-da-gps-personale-docente-2024-25-xxvi-turno/",
+          "pdfUrl": "https://ra.istruzioneer.gov.it/wp-content/uploads/sites/7/2024/12/m_pi.AOOCSARA.REGISTRO-UFFICIALEU.0007697.17-12-2024.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "RA-2024-12-10",
+          "turno": null,
+          "data": "2024-12-10",
+          "titolo": "Nomine a tempo determinato da GPS personale docente 2024/25",
+          "nomine": 0,
+          "url": "https://ra.istruzioneer.gov.it/2024/12/10/nomine-a-tempo-determinato-da-gps-personale-docente-2024-25-xxv-turno/",
+          "pdfUrl": "https://ra.istruzioneer.gov.it/wp-content/uploads/sites/7/2024/12/disp_7535-24_25t.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "RA-2024-12-05",
+          "turno": null,
+          "data": "2024-12-05",
+          "titolo": "Nomine a tempo determinato da GPS personale docente 2024/25",
+          "nomine": 0,
+          "url": "https://ra.istruzioneer.gov.it/2024/12/05/nomine-a-tempo-determinato-da-gps-personale-docente-2024-25-xxiii-turno-2/",
+          "pdfUrl": "https://ra.istruzioneer.gov.it/wp-content/uploads/sites/7/2024/12/disp_7460-24_23t.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "RA-2024-12-02",
+          "turno": null,
+          "data": "2024-12-02",
+          "titolo": "Nomine a tempo determinato da GPS personale docente 2024/25",
+          "nomine": 0,
+          "url": "https://ra.istruzioneer.gov.it/2024/12/02/nomine-a-tempo-determinato-da-gps-personale-docente-2024-25-xxiii-turno/",
+          "pdfUrl": "https://ra.istruzioneer.gov.it/wp-content/uploads/sites/7/2024/12/disp_7315-24_23t.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "RA-2024-11-27",
+          "turno": null,
+          "data": "2024-11-27",
+          "titolo": "Nomine a tempo determinato da GPS personale docente 2024/25",
+          "nomine": 0,
+          "url": "https://ra.istruzioneer.gov.it/2024/11/27/nomine-a-tempo-determinato-da-gps-personale-docente-2024-25-xxii-turno/",
+          "pdfUrl": "https://ra.istruzioneer.gov.it/wp-content/uploads/sites/7/2024/11/disp_7167-24_22t.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "RA-2024-11-21",
+          "turno": null,
+          "data": "2024-11-21",
+          "titolo": "Nomine a tempo determinato da GPS personale docente 2024/25",
+          "nomine": 0,
+          "url": "https://ra.istruzioneer.gov.it/2024/11/21/nomine-a-tempo-determinato-da-gps-personale-docente-2024-25-xxi-turno/",
+          "pdfUrl": "https://ra.istruzioneer.gov.it/wp-content/uploads/sites/7/2024/11/disp_7038-24_21t.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "RA-2024-11-20",
+          "turno": null,
+          "data": "2024-11-20",
+          "titolo": "Nomine a tempo determinato da GPS personale docente 2024/25",
+          "nomine": 0,
+          "url": "https://ra.istruzioneer.gov.it/2024/11/20/nomine-a-tempo-determinato-da-gps-personale-docente-2024-25-xx-turno/",
+          "pdfUrl": "https://ra.istruzioneer.gov.it/wp-content/uploads/sites/7/2024/11/m_pi.AOOCSARA.REGISTRO-UFFICIALEU.0007003.20-11-2024.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "RA-2024-11-19",
+          "turno": null,
+          "data": "2024-11-19",
+          "titolo": "Nomine a tempo determinato da GPS personale docente 2024/25",
+          "nomine": 0,
+          "url": "https://ra.istruzioneer.gov.it/2024/11/19/nomine-a-tempo-determinato-da-gps-personale-docente-2024-25-xix-turno/",
+          "pdfUrl": "https://ra.istruzioneer.gov.it/wp-content/uploads/sites/7/2024/11/disp_6957-24_19t.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "RA-2024-11-06",
+          "turno": null,
+          "data": "2024-11-06",
+          "titolo": "Nomine a tempo determinato da GPS personale docente 2024/25",
+          "nomine": 0,
+          "url": "https://ra.istruzioneer.gov.it/2024/11/06/nomine-a-tempo-determinato-da-gps-personale-docente-2024-25-xviii-turno/",
+          "pdfUrl": "https://ra.istruzioneer.gov.it/wp-content/uploads/sites/7/2024/11/disp_6709-24_18t.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "RA-2024-11-05",
+          "turno": null,
+          "data": "2024-11-05",
+          "titolo": "Nomine a tempo determinato da GPS personale docente 2024/25",
+          "nomine": 0,
+          "url": "https://ra.istruzioneer.gov.it/2024/11/05/nomine-a-tempo-determinato-da-gps-personale-docente-2024-25-xvi-turno-2/",
+          "pdfUrl": "https://ra.istruzioneer.gov.it/wp-content/uploads/sites/7/2024/11/m_pi.AOOCSARA.REGISTRO-UFFICIALEU.0006668.05-11-2024.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "RA-2024-11-04",
+          "turno": null,
+          "data": "2024-11-04",
+          "titolo": "Nomine a tempo determinato da GPS personale docente 2024/25",
+          "nomine": 0,
+          "url": "https://ra.istruzioneer.gov.it/2024/11/04/nomine-a-tempo-determinato-da-gps-personale-docente-2024-25-xvi-turno/",
+          "pdfUrl": "https://ra.istruzioneer.gov.it/wp-content/uploads/sites/7/2024/11/m_pi.AOOCSARA.REGISTRO-UFFICIALEU.0006651.04-11-2024.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "RA-2024-10-31",
+          "turno": null,
+          "data": "2024-10-31",
+          "titolo": "Nomine a tempo determinato da GPS personale docente 2024/25",
+          "nomine": 0,
+          "url": "https://ra.istruzioneer.gov.it/2024/10/31/nomine-a-tempo-determinato-da-gps-personale-docente-2024-25-xv-turno/",
+          "pdfUrl": "https://ra.istruzioneer.gov.it/wp-content/uploads/sites/7/2024/10/disp_6598-24_15t.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "RA-2024-10-25",
+          "turno": null,
+          "data": "2024-10-25",
+          "titolo": "Nomine a tempo determinato da GPS personale docente 2024/25",
+          "nomine": 0,
+          "url": "https://ra.istruzioneer.gov.it/2024/10/25/nomine-a-tempo-determinato-da-gps-personale-docente-2024-25-xiv-turno/",
+          "pdfUrl": "https://ra.istruzioneer.gov.it/wp-content/uploads/sites/7/2024/10/m_pi.AOOCSARA.REGISTRO-UFFICIALEU.0006507.25-10-2024.pdf",
+          "dubbio": true
+        },
         {
           "id": "RA-2025-01-02",
           "turno": null,
