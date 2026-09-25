@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-09-25T11:11:45.948Z",
+  "aggiornato": "2026-09-25T17:11:10.158Z",
   "province": {
     "MO": {
       "bollettini": [
@@ -886,6 +886,16 @@
           "dubbio": true
         },
         {
+          "id": "FE-2025-12-22",
+          "turno": null,
+          "data": "2025-12-22",
+          "titolo": "Nomine a TD da GPS – docenti di ogni ordine e grado a.s. 2025/26 – XXI TURNO – Ufficio VI",
+          "nomine": 0,
+          "url": "https://fe.istruzioneer.gov.it/2025/12/22/nomine-a-td-da-gps-docenti-di-ogni-ordine-e-grado-a-s-2025-26-xxi-turno/",
+          "pdfUrl": "https://fe.istruzioneer.gov.it/wp-content/uploads/sites/11/2025/12/Avviso-nomine-21-TURNO-GPS_m_pi.AOOUSPFE.REGISTRO-UFFICIALEU.0011612.22-12-2025.pdf",
+          "dubbio": true
+        },
+        {
           "id": "FE-1",
           "turno": 1,
           "data": "2026-08-31",
@@ -916,13 +926,23 @@
           "dubbio": true
         },
         {
-          "id": "FE-2025-12-22",
-          "turno": null,
-          "data": "2025-12-22",
-          "titolo": "Nomine a TD da GPS – docenti di ogni ordine e grado a.s. 2025/26 – XXI TURNO – Ufficio VI",
+          "id": "FE-4",
+          "turno": 4,
+          "data": "2026-09-25",
+          "titolo": "NOMINE A T.D. DA GPS – PERSONALE DOCENTE DI OGNI ORDINE E GRADO – TURNO 4 – RETTIFICA – Ufficio VI",
           "nomine": 0,
-          "url": "https://fe.istruzioneer.gov.it/2025/12/22/nomine-a-td-da-gps-docenti-di-ogni-ordine-e-grado-a-s-2025-26-xxi-turno/",
-          "pdfUrl": "https://fe.istruzioneer.gov.it/wp-content/uploads/sites/11/2025/12/Avviso-nomine-21-TURNO-GPS_m_pi.AOOUSPFE.REGISTRO-UFFICIALEU.0011612.22-12-2025.pdf",
+          "url": "https://fe.istruzioneer.gov.it/2026/09/25/nomine-a-t-d-da-gps-personale-docente-di-ogni-ordine-e-grado-turno-4-rettifica/",
+          "pdfUrl": "https://fe.istruzioneer.gov.it/wp-content/uploads/sites/11/2026/09/Bollettino-4-TURNO-GPS-RETTIFICA.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "FE-4",
+          "turno": 4,
+          "data": "2026-09-25",
+          "titolo": "NOMINE A T.D. DA GPS – PERSONALE DOCENTE DI OGNI ORDINE E GRADO – TURNO 4 – Ufficio VI",
+          "nomine": 0,
+          "url": "https://fe.istruzioneer.gov.it/2026/09/25/nomine-a-t-d-da-gps-personale-docente-di-ogni-ordine-e-grado-turno-4/",
+          "pdfUrl": "https://fe.istruzioneer.gov.it/wp-content/uploads/sites/11/2026/09/Bollettino-nomine-4-TURNO.pdf",
           "dubbio": true
         }
       ],
