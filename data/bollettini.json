@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-09-25T17:11:10.158Z",
+  "aggiornato": "2026-09-25T23:10:42.863Z",
   "province": {
     "MO": {
       "bollettini": [
@@ -1325,6 +1325,16 @@
           "dubbio": true
         },
         {
+          "id": "PR-25",
+          "turno": 25,
+          "data": "2026-09-25",
+          "titolo": "Disponibilità ed esiti per le nomine docenti a T.D. da GPS – 7° turno a.s. 2026/27 – Ufficio IX",
+          "nomine": 0,
+          "url": "https://pr.istruzioneer.gov.it/2026/09/25/disponibilita-ed-esiti-per-le-nomine-docenti-a-t-d-da-gps-7-turno-a-s-2026-27/",
+          "pdfUrl": "https://pr.istruzioneer.gov.it/wp-content/uploads/sites/8/2026/09/Bollettino_TotaleNomine-2.pdf",
+          "dubbio": true
+        },
+        {
           "id": "PR-2",
           "turno": 2,
           "data": "2024-09-16",
@@ -1397,6 +1407,16 @@
           "nomine": 0,
           "url": "https://pc.istruzioneer.gov.it/2026/09/22/nomine-a-tempo-determinato-a-s-2026-2027-esito-quarto-turno/",
           "pdfUrl": "https://pc.istruzioneer.gov.it/wp-content/uploads/sites/9/2026/09/BOLLETTINO-DEFINITIVO-TURNO-IV.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "PC-25",
+          "turno": 25,
+          "data": "2026-09-25",
+          "titolo": "Nomine a tempo determinato A.S. 2026/2027 – Esito turno 5 – Ufficio IX",
+          "nomine": 0,
+          "url": "https://pc.istruzioneer.gov.it/2026/09/25/nomine-a-tempo-determinato-a-s-2026-2027-esito-turno-5/",
+          "pdfUrl": "https://pc.istruzioneer.gov.it/wp-content/uploads/sites/9/2026/09/NOMINE-GPS-TURNO-5.pdf",
           "dubbio": true
         },
         {
