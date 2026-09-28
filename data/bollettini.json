@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-09-28T11:13:09.612Z",
+  "aggiornato": "2026-09-28T17:12:42.166Z",
   "province": {
     "MO": {
       "bollettini": [
@@ -1167,6 +1167,16 @@
           "nomine": 0,
           "url": "https://fc.istruzioneer.gov.it/2026/09/22/supplenze-personale-docente-ed-educativo-a-s-2026-2027-turno-22-09-2026/",
           "pdfUrl": "https://fc.istruzioneer.gov.it/wp-content/uploads/sites/4/2026/09/Bollettino_3_turno-signed.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "FC-28",
+          "turno": 28,
+          "data": "2026-09-28",
+          "titolo": "Supplenze personale docente ed educativo a.s. 2026/2027 – turno 28/09/2026 – Ufficio VII – sede di Forlì",
+          "nomine": 0,
+          "url": "https://fc.istruzioneer.gov.it/2026/09/28/supplenze-personale-docente-ed-educativo-a-s-2026-2027-turno-28-09-2026/",
+          "pdfUrl": "https://fc.istruzioneer.gov.it/wp-content/uploads/sites/4/2026/09/Bollettino_nomine_turno_4-signed.pdf",
           "dubbio": true
         },
         {
