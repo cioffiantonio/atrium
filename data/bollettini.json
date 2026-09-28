@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-09-28T05:12:50.824Z",
+  "aggiornato": "2026-09-28T11:13:09.612Z",
   "province": {
     "MO": {
       "bollettini": [
@@ -1167,6 +1167,16 @@
           "nomine": 0,
           "url": "https://fc.istruzioneer.gov.it/2026/09/22/supplenze-personale-docente-ed-educativo-a-s-2026-2027-turno-22-09-2026/",
           "pdfUrl": "https://fc.istruzioneer.gov.it/wp-content/uploads/sites/4/2026/09/Bollettino_3_turno-signed.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "FC-2026-09-28",
+          "turno": null,
+          "data": "2026-09-28",
+          "titolo": "Disponibilità nomine docenti da Gps – turno del 28.09.2026 – Ufficio VII – sede di Forlì",
+          "nomine": 0,
+          "url": "https://fc.istruzioneer.gov.it/2026/09/28/disponibilita-nomine-docenti-da-gps-turno-del-28-09-2026/",
+          "pdfUrl": "https://fc.istruzioneer.gov.it/wp-content/uploads/sites/4/2026/09/m_pi.AOOCSAFO.REGISTRO-UFFICIALEU.0005357.28-09-2026-1.pdf",
           "dubbio": true
         },
         {
