@@ -1,16 +1,28 @@
-name: Aggiorna bollettini GPS
+name: Aggiorna bollettini e pubblica il sito
 
 on:
   schedule:
     # Ogni 6 ore. Gli orari sono in UTC (le 5:00 UTC sono le 7:00 in Italia).
     - cron: '0 5,11,17,23 * * *'
   workflow_dispatch: {}   # per lanciarlo anche a mano dalla scheda "Actions" di GitHub
+  push:
+    branches: [main]      # ogni volta che carichi una modifica, il sito si ripubblica
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
+
+# un solo giro alla volta: se ne parte un altro nel frattempo, aspetta il suo turno
+concurrency:
+  group: pubblicazione
+  cancel-in-progress: false
 
 jobs:
   aggiorna:
+    # la lettura dei bollettini serve solo nei giri programmati o lanciati a mano,
+    # non quando carichi tu una modifica al sito
+    if: github.event_name != 'push'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -26,3 +38,28 @@ jobs:
           git add data/bollettini.json
           git diff --cached --quiet || git commit -m "Aggiorna bollettini GPS"
           git push
+
+  pubblica:
+    needs: aggiorna
+    # parte sia dopo un aggiornamento riuscito sia quando l'aggiornamento è stato
+    # saltato (modifica caricata a mano); non parte se l'aggiornamento è fallito
+    if: ${{ always() && (needs.aggiorna.result == 'success' || needs.aggiorna.result == 'skipped') }}
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main   # prende anche l'eventuale salvataggio appena fatto dal robot
+      - name: Prepara solo i file del sito
+        run: |
+          mkdir _site
+          cp index.html apple-touch-icon.png _site/
+          cp -r data _site/
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: deployment
+        uses: actions/deploy-pages@v4
