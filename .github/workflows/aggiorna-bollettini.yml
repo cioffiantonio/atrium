@@ -1,1 +1,82 @@
 
+name: Aggiorna bollettini e pubblica il sito
+
+on:
+  schedule:
+    # Ogni 6 ore. Gli orari sono in UTC (le 5:00 UTC sono le 7:00 in Italia).
+    - cron: '0 5,11,17,23 * * *'
+  workflow_dispatch: {}   # per lanciarlo anche a mano dalla scheda "Actions" di GitHub
+  push:
+    branches: [main]      # ogni volta che carichi una modifica, il sito si ripubblica
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+# un solo giro alla volta: se ne parte un altro nel frattempo, aspetta il suo turno
+concurrency:
+  group: pubblicazione
+  cancel-in-progress: false
+
+jobs:
+  aggiorna:
+    # la lettura dei bollettini serve solo nei giri programmati o lanciati a mano,
+    # non quando carichi tu una modifica al sito
+    if: github.event_name != 'push'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm install
+      - run: node scripts/fetch-province.mjs
+      - name: Salva data/bollettini.json se è cambiato
+        run: |
+          git config user.name "Atrium bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/bollettini.json
+          if git diff --cached --quiet; then
+            echo "Nessun cambiamento nei bollettini, non salvo nulla."
+            exit 0
+          fi
+          git commit -m "Aggiorna bollettini GPS"
+          # Il giro dura qualche minuto e nel frattempo il repository può essere
+          # cambiato (per esempio se hai caricato un file). Prima di salvare
+          # recupero le novità e ci rimetto sopra il mio salvataggio; se non
+          # riesce, riprovo qualche volta.
+          for i in 1 2 3; do
+            if git pull --rebase --autostash origin main && git push origin HEAD:main; then
+              exit 0
+            fi
+            echo "Tentativo $i non riuscito, riprovo tra qualche secondo..."
+            sleep 5
+          done
+          echo "Non sono riuscito a salvare i bollettini dopo 3 tentativi."
+          exit 1
+
+  pubblica:
+    needs: aggiorna
+    # il sito si pubblica sempre, anche se la lettura dei bollettini è andata
+    # male: in quel caso resta online l'ultima versione dei dati
+    if: ${{ !cancelled() }}
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main   # prende anche l'eventuale salvataggio appena fatto dal robot
+      - name: Prepara solo i file del sito
+        run: |
+          mkdir _site
+          cp index.html apple-touch-icon.png _site/
+          cp -r data _site/
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: deployment
+        uses: actions/deploy-pages@v4
