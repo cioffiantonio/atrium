@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-09-29T11:14:27.847Z",
+  "aggiornato": "2026-09-29T17:13:14.173Z",
   "province": {
     "MO": {
       "bollettini": [
@@ -1440,6 +1440,16 @@
           "dubbio": true
         },
         {
+          "id": "PC-6",
+          "turno": 6,
+          "data": "2026-09-29",
+          "titolo": "Nomine a tempo determinato A.S. 2026/2027 – Esito sesto turno – Ufficio IX",
+          "nomine": 0,
+          "url": "https://pc.istruzioneer.gov.it/2026/09/29/nomine-a-tempo-determinato-a-s-2026-2027-esito-sesto-turno/",
+          "pdfUrl": "https://pc.istruzioneer.gov.it/wp-content/uploads/sites/9/2026/09/BOLLETTINO-DEFINITIVO-TURNO-6.pdf",
+          "dubbio": true
+        },
+        {
           "id": "PC-8",
           "turno": 8,
           "data": "2025-10-01",
@@ -1841,6 +1851,16 @@
           "nomine": 0,
           "url": "https://www.uat-caserta.it/2026/09/21/secondo-bollettino-totale-delle-nomine-contenente-i-nominativi-dei-destinatari-di-una-proposta-di-contratto-a-tempo-determinato-per-la-s-2026-2027/",
           "pdfUrl": "https://www.uat-caserta.it/wp-content/uploads/2026/09/Bollettino_TotaleNomine-20260921.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "CE-2026-09-29",
+          "turno": null,
+          "data": "2026-09-29",
+          "titolo": "Rettifiche alle operazioni di conferimento delle supplenze disposte con i provvedimenti prot. n. 23090 del 31/08/2026 e n. 25393 del 21/09/2026.",
+          "nomine": 0,
+          "url": "https://www.uat-caserta.it/2026/09/29/rettifiche-alle-operazioni-di-conferimento-delle-supplenze-disposte-con-i-provvedimenti-prot-n-23090-del-31-08-2026-e-n-25393-del-21-09-2026/",
+          "pdfUrl": "https://www.uat-caserta.it/wp-content/uploads/2026/09/decreto-rettifiche-bollettino-1-e-2_signed-PROTOCOLLATO.pdf",
           "dubbio": true
         }
       ],
