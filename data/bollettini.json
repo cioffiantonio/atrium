@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-09-30T05:14:58.156Z",
+  "aggiornato": "2026-09-30T11:14:56.443Z",
   "province": {
     "MO": {
       "bollettini": [
@@ -1049,6 +1049,16 @@
           "url": "https://re.istruzioneer.gov.it/2026/09/24/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-quarta-fase/",
           "pdfUrl": "https://re.istruzioneer.gov.it/wp-content/uploads/sites/10/2026/09/Bollettino_TotaleNomine-2.pdf",
           "dubbio": true
+        },
+        {
+          "id": "RE-5",
+          "turno": 5,
+          "data": "2026-09-29",
+          "titolo": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – QUINTA FASE – Ufficio XI",
+          "nomine": 0,
+          "url": "https://re.istruzioneer.gov.it/2026/09/29/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-quinta-fase/",
+          "pdfUrl": "https://re.istruzioneer.gov.it/wp-content/uploads/sites/10/2026/09/Bollettino_TotaleNomine-3.pdf",
+          "dubbio": true
         }
       ],
       "soglie": {}
@@ -1602,6 +1612,16 @@
           "nomine": 0,
           "url": "https://ra.istruzioneer.gov.it/2026/09/24/gps-a-s-2026-27-esiti-del-quinto-turno-di-nomina/",
           "pdfUrl": "https://ra.istruzioneer.gov.it/wp-content/uploads/sites/7/2026/09/disp_6927-26.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "RA-6",
+          "turno": 6,
+          "data": "2026-09-29",
+          "titolo": "GPS a.s. 2026/27: Esiti del sesto turno di nomina – Ufficio X",
+          "nomine": 0,
+          "url": "https://ra.istruzioneer.gov.it/2026/09/29/gps-a-s-2026-27-esiti-del-sesto-turno-di-nomina/",
+          "pdfUrl": "https://ra.istruzioneer.gov.it/wp-content/uploads/sites/7/2026/09/m_pi.AOOCSARA.REGISTRO-UFFICIALEU.0007012.29-09-2026.pdf",
           "dubbio": true
         },
         {
