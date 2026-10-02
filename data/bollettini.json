@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-10-02T11:14:46.218Z",
+  "aggiornato": "2026-10-02T17:14:43.410Z",
   "province": {
     "MO": {
       "bollettini": [
@@ -71,6 +71,16 @@
           "nomine": 0,
           "url": "https://mo.istruzioneer.gov.it/2026/09/11/nomine-a-t-d-docenti-ogni-ordine-e-grado-da-gps-a-s-2026-27-2-turno/",
           "pdfUrl": "https://mo.istruzioneer.gov.it/wp-content/uploads/sites/6/2026/09/Bollettino_TotaleNomine.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "MO-4",
+          "turno": 4,
+          "data": "2026-10-02",
+          "titolo": "Nomine a t.d. docenti ogni ordine e grado da GPS a.s. 2026/27 – 4° TURNO – Ufficio VIII",
+          "nomine": 0,
+          "url": "https://mo.istruzioneer.gov.it/2026/10/02/nomine-a-t-d-docenti-ogni-ordine-e-grado-da-gps-a-s-2026-27-4-turno/",
+          "pdfUrl": "https://mo.istruzioneer.gov.it/wp-content/uploads/sites/6/2026/10/Bollettino_TotaleNomine.pdf",
           "dubbio": true
         },
         {
@@ -1377,6 +1387,16 @@
         {
           "id": "PR-2",
           "turno": 2,
+          "data": "2026-10-02",
+          "titolo": "Disponibilità ed esiti per le nomine docenti a T.D. da GPS – 8° turno a.s. 2026/27 – Ufficio IX",
+          "nomine": 0,
+          "url": "https://pr.istruzioneer.gov.it/2026/10/02/disponibilita-ed-esiti-per-le-nomine-docenti-a-t-d-da-gps-8-turno-a-s-2026-27/",
+          "pdfUrl": "https://pr.istruzioneer.gov.it/wp-content/uploads/sites/8/2026/10/Bollettino-Totale-Nomine.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "PR-2",
+          "turno": 2,
           "data": "2024-09-16",
           "titolo": "Disponibilità per secondo turno di nomine GPS – Tutti gli ordini – Ufficio IX",
           "nomine": 0,
@@ -1467,6 +1487,16 @@
           "nomine": 0,
           "url": "https://pc.istruzioneer.gov.it/2026/09/29/nomine-a-tempo-determinato-a-s-2026-2027-esito-sesto-turno/",
           "pdfUrl": "https://pc.istruzioneer.gov.it/wp-content/uploads/sites/9/2026/09/BOLLETTINO-DEFINITIVO-TURNO-6.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "PC-7",
+          "turno": 7,
+          "data": "2026-10-02",
+          "titolo": "Nomine a tempo determinato A.S. 2026/2027 – Esito settimo turno – Ufficio IX",
+          "nomine": 0,
+          "url": "https://pc.istruzioneer.gov.it/2026/10/02/nomine-a-tempo-determinato-a-s-2026-2027-esito-settimo-turno/",
+          "pdfUrl": "https://pc.istruzioneer.gov.it/wp-content/uploads/sites/9/2026/10/Bollettino_TotaleNomine.pdf",
           "dubbio": true
         },
         {
