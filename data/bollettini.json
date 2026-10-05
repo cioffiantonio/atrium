@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-10-05T17:14:19.086Z",
+  "aggiornato": "2026-10-05T23:13:23.130Z",
   "province": {
     "MO": {
       "bollettini": [
@@ -1140,6 +1140,16 @@
           "nomine": 0,
           "url": "https://re.istruzioneer.gov.it/2026/09/29/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-quinta-fase/",
           "pdfUrl": "https://re.istruzioneer.gov.it/wp-content/uploads/sites/10/2026/09/Bollettino_TotaleNomine-3.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "RE-6",
+          "turno": 6,
+          "data": "2026-10-02",
+          "titolo": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – SESTA FASE – Ufficio XI",
+          "nomine": 0,
+          "url": "https://re.istruzioneer.gov.it/2026/10/02/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-sesta-fase/",
+          "pdfUrl": "https://re.istruzioneer.gov.it/wp-content/uploads/sites/10/2026/10/Bollettino_TotaleNomine.pdf",
           "dubbio": true
         }
       ],
