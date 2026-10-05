@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-10-04T23:12:12.446Z",
+  "aggiornato": "2026-10-05T05:24:10.641Z",
   "province": {
     "MO": {
       "bollettini": [
@@ -1826,7 +1826,7 @@
         {
           "id": "AV-1",
           "turno": 1,
-          "data": "2026-10-04",
+          "data": "2026-10-05",
           "titolo": "GRADUATORIE PROVINCIALI DI SUPPLENZA – PRIMO BOLLETTINO NOMINE A TEMPO DETERMINATO – 2026/2027 – OGNI ORDINE E GRADO – AVELLINO E PROVINCIA",
           "nomine": 0,
           "url": "https://atavellino.it/graduatorie-provinciali-di-supplenza-primo-bollettino-nomine-a-tempo-determinato-2026-2027-ogni-ordine-e-grado-avellino-e-provincia/",
@@ -1834,9 +1834,9 @@
           "dubbio": true
         },
         {
-          "id": "AV-2026-10-04",
+          "id": "AV-2026-10-05",
           "turno": null,
-          "data": "2026-10-04",
+          "data": "2026-10-05",
           "titolo": "Rettifica primo bollettino - Ambito territoriale di Avellino - Procedure di nomina del personale docente a tempo determinato da GAE e GPS a.s. 2026/27",
           "nomine": 0,
           "url": "https://atavellino.it/rettifica-primo-bollettino-ambito-territoriale-di-avellino-procedure-di-nomina-del-personale-docente-a-tempo-determinato-da-gae-e-gps-a-s-2026-27/",
@@ -1846,7 +1846,7 @@
         {
           "id": "AV-2",
           "turno": 2,
-          "data": "2026-10-04",
+          "data": "2026-10-05",
           "titolo": "GRADUATORIE PROVINCIALI DI SUPPLENZA – SECONDO BOLLETTINO NOMINE A TEMPO DETERMINATO – 2026/2027 – OGNI ORDINE E GRADO – AVELLINO E PROVINCIA",
           "nomine": 0,
           "url": "https://atavellino.it/graduatorie-provinciali-di-supplenza-secondo-bollettino-nomine-a-tempo-determinato-2026-2027-ogni-ordine-e-grado-avellino-e-provincia/",
@@ -1854,9 +1854,9 @@
           "dubbio": true
         },
         {
-          "id": "AV-2026-10-04",
+          "id": "AV-2026-10-05",
           "turno": null,
-          "data": "2026-10-04",
+          "data": "2026-10-05",
           "titolo": "Rettifica secondo bollettino – Ambito territoriale di Avellino – Procedure di nomina del personale docente a tempo determinato da GAE e GPS a.s. 2026/27",
           "nomine": 0,
           "url": "https://atavellino.it/rettifica-secondo-bollettino-ambito-territoriale-di-avellino-procedure-di-nomina-del-personale-docente-a-tempo-determinato-da-gae-e-gps-a-s-2026-27/",
@@ -1869,9 +1869,9 @@
     "BN": {
       "bollettini": [
         {
-          "id": "BN-2026-10-04",
+          "id": "BN-2026-10-05",
           "turno": null,
-          "data": "2026-10-04",
+          "data": "2026-10-05",
           "titolo": "Decreto rettifica provv. 11249 del 16 settembre",
           "nomine": 0,
           "url": "https://atavellino.it/decreto-rettifica-provv-11249-del-16-settembre/",
@@ -1931,7 +1931,7 @@
         {
           "id": "NA-1",
           "turno": 1,
-          "data": "2026-10-04",
+          "data": "2026-10-05",
           "titolo": "GRADUATORIE PROVINCIALI DI SUPPLENZA – PRIMO BOLLETTINO NOMINE A TEMPO DETERMINATO – 2026/2027 – OGNI ORDINE E GRADO – NAPOLI E PROVINCIA – UFFICIO VI",
           "nomine": 0,
           "url": "https://www.uat-napoli.it/graduatorie-provinciali-di-supplenza-primo-bollettino-nomine-a-tempo-determinato-2026-2027-ogni-ordine-e-grado-napoli-e-provincia/",
@@ -1939,9 +1939,9 @@
           "dubbio": true
         },
         {
-          "id": "NA-2026-10-04",
+          "id": "NA-2026-10-05",
           "turno": null,
-          "data": "2026-10-04",
+          "data": "2026-10-05",
           "titolo": "Scuola secondaria di primo grado – Nomine a tempo determinato a. s. 2026/2027 – Rettifiche bollettino del 31.08.26, posti orario e assegnazione ore – UFFICIO VI",
           "nomine": 0,
           "url": "https://www.uat-napoli.it/scuola-secondaria-di-primo-grado-nomine-a-tempo-determinato-a-s-2025-2026-rettifiche-bollettino-del-31-08-26-posti-orario-ed-assegnazione-ore/",
@@ -1949,9 +1949,9 @@
           "dubbio": true
         },
         {
-          "id": "NA-2026-10-04",
+          "id": "NA-2026-10-05",
           "turno": null,
-          "data": "2026-10-04",
+          "data": "2026-10-05",
           "titolo": "Scuola secondaria di primo grado – Nomine a tempo determinato a. s. 2026/2027 – Ulteriori rettifiche – UFFICIO VI",
           "nomine": 0,
           "url": "https://www.uat-napoli.it/scuola-secondaria-di-primo-grado-nomine-a-tempo-determinato-a-s-2026-2027-ulteriori-rettifiche/",
@@ -1959,9 +1959,9 @@
           "dubbio": true
         },
         {
-          "id": "NA-2026-10-04",
+          "id": "NA-2026-10-05",
           "turno": null,
-          "data": "2026-10-04",
+          "data": "2026-10-05",
           "titolo": "Scuola secondaria di secondo grado – Nomine a tempo determinato a. s. 2026/2027 – ulteriori rettifiche I bollettino – UFFICIO VI",
           "nomine": 0,
           "url": "https://www.uat-napoli.it/scuola-secondaria-di-secondo-grado-nomine-a-tempo-determinato-a-s-2026-2027-ulteriori-rettifiche-i-bollettino/",
@@ -1969,9 +1969,9 @@
           "dubbio": true
         },
         {
-          "id": "NA-2026-10-04",
+          "id": "NA-2026-10-05",
           "turno": null,
-          "data": "2026-10-04",
+          "data": "2026-10-05",
           "titolo": "GRADUATORIE PROVINCIALI DI SUPPLENZA – SCUOLA DELL’INFANZIA E PRIMARIA DECRETO DI RETTIFICA 1° BOLLETTINO NOMINE A TEMPO DETERMINATO A.S. 2026-2027 – UFFICIO VI",
           "nomine": 0,
           "url": "https://www.uat-napoli.it/graduatorie-provinciali-di-supplenza-scuola-dellinfanzia-e-primaria-decreto-di-rettifica-1-bollettino-nomine-a-tempo-determinato-a-s-2026-2027/",
@@ -1979,9 +1979,9 @@
           "dubbio": true
         },
         {
-          "id": "NA-2026-10-04",
+          "id": "NA-2026-10-05",
           "turno": null,
-          "data": "2026-10-04",
+          "data": "2026-10-05",
           "titolo": "Scuola secondaria di primo grado – Nomine a tempo determinato a. s. 2026/2027 – Ulteriori rettifiche assegnazioni e posti orario – UFFICIO VI",
           "nomine": 0,
           "url": "https://www.uat-napoli.it/scuola-secondaria-di-primo-grado-nomine-a-tempo-determinato-a-s-2026-2027-ulteriori-rettifiche-assegnazioni-e-posti-orario/",
@@ -1989,9 +1989,9 @@
           "dubbio": true
         },
         {
-          "id": "NA-2026-10-04",
+          "id": "NA-2026-10-05",
           "turno": null,
-          "data": "2026-10-04",
+          "data": "2026-10-05",
           "titolo": "GRADUATORIE PROVINCIALI DI SUPPLENZA – SCUOLA DELL’INFANZIA E PRIMARIA – RETTIFICA 1° BOLLETTINO NOMINE A TEMPO DETERMINATO A.S. 2026-2027 – UFFICIO VI",
           "nomine": 0,
           "url": "https://www.uat-napoli.it/graduatorie-provinciali-di-supplenza-scuola-dellinfanzia-e-primaria-rettifica-1-bollettino-nomine-a-tempo-determinato-a-s-2026-2027/",
@@ -1999,9 +1999,9 @@
           "dubbio": true
         },
         {
-          "id": "NA-2026-10-04",
+          "id": "NA-2026-10-05",
           "turno": null,
-          "data": "2026-10-04",
+          "data": "2026-10-05",
           "titolo": "GRADUATORIE PROVINCIALI DI SUPPLENZA – SCUOLA DELL’INFANZIA E PRIMARIA –RETTIFICA 1° BOLLETTINO NOMINE A TEMPO DETERMINATO A.S. 2026-2027 – UFFICIO VI",
           "nomine": 0,
           "url": "https://www.uat-napoli.it/graduatorie-provinciali-di-supplenza-scuola-dellinfanzia-e-primaria-rettifica-1-bollettino-nomine-a-tempo-determinato-a-s-2026-2027-2/",
@@ -2011,7 +2011,7 @@
         {
           "id": "NA-2",
           "turno": 2,
-          "data": "2026-10-04",
+          "data": "2026-10-05",
           "titolo": "GRADUATORIE PROVINCIALI DI SUPPLENZA – SECONDO BOLLETTINO NOMINE A TEMPO DETERMINATO – 2026/2027 – OGNI ORDINE E GRADO – NAPOLI E PROVINCIA – UFFICIO VI",
           "nomine": 0,
           "url": "https://www.uat-napoli.it/graduatorie-provinciali-di-supplenza-secondo-bollettino-nomine-a-tempo-determinato-2026-2027-ogni-ordine-e-grado-napoli-e-provincia/",
@@ -2019,9 +2019,9 @@
           "dubbio": true
         },
         {
-          "id": "NA-2026-10-04",
+          "id": "NA-2026-10-05",
           "turno": null,
-          "data": "2026-10-04",
+          "data": "2026-10-05",
           "titolo": "Scuola secondaria di primo grado – Nomine a tempo determinato a. s. 2026/2027 –  Rettifiche bollettini – UFFICIO VI",
           "nomine": 0,
           "url": "https://www.uat-napoli.it/scuola-secondaria-di-primo-grado-nomine-a-tempo-determinato-a-s-2026-2027-rettifiche-bollettini/",
