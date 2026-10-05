@@ -1199,28 +1199,38 @@ function checkFollowed(){
   if(NOTIFY_ENDPOINT){fetch(NOTIFY_ENDPOINT).then(function(r){return r.json();}).then(function(list){(list||[]).forEach(function(x){if(!MAP.prov[x.code])return;if(notifs.some(function(n){return n.remoteId&&n.remoteId===x.id;}))return;addNotif({pid:p.id,kind:'new',code:x.code,text:x.text||('Nuovo bollettino · '+MAP.prov[x.code].n),sub:'Pubblicato dall\'USP',url:x.url,remoteId:x.id});});}).catch(function(){});}
 }
 function openNotifs(){renderNotifs();$('#modal-notif').classList.add('active');}
+var notifPickerOpen=false;
+function toggleNotifPicker(){notifPickerOpen=!notifPickerOpen;renderNotifs();}
+function followFromBell(){
+  var sel=$('#notif-prov-pick');if(!sel||!sel.value)return;
+  toggleFollow(sel.value,true);notifPickerOpen=false;renderNotifs();
+}
 function renderNotifs(){
   var p=P(),list=notifs.filter(function(n){return n.pid===p.id;});
   var followed=Object.keys(p.pdata).filter(function(c){return p.pdata[c].follow;});
   var h='<div class="modal-header"><div><div class="modal-title">Notifiche</div><div class="modal-sub">Bollettini e promemoria delle province che segui</div></div><button class="close-btn" onclick="closeModals()" aria-label="Chiudi"><svg class="ic"><use href="#i-x"/></svg></button></div>';
-  h+='<div style="display:flex;gap:8px;margin-bottom:12px"><button class="btn btn-outline btn-sm" onclick="markAllRead()"><svg class="ic"><use href="#i-check"/></svg>Segna come lette</button><button class="btn btn-outline btn-sm" onclick="demoNotif()">Prova una notifica</button></div>';
+  h+='<div style="display:flex;gap:8px;margin-bottom:12px;flex-wrap:wrap"><button class="btn btn-outline btn-sm" onclick="markAllRead()"><svg class="ic"><use href="#i-check"/></svg>Segna come lette</button><button class="btn btn-outline btn-sm" onclick="toggleNotifPicker()"><svg class="ic"><use href="#i-plus"/></svg>Segui una provincia</button></div>';
+  if(notifPickerOpen){
+    var allCodes=Object.keys(MAP.prov).sort(function(a,b){return MAP.prov[a].n.localeCompare(MAP.prov[b].n,'it');});
+    h+='<div class="row2" style="margin-bottom:12px"><select class="form-control" id="notif-prov-pick">'+allCodes.map(function(c){return '<option value="'+c+'">'+esc(MAP.prov[c].n)+' ('+c+')</option>';}).join('')+'</select><button class="btn btn-sm" onclick="followFromBell()">Segui</button></div>';
+  }
   h+=list.length?list.map(function(n){
     var url=n.url||(n.code?uspUrl(n.code):'');
     return '<div class="notif'+(n.read?'':' unread')+'"><div class="nt">'+esc(n.text)+'</div><div class="ns">'+esc(n.sub||'')+' · '+esc(new Date(n.ts).toLocaleDateString('it-IT'))+'</div><div class="na">'
      +(url?'<button class="btn btn-sm" onclick="notifOpen(\''+n.id+'\')"><svg class="ic"><use href="#i-ext"/></svg>Apri il portale USP</button>':'')
      +(n.code?'<button class="btn btn-outline btn-sm" onclick="notifProv(\''+n.id+'\')">Carica il bollettino</button>':'')
-     +(n.read?'':'<button class="btn btn-outline btn-sm" onclick="notifRead(\''+n.id+'\')">Letta</button>')+'</div></div>';}).join(''):'<p class="hint">Nessuna notifica. Segui una provincia dalla mappa per ricevere i promemoria.</p>';
+     +'<button class="btn btn-outline btn-sm" onclick="notifRead(\''+n.id+'\')">Letta</button></div></div>';}).join(''):'<p class="hint">Nessuna notifica. Segui una provincia per ricevere i promemoria.</p>';
   if(followed.length){h+='<div class="msec"><h4>Province seguite</h4>'+followed.map(function(c){return '<div class="linkrow"><div class="lt">'+esc(MAP.prov[c].n)+' ('+c+')<small>Ultimo controllo: '+(p.pdata[c].lastCheck?esc(new Date(p.pdata[c].lastCheck).toLocaleDateString('it-IT')):'mai')+'</small></div><button class="btn btn-outline btn-sm" onclick="foundNew(\''+c+'\')">Nuovo bollettino</button></div>';}).join('')+'<p class="hint">Il file non può controllare da solo i siti degli USP: quando trovi un nuovo bollettino tocca «Nuovo bollettino» e l\'app ti porta a caricarlo.</p></div>';}
   $('#modal-notif-body').innerHTML=h;
 }
 function findN(id){return notifs.filter(function(n){return n.id===id;})[0];}
-function notifRead(id){var n=findN(id);if(n){n.read=true;saveState();updateBell();renderNotifs();}}
-function markAllRead(){notifs.forEach(function(n){if(n.pid===currentId)n.read=true;});saveState();updateBell();renderNotifs();}
-function notifOpen(id){var n=findN(id);if(!n)return;n.read=true;var d=P().pdata[n.code];if(d)d.lastCheck=Date.now();saveState();updateBell();var u=n.url||uspUrl(n.code);openLink(u);renderNotifs();}
-function notifProv(id){var n=findN(id);if(!n)return;n.read=true;saveState();updateBell();closeModals();var c=n.code;showTab('map',$$('.nav-item')[2]);selectRegion(MAP.prov[c].r);setTimeout(function(){openProv(c);},480);}
+// "Letta" ora elimina davvero la notifica, invece di lasciarla lì segnata.
+function notifRead(id){notifs=notifs.filter(function(n){return n.id!==id;});saveState();updateBell();renderNotifs();}
+function markAllRead(){notifs=notifs.filter(function(n){return n.pid!==currentId;});saveState();updateBell();renderNotifs();}
+function notifOpen(id){var n=findN(id);if(!n)return;var d=P().pdata[n.code];if(d)d.lastCheck=Date.now();var u=n.url||uspUrl(n.code);notifs=notifs.filter(function(x){return x.id!==id;});saveState();updateBell();openLink(u);renderNotifs();}
+function notifProv(id){var n=findN(id);if(!n)return;var c=n.code;notifs=notifs.filter(function(x){return x.id!==id;});saveState();updateBell();closeModals();showTab('map',$$('.nav-item')[2]);selectRegion(MAP.prov[c].r);setTimeout(function(){openProv(c);},480);}
 function foundNew(code){addNotif({pid:currentId,kind:'new',code:code,text:'Nuovo bollettino · '+MAP.prov[code].n,sub:'Segnalato da te'});var d=P().pdata[code];if(d)d.lastCheck=Date.now();saveState();renderNotifs();}
 function toggleFollow(code,on){var d=P().pdata[code]=P().pdata[code]||{};d.follow=!!on;if(on&&!d.lastCheck)d.lastCheck=Date.now();saveState();toast(on?'Provincia seguita':'Non segui più questa provincia');}
-function demoNotif(){var code=curProv||'TO';addNotif({pid:currentId,kind:'new',code:code,text:'Nuovo bollettino · '+MAP.prov[code].n,sub:'Notifica di prova'});renderNotifs();}
 
 /* =====================================================================
    CURRICULUM (schema europeo / Europass) – anteprima e PDF
