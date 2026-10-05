@@ -8,6 +8,7 @@
 import * as pdfjsLib from 'pdfjs-dist/legacy/build/pdf.mjs';
 
 function norm(s) { return s.replace(/\s+/g, ' ').trim(); }
+const NUM_RE = /^\d{1,4}(?:[.,]\d{1,3})?$/;
 
 async function pageRows(pg) {
   const tc = await pg.getTextContent();
@@ -17,30 +18,51 @@ async function pageRows(pg) {
   return Object.keys(rows).map(Number).sort((a, b) => b - a).map(y => rows[y].sort((a, b) => a.x - b.x));
 }
 
-function findHeader(rows) {
-  // L'intestazione occupa due righe fisiche ravvicinate ("Tipo" sopra "Graduatoria").
-  for (let i = 0; i < rows.length - 1; i++) {
-    const a = rows[i], b = rows[i + 1];
-    const classe = a.find(it => norm(it.s) === 'Classe di concorso');
-    const fascia = a.find(it => norm(it.s) === 'Fascia');
-    const grOrig = a.find(it => norm(it.s) === 'Graduatoria di origine');
-    const clOrig = a.find(it => norm(it.s) === 'Classe di concorso di origine');
-    const scuola = a.find(it => norm(it.s) === 'Codice scuola');
-    const tipo = b.find(it => norm(it.s) === 'Graduatoria') || a.find(it => norm(it.s) === 'Graduatoria');
-    if (classe && fascia && grOrig && clOrig && scuola && tipo) {
-      return {
-        headerRowIndex: i + 1, // la riga dati inizia dopo la seconda riga di intestazione
-        xClasse: classe.x, xTipo: tipo.x, xFascia: fascia.x, xGrOrig: grOrig.x,
-        xClOrig: clOrig.x, xScuola: scuola.x,
-      };
+export function findHeader(rows) {
+  // L'intestazione può stare su una riga sola (Modena) o spezzarsi su più
+  // righe quando la tabella ha più colonne (per esempio a Ravenna, che ha
+  // "Elenco aggiuntivo", "Inclusione con riserva" e "Ordine nomina" in più:
+  // con meno spazio per colonna, un titolo come "Classe di concorso di
+  // origine" può finire scritto su tre righe separate). Per ritrovarlo in
+  // entrambi i casi, raggruppo i frammenti di testo per colonna (stessa x,
+  // pochi punti di tolleranza) leggendo le prime righe della pagina, e li
+  // ricompongo leggendo dall'alto in basso finché non arrivo a una riga con
+  // un numero dentro: lì l'intestazione è finita e comincia la prima riga
+  // di dati.
+  const HEADER_ROWS = Math.min(rows.length, 14);
+  const cols = []; // { x, parts: [{r, text}] }
+  let stopAt = HEADER_ROWS;
+  for (let r = 0; r < HEADER_ROWS; r++) {
+    const hasNumber = rows[r].some(it => NUM_RE.test(norm(it.s)));
+    if (hasNumber) { stopAt = r; break; }
+    for (const it of rows[r]) {
+      const t = norm(it.s);
+      if (!t) continue;
+      let col = cols.find(c => Math.abs(c.x - it.x) < 6);
+      if (!col) { col = { x: it.x, parts: [] }; cols.push(col); }
+      col.parts.push({ r, text: t });
     }
+  }
+  cols.forEach(c => { c.label = c.parts.sort((a, b) => a.r - b.r).map(p => p.text).join(' ').replace(/\s+/g, ' ').trim(); });
+  const find = label => cols.find(c => c.label === label);
+
+  const classe = find('Classe di concorso');
+  const fascia = find('Fascia');
+  const grOrig = find('Graduatoria di origine');
+  const clOrig = find('Classe di concorso di origine');
+  const scuola = find('Codice scuola');
+  const tipo = find('Tipo Graduatoria') || find('Tipo graduatoria') || find('Graduatoria') || find('Tipo');
+  if (classe && fascia && grOrig && clOrig && scuola && tipo) {
+    return {
+      headerRowIndex: stopAt,
+      xClasse: classe.x, xTipo: tipo.x, xFascia: fascia.x, xGrOrig: grOrig.x,
+      xClOrig: clOrig.x, xScuola: scuola.x,
+    };
   }
   return null;
 }
 
-const NUM_RE = /^\d{1,4}(?:[.,]\d{1,3})?$/;
-
-function parseRow(row, cal) {
+export function parseRow(row, cal) {
   if (!row.length) return null;
   const b12 = (cal.xClasse + cal.xTipo) / 2, b23 = (cal.xTipo + cal.xFascia) / 2, b34 = (cal.xFascia + cal.xGrOrig) / 2;
   const classeIt = row.find(it => it.x < b12);
