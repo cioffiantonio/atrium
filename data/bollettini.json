@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-10-06T05:14:41.267Z",
+  "aggiornato": "2026-10-06T11:15:31.767Z",
   "province": {
     "MO": {
       "bollettini": [
@@ -1377,6 +1377,16 @@
           "dubbio": true
         },
         {
+          "id": "FC-1",
+          "turno": 1,
+          "data": "2026-10-01",
+          "titolo": "Supplenze personale docente ed educativo a.s. 2026/2027 – turno 01/10/2026 – Ufficio VII – sede di Forlì",
+          "nomine": 0,
+          "url": "https://fc.istruzioneer.gov.it/2026/10/01/supplenze-personale-docente-ed-educativo-a-s-2026-2027-turno-01-10-2026/",
+          "pdfUrl": "https://fc.istruzioneer.gov.it/wp-content/uploads/sites/4/2026/10/m_pi.AOOCSAFO.REGISTRO-UFFICIALEU.0005462.01-10-2026.pdf",
+          "dubbio": true
+        },
+        {
           "id": "FC-2026-09-28",
           "turno": null,
           "data": "2026-09-28",
@@ -1829,6 +1839,16 @@
           "nomine": 0,
           "url": "https://ra.istruzioneer.gov.it/2026/09/29/gps-a-s-2026-27-esiti-del-sesto-turno-di-nomina/",
           "pdfUrl": "https://ra.istruzioneer.gov.it/wp-content/uploads/sites/7/2026/09/m_pi.AOOCSARA.REGISTRO-UFFICIALEU.0007012.29-09-2026.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "RA-7",
+          "turno": 7,
+          "data": "2026-10-06",
+          "titolo": "GPS a.s. 2026/27: Esiti del settimo turno di nomina – Ufficio X",
+          "nomine": 0,
+          "url": "https://ra.istruzioneer.gov.it/2026/10/06/gps-a-s-2026-27-esiti-del-settimo-turno-di-nomina/",
+          "pdfUrl": "https://ra.istruzioneer.gov.it/wp-content/uploads/sites/7/2026/10/disp_7170-26.pdf",
           "dubbio": true
         },
         {
