@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-10-06T11:15:31.767Z",
+  "aggiornato": "2026-10-06T17:15:02.095Z",
   "province": {
     "MO": {
       "bollettini": [
@@ -995,6 +995,16 @@
           "nomine": 0,
           "url": "https://fe.istruzioneer.gov.it/2026/09/21/nomine-a-t-d-da-gps-personale-docente-di-ogni-ordine-e-grado-turno-3/",
           "pdfUrl": "https://fe.istruzioneer.gov.it/wp-content/uploads/sites/11/2026/09/Bollettino-3-TURNO-GPS.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "FE-6",
+          "turno": 6,
+          "data": "2026-10-06",
+          "titolo": "NOMINE A T.D. DA GPS – PERSONALE DOCENTE DI OGNI ORDINE E GRADO – TURNO 6 – Ufficio VI",
+          "nomine": 0,
+          "url": "https://fe.istruzioneer.gov.it/2026/10/06/nomine-a-t-d-da-gps-personale-docente-di-ogni-ordine-e-grado-turno-6/",
+          "pdfUrl": "https://fe.istruzioneer.gov.it/wp-content/uploads/sites/11/2026/10/Bollettino-VI-turno-di-nomina.pdf",
           "dubbio": true
         },
         {
