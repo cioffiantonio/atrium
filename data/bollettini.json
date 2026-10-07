@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-10-07T05:15:38.842Z",
+  "aggiornato": "2026-10-07T11:16:07.174Z",
   "province": {
     "MO": {
       "bollettini": [
@@ -1161,6 +1161,16 @@
           "url": "https://re.istruzioneer.gov.it/2026/10/02/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-sesta-fase/",
           "pdfUrl": "https://re.istruzioneer.gov.it/wp-content/uploads/sites/10/2026/10/Bollettino_TotaleNomine.pdf",
           "dubbio": true
+        },
+        {
+          "id": "RE-6",
+          "turno": 6,
+          "data": "2026-10-06",
+          "titolo": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – SETTIMA FASE – Ufficio XI",
+          "nomine": 0,
+          "url": "https://re.istruzioneer.gov.it/2026/10/06/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-settima-fase/",
+          "pdfUrl": "https://re.istruzioneer.gov.it/wp-content/uploads/sites/10/2026/10/Bollettino_TotaleNomine-1.pdf",
+          "dubbio": true
         }
       ],
       "soglie": {
@@ -1684,6 +1694,16 @@
           "nomine": 0,
           "url": "https://pc.istruzioneer.gov.it/2026/10/02/nomine-a-tempo-determinato-a-s-2026-2027-esito-settimo-turno/",
           "pdfUrl": "https://pc.istruzioneer.gov.it/wp-content/uploads/sites/9/2026/10/Bollettino_TotaleNomine.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "PC-6",
+          "turno": 6,
+          "data": "2026-10-06",
+          "titolo": "Nomine a tempo determinato A.S. 2026/2027 – Esito ottavo turno – Ufficio IX",
+          "nomine": 0,
+          "url": "https://pc.istruzioneer.gov.it/2026/10/06/nomine-a-tempo-determinato-a-s-2026-2027-esito-ottavo-turno/",
+          "pdfUrl": "https://pc.istruzioneer.gov.it/wp-content/uploads/sites/9/2026/10/Bollettino_MM_ADMM.pdf",
           "dubbio": true
         },
         {
