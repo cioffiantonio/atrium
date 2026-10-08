@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-10-08T05:16:03.015Z",
+  "aggiornato": "2026-10-08T11:15:33.920Z",
   "province": {
     "MO": {
       "bollettini": [
@@ -1407,6 +1407,16 @@
           "dubbio": true
         },
         {
+          "id": "FC-7",
+          "turno": 7,
+          "data": "2026-10-07",
+          "titolo": "Supplenze personale docente ed educativo a.s. 2026/2027 – turno 07/10/2026 – Ufficio VII – sede di Forlì",
+          "nomine": 0,
+          "url": "https://fc.istruzioneer.gov.it/2026/10/07/supplenze-personale-docente-ed-educativo-a-s-2026-2027-turno-07-10-2026/",
+          "pdfUrl": "https://fc.istruzioneer.gov.it/wp-content/uploads/sites/4/2026/10/Bollettino-totale-nomine-del-7.10.2026.pdf",
+          "dubbio": true
+        },
+        {
           "id": "FC-2026-09-28",
           "turno": null,
           "data": "2026-09-28",
@@ -2078,6 +2088,16 @@
           "nomine": 0,
           "url": "https://atavellino.it/rettifica-secondo-bollettino-ambito-territoriale-di-avellino-procedure-di-nomina-del-personale-docente-a-tempo-determinato-da-gae-e-gps-a-s-2026-27/",
           "pdfUrl": "https://atavellino.it/wp-content/uploads/2026/09/m_pi.AOOUSPAV.REGISTRO-UFFICIALEU.0011552.23-09-2026.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "AV-2",
+          "turno": 2,
+          "data": "2026-10-08",
+          "titolo": "Posti in deroga sostegno A.S. 2026/27 inseriti nel secondo bollettino di nomine GPS - Provvedimento prot. n. 11409 del 21/09/2026",
+          "nomine": 0,
+          "url": "https://atavellino.it/posti-in-deroga-sostegno-a-s-2026-27-provvedimento-prot-n-11409-del-21-09-2026/",
+          "pdfUrl": "https://atavellino.it/wp-content/uploads/2026/10/m_pi.AOOUSPAV.REGISTRO-UFFICIALEU.0011409.21-09-2026.pdf",
           "dubbio": true
         }
       ],
