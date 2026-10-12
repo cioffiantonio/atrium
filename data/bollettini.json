@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-10-12T11:18:25.627Z",
+  "aggiornato": "2026-10-12T17:15:48.696Z",
   "province": {
     "MO": {
       "bollettini": [
@@ -998,8 +998,8 @@
           "dubbio": true
         },
         {
-          "id": "FE-7",
-          "turno": 7,
+          "id": "FE-9",
+          "turno": 9,
           "data": "2026-10-09",
           "titolo": "NOMINE A T.D. DA GPS – PERSONALE DOCENTE DI OGNI ORDINE E GRADO – TURNO 7 – Ufficio VI",
           "nomine": 0,
@@ -1180,6 +1180,16 @@
           "nomine": 0,
           "url": "https://re.istruzioneer.gov.it/2026/10/06/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-settima-fase/",
           "pdfUrl": "https://re.istruzioneer.gov.it/wp-content/uploads/sites/10/2026/10/Bollettino_TotaleNomine-1.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "RE-12",
+          "turno": 12,
+          "data": "2026-10-12",
+          "titolo": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – NONA FASE – Ufficio XI",
+          "nomine": 0,
+          "url": "https://re.istruzioneer.gov.it/2026/10/12/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-nona-fase/",
+          "pdfUrl": "https://re.istruzioneer.gov.it/wp-content/uploads/sites/10/2026/10/Bollettino_TotaleNomine-3.pdf",
           "dubbio": true
         }
       ],
