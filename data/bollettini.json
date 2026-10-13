@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-10-13T05:17:34.746Z",
+  "aggiornato": "2026-10-13T11:17:35.217Z",
   "province": {
     "MO": {
       "bollettini": [
@@ -2208,6 +2208,16 @@
           "nomine": 0,
           "url": "https://www.uat-caserta.it/2026/09/29/rettifiche-alle-operazioni-di-conferimento-delle-supplenze-disposte-con-i-provvedimenti-prot-n-23090-del-31-08-2026-e-n-25393-del-21-09-2026/",
           "pdfUrl": "https://www.uat-caserta.it/wp-content/uploads/2026/09/decreto-rettifiche-bollettino-1-e-2_signed-PROTOCOLLATO.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "CE-3",
+          "turno": 3,
+          "data": "2026-10-12",
+          "titolo": "TERZO bollettino totale delle nomine generato dal sistema informativo del Ministero, contenente i nominativi dei destinatari di una proposta di contratto a tempo determinato per l’a.s. 2026/2027",
+          "nomine": 0,
+          "url": "https://www.uat-caserta.it/2026/10/12/terzo-bollettino-totale-delle-nomine-generato-dal-sistema-informativo-del-ministero-contenente-i-nominativi-dei-destinatari-di-una-proposta-di-contratto-a-tempo-determinato-per-la-s-2026-2027/",
+          "pdfUrl": "https://www.uat-caserta.it/wp-content/uploads/2026/10/Bollettino_TotaleNomine-20261012.pdf",
           "dubbio": true
         }
       ],
