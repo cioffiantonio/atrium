@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-10-13T17:18:12.948Z",
+  "aggiornato": "2026-10-13T23:21:57.716Z",
   "province": {
     "MO": {
       "bollettini": [
@@ -2403,6 +2403,16 @@
           "nomine": 0,
           "url": "https://www.uat-napoli.it/scuola-dellinfanzia-e-primaria-nomine-a-tempo-determinato-a-s-2026-27-decreto-di-rettifica-n-3/",
           "pdfUrl": "https://www.uat-napoli.it/wp-content/uploads/2026/10/m_pi.AOOUSPNA.REGISTRO-UFFICIALEU.0026374.13-10-2026.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "NA-3",
+          "turno": 3,
+          "data": "2026-10-13",
+          "titolo": "GRADUATORIE PROVINCIALI DI SUPPLENZA – TERZO BOLLETTINO NOMINE A TEMPO DETERMINATO – 2026/2027 – OGNI ORDINE E GRADO – NAPOLI E PROVINCIA – UFFICIO VI",
+          "nomine": 0,
+          "url": "https://www.uat-napoli.it/graduatorie-provinciali-di-supplenza-terzo-bollettino-nomine-a-tempo-determinato-2026-2027-ogni-ordine-e-grado-napoli-e-provincia/",
+          "pdfUrl": "https://www.uat-napoli.it/wp-content/uploads/2026/10/3°Bollettino_TotaleNomine_Ogni_Ordine_e_Grado_Na.pdf",
           "dubbio": true
         }
       ],
