@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-10-13T11:17:35.217Z",
+  "aggiornato": "2026-10-13T17:18:12.948Z",
   "province": {
     "MO": {
       "bollettini": [
@@ -1191,6 +1191,16 @@
           "url": "https://re.istruzioneer.gov.it/2026/10/12/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-nona-fase/",
           "pdfUrl": "https://re.istruzioneer.gov.it/wp-content/uploads/sites/10/2026/10/Bollettino_TotaleNomine-3.pdf",
           "dubbio": true
+        },
+        {
+          "id": "RE-13",
+          "turno": 13,
+          "data": "2026-10-13",
+          "titolo": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – DECIMA FASE – Ufficio XI",
+          "nomine": 0,
+          "url": "https://re.istruzioneer.gov.it/2026/10/13/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-decima-fase/",
+          "pdfUrl": "https://re.istruzioneer.gov.it/wp-content/uploads/sites/10/2026/10/Bollettino_TotaleNomine-4.pdf",
+          "dubbio": true
         }
       ],
       "soglie": {
@@ -1632,6 +1642,16 @@
           "dubbio": true
         },
         {
+          "id": "PR-13",
+          "turno": 13,
+          "data": "2026-10-13",
+          "titolo": "Disponibilità ed esiti per le nomine docenti a T.D. da GPS – 11° turno a.s. 2026/27 – Ufficio IX",
+          "nomine": 0,
+          "url": "https://pr.istruzioneer.gov.it/2026/10/13/disponibilita-ed-esiti-per-le-nomine-docenti-a-t-d-da-gps-11-turno-a-s-2026-27/",
+          "pdfUrl": "https://pr.istruzioneer.gov.it/wp-content/uploads/sites/8/2026/10/Bollettino-Totale-Nomine-2.pdf",
+          "dubbio": true
+        },
+        {
           "id": "PR-2",
           "turno": 2,
           "data": "2024-09-16",
@@ -1754,6 +1774,16 @@
           "nomine": 0,
           "url": "https://pc.istruzioneer.gov.it/2026/10/09/nomine-a-tempo-determinato-a-s-2026-2027-esito-turno-9/",
           "pdfUrl": "https://pc.istruzioneer.gov.it/wp-content/uploads/sites/9/2026/10/BOLLETTINO-DEFINITIVO-9-TURNO.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "PC-13",
+          "turno": 13,
+          "data": "2026-10-13",
+          "titolo": "Nomine a tempo determinato A.S. 2026/2027 – Esito turno 10 – Ufficio IX",
+          "nomine": 0,
+          "url": "https://pc.istruzioneer.gov.it/2026/10/13/nomine-a-tempo-determinato-a-s-2026-2027-esito-turno-10/",
+          "pdfUrl": "https://pc.istruzioneer.gov.it/wp-content/uploads/sites/9/2026/10/BOLLETTINO-DEFINITIVO.pdf",
           "dubbio": true
         },
         {
@@ -1939,6 +1969,16 @@
           "nomine": 0,
           "url": "https://ra.istruzioneer.gov.it/2026/10/08/gps-a-s-2026-27-esiti-dellottavo-turno-di-nomina/",
           "pdfUrl": "https://ra.istruzioneer.gov.it/wp-content/uploads/sites/7/2026/10/disp_7232-26_viii.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "RA-13",
+          "turno": 13,
+          "data": "2026-10-13",
+          "titolo": "GPS a.s. 2026/27: Esiti del nono turno di nomina – Ufficio X",
+          "nomine": 0,
+          "url": "https://ra.istruzioneer.gov.it/2026/10/13/gps-a-s-2026-27-esiti-del-nono-turno-di-nomina/",
+          "pdfUrl": "https://ra.istruzioneer.gov.it/wp-content/uploads/sites/7/2026/10/m_pi.AOOCSARA.REGISTRO-UFFICIALEU.0007346.13-10-2026.pdf",
           "dubbio": true
         },
         {
@@ -2353,6 +2393,16 @@
           "nomine": 0,
           "url": "https://www.uat-napoli.it/scuola-secondaria-di-primo-grado-nomine-a-tempo-determinato-a-s-2026-2027-rettifiche-ai-bollettini-di-nomina/",
           "pdfUrl": "https://www.uat-napoli.it/wp-content/uploads/2026/10/m_pi.AOOUSPNA.REGISTRO-UFFICIALEI.0026119.09-10-2026.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "NA-2026-10-13",
+          "turno": null,
+          "data": "2026-10-13",
+          "titolo": "SCUOLA DELL’INFANZIA E PRIMARIA – NOMINE A TEMPO DETERMINATO A.S. 2026/27 – DECRETO DI RETTIFICA N.3 – UFFICIO VI",
+          "nomine": 0,
+          "url": "https://www.uat-napoli.it/scuola-dellinfanzia-e-primaria-nomine-a-tempo-determinato-a-s-2026-27-decreto-di-rettifica-n-3/",
+          "pdfUrl": "https://www.uat-napoli.it/wp-content/uploads/2026/10/m_pi.AOOUSPNA.REGISTRO-UFFICIALEU.0026374.13-10-2026.pdf",
           "dubbio": true
         }
       ],
