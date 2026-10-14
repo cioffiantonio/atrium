@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-10-14T11:28:12.745Z",
+  "aggiornato": "2026-10-14T17:29:29.927Z",
   "province": {
     "MO": {
       "bollettini": [
@@ -1005,6 +1005,16 @@
           "nomine": 0,
           "url": "https://fe.istruzioneer.gov.it/2026/10/09/nomine-a-t-d-da-gps-personale-docente-di-ogni-ordine-e-grado-turno-7/",
           "pdfUrl": "https://fe.istruzioneer.gov.it/wp-content/uploads/sites/11/2026/10/Disp.-nomine-da-GPS-as-22026-27_VII-TURNO_m_pi.AOOUSPFE.REGISTRO-UFFICIALEU.0009524.09-10-2026.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "FE-8",
+          "turno": 8,
+          "data": "2026-10-14",
+          "titolo": "NOMINE A T.D. DA GPS – PERSONALE DOCENTE DI OGNI ORDINE E GRADO – TURNO 8 – Ufficio VI",
+          "nomine": 0,
+          "url": "https://fe.istruzioneer.gov.it/2026/10/14/nomine-a-t-d-da-gps-personale-docente-di-ogni-ordine-e-grado-turno-8/",
+          "pdfUrl": "https://fe.istruzioneer.gov.it/wp-content/uploads/sites/11/2026/10/BOLLETTINO-VIII-TURNO-DI-NOMINA.pdf",
           "dubbio": true
         },
         {
