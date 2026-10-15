@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-10-15T19:41:22.280Z",
+  "aggiornato": "2026-10-15T20:16:47.691Z",
   "province": {
     "MO": {
       "bollettini": [
@@ -983,30 +983,30 @@
           "turno": 1,
           "data": "2026-08-31",
           "titolo": "NOMINE A T.D. DA GPS – PERSONALE DOCENTE DI OGNI ORDINE E GRADO – TURNO 1 – Ufficio VI",
-          "nomine": 0,
+          "nomine": 519,
           "url": "https://fe.istruzioneer.gov.it/2026/08/31/nomine-a-t-d-da-gps-personale-docente-di-ogni-ordine-e-grado-turno-1/",
           "pdfUrl": "https://fe.istruzioneer.gov.it/wp-content/uploads/sites/11/2026/08/BOLLETTINO-GPS-TURNO-1.pdf",
-          "dubbio": true
+          "dubbio": false
         },
         {
           "id": "FE-2",
           "turno": 2,
           "data": "2026-09-11",
           "titolo": "NOMINE A T.D. DA GPS – PERSONALE DOCENTE DI OGNI ORDINE E GRADO – TURNO 2 – Ufficio VI",
-          "nomine": 0,
+          "nomine": 80,
           "url": "https://fe.istruzioneer.gov.it/2026/09/11/nomine-a-t-d-da-gps-personale-docente-di-ogni-ordine-e-grado-turno-2/",
-          "pdfUrl": "https://fe.istruzioneer.gov.it/wp-content/uploads/sites/11/2026/09/Disp.-NOMINE-GPS-II-TURNO_m_pi.AOOUSPFE.REGISTRO-UFFICIALEU.0008405.11-09-2026.pdf",
-          "dubbio": true
+          "pdfUrl": "https://fe.istruzioneer.gov.it/wp-content/uploads/sites/11/2026/09/Bollettino-II-TURNO-GPS.pdf",
+          "dubbio": false
         },
         {
           "id": "FE-3",
           "turno": 3,
           "data": "2026-09-21",
           "titolo": "NOMINE A T.D. DA GPS – PERSONALE DOCENTE DI OGNI ORDINE E GRADO – TURNO 3 – Ufficio VI",
-          "nomine": 0,
+          "nomine": 25,
           "url": "https://fe.istruzioneer.gov.it/2026/09/21/nomine-a-t-d-da-gps-personale-docente-di-ogni-ordine-e-grado-turno-3/",
           "pdfUrl": "https://fe.istruzioneer.gov.it/wp-content/uploads/sites/11/2026/09/Bollettino-3-TURNO-GPS.pdf",
-          "dubbio": true
+          "dubbio": false
         },
         {
           "id": "FE-7",
@@ -1033,20 +1033,20 @@
           "turno": 6,
           "data": "2026-10-06",
           "titolo": "NOMINE A T.D. DA GPS – PERSONALE DOCENTE DI OGNI ORDINE E GRADO – TURNO 6 – Ufficio VI",
-          "nomine": 0,
+          "nomine": 4,
           "url": "https://fe.istruzioneer.gov.it/2026/10/06/nomine-a-t-d-da-gps-personale-docente-di-ogni-ordine-e-grado-turno-6/",
           "pdfUrl": "https://fe.istruzioneer.gov.it/wp-content/uploads/sites/11/2026/10/Bollettino-VI-turno-di-nomina.pdf",
-          "dubbio": true
+          "dubbio": false
         },
         {
           "id": "FE-5",
           "turno": 5,
           "data": "2026-09-30",
           "titolo": "NOMINE A T.D. DA GPS – PERSONALE DOCENTE DI OGNI ORDINE E GRADO – TURNO 5 – Ufficio VI",
-          "nomine": 0,
+          "nomine": 10,
           "url": "https://fe.istruzioneer.gov.it/2026/09/30/nomine-a-t-d-da-gps-personale-docente-di-ogni-ordine-e-grado-turno-5/",
           "pdfUrl": "https://fe.istruzioneer.gov.it/wp-content/uploads/sites/11/2026/09/Bollettino-nomine-GPS-5-TURNO-as-2026-27.pdf",
-          "dubbio": true
+          "dubbio": false
         },
         {
           "id": "FE-4",
@@ -1063,62 +1063,874 @@
           "turno": 4,
           "data": "2026-09-25",
           "titolo": "NOMINE A T.D. DA GPS – PERSONALE DOCENTE DI OGNI ORDINE E GRADO – TURNO 4 – Ufficio VI",
-          "nomine": 0,
+          "nomine": 11,
           "url": "https://fe.istruzioneer.gov.it/2026/09/25/nomine-a-t-d-da-gps-personale-docente-di-ogni-ordine-e-grado-turno-4/",
           "pdfUrl": "https://fe.istruzioneer.gov.it/wp-content/uploads/sites/11/2026/09/Bollettino-nomine-4-TURNO.pdf",
-          "dubbio": true
+          "dubbio": false
         }
       ],
       "soglie": {
+        "A008": {
+          "1": {
+            "p": 75,
+            "n": 6,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          },
+          "2": {
+            "p": 33,
+            "n": 25,
+            "t": 3,
+            "dt": "2026-09-21",
+            "d": false
+          }
+        },
+        "A009": {
+          "1": {
+            "p": 89.5,
+            "n": 3,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          },
+          "2": {
+            "p": 123.5,
+            "n": 4,
+            "t": 2,
+            "dt": "2026-09-11",
+            "d": false
+          }
+        },
+        "A010": {
+          "1": {
+            "p": 87,
+            "n": 2,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          },
+          "2": {
+            "p": 62.5,
+            "n": 6,
+            "t": 2,
+            "dt": "2026-09-11",
+            "d": false
+          }
+        },
+        "A011": {
+          "1": {
+            "p": 89,
+            "n": 18,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          }
+        },
+        "A013": {
+          "1": {
+            "p": 73,
+            "n": 2,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          },
+          "2": {
+            "p": 86.5,
+            "n": 5,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          }
+        },
+        "A018": {
+          "1": {
+            "p": 99,
+            "n": 31,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          }
+        },
+        "A019": {
+          "1": {
+            "p": 72,
+            "n": 27,
+            "t": 2,
+            "dt": "2026-09-11",
+            "d": false
+          }
+        },
         "A020": {
+          "1": {
+            "p": 121,
+            "n": 2,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          },
           "2": {
             "p": 27.5,
             "n": 72,
             "t": 8,
             "dt": "2026-10-14",
-            "d": true
+            "d": false
+          }
+        },
+        "A021": {
+          "1": {
+            "p": 89,
+            "n": 8,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          },
+          "2": {
+            "p": 53,
+            "n": 13,
+            "t": 2,
+            "dt": "2026-09-11",
+            "d": false
+          }
+        },
+        "A023": {
+          "1": {
+            "p": 57,
+            "n": 7,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          },
+          "2": {
+            "p": 48,
+            "n": 16,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          }
+        },
+        "A026": {
+          "1": {
+            "p": 35,
+            "n": 27,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          },
+          "2": {
+            "p": 57,
+            "n": 39,
+            "t": 5,
+            "dt": "2026-09-30",
+            "d": false
+          }
+        },
+        "A027": {
+          "1": {
+            "p": 51.5,
+            "n": 19,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          }
+        },
+        "A028": {
+          "1": {
+            "p": 58,
+            "n": 48,
+            "t": 3,
+            "dt": "2026-09-21",
+            "d": false
+          }
+        },
+        "A031": {
+          "1": {
+            "p": 36,
+            "n": 9,
+            "t": 2,
+            "dt": "2026-09-11",
+            "d": false
+          },
+          "2": {
+            "p": 141,
+            "n": 18,
+            "t": 3,
+            "dt": "2026-09-21",
+            "d": false
+          }
+        },
+        "A034": {
+          "1": {
+            "p": 63,
+            "n": 6,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          },
+          "2": {
+            "p": 42.5,
+            "n": 62,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          }
+        },
+        "A037": {
+          "1": {
+            "p": 119,
+            "n": 4,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          }
+        },
+        "A040": {
+          "1": {
+            "p": 68,
+            "n": 3,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          },
+          "2": {
+            "p": 22,
+            "n": 29,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
           }
         },
         "A041": {
+          "1": {
+            "p": 33,
+            "n": 7,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          },
           "2": {
             "p": 27,
             "n": 50,
             "t": 7,
             "dt": "2026-10-09",
-            "d": true
+            "d": false
           }
         },
-        "ADSS": {
+        "A042": {
+          "2": {
+            "p": 17,
+            "n": 9,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          }
+        },
+        "A045": {
           "1": {
-            "p": 77.5,
-            "n": 250,
-            "t": 7,
-            "dt": "2026-10-09",
-            "d": true
+            "p": 53.5,
+            "n": 21,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          },
+          "2": {
+            "p": 48,
+            "n": 27,
+            "t": 3,
+            "dt": "2026-09-21",
+            "d": false
+          }
+        },
+        "A046": {
+          "1": {
+            "p": 32,
+            "n": 58,
+            "t": 2,
+            "dt": "2026-09-11",
+            "d": false
+          },
+          "2": {
+            "p": 36.5,
+            "n": 57,
+            "t": 5,
+            "dt": "2026-09-30",
+            "d": false
+          }
+        },
+        "A047": {
+          "1": {
+            "p": 72,
+            "n": 6,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          }
+        },
+        "A050": {
+          "1": {
+            "p": 48,
+            "n": 32,
+            "t": 3,
+            "dt": "2026-09-21",
+            "d": false
+          }
+        },
+        "A051": {
+          "2": {
+            "p": 17,
+            "n": 17,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          }
+        },
+        "A052": {
+          "1": {
+            "p": 54,
+            "n": 1,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          }
+        },
+        "A054": {
+          "1": {
+            "p": 173.5,
+            "n": 2,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          }
+        },
+        "A060": {
+          "1": {
+            "p": 36,
+            "n": 20,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          },
+          "2": {
+            "p": 81,
+            "n": 72,
+            "t": 5,
+            "dt": "2026-09-30",
+            "d": false
+          }
+        },
+        "AAAA": {
+          "1": {
+            "p": 10,
+            "n": 502,
+            "t": 2,
+            "dt": "2026-09-11",
+            "d": false
+          },
+          "2": {
+            "p": 17,
+            "n": 36,
+            "t": 3,
+            "dt": "2026-09-21",
+            "d": false
+          }
+        },
+        "ADAA": {
+          "1": {
+            "p": 84,
+            "n": 16,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          },
+          "2": {
+            "p": 55,
+            "n": 27,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          }
+        },
+        "ADEE": {
+          "1": {
+            "p": 72,
+            "n": 83,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          },
+          "2": {
+            "p": 54,
+            "n": 89,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          }
+        },
+        "ADMM": {
+          "1": {
+            "p": 36,
+            "n": 180,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          },
+          "2": {
+            "p": 55,
+            "n": 32,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          }
+        },
+        "AG56": {
+          "1": {
+            "p": 101,
+            "n": 1,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          }
+        },
+        "AJ55": {
+          "1": {
+            "p": 74,
+            "n": 1,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          }
+        },
+        "AM01": {
+          "1": {
+            "p": 35,
+            "n": 38,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
           }
         },
         "AM12": {
           "1": {
-            "p": 91,
-            "n": 74,
-            "t": 7,
-            "dt": "2026-10-09",
-            "d": true
+            "p": 80.5,
+            "n": 98,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          }
+        },
+        "AM2A": {
+          "1": {
+            "p": 31,
+            "n": 31,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          }
+        },
+        "AM2B": {
+          "1": {
+            "p": 56,
+            "n": 81,
+            "t": 2,
+            "dt": "2026-09-11",
+            "d": false
+          }
+        },
+        "AM2C": {
+          "1": {
+            "p": 114,
+            "n": 8,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          }
+        },
+        "AM30": {
+          "1": {
+            "p": 36,
+            "n": 27,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          }
+        },
+        "AM48": {
+          "1": {
+            "p": 55,
+            "n": 62,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          }
+        },
+        "AM55": {
+          "1": {
+            "p": 62,
+            "n": 3,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          }
+        },
+        "AO55": {
+          "1": {
+            "p": 89.5,
+            "n": 1,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          }
+        },
+        "AS01": {
+          "1": {
+            "p": 134,
+            "n": 3,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          },
+          "2": {
+            "p": 104.5,
+            "n": 22,
+            "t": 2,
+            "dt": "2026-09-11",
+            "d": false
+          }
+        },
+        "AS12": {
+          "1": {
+            "p": 43,
+            "n": 169,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          }
+        },
+        "AS2A": {
+          "1": {
+            "p": 65,
+            "n": 22,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          }
+        },
+        "AS2B": {
+          "1": {
+            "p": 100,
+            "n": 45,
+            "t": 2,
+            "dt": "2026-09-11",
+            "d": false
+          }
+        },
+        "AS2C": {
+          "1": {
+            "p": 79.5,
+            "n": 18,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          }
+        },
+        "AS2D": {
+          "1": {
+            "p": 87,
+            "n": 9,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          }
+        },
+        "AS2I": {
+          "2": {
+            "p": 65,
+            "n": 4,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          }
+        },
+        "AS48": {
+          "1": {
+            "p": 105,
+            "n": 13,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          }
+        },
+        "B003": {
+          "2": {
+            "p": 54.5,
+            "n": 25,
+            "t": 2,
+            "dt": "2026-09-11",
+            "d": false
+          }
+        },
+        "B007": {
+          "2": {
+            "p": 24.5,
+            "n": 6,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          }
+        },
+        "B011": {
+          "2": {
+            "p": 32,
+            "n": 14,
+            "t": 2,
+            "dt": "2026-09-11",
+            "d": false
+          }
+        },
+        "B012": {
+          "2": {
+            "p": 25,
+            "n": 40,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          }
+        },
+        "B014": {
+          "2": {
+            "p": 25.5,
+            "n": 37,
+            "t": 6,
+            "dt": "2026-10-06",
+            "d": false
+          }
+        },
+        "B015": {
+          "1": {
+            "p": 13,
+            "n": 6,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          },
+          "2": {
+            "p": 36.5,
+            "n": 22,
+            "t": 5,
+            "dt": "2026-09-30",
+            "d": false
+          }
+        },
+        "B016": {
+          "1": {
+            "p": 38,
+            "n": 11,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          },
+          "2": {
+            "p": 46,
+            "n": 20,
+            "t": 2,
+            "dt": "2026-09-11",
+            "d": false
           }
         },
         "B017": {
+          "1": {
+            "p": 34.5,
+            "n": 13,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          },
           "2": {
             "p": 21,
             "n": 40,
             "t": 8,
             "dt": "2026-10-14",
-            "d": true
+            "d": false
+          }
+        },
+        "B018": {
+          "2": {
+            "p": 46,
+            "n": 3,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          }
+        },
+        "B019": {
+          "2": {
+            "p": 37,
+            "n": 19,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          }
+        },
+        "B020": {
+          "1": {
+            "p": 76,
+            "n": 10,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          }
+        },
+        "B021": {
+          "1": {
+            "p": 50,
+            "n": 8,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          }
+        },
+        "B022": {
+          "1": {
+            "p": 79,
+            "n": 5,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          }
+        },
+        "B023": {
+          "2": {
+            "p": 37.5,
+            "n": 18,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          }
+        },
+        "BA02": {
+          "2": {
+            "p": 100,
+            "n": 1,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          }
+        },
+        "BB02": {
+          "1": {
+            "p": 270,
+            "n": 1,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          },
+          "2": {
+            "p": 44,
+            "n": 3,
+            "t": 2,
+            "dt": "2026-09-11",
+            "d": false
+          }
+        },
+        "BC02": {
+          "2": {
+            "p": 97,
+            "n": 3,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          }
+        },
+        "BD02": {
+          "1": {
+            "p": 127,
+            "n": 2,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          }
+        },
+        "BI02": {
+          "2": {
+            "p": 126.5,
+            "n": 1,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          }
+        },
+        "EEEE": {
+          "1": {
+            "p": 21,
+            "n": 443,
+            "t": 2,
+            "dt": "2026-09-11",
+            "d": false
+          },
+          "2": {
+            "p": 7,
+            "n": 70,
+            "t": 4,
+            "dt": "2026-09-25",
+            "d": false
+          }
+        },
+        "EEEM": {
+          "1": {
+            "p": 35.5,
+            "n": 3,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          },
+          "2": {
+            "p": 23,
+            "n": 79,
+            "t": 2,
+            "dt": "2026-09-11",
+            "d": false
+          }
+        },
+        "EEIL": {
+          "1": {
+            "p": 83,
+            "n": 304,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": false
+          }
+        },
+        "A014": {
+          "1": {
+            "p": 65.5,
+            "n": 2,
+            "t": 2,
+            "dt": "2026-09-11",
+            "d": false
+          }
+        },
+        "AB55": {
+          "1": {
+            "p": 63,
+            "n": 1,
+            "t": 2,
+            "dt": "2026-09-11",
+            "d": false
+          }
+        },
+        "ADSS": {
+          "1": {
+            "p": 45,
+            "n": 365,
+            "t": 2,
+            "dt": "2026-09-11",
+            "d": false
           }
         }
       },
       "stato": {
-        "turniLetti": 2,
-        "turniNonLetti": 6
+        "turniLetti": 8,
+        "turniNonLetti": 0
       }
     },
     "RE": {
@@ -1128,10 +1940,10 @@
           "turno": 1,
           "data": "2026-08-31",
           "titolo": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – PRIMA FASE – Ufficio XI",
-          "nomine": 0,
+          "nomine": 973,
           "url": "https://re.istruzioneer.gov.it/2026/08/31/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-prima-fase/",
           "pdfUrl": "https://re.istruzioneer.gov.it/wp-content/uploads/sites/10/2026/08/Bollettino_TotaleNomine-3.pdf",
-          "dubbio": true
+          "dubbio": false
         },
         {
           "id": "RE-2",
@@ -1158,20 +1970,20 @@
           "turno": 4,
           "data": "2026-09-24",
           "titolo": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – QUARTA FASE – Ufficio XI",
-          "nomine": 0,
+          "nomine": 14,
           "url": "https://re.istruzioneer.gov.it/2026/09/24/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-quarta-fase/",
           "pdfUrl": "https://re.istruzioneer.gov.it/wp-content/uploads/sites/10/2026/09/Bollettino_TotaleNomine-2.pdf",
-          "dubbio": true
+          "dubbio": false
         },
         {
           "id": "RE-5",
           "turno": 5,
           "data": "2026-09-29",
           "titolo": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – QUINTA FASE – Ufficio XI",
-          "nomine": 0,
+          "nomine": 10,
           "url": "https://re.istruzioneer.gov.it/2026/09/29/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-quinta-fase/",
           "pdfUrl": "https://re.istruzioneer.gov.it/wp-content/uploads/sites/10/2026/09/Bollettino_TotaleNomine-3.pdf",
-          "dubbio": true
+          "dubbio": false
         },
         {
           "id": "RE-6",
@@ -1188,41 +2000,968 @@
           "turno": null,
           "data": "2026-10-06",
           "titolo": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – SETTIMA FASE – Ufficio XI",
-          "nomine": 0,
+          "nomine": 4,
           "url": "https://re.istruzioneer.gov.it/2026/10/06/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-settima-fase/",
           "pdfUrl": "https://re.istruzioneer.gov.it/wp-content/uploads/sites/10/2026/10/Bollettino_TotaleNomine-1.pdf",
-          "dubbio": true
+          "dubbio": false
         },
         {
           "id": "RE-2026-10-12",
           "turno": null,
           "data": "2026-10-12",
           "titolo": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – NONA FASE – Ufficio XI",
-          "nomine": 0,
+          "nomine": 1,
           "url": "https://re.istruzioneer.gov.it/2026/10/12/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-nona-fase/",
           "pdfUrl": "https://re.istruzioneer.gov.it/wp-content/uploads/sites/10/2026/10/Bollettino_TotaleNomine-3.pdf",
-          "dubbio": true
+          "dubbio": false
         },
         {
           "id": "RE-2026-10-13",
           "turno": null,
           "data": "2026-10-13",
           "titolo": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – DECIMA FASE – Ufficio XI",
-          "nomine": 0,
+          "nomine": 1,
           "url": "https://re.istruzioneer.gov.it/2026/10/13/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-decima-fase/",
           "pdfUrl": "https://re.istruzioneer.gov.it/wp-content/uploads/sites/10/2026/10/Bollettino_TotaleNomine-4.pdf",
-          "dubbio": true
+          "dubbio": false
         }
       ],
-      "soglie": {},
+      "soglie": {
+        "A002": {
+          "2": {
+            "p": 108,
+            "n": 2,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "A005": {
+          "2": {
+            "p": 81.5,
+            "n": 5,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "A008": {
+          "1": {
+            "p": 61,
+            "n": 7,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          },
+          "2": {
+            "p": 100.5,
+            "n": 9,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "A009": {
+          "1": {
+            "p": 172.5,
+            "n": 1,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "A010": {
+          "2": {
+            "p": 35,
+            "n": 10,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "A011": {
+          "1": {
+            "p": 35,
+            "n": 38,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "A014": {
+          "2": {
+            "p": 94.5,
+            "n": 2,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "A015": {
+          "1": {
+            "p": 108,
+            "n": 3,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          },
+          "2": {
+            "p": 118.5,
+            "n": 12,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "A016": {
+          "2": {
+            "p": 50,
+            "n": 84,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "A018": {
+          "1": {
+            "p": 72.5,
+            "n": 95,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "A019": {
+          "1": {
+            "p": 133,
+            "n": 18,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "A020": {
+          "1": {
+            "p": 87,
+            "n": 6,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          },
+          "2": {
+            "p": 35,
+            "n": 69,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "A021": {
+          "1": {
+            "p": 46.5,
+            "n": 13,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          },
+          "2": {
+            "p": 68.5,
+            "n": 17,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "A023": {
+          "1": {
+            "p": 42,
+            "n": 9,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          },
+          "2": {
+            "p": 52,
+            "n": 25,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "A026": {
+          "1": {
+            "p": 38,
+            "n": 30,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          },
+          "2": {
+            "p": 29,
+            "n": 71,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "A027": {
+          "1": {
+            "p": 65,
+            "n": 22,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "A028": {
+          "1": {
+            "p": 39,
+            "n": 102,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "A031": {
+          "1": {
+            "p": 35,
+            "n": 13,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          },
+          "2": {
+            "p": 98,
+            "n": 49,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "A034": {
+          "1": {
+            "p": 51,
+            "n": 13,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          },
+          "2": {
+            "p": 50,
+            "n": 58,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "A037": {
+          "1": {
+            "p": 95,
+            "n": 11,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          },
+          "2": {
+            "p": 36,
+            "n": 113,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "A040": {
+          "1": {
+            "p": 71,
+            "n": 4,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          },
+          "2": {
+            "p": 23.5,
+            "n": 29,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "A041": {
+          "1": {
+            "p": 30,
+            "n": 4,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          },
+          "2": {
+            "p": 30,
+            "n": 45,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "A042": {
+          "1": {
+            "p": 81,
+            "n": 2,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          },
+          "2": {
+            "p": 24.5,
+            "n": 9,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "A045": {
+          "1": {
+            "p": 38,
+            "n": 47,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          },
+          "2": {
+            "p": 70,
+            "n": 47,
+            "t": 5,
+            "dt": "2026-09-29",
+            "d": true
+          }
+        },
+        "A046": {
+          "1": {
+            "p": 39.5,
+            "n": 117,
+            "t": 4,
+            "dt": "2026-09-24",
+            "d": true
+          }
+        },
+        "A047": {
+          "1": {
+            "p": 49.5,
+            "n": 12,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "A050": {
+          "1": {
+            "p": 70,
+            "n": 53,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "A051": {
+          "1": {
+            "p": 32,
+            "n": 7,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          },
+          "2": {
+            "p": 34,
+            "n": 43,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "A052": {
+          "2": {
+            "p": 217.5,
+            "n": 1,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "A059": {
+          "1": {
+            "p": 56,
+            "n": 2,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "A060": {
+          "1": {
+            "p": 39,
+            "n": 33,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          },
+          "2": {
+            "p": 74.5,
+            "n": 128,
+            "t": null,
+            "dt": "2026-10-06",
+            "d": true
+          }
+        },
+        "A062": {
+          "2": {
+            "p": 44,
+            "n": 4,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "A066": {
+          "2": {
+            "p": 17,
+            "n": 48,
+            "t": null,
+            "dt": "2026-10-06",
+            "d": true
+          }
+        },
+        "AAAA": {
+          "1": {
+            "p": 10,
+            "n": 716,
+            "t": 5,
+            "dt": "2026-09-29",
+            "d": true
+          },
+          "2": {
+            "p": 8,
+            "n": 116,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "ADAA": {
+          "1": {
+            "p": 26,
+            "n": 29,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          },
+          "2": {
+            "p": 60,
+            "n": 30,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "ADEE": {
+          "1": {
+            "p": 72,
+            "n": 123,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          },
+          "2": {
+            "p": 53,
+            "n": 127,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "ADMM": {
+          "1": {
+            "p": 36,
+            "n": 292,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          },
+          "2": {
+            "p": 82,
+            "n": 68,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "ADSS": {
+          "1": {
+            "p": 37,
+            "n": 623,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "AG56": {
+          "1": {
+            "p": 82,
+            "n": 2,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "AM01": {
+          "1": {
+            "p": 36,
+            "n": 68,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          },
+          "2": {
+            "p": 59,
+            "n": 111,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "AM12": {
+          "1": {
+            "p": 39,
+            "n": 283,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "AM2A": {
+          "1": {
+            "p": 72.5,
+            "n": 30,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          },
+          "2": {
+            "p": 41,
+            "n": 45,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "AM2B": {
+          "1": {
+            "p": 60,
+            "n": 115,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "AM2C": {
+          "1": {
+            "p": 74,
+            "n": 21,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          },
+          "2": {
+            "p": 73.5,
+            "n": 40,
+            "t": 4,
+            "dt": "2026-09-24",
+            "d": true
+          }
+        },
+        "AM2D": {
+          "1": {
+            "p": 64,
+            "n": 12,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "AM30": {
+          "1": {
+            "p": 36,
+            "n": 47,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          },
+          "2": {
+            "p": 160,
+            "n": 5,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "AM48": {
+          "1": {
+            "p": 36,
+            "n": 107,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "AS01": {
+          "1": {
+            "p": 88,
+            "n": 41,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "AS12": {
+          "1": {
+            "p": 69,
+            "n": 191,
+            "t": null,
+            "dt": "2026-10-06",
+            "d": true
+          }
+        },
+        "AS23": {
+          "2": {
+            "p": 44,
+            "n": 29,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "AS2A": {
+          "1": {
+            "p": 47,
+            "n": 34,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "AS2B": {
+          "1": {
+            "p": 43,
+            "n": 128,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "AS2C": {
+          "1": {
+            "p": 73,
+            "n": 21,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          },
+          "2": {
+            "p": 24,
+            "n": 92,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "AS2D": {
+          "1": {
+            "p": 42,
+            "n": 14,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          },
+          "2": {
+            "p": 52.5,
+            "n": 26,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "AS2E": {
+          "1": {
+            "p": 59,
+            "n": 3,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "AS48": {
+          "1": {
+            "p": 33,
+            "n": 109,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "B003": {
+          "1": {
+            "p": 115.5,
+            "n": 1,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          },
+          "2": {
+            "p": 72,
+            "n": 24,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "B006": {
+          "1": {
+            "p": 49,
+            "n": 6,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "B011": {
+          "1": {
+            "p": 56,
+            "n": 5,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          },
+          "2": {
+            "p": 38.5,
+            "n": 38,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "B012": {
+          "1": {
+            "p": 41.5,
+            "n": 9,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          },
+          "2": {
+            "p": 184,
+            "n": 2,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "B014": {
+          "1": {
+            "p": 35.5,
+            "n": 16,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "B015": {
+          "1": {
+            "p": 47,
+            "n": 17,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "B016": {
+          "1": {
+            "p": 56,
+            "n": 21,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "B017": {
+          "1": {
+            "p": 51,
+            "n": 17,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          },
+          "2": {
+            "p": 18,
+            "n": 120,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "B018": {
+          "1": {
+            "p": 117,
+            "n": 1,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "B019": {
+          "1": {
+            "p": 65,
+            "n": 9,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          },
+          "2": {
+            "p": 85,
+            "n": 9,
+            "t": 4,
+            "dt": "2026-09-24",
+            "d": true
+          }
+        },
+        "B020": {
+          "1": {
+            "p": 54,
+            "n": 16,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "B021": {
+          "1": {
+            "p": 158.5,
+            "n": 2,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          },
+          "2": {
+            "p": 33.5,
+            "n": 21,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "B022": {
+          "1": {
+            "p": 60.5,
+            "n": 4,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "B023": {
+          "1": {
+            "p": 45,
+            "n": 5,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "BA02": {
+          "2": {
+            "p": 135,
+            "n": 4,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "BB02": {
+          "2": {
+            "p": 60,
+            "n": 2,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "BC02": {
+          "1": {
+            "p": 55,
+            "n": 2,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "EEEE": {
+          "1": {
+            "p": 10,
+            "n": 728,
+            "t": 5,
+            "dt": "2026-09-29",
+            "d": true
+          },
+          "2": {
+            "p": 6,
+            "n": 160,
+            "t": 4,
+            "dt": "2026-09-24",
+            "d": true
+          }
+        },
+        "EEEM": {
+          "1": {
+            "p": 27.5,
+            "n": 6,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          },
+          "2": {
+            "p": 12,
+            "n": 146,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "PPPP": {
+          "1": {
+            "p": 15,
+            "n": 4,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          },
+          "2": {
+            "p": 78.5,
+            "n": 48,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        }
+      },
       "stato": {
-        "turniLetti": 0,
-        "turniNonLetti": 9
+        "turniLetti": 6,
+        "turniNonLetti": 3
       }
     },
     "BO": {
       "bollettini": [],
-      "soglie": {}
+      "soglie": {},
+      "stato": {
+        "turniLetti": 0,
+        "turniNonLetti": 18
+      }
     },
     "FC": {
       "bollettini": [
@@ -1231,20 +2970,20 @@
           "turno": 1,
           "data": "2026-08-31",
           "titolo": "Supplenze personale docente ed educativo a.s. 2026/2027 – turno 31/08/2026 – Ufficio VII – sede di Forlì",
-          "nomine": 0,
+          "nomine": 687,
           "url": "https://fc.istruzioneer.gov.it/2026/08/31/supplenze-personale-docente-ed-educativo-a-s-2026-2027-turno-31-08-2026/",
           "pdfUrl": "https://fc.istruzioneer.gov.it/wp-content/uploads/sites/4/2026/08/bollettino_GPS_turno_1-signed.pdf",
-          "dubbio": true
+          "dubbio": false
         },
         {
           "id": "FC-2",
           "turno": 2,
           "data": "2026-09-10",
           "titolo": "Supplenze personale docente ed educativo a.s. 2026/2027 – turno 10/09/2026 – Ufficio VII – sede di Forlì",
-          "nomine": 0,
+          "nomine": 67,
           "url": "https://fc.istruzioneer.gov.it/2026/09/10/supplenze-personale-docente-ed-educativo-a-s-2026-2027-turno-10-09-2026/",
           "pdfUrl": "https://fc.istruzioneer.gov.it/wp-content/uploads/sites/4/2026/09/Bollettino_TotaleNomine_2026-09-10-signed.pdf",
-          "dubbio": true
+          "dubbio": false
         },
         {
           "id": "FC-2026-09-22",
@@ -1261,10 +3000,10 @@
           "turno": null,
           "data": "2026-09-28",
           "titolo": "Supplenze personale docente ed educativo a.s. 2026/2027 – turno 28/09/2026 – Ufficio VII – sede di Forlì",
-          "nomine": 0,
+          "nomine": 9,
           "url": "https://fc.istruzioneer.gov.it/2026/09/28/supplenze-personale-docente-ed-educativo-a-s-2026-2027-turno-28-09-2026/",
           "pdfUrl": "https://fc.istruzioneer.gov.it/wp-content/uploads/sites/4/2026/09/Bollettino_nomine_turno_4-signed.pdf",
-          "dubbio": true
+          "dubbio": false
         },
         {
           "id": "FC-2026-10-01",
@@ -1317,10 +3056,890 @@
           "dubbio": true
         }
       ],
-      "soglie": {},
+      "soglie": {
+        "A002": {
+          "2": {
+            "p": 172,
+            "n": 1,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "A008": {
+          "1": {
+            "p": 100,
+            "n": 1,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          },
+          "2": {
+            "p": 104,
+            "n": 7,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "A009": {
+          "1": {
+            "p": 145,
+            "n": 1,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          },
+          "2": {
+            "p": 40,
+            "n": 27,
+            "t": 2,
+            "dt": "2026-09-10",
+            "d": true
+          }
+        },
+        "A010": {
+          "1": {
+            "p": 67,
+            "n": 6,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "A011": {
+          "1": {
+            "p": 45.5,
+            "n": 44,
+            "t": 2,
+            "dt": "2026-09-10",
+            "d": true
+          }
+        },
+        "A013": {
+          "1": {
+            "p": 42,
+            "n": 11,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "A015": {
+          "1": {
+            "p": 110,
+            "n": 2,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          },
+          "2": {
+            "p": 149.5,
+            "n": 2,
+            "t": 2,
+            "dt": "2026-09-10",
+            "d": true
+          }
+        },
+        "A016": {
+          "2": {
+            "p": 123,
+            "n": 11,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "A018": {
+          "1": {
+            "p": 47,
+            "n": 79,
+            "t": 2,
+            "dt": "2026-09-10",
+            "d": true
+          }
+        },
+        "A019": {
+          "1": {
+            "p": 71.5,
+            "n": 26,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "A020": {
+          "2": {
+            "p": 36,
+            "n": 68,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "A021": {
+          "1": {
+            "p": 83,
+            "n": 6,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "A023": {
+          "2": {
+            "p": 31,
+            "n": 21,
+            "t": 2,
+            "dt": "2026-09-10",
+            "d": true
+          }
+        },
+        "A026": {
+          "1": {
+            "p": 91,
+            "n": 10,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "A027": {
+          "1": {
+            "p": 78,
+            "n": 19,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "A028": {
+          "1": {
+            "p": 36,
+            "n": 55,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          },
+          "2": {
+            "p": 100,
+            "n": 29,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "A031": {
+          "1": {
+            "p": 36,
+            "n": 7,
+            "t": 2,
+            "dt": "2026-09-10",
+            "d": true
+          }
+        },
+        "A032": {
+          "2": {
+            "p": 71.5,
+            "n": 31,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "A033": {
+          "2": {
+            "p": 31.5,
+            "n": 4,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "A034": {
+          "1": {
+            "p": 54,
+            "n": 9,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "A037": {
+          "1": {
+            "p": 40,
+            "n": 9,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          },
+          "2": {
+            "p": 34,
+            "n": 114,
+            "t": 2,
+            "dt": "2026-09-10",
+            "d": true
+          }
+        },
+        "A040": {
+          "1": {
+            "p": 62,
+            "n": 3,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          },
+          "2": {
+            "p": 22.5,
+            "n": 28,
+            "t": 2,
+            "dt": "2026-09-10",
+            "d": true
+          }
+        },
+        "A041": {
+          "1": {
+            "p": 61.5,
+            "n": 6,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          },
+          "2": {
+            "p": 25,
+            "n": 57,
+            "t": 2,
+            "dt": "2026-09-10",
+            "d": true
+          }
+        },
+        "A042": {
+          "1": {
+            "p": 60,
+            "n": 5,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          },
+          "2": {
+            "p": 28.5,
+            "n": 18,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "A045": {
+          "1": {
+            "p": 33,
+            "n": 40,
+            "t": 2,
+            "dt": "2026-09-10",
+            "d": true
+          },
+          "2": {
+            "p": 94,
+            "n": 9,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "A046": {
+          "1": {
+            "p": 64,
+            "n": 59,
+            "t": 2,
+            "dt": "2026-09-10",
+            "d": true
+          }
+        },
+        "A047": {
+          "1": {
+            "p": 43,
+            "n": 11,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          },
+          "2": {
+            "p": 147.5,
+            "n": 7,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "A050": {
+          "1": {
+            "p": 41,
+            "n": 32,
+            "t": 2,
+            "dt": "2026-09-10",
+            "d": true
+          }
+        },
+        "A051": {
+          "2": {
+            "p": 73,
+            "n": 21,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "A052": {
+          "2": {
+            "p": 113,
+            "n": 6,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "A053": {
+          "1": {
+            "p": 88.5,
+            "n": 1,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "A054": {
+          "1": {
+            "p": 39,
+            "n": 20,
+            "t": 2,
+            "dt": "2026-09-10",
+            "d": true
+          }
+        },
+        "A060": {
+          "1": {
+            "p": 35,
+            "n": 36,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          },
+          "2": {
+            "p": 55,
+            "n": 130,
+            "t": null,
+            "dt": "2026-09-28",
+            "d": true
+          }
+        },
+        "A064": {
+          "1": {
+            "p": 51,
+            "n": 2,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "AAAA": {
+          "1": {
+            "p": 17,
+            "n": 750,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          },
+          "2": {
+            "p": 11,
+            "n": 83,
+            "t": 2,
+            "dt": "2026-09-10",
+            "d": true
+          }
+        },
+        "AC56": {
+          "1": {
+            "p": 186,
+            "n": 1,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "ADAA": {
+          "1": {
+            "p": 39,
+            "n": 27,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          },
+          "2": {
+            "p": 72,
+            "n": 26,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "ADEE": {
+          "1": {
+            "p": 70,
+            "n": 99,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          },
+          "2": {
+            "p": 52,
+            "n": 76,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "ADMM": {
+          "1": {
+            "p": 36,
+            "n": 169,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          },
+          "2": {
+            "p": 66,
+            "n": 36,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "ADSS": {
+          "1": {
+            "p": 38,
+            "n": 372,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "AG56": {
+          "1": {
+            "p": 76.5,
+            "n": 2,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "AJ55": {
+          "1": {
+            "p": 90,
+            "n": 3,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "AJ56": {
+          "1": {
+            "p": 137.5,
+            "n": 4,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "AM01": {
+          "1": {
+            "p": 85.5,
+            "n": 43,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "AM12": {
+          "1": {
+            "p": 84,
+            "n": 98,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "AM2A": {
+          "1": {
+            "p": 48,
+            "n": 25,
+            "t": 2,
+            "dt": "2026-09-10",
+            "d": true
+          }
+        },
+        "AM2B": {
+          "1": {
+            "p": 46,
+            "n": 100,
+            "t": 2,
+            "dt": "2026-09-10",
+            "d": true
+          }
+        },
+        "AM2C": {
+          "1": {
+            "p": 10,
+            "n": 35,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          },
+          "2": {
+            "p": 115,
+            "n": 11,
+            "t": 2,
+            "dt": "2026-09-10",
+            "d": true
+          }
+        },
+        "AM30": {
+          "1": {
+            "p": 41,
+            "n": 24,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          },
+          "2": {
+            "p": 82,
+            "n": 44,
+            "t": 2,
+            "dt": "2026-09-10",
+            "d": true
+          }
+        },
+        "AM48": {
+          "1": {
+            "p": 73,
+            "n": 53,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "AP55": {
+          "1": {
+            "p": 136.5,
+            "n": 2,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "AR55": {
+          "1": {
+            "p": 140.5,
+            "n": 1,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "AS01": {
+          "1": {
+            "p": 84,
+            "n": 40,
+            "t": 2,
+            "dt": "2026-09-10",
+            "d": true
+          }
+        },
+        "AS12": {
+          "1": {
+            "p": 72,
+            "n": 124,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "AS2A": {
+          "1": {
+            "p": 103.5,
+            "n": 12,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "AS2B": {
+          "1": {
+            "p": 62,
+            "n": 82,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "AS2C": {
+          "1": {
+            "p": 74,
+            "n": 24,
+            "t": 2,
+            "dt": "2026-09-10",
+            "d": true
+          }
+        },
+        "AS2D": {
+          "1": {
+            "p": 68,
+            "n": 3,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "AS2I": {
+          "1": {
+            "p": 104.5,
+            "n": 1,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "AS48": {
+          "1": {
+            "p": 87,
+            "n": 34,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "B006": {
+          "2": {
+            "p": 56,
+            "n": 2,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "B011": {
+          "1": {
+            "p": 56,
+            "n": 2,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          },
+          "2": {
+            "p": 50.5,
+            "n": 12,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "B012": {
+          "1": {
+            "p": 99,
+            "n": 4,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "B014": {
+          "1": {
+            "p": 39.5,
+            "n": 6,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          },
+          "2": {
+            "p": 40,
+            "n": 25,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "B015": {
+          "1": {
+            "p": 28,
+            "n": 7,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          },
+          "2": {
+            "p": 29,
+            "n": 27,
+            "t": null,
+            "dt": "2026-09-28",
+            "d": true
+          }
+        },
+        "B016": {
+          "1": {
+            "p": 47,
+            "n": 22,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          },
+          "2": {
+            "p": 42,
+            "n": 29,
+            "t": 2,
+            "dt": "2026-09-10",
+            "d": true
+          }
+        },
+        "B017": {
+          "1": {
+            "p": 68,
+            "n": 7,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          },
+          "2": {
+            "p": 26.5,
+            "n": 47,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "B018": {
+          "1": {
+            "p": 105,
+            "n": 4,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          },
+          "2": {
+            "p": 57,
+            "n": 7,
+            "t": 2,
+            "dt": "2026-09-10",
+            "d": true
+          }
+        },
+        "B019": {
+          "1": {
+            "p": 36,
+            "n": 5,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "B021": {
+          "1": {
+            "p": 101,
+            "n": 3,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "B022": {
+          "1": {
+            "p": 50.5,
+            "n": 3,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "B023": {
+          "2": {
+            "p": 89,
+            "n": 4,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "BB02": {
+          "2": {
+            "p": 192,
+            "n": 1,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "BC02": {
+          "1": {
+            "p": 81,
+            "n": 2,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "BE02": {
+          "1": {
+            "p": 184,
+            "n": 1,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "EEEE": {
+          "1": {
+            "p": 11,
+            "n": 744,
+            "t": null,
+            "dt": "2026-09-28",
+            "d": true
+          },
+          "2": {
+            "p": 7,
+            "n": 123,
+            "t": 2,
+            "dt": "2026-09-10",
+            "d": true
+          }
+        },
+        "EEEM": {
+          "2": {
+            "p": 28,
+            "n": 55,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "EEIL": {
+          "1": {
+            "p": 109,
+            "n": 352,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        },
+        "PPPP": {
+          "2": {
+            "p": 16,
+            "n": 157,
+            "t": 1,
+            "dt": "2026-08-31",
+            "d": true
+          }
+        }
+      },
       "stato": {
-        "turniLetti": 0,
-        "turniNonLetti": 6
+        "turniLetti": 3,
+        "turniNonLetti": 3
       }
     },
     "PR": {
@@ -1459,10 +4078,10 @@
           "turno": 3,
           "data": "2026-09-16",
           "titolo": "Nomine a tempo determinato A.S. 2026/2027 – Esito terzo turno – Ufficio IX",
-          "nomine": 0,
+          "nomine": 18,
           "url": "https://pc.istruzioneer.gov.it/2026/09/16/nomine-a-tempo-determinato-a-s-2026-2027-esito-terzo-turno/",
           "pdfUrl": "https://pc.istruzioneer.gov.it/wp-content/uploads/sites/9/2026/09/Bollettino_TotaleNomine.pdf",
-          "dubbio": true
+          "dubbio": false
         },
         {
           "id": "PC-4",
@@ -1519,10 +4138,10 @@
           "turno": 9,
           "data": "2026-10-09",
           "titolo": "Nomine a tempo determinato A.S. 2026/2027 – Esito turno 9 – Ufficio IX",
-          "nomine": 0,
+          "nomine": 7,
           "url": "https://pc.istruzioneer.gov.it/2026/10/09/nomine-a-tempo-determinato-a-s-2026-2027-esito-turno-9/",
           "pdfUrl": "https://pc.istruzioneer.gov.it/wp-content/uploads/sites/9/2026/10/BOLLETTINO-DEFINITIVO-9-TURNO.pdf",
-          "dubbio": true
+          "dubbio": false
         },
         {
           "id": "PC-10",
@@ -1535,10 +4154,160 @@
           "dubbio": true
         }
       ],
-      "soglie": {},
+      "soglie": {
+        "A037": {
+          "2": {
+            "p": 30.5,
+            "n": 104,
+            "t": 3,
+            "dt": "2026-09-16",
+            "d": true
+          }
+        },
+        "A045": {
+          "2": {
+            "p": 88,
+            "n": 26,
+            "t": 3,
+            "dt": "2026-09-16",
+            "d": true
+          }
+        },
+        "A047": {
+          "2": {
+            "p": 125.5,
+            "n": 34,
+            "t": 3,
+            "dt": "2026-09-16",
+            "d": true
+          }
+        },
+        "AAAA": {
+          "1": {
+            "p": 22,
+            "n": 396,
+            "t": 3,
+            "dt": "2026-09-16",
+            "d": true
+          }
+        },
+        "ADSS": {
+          "1": {
+            "p": 42.5,
+            "n": 235,
+            "t": 3,
+            "dt": "2026-09-16",
+            "d": true
+          }
+        },
+        "AM12": {
+          "1": {
+            "p": 44,
+            "n": 157,
+            "t": 9,
+            "dt": "2026-10-09",
+            "d": true
+          }
+        },
+        "AM2B": {
+          "1": {
+            "p": 53,
+            "n": 58,
+            "t": 3,
+            "dt": "2026-09-16",
+            "d": true
+          },
+          "2": {
+            "p": 92,
+            "n": 29,
+            "t": 3,
+            "dt": "2026-09-16",
+            "d": true
+          }
+        },
+        "AM30": {
+          "2": {
+            "p": 71,
+            "n": 34,
+            "t": 9,
+            "dt": "2026-10-09",
+            "d": true
+          }
+        },
+        "B003": {
+          "2": {
+            "p": 20.5,
+            "n": 37,
+            "t": 3,
+            "dt": "2026-09-16",
+            "d": true
+          }
+        },
+        "B016": {
+          "2": {
+            "p": 36,
+            "n": 25,
+            "t": 3,
+            "dt": "2026-09-16",
+            "d": true
+          }
+        },
+        "B017": {
+          "2": {
+            "p": 23,
+            "n": 48,
+            "t": 3,
+            "dt": "2026-09-16",
+            "d": true
+          }
+        },
+        "B023": {
+          "2": {
+            "p": 38,
+            "n": 4,
+            "t": 3,
+            "dt": "2026-09-16",
+            "d": true
+          }
+        },
+        "A028": {
+          "1": {
+            "p": 41,
+            "n": 57,
+            "t": 9,
+            "dt": "2026-10-09",
+            "d": true
+          },
+          "2": {
+            "p": 81,
+            "n": 46,
+            "t": 9,
+            "dt": "2026-10-09",
+            "d": true
+          }
+        },
+        "A060": {
+          "2": {
+            "p": 78,
+            "n": 119,
+            "t": 9,
+            "dt": "2026-10-09",
+            "d": true
+          }
+        },
+        "EEEE": {
+          "2": {
+            "p": 40,
+            "n": 54,
+            "t": 9,
+            "dt": "2026-10-09",
+            "d": true
+          }
+        }
+      },
       "stato": {
-        "turniLetti": 0,
-        "turniNonLetti": 10
+        "turniLetti": 2,
+        "turniNonLetti": 8
       }
     },
     "RA": {
@@ -1610,7 +4379,7 @@
           "titolo": "GPS a.s. 2026/27: Esiti del settimo turno di nomina – Ufficio X",
           "nomine": 0,
           "url": "https://ra.istruzioneer.gov.it/2026/10/06/gps-a-s-2026-27-esiti-del-settimo-turno-di-nomina/",
-          "pdfUrl": "https://ra.istruzioneer.gov.it/wp-content/uploads/sites/7/2026/10/disp_7170-26.pdf",
+          "pdfUrl": "https://ra.istruzioneer.gov.it/wp-content/uploads/sites/7/2026/10/7170-26_all_a.pdf",
           "dubbio": true
         },
         {
@@ -1620,7 +4389,7 @@
           "titolo": "GPS a.s. 2026/27: Esiti dell’ottavo turno di nomina – Ufficio X",
           "nomine": 0,
           "url": "https://ra.istruzioneer.gov.it/2026/10/08/gps-a-s-2026-27-esiti-dellottavo-turno-di-nomina/",
-          "pdfUrl": "https://ra.istruzioneer.gov.it/wp-content/uploads/sites/7/2026/10/disp_7232-26_viii.pdf",
+          "pdfUrl": "https://ra.istruzioneer.gov.it/wp-content/uploads/sites/7/2026/10/7232-26_all_a.pdf",
           "dubbio": true
         },
         {
@@ -1652,7 +4421,11 @@
     },
     "RN": {
       "bollettini": [],
-      "soglie": {}
+      "soglie": {},
+      "stato": {
+        "turniLetti": 0,
+        "turniNonLetti": 6
+      }
     },
     "AV": {
       "bollettini": [
@@ -1846,7 +4619,7 @@
           "titolo": "Scuola secondaria di primo grado – Nomine a tempo determinato a. s. 2026/2027 – Ulteriori rettifiche assegnazioni e posti orario – UFFICIO VI",
           "nomine": 0,
           "url": "https://www.uat-napoli.it/scuola-secondaria-di-primo-grado-nomine-a-tempo-determinato-a-s-2026-2027-ulteriori-rettifiche-assegnazioni-e-posti-orario/",
-          "pdfUrl": "https://www.uat-napoli.it/wp-content/uploads/2026/09/m_pi.AOOUSPNA.REGISTRO-UFFICIALEI.0024435.18-09-2026.pdf",
+          "pdfUrl": "https://www.uat-napoli.it/wp-content/uploads/2026/09/Scioglimento-ed-istituzione-posto-orario.pdf",
           "dubbio": true
         },
         {
