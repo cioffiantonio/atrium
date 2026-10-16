@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-10-16T11:27:27.144Z",
+  "aggiornato": "2026-10-16T17:25:16.042Z",
   "province": {
     "MO": {
       "bollettini": [
@@ -2048,6 +2048,16 @@
           "url": "https://re.istruzioneer.gov.it/2026/10/14/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-undicesima-fase/",
           "pdfUrl": "https://re.istruzioneer.gov.it/wp-content/uploads/sites/10/2026/10/Bollettino_TotaleNomine-5.pdf",
           "dubbio": false
+        },
+        {
+          "id": "RE-2026-10-16",
+          "turno": null,
+          "data": "2026-10-16",
+          "titolo": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – FASE ESONERI/SEMIESONERI – Ufficio XI",
+          "nomine": 2,
+          "url": "https://re.istruzioneer.gov.it/2026/10/16/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-fase-esoneri-semiesoneri/",
+          "pdfUrl": "https://re.istruzioneer.gov.it/wp-content/uploads/sites/10/2026/10/Bollettino_TotaleNomine-7.pdf",
+          "dubbio": false
         }
       ],
       "soglie": {
@@ -2294,10 +2304,10 @@
         },
         "A037": {
           "1": {
-            "p": 95,
-            "n": 11,
-            "t": 1,
-            "dt": "2026-08-31",
+            "p": 92,
+            "n": 12,
+            "t": null,
+            "dt": "2026-10-16",
             "d": false
           },
           "2": {
@@ -3030,7 +3040,7 @@
         }
       },
       "stato": {
-        "turniLetti": 10,
+        "turniLetti": 11,
         "turniNonLetti": 0
       }
     },
@@ -3039,7 +3049,7 @@
       "soglie": {},
       "stato": {
         "turniLetti": 0,
-        "turniNonLetti": 18
+        "turniNonLetti": 19
       }
     },
     "FC": {
@@ -4132,6 +4142,16 @@
           "url": "https://pr.istruzioneer.gov.it/2026/10/13/disponibilita-ed-esiti-per-le-nomine-docenti-a-t-d-da-gps-11-turno-a-s-2026-27/",
           "pdfUrl": "https://pr.istruzioneer.gov.it/wp-content/uploads/sites/8/2026/10/Bollettino-Totale-Nomine-2.pdf",
           "dubbio": false
+        },
+        {
+          "id": "PR-12",
+          "turno": 12,
+          "data": "2026-10-16",
+          "titolo": "Disponibilità ed esiti per le nomine docenti a T.D. da GPS – 12° turno a.s. 2026/27 – Ufficio IX",
+          "nomine": 0,
+          "url": "https://pr.istruzioneer.gov.it/2026/10/16/disponibilita-ed-esiti-per-le-nomine-docenti-a-t-d-da-gps-12-turno-a-s-2026-27/",
+          "pdfUrl": "https://pr.istruzioneer.gov.it/wp-content/uploads/sites/8/2026/10/Bollettino-Totale-Nomine-3.pdf",
+          "dubbio": true
         }
       ],
       "soglie": {
@@ -5156,7 +5176,7 @@
       },
       "stato": {
         "turniLetti": 7,
-        "turniNonLetti": 3
+        "turniNonLetti": 4
       }
     },
     "PC": {
@@ -7114,6 +7134,26 @@
           "url": "https://www.uat-napoli.it/graduatorie-provinciali-di-supplenza-terzo-bollettino-nomine-a-tempo-determinato-2026-2027-ogni-ordine-e-grado-napoli-e-provincia/",
           "pdfUrl": "https://www.uat-napoli.it/wp-content/uploads/2026/10/3°Bollettino_TotaleNomine_Ogni_Ordine_e_Grado_Na.pdf",
           "dubbio": true
+        },
+        {
+          "id": "NA-2026-10-15",
+          "turno": null,
+          "data": "2026-10-15",
+          "titolo": "SCUOLA DELL’INFANZIA E PRIMARIA – GRADUATORIE PROVINCIALI DI SUPPLENZA – DECRETO RETTIFICA 3° BOLLETTINO – UFFICIO VI",
+          "nomine": 0,
+          "url": "https://www.uat-napoli.it/scuola-dellinfanzia-e-primaria-graduatorie-provinciali-di-supplenza-decreto-rettifica-3-bollettino/",
+          "pdfUrl": "https://www.uat-napoli.it/wp-content/uploads/2026/10/m_pi.AOOUSPNA.REGISTRO-UFFICIALEU.0026553.15-10-2026.pdf",
+          "dubbio": true
+        },
+        {
+          "id": "NA-2026-10-16",
+          "turno": null,
+          "data": "2026-10-16",
+          "titolo": "Scuola secondaria di secondo grado – Nomine a tempo determinato a. s. 2026/2027 – rettifiche III bollettino – UFFICIO VI",
+          "nomine": 15,
+          "url": "https://www.uat-napoli.it/scuola-secondaria-di-secondo-grado-nomine-a-tempo-determinato-a-s-2026-2027-rettifiche-iii-bollettino/",
+          "pdfUrl": "https://www.uat-napoli.it/wp-content/uploads/2026/10/RETTIFICHE-GPS_III_BOLLETTINO.pdf",
+          "dubbio": false
         }
       ],
       "soglie": {
