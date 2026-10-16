@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-10-16T05:27:41.020Z",
+  "aggiornato": "2026-10-16T11:27:27.144Z",
   "province": {
     "MO": {
       "bollettini": [
@@ -2038,6 +2038,16 @@
           "url": "https://re.istruzioneer.gov.it/2026/10/13/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-decima-fase/",
           "pdfUrl": "https://re.istruzioneer.gov.it/wp-content/uploads/sites/10/2026/10/Bollettino_TotaleNomine-4.pdf",
           "dubbio": false
+        },
+        {
+          "id": "RE-2026-10-14",
+          "turno": null,
+          "data": "2026-10-14",
+          "titolo": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – UNDICESIMA FASE – Ufficio XI",
+          "nomine": 1,
+          "url": "https://re.istruzioneer.gov.it/2026/10/14/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-undicesima-fase/",
+          "pdfUrl": "https://re.istruzioneer.gov.it/wp-content/uploads/sites/10/2026/10/Bollettino_TotaleNomine-5.pdf",
+          "dubbio": false
         }
       ],
       "soglie": {
@@ -3020,7 +3030,7 @@
         }
       },
       "stato": {
-        "turniLetti": 9,
+        "turniLetti": 10,
         "turniNonLetti": 0
       }
     },
@@ -3093,6 +3103,16 @@
           "url": "https://fc.istruzioneer.gov.it/2026/10/07/supplenze-personale-docente-ed-educativo-a-s-2026-2027-turno-07-10-2026/",
           "pdfUrl": "https://fc.istruzioneer.gov.it/wp-content/uploads/sites/4/2026/10/Bollettino-totale-nomine-del-7.10.2026.pdf",
           "dubbio": true
+        },
+        {
+          "id": "FC-2026-10-15",
+          "turno": null,
+          "data": "2026-10-15",
+          "titolo": "Supplenze personale docente ed educativo a.s. 2026/2027 – turno 15/10/2026 – Ufficio VII – sede di Forlì",
+          "nomine": 7,
+          "url": "https://fc.istruzioneer.gov.it/2026/10/15/supplenze-personale-docente-ed-educativo-a-s-2026-2027-turno-15-10-2026/",
+          "pdfUrl": "https://fc.istruzioneer.gov.it/wp-content/uploads/sites/4/2026/10/Bollettino-totale-nomine-signed.pdf",
+          "dubbio": false
         },
         {
           "id": "FC-2026-09-28",
@@ -3518,10 +3538,10 @@
             "d": true
           },
           "2": {
-            "p": 11,
-            "n": 83,
-            "t": 2,
-            "dt": "2026-09-10",
+            "p": 8,
+            "n": 114,
+            "t": null,
+            "dt": "2026-10-15",
             "d": true
           }
         },
@@ -4007,7 +4027,7 @@
         }
       },
       "stato": {
-        "turniLetti": 4,
+        "turniLetti": 5,
         "turniNonLetti": 2
       }
     },
@@ -5490,6 +5510,16 @@
           "url": "https://ra.istruzioneer.gov.it/2026/10/14/gps-a-s-2026-27-esiti-del-decimo-turno-di-nomina/",
           "pdfUrl": "https://ra.istruzioneer.gov.it/wp-content/uploads/sites/7/2026/10/ALLEGATO-A-1.pdf",
           "dubbio": true
+        },
+        {
+          "id": "RA-2026-10-15",
+          "turno": null,
+          "data": "2026-10-15",
+          "titolo": "GPS a.s. 2026/27: Esiti del undicesimo turno di nomina – Ufficio X",
+          "nomine": 0,
+          "url": "https://ra.istruzioneer.gov.it/2026/10/15/gps-a-s-2026-27-esiti-del-undicesimo-turno-di-nomina/",
+          "pdfUrl": "https://ra.istruzioneer.gov.it/wp-content/uploads/sites/7/2026/10/7423-26_t11_all_a.pdf",
+          "dubbio": true
         }
       ],
       "soglie": {
@@ -5801,7 +5831,7 @@
       },
       "stato": {
         "turniLetti": 5,
-        "turniNonLetti": 4
+        "turniNonLetti": 5
       }
     },
     "RN": {
@@ -8324,7 +8354,7 @@
       "soglie": {},
       "stato": {
         "turniLetti": 0,
-        "turniNonLetti": 4
+        "turniNonLetti": 2
       }
     }
   }
