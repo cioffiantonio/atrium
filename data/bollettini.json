@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-10-19T11:30:14.433Z",
+  "aggiornato": "2026-10-19T17:29:09.061Z",
   "province": {
     "MO": {
       "bollettini": [
@@ -10297,6 +10297,16 @@
           "nomine": 15,
           "url": "https://www.uat-napoli.it/scuola-secondaria-di-secondo-grado-nomine-a-tempo-determinato-a-s-2026-2027-rettifiche-iii-bollettino/",
           "pdfUrl": "https://www.uat-napoli.it/wp-content/uploads/2026/10/RETTIFICHE-GPS_III_BOLLETTINO.pdf",
+          "dubbio": false
+        },
+        {
+          "id": "NA-2026-10-19",
+          "turno": null,
+          "data": "2026-10-19",
+          "titolo": "Scuola secondaria di primo grado – Nomine a tempo determinato a. s. 2026/2027 – Rettifiche ai bollettini di nomina e posti orario – UFFICIO VI",
+          "nomine": 2,
+          "url": "https://www.uat-napoli.it/scuola-secondaria-di-primo-grado-nomine-a-tempo-determinato-a-s-2026-2027-rettifiche-ai-bollettini-di-nomina-e-posti-orario/",
+          "pdfUrl": "https://www.uat-napoli.it/wp-content/uploads/2026/10/Rettifiche-nomine-scuola-secondaria-di-primo-grado.pdf",
           "dubbio": false
         }
       ],
