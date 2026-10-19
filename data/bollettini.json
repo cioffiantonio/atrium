@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-10-19T05:31:09.439Z",
+  "aggiornato": "2026-10-19T11:30:14.433Z",
   "province": {
     "MO": {
       "bollettini": [
@@ -51,6 +51,16 @@
           "nomine": 20,
           "url": "https://mo.istruzioneer.gov.it/2026/10/15/nomine-a-t-d-docenti-ogni-ordine-e-grado-da-gps-a-s-2026-27-5-turno/",
           "pdfUrl": "https://mo.istruzioneer.gov.it/wp-content/uploads/sites/6/2026/10/Bollettino_TotaleNomine-1.pdf",
+          "dubbio": false
+        },
+        {
+          "id": "MO-6",
+          "turno": 6,
+          "data": "2026-10-19",
+          "titolo": "Nomine a t.d. docenti ogni ordine e grado da GPS a.s. 2026/27 – 6° TURNO – Ufficio VIII",
+          "nomine": 7,
+          "url": "https://mo.istruzioneer.gov.it/2026/10/19/nomine-a-t-d-docenti-ogni-ordine-e-grado-da-gps-a-s-2026-27-6-turno/",
+          "pdfUrl": "https://mo.istruzioneer.gov.it/wp-content/uploads/sites/6/2026/10/Bollettino_TotaleNomine-2.pdf",
           "dubbio": false
         },
         {
@@ -445,9 +455,9 @@
         "A066": {
           "2": {
             "p": 33,
-            "n": 57,
-            "t": 5,
-            "dt": "2026-10-15",
+            "n": 58,
+            "t": 6,
+            "dt": "2026-10-19",
             "d": false
           }
         },
@@ -630,10 +640,10 @@
         },
         "AS12": {
           "1": {
-            "p": 55.5,
-            "n": 351,
-            "t": 5,
-            "dt": "2026-10-15",
+            "p": 54,
+            "n": 366,
+            "t": 6,
+            "dt": "2026-10-19",
             "d": false
           }
         },
@@ -782,10 +792,10 @@
             "d": false
           },
           "2": {
-            "p": 122,
-            "n": 8,
-            "t": 5,
-            "dt": "2026-10-15",
+            "p": 62,
+            "n": 27,
+            "t": 6,
+            "dt": "2026-10-19",
             "d": false
           }
         },
@@ -986,7 +996,7 @@
         }
       },
       "stato": {
-        "turniLetti": 5,
+        "turniLetti": 6,
         "turniNonLetti": 0
       },
       "v": 4
@@ -7371,6 +7381,16 @@
           "url": "https://rn.istruzioneer.gov.it/2026/10/09/turno-vi-nomine-a-tempo-determinato-da-gae-gps-a-s-2026-27-personale-docente/",
           "pdfUrl": "https://rn.istruzioneer.gov.it/2026/10/09/turno-vi-nomine-a-tempo-determinato-da-gae-gps-a-s-2026-27-personale-docente/?download=21273",
           "dubbio": false
+        },
+        {
+          "id": "RN-7",
+          "turno": 7,
+          "data": "2026-10-19",
+          "titolo": "Turno VII-Nomine a tempo determinato da GAE/GPS–A.S. 2026/27–Personale docente – Ufficio VII",
+          "nomine": 0,
+          "url": "https://rn.istruzioneer.gov.it/2026/10/19/turno-vii-nomine-a-tempo-determinato-da-gae-gps-a-s-2026-27-personale-docente/",
+          "pdfUrl": "https://rn.istruzioneer.gov.it/2026/10/19/turno-vii-nomine-a-tempo-determinato-da-gae-gps-a-s-2026-27-personale-docente/?download=21429",
+          "dubbio": false
         }
       ],
       "soglie": {
@@ -8254,7 +8274,7 @@
         }
       },
       "stato": {
-        "turniLetti": 5,
+        "turniLetti": 6,
         "turniNonLetti": 1
       },
       "v": 4
