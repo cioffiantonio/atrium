@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-10-20T11:29:31.823Z",
+  "aggiornato": "2026-10-20T17:42:14.872Z",
   "province": {
     "MO": {
       "bollettini": [
@@ -1044,6 +1044,16 @@
           "dubbio": false
         },
         {
+          "id": "FE-9",
+          "turno": 9,
+          "data": "2026-10-20",
+          "titolo": "NOMINE A T.D. DA GPS – PERSONALE DOCENTE DI OGNI ORDINE E GRADO – TURNO 9 – Ufficio VI",
+          "nomine": 1,
+          "url": "https://fe.istruzioneer.gov.it/2026/10/20/nomine-a-t-d-da-gps-personale-docente-di-ogni-ordine-e-grado-turno-9/",
+          "pdfUrl": "https://fe.istruzioneer.gov.it/wp-content/uploads/sites/11/2026/10/BOLLETTINO-IX-TURNO-DI-NOMINA.pdf",
+          "dubbio": false
+        },
+        {
           "id": "FE-8",
           "turno": 8,
           "data": "2026-10-14",
@@ -1195,10 +1205,10 @@
             "d": false
           },
           "2": {
-            "p": 27.5,
-            "n": 72,
-            "t": 8,
-            "dt": "2026-10-14",
+            "p": 24.5,
+            "n": 77,
+            "t": 9,
+            "dt": "2026-10-20",
             "d": false
           }
         },
@@ -1954,7 +1964,7 @@
         }
       },
       "stato": {
-        "turniLetti": 8,
+        "turniLetti": 9,
         "turniNonLetti": 0
       },
       "v": 4
@@ -3210,6 +3220,16 @@
           "dubbio": false
         },
         {
+          "id": "BO-12",
+          "turno": 12,
+          "data": "2026-10-20",
+          "titolo": "Nomine GPS a T.D. ogni ordine e grado. Disponibilità 12° turno a.s. 2026/27 – Ufficio V",
+          "nomine": 0,
+          "url": "https://bo.istruzioneer.gov.it/2026/10/20/nomine-gps-a-t-d-ogni-ordine-e-grado-disponibilita-12-turno-a-s-2026-27/",
+          "pdfUrl": "https://bo.istruzioneer.gov.it/2026/10/20/nomine-gps-a-t-d-ogni-ordine-e-grado-disponibilita-12-turno-a-s-2026-27/?download=38403",
+          "dubbio": true
+        },
+        {
           "id": "BO-11",
           "turno": 11,
           "data": "2026-10-16",
@@ -3297,16 +3317,6 @@
           "nomine": 0,
           "url": "https://bo.istruzioneer.gov.it/2026/09/14/nomine-gps-a-t-d-ogni-ordine-e-grado-disponibilita-2-turno-a-s-2026-27-2/",
           "pdfUrl": "https://bo.istruzioneer.gov.it/2026/09/14/nomine-gps-a-t-d-ogni-ordine-e-grado-disponibilita-2-turno-a-s-2026-27-2/?download=37865",
-          "dubbio": true
-        },
-        {
-          "id": "BO-2",
-          "turno": 2,
-          "data": "2026-09-07",
-          "titolo": "Nomine GPS a T.D. ogni ordine e grado. Disponibilità 2° turno a.s. 2026/27 – Ufficio V",
-          "nomine": 0,
-          "url": "https://bo.istruzioneer.gov.it/2026/09/07/nomine-gps-a-t-d-ogni-ordine-e-grado-disponibilita-2-turno-a-s-2026-27/",
-          "pdfUrl": "https://bo.istruzioneer.gov.it/2026/09/07/nomine-gps-a-t-d-ogni-ordine-e-grado-disponibilita-2-turno-a-s-2026-27/?download=37747",
           "dubbio": true
         }
       ],
@@ -6122,6 +6132,16 @@
           "url": "https://pc.istruzioneer.gov.it/2026/10/13/nomine-a-tempo-determinato-a-s-2026-2027-esito-turno-10/",
           "pdfUrl": "https://pc.istruzioneer.gov.it/wp-content/uploads/sites/9/2026/10/BOLLETTINO-DEFINITIVO.pdf",
           "dubbio": false
+        },
+        {
+          "id": "PC-11",
+          "turno": 11,
+          "data": "2026-10-20",
+          "titolo": "Nomine a tempo determinato A.S. 2026/2027 – Esito turno 11 – Ufficio IX",
+          "nomine": 3,
+          "url": "https://pc.istruzioneer.gov.it/2026/10/20/nomine-a-tempo-determinato-a-s-2026-2027-esito-turno-11/",
+          "pdfUrl": "https://pc.istruzioneer.gov.it/wp-content/uploads/sites/9/2026/10/Bollettino_TotaleNomine-1.pdf",
+          "dubbio": false
         }
       ],
       "soglie": {
@@ -6247,10 +6267,10 @@
             "d": false
           },
           "2": {
-            "p": 73,
-            "n": 48,
-            "t": 10,
-            "dt": "2026-10-13",
+            "p": 60.5,
+            "n": 55,
+            "t": 11,
+            "dt": "2026-10-20",
             "d": false
           }
         },
@@ -6406,10 +6426,10 @@
             "d": false
           },
           "2": {
-            "p": 41,
-            "n": 176,
-            "t": 10,
-            "dt": "2026-10-13",
+            "p": 36.5,
+            "n": 187,
+            "t": 11,
+            "dt": "2026-10-20",
             "d": false
           }
         },
@@ -6500,9 +6520,9 @@
         "AM12": {
           "1": {
             "p": 42,
-            "n": 158,
-            "t": 10,
-            "dt": "2026-10-13",
+            "n": 159,
+            "t": 11,
+            "dt": "2026-10-20",
             "d": false
           }
         },
@@ -6874,7 +6894,7 @@
         }
       },
       "stato": {
-        "turniLetti": 10,
+        "turniLetti": 11,
         "turniNonLetti": 0
       },
       "v": 4
@@ -6990,6 +7010,16 @@
           "url": "https://ra.istruzioneer.gov.it/2026/10/15/gps-a-s-2026-27-esiti-del-undicesimo-turno-di-nomina/",
           "pdfUrl": "https://ra.istruzioneer.gov.it/wp-content/uploads/sites/7/2026/10/7423-26_t11_all_b.pdf",
           "dubbio": false
+        },
+        {
+          "id": "RA-2026-10-20",
+          "turno": null,
+          "data": "2026-10-20",
+          "titolo": "GPS a.s. 2026/27: Esiti del dodicesimo turno di nomina – Ufficio X",
+          "nomine": 2,
+          "url": "https://ra.istruzioneer.gov.it/2026/10/20/gps-a-s-2026-27-esiti-del-dodicesimo-turno-di-nomina/",
+          "pdfUrl": "https://ra.istruzioneer.gov.it/wp-content/uploads/sites/7/2026/10/7503-26_11t_all_b.pdf",
+          "dubbio": false
         }
       ],
       "soglie": {
@@ -7083,10 +7113,10 @@
         },
         "A060": {
           "2": {
-            "p": 31,
-            "n": 191,
-            "t": 10,
-            "dt": "2026-10-14",
+            "p": 27.5,
+            "n": 207,
+            "t": null,
+            "dt": "2026-10-20",
             "d": true
           }
         },
@@ -7316,16 +7346,16 @@
         },
         "B011": {
           "2": {
-            "p": 34,
-            "n": 23,
-            "t": 10,
-            "dt": "2026-10-14",
+            "p": 29,
+            "n": 29,
+            "t": null,
+            "dt": "2026-10-20",
             "d": true
           }
         }
       },
       "stato": {
-        "turniLetti": 9,
+        "turniLetti": 10,
         "turniNonLetti": 1
       },
       "v": 4
