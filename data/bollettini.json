@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-10-20T05:29:56.483Z",
+  "aggiornato": "2026-10-20T11:29:31.823Z",
   "province": {
     "MO": {
       "bollettini": [
@@ -2070,6 +2070,16 @@
           "url": "https://re.istruzioneer.gov.it/2026/10/16/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-fase-esoneri-semiesoneri/",
           "pdfUrl": "https://re.istruzioneer.gov.it/wp-content/uploads/sites/10/2026/10/Bollettino_TotaleNomine-7.pdf",
           "dubbio": false
+        },
+        {
+          "id": "RE-2026-10-19",
+          "turno": null,
+          "data": "2026-10-19",
+          "titolo": "Nomine a tempo determinato personale docente ed educativo a.s. 2026/2027 – SECONDA FASE ESONERI/SEMIESONERI – Ufficio XI",
+          "nomine": 1,
+          "url": "https://re.istruzioneer.gov.it/2026/10/19/nomine-a-tempo-determinato-personale-docente-ed-educativo-a-s-2026-2027-seconda-fase-esoneri-semiesoneri/",
+          "pdfUrl": "https://re.istruzioneer.gov.it/wp-content/uploads/sites/10/2026/10/Bollettino_TotaleNomine-8.pdf",
+          "dubbio": false
         }
       ],
       "soglie": {
@@ -3052,7 +3062,7 @@
         }
       },
       "stato": {
-        "turniLetti": 11,
+        "turniLetti": 12,
         "turniNonLetti": 0
       },
       "v": 4
@@ -9068,7 +9078,7 @@
       "soglie": {},
       "stato": {
         "turniLetti": 0,
-        "turniNonLetti": 7
+        "turniNonLetti": 8
       },
       "v": 4
     },
@@ -10210,6 +10220,26 @@
           "dubbio": true
         },
         {
+          "id": "NA-2026-10-16",
+          "turno": null,
+          "data": "2026-10-16",
+          "titolo": "Scuola secondaria di secondo grado – Nomine a tempo determinato a. s. 2026/2027 – rettifiche III bollettino – UFFICIO VI",
+          "nomine": 15,
+          "url": "https://www.uat-napoli.it/scuola-secondaria-di-secondo-grado-nomine-a-tempo-determinato-a-s-2026-2027-rettifiche-iii-bollettino/",
+          "pdfUrl": "https://www.uat-napoli.it/wp-content/uploads/2026/10/RETTIFICHE-GPS_III_BOLLETTINO.pdf",
+          "dubbio": false
+        },
+        {
+          "id": "NA-2026-10-19",
+          "turno": null,
+          "data": "2026-10-19",
+          "titolo": "Scuola secondaria di primo grado – Nomine a tempo determinato a. s. 2026/2027 – Rettifiche ai bollettini di nomina e posti orario – UFFICIO VI",
+          "nomine": 2,
+          "url": "https://www.uat-napoli.it/scuola-secondaria-di-primo-grado-nomine-a-tempo-determinato-a-s-2026-2027-rettifiche-ai-bollettini-di-nomina-e-posti-orario/",
+          "pdfUrl": "https://www.uat-napoli.it/wp-content/uploads/2026/10/Rettifiche-nomine-scuola-secondaria-di-primo-grado.pdf",
+          "dubbio": false
+        },
+        {
           "id": "NA-2",
           "turno": 2,
           "data": "2026-09-21",
@@ -10288,26 +10318,6 @@
           "url": "https://www.uat-napoli.it/scuola-dellinfanzia-e-primaria-graduatorie-provinciali-di-supplenza-decreto-rettifica-3-bollettino/",
           "pdfUrl": "https://www.uat-napoli.it/wp-content/uploads/2026/10/m_pi.AOOUSPNA.REGISTRO-UFFICIALEU.0026553.15-10-2026.pdf",
           "dubbio": true
-        },
-        {
-          "id": "NA-2026-10-16",
-          "turno": null,
-          "data": "2026-10-16",
-          "titolo": "Scuola secondaria di secondo grado – Nomine a tempo determinato a. s. 2026/2027 – rettifiche III bollettino – UFFICIO VI",
-          "nomine": 15,
-          "url": "https://www.uat-napoli.it/scuola-secondaria-di-secondo-grado-nomine-a-tempo-determinato-a-s-2026-2027-rettifiche-iii-bollettino/",
-          "pdfUrl": "https://www.uat-napoli.it/wp-content/uploads/2026/10/RETTIFICHE-GPS_III_BOLLETTINO.pdf",
-          "dubbio": false
-        },
-        {
-          "id": "NA-2026-10-19",
-          "turno": null,
-          "data": "2026-10-19",
-          "titolo": "Scuola secondaria di primo grado – Nomine a tempo determinato a. s. 2026/2027 – Rettifiche ai bollettini di nomina e posti orario – UFFICIO VI",
-          "nomine": 2,
-          "url": "https://www.uat-napoli.it/scuola-secondaria-di-primo-grado-nomine-a-tempo-determinato-a-s-2026-2027-rettifiche-ai-bollettini-di-nomina-e-posti-orario/",
-          "pdfUrl": "https://www.uat-napoli.it/wp-content/uploads/2026/10/Rettifiche-nomine-scuola-secondaria-di-primo-grado.pdf",
-          "dubbio": false
         }
       ],
       "soglie": {
