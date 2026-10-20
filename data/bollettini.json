@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-10-20T17:42:14.872Z",
+  "aggiornato": "2026-10-20T23:25:02.599Z",
   "province": {
     "MO": {
       "bollettini": [
@@ -8370,6 +8370,16 @@
           "url": "https://atavellino.it/posti-in-deroga-sostegno-a-s-2026-27-provvedimento-prot-n-11409-del-21-09-2026/",
           "pdfUrl": "https://atavellino.it/wp-content/uploads/2026/10/m_pi.AOOUSPAV.REGISTRO-UFFICIALEU.0011409.21-09-2026.pdf",
           "dubbio": true
+        },
+        {
+          "id": "AV-2026-10-20",
+          "turno": null,
+          "data": "2026-10-20",
+          "titolo": "GRADUATORIE PROVINCIALI DI SUPPLENZA – TERZO BOLLETTINO NOMINE A TEMPO DETERMINATO – 2026/2027 – OGNI ORDINE E GRADO – AVELLINO E PROVINCIA",
+          "nomine": 65,
+          "url": "https://atavellino.it/graduatorie-provinciali-di-supplenza-terzo-bollettino-nomine-a-tempo-determinato-2026-2027-ogni-ordine-e-grado-avellino-e-provincia/",
+          "pdfUrl": "https://atavellino.it/wp-content/uploads/2026/10/TERZO-TURNO-DI-NOMINA-GPS-20OTT26-signed.pdf",
+          "dubbio": false
         }
       ],
       "soglie": {
@@ -8384,10 +8394,10 @@
         },
         "A008": {
           "1": {
-            "p": 68,
-            "n": 4,
-            "t": 1,
-            "dt": "2026-08-31",
+            "p": 51.5,
+            "n": 5,
+            "t": null,
+            "dt": "2026-10-20",
             "d": false
           }
         },
@@ -8402,10 +8412,10 @@
         },
         "A013": {
           "1": {
-            "p": 104.5,
-            "n": 11,
-            "t": 2,
-            "dt": "2026-09-21",
+            "p": 102,
+            "n": 12,
+            "t": null,
+            "dt": "2026-10-20",
             "d": false
           }
         },
@@ -8467,8 +8477,8 @@
           "1": {
             "p": 107,
             "n": 23,
-            "t": 2,
-            "dt": "2026-09-21",
+            "t": null,
+            "dt": "2026-10-20",
             "d": false
           }
         },
@@ -8492,10 +8502,10 @@
         },
         "A031": {
           "1": {
-            "p": 91,
-            "n": 9,
-            "t": 2,
-            "dt": "2026-09-21",
+            "p": 82,
+            "n": 10,
+            "t": null,
+            "dt": "2026-10-20",
             "d": false
           }
         },
@@ -8586,9 +8596,9 @@
         "A053": {
           "1": {
             "p": 90,
-            "n": 2,
-            "t": 1,
-            "dt": "2026-08-31",
+            "n": 3,
+            "t": null,
+            "dt": "2026-10-20",
             "d": false
           }
         },
@@ -8678,10 +8688,10 @@
         },
         "ADAA": {
           "1": {
-            "p": 69.5,
-            "n": 204,
-            "t": 2,
-            "dt": "2026-09-21",
+            "p": 44,
+            "n": 225,
+            "t": null,
+            "dt": "2026-10-20",
             "d": false
           }
         },
@@ -8996,10 +9006,10 @@
         },
         "EEIL": {
           "1": {
-            "p": 92,
-            "n": 489,
-            "t": 2,
-            "dt": "2026-09-21",
+            "p": 60,
+            "n": 731,
+            "t": null,
+            "dt": "2026-10-20",
             "d": false
           }
         },
@@ -9012,10 +9022,10 @@
             "d": false
           },
           "2": {
-            "p": 82,
-            "n": 17,
-            "t": 2,
-            "dt": "2026-09-21",
+            "p": 24.5,
+            "n": 32,
+            "t": null,
+            "dt": "2026-10-20",
             "d": false
           }
         },
@@ -9085,20 +9095,54 @@
             "t": 2,
             "dt": "2026-09-21",
             "d": false
+          },
+          "2": {
+            "p": 86,
+            "n": 15,
+            "t": null,
+            "dt": "2026-10-20",
+            "d": false
           }
         },
         "B020": {
           "1": {
-            "p": 126,
-            "n": 2,
-            "t": 2,
-            "dt": "2026-09-21",
+            "p": 79,
+            "n": 4,
+            "t": null,
+            "dt": "2026-10-20",
+            "d": false
+          }
+        },
+        "A034": {
+          "1": {
+            "p": 58,
+            "n": 12,
+            "t": null,
+            "dt": "2026-10-20",
+            "d": false
+          }
+        },
+        "AM55": {
+          "1": {
+            "p": 161,
+            "n": 1,
+            "t": null,
+            "dt": "2026-10-20",
+            "d": false
+          }
+        },
+        "AW55": {
+          "1": {
+            "p": 194,
+            "n": 1,
+            "t": null,
+            "dt": "2026-10-20",
             "d": false
           }
         }
       },
       "stato": {
-        "turniLetti": 2,
+        "turniLetti": 3,
         "turniNonLetti": 0
       },
       "v": 4
