@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-10-21T17:29:27.600Z",
+  "aggiornato": "2026-10-21T23:24:57.168Z",
   "province": {
     "MO": {
       "bollettini": [
@@ -9217,6 +9217,16 @@
           "url": "https://www.uat-caserta.it/2026/10/12/terzo-bollettino-totale-delle-nomine-generato-dal-sistema-informativo-del-ministero-contenente-i-nominativi-dei-destinatari-di-una-proposta-di-contratto-a-tempo-determinato-per-la-s-2026-2027/",
           "pdfUrl": "https://www.uat-caserta.it/wp-content/uploads/2026/10/Bollettino_TotaleNomine-20261012.pdf",
           "dubbio": false
+        },
+        {
+          "id": "CE-4",
+          "turno": 4,
+          "data": "2026-10-21",
+          "titolo": "QUARTO bollettino totale delle nomine generato dal sistema informativo del Ministero, contenente i nominativi dei destinatari di una proposta di contratto a tempo determinato per l’a.s. 2026/2027",
+          "nomine": 103,
+          "url": "https://www.uat-caserta.it/2026/10/21/quarto-bollettino-totale-delle-nomine-generato-dal-sistema-informativo-del-ministero-contenente-i-nominativi-dei-destinatari-di-una-proposta-di-contratto-a-tempo-determinato-per-la-s-2026-2027/",
+          "pdfUrl": "https://www.uat-caserta.it/wp-content/uploads/2026/10/Bollettino_TotaleNomine-20261021.pdf",
+          "dubbio": false
         }
       ],
       "soglie": {
@@ -9258,10 +9268,10 @@
         },
         "A013": {
           "1": {
-            "p": 140,
-            "n": 9,
-            "t": 2,
-            "dt": "2026-09-21",
+            "p": 119.5,
+            "n": 13,
+            "t": 4,
+            "dt": "2026-10-21",
             "d": false
           }
         },
@@ -9301,10 +9311,10 @@
         },
         "A018": {
           "1": {
-            "p": 79,
-            "n": 173,
-            "t": 3,
-            "dt": "2026-10-12",
+            "p": 69,
+            "n": 180,
+            "t": 4,
+            "dt": "2026-10-21",
             "d": false
           }
         },
@@ -9523,10 +9533,10 @@
             "d": false
           },
           "2": {
-            "p": 62.5,
-            "n": 21,
-            "t": 3,
-            "dt": "2026-10-12",
+            "p": 49.5,
+            "n": 28,
+            "t": 4,
+            "dt": "2026-10-21",
             "d": false
           }
         },
@@ -9577,10 +9587,10 @@
         },
         "A060": {
           "1": {
-            "p": 101,
-            "n": 101,
-            "t": 1,
-            "dt": "2026-08-31",
+            "p": 96,
+            "n": 110,
+            "t": 4,
+            "dt": "2026-10-21",
             "d": false
           }
         },
@@ -9652,10 +9662,10 @@
             "d": false
           },
           "2": {
-            "p": 101,
-            "n": 9,
-            "t": 3,
-            "dt": "2026-10-12",
+            "p": 69,
+            "n": 13,
+            "t": 4,
+            "dt": "2026-10-21",
             "d": false
           }
         },
@@ -9747,6 +9757,13 @@
             "t": 3,
             "dt": "2026-10-12",
             "d": false
+          },
+          "2": {
+            "p": 135,
+            "n": 1,
+            "t": 4,
+            "dt": "2026-10-21",
+            "d": false
           }
         },
         "AJ55": {
@@ -9787,10 +9804,10 @@
         },
         "AM01": {
           "1": {
-            "p": 83.5,
-            "n": 155,
-            "t": 3,
-            "dt": "2026-10-12",
+            "p": 69,
+            "n": 170,
+            "t": 4,
+            "dt": "2026-10-21",
             "d": false
           }
         },
@@ -10128,10 +10145,10 @@
         },
         "EEIL": {
           "1": {
-            "p": 119,
-            "n": 618,
-            "t": 3,
-            "dt": "2026-10-12",
+            "p": 97,
+            "n": 824,
+            "t": 4,
+            "dt": "2026-10-21",
             "d": false
           }
         },
@@ -10164,10 +10181,10 @@
         },
         "AS01": {
           "1": {
-            "p": 139,
-            "n": 35,
-            "t": 3,
-            "dt": "2026-10-12",
+            "p": 136.5,
+            "n": 36,
+            "t": 4,
+            "dt": "2026-10-21",
             "d": false
           }
         },
@@ -10198,10 +10215,10 @@
         },
         "A009": {
           "1": {
-            "p": 122.5,
-            "n": 2,
-            "t": 3,
-            "dt": "2026-10-12",
+            "p": 104,
+            "n": 4,
+            "t": 4,
+            "dt": "2026-10-21",
             "d": false
           }
         },
@@ -10216,7 +10233,7 @@
         }
       },
       "stato": {
-        "turniLetti": 3,
+        "turniLetti": 4,
         "turniNonLetti": 0
       },
       "v": 4
