@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-10-21T05:29:01.089Z",
+  "aggiornato": "2026-10-21T11:31:50.716Z",
   "province": {
     "MO": {
       "bollettini": [
@@ -3223,6 +3223,16 @@
           "id": "BO-12",
           "turno": 12,
           "data": "2026-10-20",
+          "titolo": "Nomine a t.d. docenti ogni ordine e grado da GPS 12° turno a.s. 2026/27 – Ufficio V",
+          "nomine": 4,
+          "url": "https://bo.istruzioneer.gov.it/2026/10/20/nomine-a-t-d-docenti-ogni-ordine-e-grado-da-gps-12-turno-a-s-2026-27/",
+          "pdfUrl": "https://docs.google.com/spreadsheets/d/1qDCKhQbLQRP4WNPwyCj6ceVmWd4drT4S/edit?rtpof=true&gid=267917616#gid=267917616",
+          "dubbio": false
+        },
+        {
+          "id": "BO-12",
+          "turno": 12,
+          "data": "2026-10-20",
           "titolo": "Nomine GPS a T.D. ogni ordine e grado. Disponibilità 12° turno a.s. 2026/27 – Ufficio V",
           "nomine": 0,
           "url": "https://bo.istruzioneer.gov.it/2026/10/20/nomine-gps-a-t-d-ogni-ordine-e-grado-disponibilita-12-turno-a-s-2026-27/",
@@ -3703,10 +3713,10 @@
         },
         "AS2B": {
           "1": {
-            "p": 46,
-            "n": 263,
-            "t": 11,
-            "dt": "2026-10-16",
+            "p": 45,
+            "n": 265,
+            "t": 12,
+            "dt": "2026-10-20",
             "d": true
           }
         },
@@ -3897,7 +3907,7 @@
         }
       },
       "stato": {
-        "turniLetti": 8,
+        "turniLetti": 9,
         "turniNonLetti": 1
       },
       "v": 4
@@ -11684,7 +11694,7 @@
       "soglie": {},
       "stato": {
         "turniLetti": 0,
-        "turniNonLetti": 2
+        "turniNonLetti": 3
       },
       "v": 4
     }
