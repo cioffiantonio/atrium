@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-10-22T05:31:07.479Z",
+  "aggiornato": "2026-10-22T11:31:49.561Z",
   "province": {
     "MO": {
       "bollettini": [
@@ -7441,6 +7441,16 @@
           "url": "https://rn.istruzioneer.gov.it/2026/10/19/turno-vii-nomine-a-tempo-determinato-da-gae-gps-a-s-2026-27-personale-docente/",
           "pdfUrl": "https://rn.istruzioneer.gov.it/2026/10/19/turno-vii-nomine-a-tempo-determinato-da-gae-gps-a-s-2026-27-personale-docente/?download=21429",
           "dubbio": false
+        },
+        {
+          "id": "RN-8",
+          "turno": 8,
+          "data": "2026-10-22",
+          "titolo": "Turno VIII-Nomine a tempo determinato da GAE/GPS–A.S. 2026/27–Personale docente – Ufficio VII",
+          "nomine": 3,
+          "url": "https://rn.istruzioneer.gov.it/2026/10/22/turno-viii-nomine-a-tempo-determinato-da-gae-gps-a-s-2026-27-personale-docente/",
+          "pdfUrl": "https://rn.istruzioneer.gov.it/2026/10/22/turno-viii-nomine-a-tempo-determinato-da-gae-gps-a-s-2026-27-personale-docente/?download=21480",
+          "dubbio": false
         }
       ],
       "soglie": {
@@ -8324,7 +8334,7 @@
         }
       },
       "stato": {
-        "turniLetti": 6,
+        "turniLetti": 7,
         "turniNonLetti": 1
       },
       "v": 4
