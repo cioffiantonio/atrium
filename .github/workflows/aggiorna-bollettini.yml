@@ -31,12 +31,21 @@ jobs:
         with:
           node-version: 20
       - run: npm install
-      - run: node scripts/fetch-province.mjs
+      # strumenti per leggere con l'OCR i bollettini scansionati (pdftoppm + tesseract, anche in italiano)
+      - name: Installa OCR
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends tesseract-ocr tesseract-ocr-ita poppler-utils
+      # il log del giro viene salvato anche in data/log-ultimo-giro.txt, così si può leggere dal repository
+      - name: Leggi i bollettini
+        run: |
+          set -o pipefail
+          node scripts/fetch-province.mjs 2>&1 | tee data/log-ultimo-giro.txt
       - name: Salva data/bollettini.json se è cambiato
         run: |
           git config user.name "Atrium bot"
           git config user.email "bot@users.noreply.github.com"
-          git add data/bollettini.json
+          git add data/bollettini.json data/da-verificare.json data/log-ultimo-giro.txt
           if git diff --cached --quiet; then
             echo "Nessun cambiamento nei bollettini, non salvo nulla."
             exit 0
