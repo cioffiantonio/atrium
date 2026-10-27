@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-27T10:40:15.151Z",
+ "aggiornato": "2026-10-27T16:50:12.821Z",
  "ocr": [],
  "zeroRighe": [
   {
@@ -47,7 +47,7 @@
   {
    "provincia": "GO",
    "turno": null,
-   "data": "2026-10-15",
+   "data": "2026-10-27",
    "url": "https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/ufficio-territoriale-di-gorizia/allegati/Bollettino_TotaleNomine-8.pdf",
    "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
   },
@@ -105,6 +105,13 @@
    "turno": 7,
    "data": "2026-10-21",
    "url": "https://rovigo.istruzioneveneto.gov.it/wp-content/uploads/2026/10/Bollettino-totale-nomine-turno-7-del-21.10.26.pdf",
+   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
+  },
+  {
+   "provincia": "RO",
+   "turno": 8,
+   "data": "2026-10-27",
+   "url": "https://rovigo.istruzioneveneto.gov.it/wp-content/uploads/2026/10/Bollettino-totale-nomine-turno-8-del-27.10.26.pdf",
    "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
   }
  ],
@@ -224,7 +231,7 @@
   {
    "provincia": "PN",
    "turno": null,
-   "data": "2026-10-27",
+   "data": "2026-10-01",
    "url": "https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/ufficio-territoriale-di-pordenone/allegati/Turno-8-Allegato-1.pdf",
    "nota": "formato non riconosciuto"
   },
@@ -419,9 +426,23 @@
   },
   {
    "provincia": "IM",
+   "turno": 4,
+   "data": "2026-10-27",
+   "url": "https://www.istruzioneimperia.gov.it/pagine/nomine-da-gps--iv-turno-",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "IM",
    "turno": 10,
    "data": "2026-10-27",
    "url": "https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps-as-2026-27--x-turno",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "SV",
+   "turno": 3,
+   "data": "2026-10-27",
+   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-2-",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
@@ -1475,13 +1496,6 @@
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
-   "provincia": "TA",
-   "turno": null,
-   "data": "2026-09-16",
-   "url": "https://www.usptaranto.it/wp-content/uploads/2026/09/m_pi.AOOUSPTA.REGISTRO-UFFICIALEU.0019836.16-09-2026.pdf",
-   "nota": "formato non riconosciuto"
-  },
-  {
    "provincia": "CA",
    "turno": null,
    "data": "2026-10-27",
@@ -2154,6 +2168,13 @@
    "nota": "righe GPS non leggibili: 2"
   },
   {
+   "provincia": "PD",
+   "turno": null,
+   "data": "2026-10-27",
+   "url": "https://padova.istruzioneveneto.gov.it/wp-content/uploads/2026/10/Bollettino-XIV-turno-27.10.2026.pdf",
+   "nota": "righe GPS non leggibili: 1"
+  },
+  {
    "provincia": "RO",
    "turno": 1,
    "data": "2026-09-02",
@@ -2221,6 +2242,13 @@
    "turno": 7,
    "data": "2026-10-20",
    "url": "https://venezia.istruzioneveneto.gov.it/20261020_34550/",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "VE",
+   "turno": 8,
+   "data": "2026-10-27",
+   "url": "https://venezia.istruzioneveneto.gov.it/20261027_34565/",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
@@ -2297,7 +2325,7 @@
    "provincia": "VI",
    "turno": null,
    "data": "2026-10-27",
-   "url": "https://t.me/share/url?text=Supplenze docenti 2026/27: bollettini del 26 ottobre [AGGIORNATO]&url=https://www.orizzontescuola.it/supplenze-docenti-ecco-i-bollettini-nomine-al-31-agosto-o-30-giugno-2027-in-aggiornamento/",
+   "url": "https://t.me/share/url?text=Supplenze docenti 2026/27: bollettini del 27 ottobre [AGGIORNATO]&url=https://www.orizzontescuola.it/supplenze-docenti-ecco-i-bollettini-nomine-al-31-agosto-o-30-giugno-2027-in-aggiornamento/",
    "nota": "nessun PDF o foglio trovato nella pagina"
   }
  ],
@@ -2324,33 +2352,28 @@
   },
   {
    "provincia": "IM",
-   "turno": 4,
-   "nota": "bollettino non trovato (si passa dal turno 3 al 10)"
-  },
-  {
-   "provincia": "IM",
    "turno": 5,
-   "nota": "bollettino non trovato (si passa dal turno 3 al 10)"
+   "nota": "bollettino non trovato (si passa dal turno 4 al 10)"
   },
   {
    "provincia": "IM",
    "turno": 6,
-   "nota": "bollettino non trovato (si passa dal turno 3 al 10)"
+   "nota": "bollettino non trovato (si passa dal turno 4 al 10)"
   },
   {
    "provincia": "IM",
    "turno": 7,
-   "nota": "bollettino non trovato (si passa dal turno 3 al 10)"
+   "nota": "bollettino non trovato (si passa dal turno 4 al 10)"
   },
   {
    "provincia": "IM",
    "turno": 8,
-   "nota": "bollettino non trovato (si passa dal turno 3 al 10)"
+   "nota": "bollettino non trovato (si passa dal turno 4 al 10)"
   },
   {
    "provincia": "IM",
    "turno": 9,
-   "nota": "bollettino non trovato (si passa dal turno 3 al 10)"
+   "nota": "bollettino non trovato (si passa dal turno 4 al 10)"
   },
   {
    "provincia": "CO",
@@ -2479,58 +2502,53 @@
   },
   {
    "provincia": "VE",
-   "turno": 8,
-   "nota": "bollettino non trovato (si passa dal turno 7 al 19)"
-  },
-  {
-   "provincia": "VE",
    "turno": 9,
-   "nota": "bollettino non trovato (si passa dal turno 7 al 19)"
+   "nota": "bollettino non trovato (si passa dal turno 8 al 19)"
   },
   {
    "provincia": "VE",
    "turno": 10,
-   "nota": "bollettino non trovato (si passa dal turno 7 al 19)"
+   "nota": "bollettino non trovato (si passa dal turno 8 al 19)"
   },
   {
    "provincia": "VE",
    "turno": 11,
-   "nota": "bollettino non trovato (si passa dal turno 7 al 19)"
+   "nota": "bollettino non trovato (si passa dal turno 8 al 19)"
   },
   {
    "provincia": "VE",
    "turno": 12,
-   "nota": "bollettino non trovato (si passa dal turno 7 al 19)"
+   "nota": "bollettino non trovato (si passa dal turno 8 al 19)"
   },
   {
    "provincia": "VE",
    "turno": 13,
-   "nota": "bollettino non trovato (si passa dal turno 7 al 19)"
+   "nota": "bollettino non trovato (si passa dal turno 8 al 19)"
   },
   {
    "provincia": "VE",
    "turno": 14,
-   "nota": "bollettino non trovato (si passa dal turno 7 al 19)"
+   "nota": "bollettino non trovato (si passa dal turno 8 al 19)"
   },
   {
    "provincia": "VE",
    "turno": 15,
-   "nota": "bollettino non trovato (si passa dal turno 7 al 19)"
+   "nota": "bollettino non trovato (si passa dal turno 8 al 19)"
   },
   {
    "provincia": "VE",
    "turno": 16,
-   "nota": "bollettino non trovato (si passa dal turno 7 al 19)"
+   "nota": "bollettino non trovato (si passa dal turno 8 al 19)"
   },
   {
    "provincia": "VE",
    "turno": 17,
-   "nota": "bollettino non trovato (si passa dal turno 7 al 19)"
+   "nota": "bollettino non trovato (si passa dal turno 8 al 19)"
   },
   {
    "provincia": "VE",
    "turno": 18,
-   "nota": "bollettino non trovato (si passa dal turno 7 al 19)"
+   "nota": "bollettino non trovato (si passa dal turno 8 al 19)"
   }
  ]
 }
