@@ -5,7 +5,12 @@ on:
   schedule:
     # Ogni 6 ore. Gli orari sono in UTC (le 5:00 UTC sono le 7:00 in Italia).
     - cron: '0 5,11,17,23 * * *'
-  workflow_dispatch: {}   # per lanciarlo anche a mano dalla scheda "Actions" di GitHub
+  workflow_dispatch:   # per lanciarlo anche a mano dalla scheda "Actions" di GitHub
+    inputs:
+      province:
+        description: 'Solo queste province (es. SA,BN,RA). Vuoto = tutte'
+        required: false
+        default: ''
   push:
     branches: [main]      # ogni volta che carichi una modifica, il sito si ripubblica
 
@@ -38,14 +43,20 @@ jobs:
           sudo apt-get install -y --no-install-recommends tesseract-ocr tesseract-ocr-ita poppler-utils
       # il log del giro viene salvato anche in data/log-ultimo-giro.txt, così si può leggere dal repository
       - name: Leggi i bollettini
+        env:
+          PROVINCE_FILTER: ${{ github.event.inputs.province }}
         run: |
           set -o pipefail
-          node scripts/fetch-province.mjs 2>&1 | tee data/log-ultimo-giro.txt
+          # un giro mirato scrive un log a parte, così non cancella quello dell'ultimo giro completo
+          LOG=data/log-ultimo-giro.txt
+          if [ -n "$PROVINCE_FILTER" ]; then LOG=data/log-ultimo-giro-mirato.txt; fi
+          node scripts/fetch-province.mjs 2>&1 | tee "$LOG"
       - name: Salva data/bollettini.json se è cambiato
         run: |
           git config user.name "Atrium bot"
           git config user.email "bot@users.noreply.github.com"
-          git add data/bollettini.json data/da-verificare.json data/log-ultimo-giro.txt
+          git add data/bollettini.json data/da-verificare.json data/struttura-non-letti.json data/cache-pdf.json
+          git add data/log-ultimo-giro.txt data/log-ultimo-giro-mirato.txt 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "Nessun cambiamento nei bollettini, non salvo nulla."
             exit 0
