@@ -1,21 +1,7 @@
 {
- "aggiornato": "2026-10-27T21:27:25.398Z",
+ "aggiornato": "2026-10-27T22:49:08.041Z",
  "ocr": [],
  "zeroRighe": [
-  {
-   "provincia": "RA",
-   "turno": null,
-   "data": "2026-10-15",
-   "url": "https://ra.istruzioneer.gov.it/wp-content/uploads/sites/7/2026/10/7423-26_t11_all_b.pdf",
-   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
-  },
-  {
-   "provincia": "RA",
-   "turno": null,
-   "data": "2026-10-26",
-   "url": "https://ra.istruzioneer.gov.it/wp-content/uploads/sites/7/2026/10/Allegato-B.pdf",
-   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
-  },
   {
    "provincia": "GO",
    "turno": null,
@@ -24,66 +10,10 @@
    "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
   },
   {
-   "provincia": "IS",
-   "turno": 3,
-   "data": "2026-10-27",
-   "url": "https://www.mim.gov.it/documents/10591991/0/Bollettino+nomine+terzo+turno.pdf/152261c1-0d59-bea4-bf54-62a9de6e6b8b?version=1.0&t=1791806993306",
-   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
-  },
-  {
-   "provincia": "IS",
-   "turno": 4,
-   "data": "2026-10-27",
-   "url": "https://www.mim.gov.it/documents/10591991/0/totale+nomine+quarto+turno.pdf/2fe36377-304a-c222-a8e2-72eb8bb9190f?version=1.0&t=1791807135198",
-   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
-  },
-  {
-   "provincia": "VB",
-   "turno": null,
-   "data": "2026-10-27",
-   "url": "https://www.istruzionepiemonte.it/verbania/wp-content/uploads/sites/8/2026/10/Bollettino-nomine-7°-turno-scorrimento-GPS.pdf",
-   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
-  },
-  {
    "provincia": "VC",
    "turno": null,
    "data": "2026-10-27",
    "url": "https://www.istruzionepiemonte.it/vercelli/wp-content/uploads/sites/7/2026/10/bollettinoDefinitivo.pdf",
-   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
-  },
-  {
-   "provincia": "RO",
-   "turno": 4,
-   "data": "2026-09-22",
-   "url": "https://rovigo.istruzioneveneto.gov.it/wp-content/uploads/2026/09/Bollettino-turno-IV.pdf",
-   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
-  },
-  {
-   "provincia": "RO",
-   "turno": 5,
-   "data": "2026-09-24",
-   "url": "https://rovigo.istruzioneveneto.gov.it/wp-content/uploads/2026/09/BOLLETTINO-SUPPLENZE-N.5.pdf",
-   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
-  },
-  {
-   "provincia": "RO",
-   "turno": 6,
-   "data": "2026-09-30",
-   "url": "https://rovigo.istruzioneveneto.gov.it/wp-content/uploads/2026/09/Bollettino-totale-nomine-turno-6-del-30.09.26.pdf",
-   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
-  },
-  {
-   "provincia": "RO",
-   "turno": 7,
-   "data": "2026-10-21",
-   "url": "https://rovigo.istruzioneveneto.gov.it/wp-content/uploads/2026/10/Bollettino-totale-nomine-turno-7-del-21.10.26.pdf",
-   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
-  },
-  {
-   "provincia": "RO",
-   "turno": 8,
-   "data": "2026-10-27",
-   "url": "https://rovigo.istruzioneveneto.gov.it/wp-content/uploads/2026/10/Bollettino-totale-nomine-turno-8-del-27.10.26.pdf",
    "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
   }
  ],
@@ -390,10 +320,17 @@
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
-   "provincia": "SP",
-   "turno": null,
+   "provincia": "IM",
+   "turno": 5,
    "data": "2026-10-27",
-   "url": "https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---vii-turno-07102026-",
+   "url": "https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps-as-2026-27--v-turno",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "SV",
+   "turno": 12,
+   "data": "2026-10-27",
+   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps----turno-12-1",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
@@ -1454,13 +1391,6 @@
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
-   "provincia": "TA",
-   "turno": null,
-   "data": "2026-09-16",
-   "url": "https://www.usptaranto.it/wp-content/uploads/2026/09/m_pi.AOOUSPTA.REGISTRO-UFFICIALEU.0019836.16-09-2026.pdf",
-   "nota": "formato non riconosciuto"
-  },
-  {
    "provincia": "CA",
    "turno": null,
    "data": "2026-10-27",
@@ -2140,27 +2070,6 @@
    "nota": "righe GPS non leggibili: 1"
   },
   {
-   "provincia": "RO",
-   "turno": 1,
-   "data": "2026-09-02",
-   "url": "https://rovigo.istruzioneveneto.gov.it/wp-content/uploads/2026/09/Bollettino-I-turno-supplenze-del-01-09-2026.pdf",
-   "nota": "righe GPS non leggibili: 389"
-  },
-  {
-   "provincia": "RO",
-   "turno": 2,
-   "data": "2026-09-10",
-   "url": "https://rovigo.istruzioneveneto.gov.it/wp-content/uploads/2026/09/Bollettino-II-Turno-supplenze-09-09-2026-Rovigo.pdf",
-   "nota": "righe GPS non leggibili: 26"
-  },
-  {
-   "provincia": "RO",
-   "turno": 3,
-   "data": "2026-09-16",
-   "url": "https://rovigo.istruzioneveneto.gov.it/wp-content/uploads/2026/09/Bollettino-supplenze-III-Turno-16-09-2026.pdf",
-   "nota": "formato non riconosciuto"
-  },
-  {
    "provincia": "VE",
    "turno": 1,
    "data": "2026-08-31",
@@ -2319,6 +2228,11 @@
    "provincia": "GE",
    "turno": 6,
    "nota": "bollettino non trovato (si passa dal turno 5 al 7)"
+  },
+  {
+   "provincia": "IM",
+   "turno": 4,
+   "nota": "bollettino non trovato (si passa dal turno 3 al 5)"
   },
   {
    "provincia": "CO",
