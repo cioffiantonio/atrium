@@ -1,21 +1,7 @@
 {
- "aggiornato": "2026-10-27T16:50:12.821Z",
+ "aggiornato": "2026-10-27T21:27:25.398Z",
  "ocr": [],
  "zeroRighe": [
-  {
-   "provincia": "PR",
-   "turno": 10,
-   "data": "2026-10-09",
-   "url": "https://pr.istruzioneer.gov.it/wp-content/uploads/sites/8/2026/10/Bollettino-Totale-Nomine-1.pdf",
-   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
-  },
-  {
-   "provincia": "PC",
-   "turno": 8,
-   "data": "2026-10-06",
-   "url": "https://pc.istruzioneer.gov.it/wp-content/uploads/sites/9/2026/10/Bollettino_MM_ADMM.pdf",
-   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
-  },
   {
    "provincia": "RA",
    "turno": null,
@@ -28,20 +14,6 @@
    "turno": null,
    "data": "2026-10-26",
    "url": "https://ra.istruzioneer.gov.it/wp-content/uploads/sites/7/2026/10/Allegato-B.pdf",
-   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
-  },
-  {
-   "provincia": "RN",
-   "turno": 6,
-   "data": "2026-10-09",
-   "url": "https://rn.istruzioneer.gov.it/2026/10/09/turno-vi-nomine-a-tempo-determinato-da-gae-gps-a-s-2026-27-personale-docente/?download=21273",
-   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
-  },
-  {
-   "provincia": "RN",
-   "turno": 7,
-   "data": "2026-10-19",
-   "url": "https://rn.istruzioneer.gov.it/2026/10/19/turno-vii-nomine-a-tempo-determinato-da-gae-gps-a-s-2026-27-personale-docente/?download=21429",
    "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
   },
   {
@@ -229,20 +201,6 @@
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
-   "provincia": "PN",
-   "turno": null,
-   "data": "2026-10-01",
-   "url": "https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/ufficio-territoriale-di-pordenone/allegati/Turno-8-Allegato-1.pdf",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "PN",
-   "turno": null,
-   "data": "2026-10-20",
-   "url": "https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/ufficio-territoriale-di-pordenone/allegati/Turno-9-Allegato-1.pdf",
-   "nota": "formato non riconosciuto"
-  },
-  {
    "provincia": "FR",
    "turno": null,
    "data": "2026-10-27",
@@ -404,6 +362,13 @@
    "nota": "formato non riconosciuto"
   },
   {
+   "provincia": "GE",
+   "turno": null,
+   "data": "2026-10-27",
+   "url": "https://cspace.spaggiari.eu//pub/GESR0002/GPS%202026-2028/TURNI%20GPS/XII%20turno/XII%20Turno%20GPS_m_pi.AOODRLI.REGISTRO%2520REGIONALE%2520DEI%2520DECRETI%2528R%2529.0003108.27-10-2026.pdf",
+   "nota": "formato non riconosciuto"
+  },
+  {
    "provincia": "IM",
    "turno": 1,
    "data": "2026-10-27",
@@ -425,24 +390,10 @@
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
-   "provincia": "IM",
-   "turno": 4,
+   "provincia": "SP",
+   "turno": null,
    "data": "2026-10-27",
-   "url": "https://www.istruzioneimperia.gov.it/pagine/nomine-da-gps--iv-turno-",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "IM",
-   "turno": 10,
-   "data": "2026-10-27",
-   "url": "https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps-as-2026-27--x-turno",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "SV",
-   "turno": 3,
-   "data": "2026-10-27",
-   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-2-",
+   "url": "https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---vii-turno-07102026-",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
@@ -667,6 +618,13 @@
    "turno": null,
    "data": "2026-10-27",
    "url": "https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-secondaria-di-primo-grado-undicesimo-scorrimento-e-di-scuola-secondaria-di-secondo-grad-1",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "LC",
+   "turno": null,
+   "data": "2026-10-27",
+   "url": "https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-secondaria-di-primo-grado-dodicesimo-scorrimento-a-s-2026-2027-1",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
@@ -1494,6 +1452,13 @@
    "data": "2026-10-27",
    "url": "https://www.ustlecce.it/index.php/personale-docente",
    "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "TA",
+   "turno": null,
+   "data": "2026-09-16",
+   "url": "https://www.usptaranto.it/wp-content/uploads/2026/09/m_pi.AOOUSPTA.REGISTRO-UFFICIALEU.0019836.16-09-2026.pdf",
+   "nota": "formato non riconosciuto"
   },
   {
    "provincia": "CA",
@@ -2346,34 +2311,14 @@
    "nota": "bollettino non trovato (si passa dal turno 1 al 3)"
   },
   {
+   "provincia": "PN",
+   "turno": 4,
+   "nota": "bollettino non trovato (si passa dal turno 3 al 5)"
+  },
+  {
    "provincia": "GE",
    "turno": 6,
    "nota": "bollettino non trovato (si passa dal turno 5 al 7)"
-  },
-  {
-   "provincia": "IM",
-   "turno": 5,
-   "nota": "bollettino non trovato (si passa dal turno 4 al 10)"
-  },
-  {
-   "provincia": "IM",
-   "turno": 6,
-   "nota": "bollettino non trovato (si passa dal turno 4 al 10)"
-  },
-  {
-   "provincia": "IM",
-   "turno": 7,
-   "nota": "bollettino non trovato (si passa dal turno 4 al 10)"
-  },
-  {
-   "provincia": "IM",
-   "turno": 8,
-   "nota": "bollettino non trovato (si passa dal turno 4 al 10)"
-  },
-  {
-   "provincia": "IM",
-   "turno": 9,
-   "nota": "bollettino non trovato (si passa dal turno 4 al 10)"
   },
   {
    "provincia": "CO",
