@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-27T22:49:08.041Z",
+ "aggiornato": "2026-10-27T23:55:19.718Z",
  "ocr": [],
  "zeroRighe": [
   {
@@ -19,24 +19,80 @@
  ],
  "nonLetti": [
   {
-   "provincia": "SA",
-   "turno": null,
-   "data": "2026-10-27",
-   "url": "https://www.mim.gov.it/documents/7673905/7821594/CV_+Filomena+Zamboli_+2025+EUROPEO+AGGIORNATO+18.05.2026.pdf/3c33f446-852f-c469-b473-dd70d725e38c?t=1780063034338",
+   "provincia": "BO",
+   "turno": 12,
+   "data": "2026-10-20",
+   "url": "https://bo.istruzioneer.gov.it/2026/10/20/nomine-a-t-d-docenti-ogni-ordine-e-grado-da-gps-12-turno-a-s-2026-27/?download=38411",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "SA",
    "turno": null,
-   "data": "2026-10-27",
-   "url": "https://www.mim.gov.it/web/miur-usr-campania/-/personale-docente-decreto-pubblicazione-6-bollettino-supplenze",
+   "data": "2026-10-21",
+   "url": "https://www.mim.gov.it/documents/7673905/10936887/Bollettini+a.s.2023_24_privacy.zip/1314196a-3abc-91d8-b18c-d72c53159fbe?t=1792585523229",
    "nota": "documento non leggibile"
   },
   {
    "provincia": "SA",
    "turno": null,
    "data": "2026-10-27",
-   "url": "https://www.mim.gov.it/web/miur-usr-campania/-/personale-docente-decreto-pubblicazione-7-bollettino-supplenze",
+   "url": "https://www.mim.gov.it/documents/7673905/7821594/FUNZIONIGRAMMA+2O25.pdf/0456f967-a1f0-6d8a-4bd8-74114d9c695b?t=1765376739226",
+   "nota": "formato non riconosciuto"
+  },
+  {
+   "provincia": "SA",
+   "turno": null,
+   "data": "2026-10-27",
+   "url": "https://www.mim.gov.it/documents/7673905/10936887/Contatti_del_personale.pdf/d72b4e86-ffaa-e115-9d69-b127330d8c5c?t=1791380310767",
+   "nota": "formato non riconosciuto"
+  },
+  {
+   "provincia": "SA",
+   "turno": null,
+   "data": "2026-10-27",
+   "url": "https://www.mim.gov.it/documents/7673905/10936887/Contatti+del+personale.pdf/a8021eba-a600-e91e-01ce-f61636b17c91?t=1786446363159",
+   "nota": "formato non riconosciuto"
+  },
+  {
+   "provincia": "SA",
+   "turno": null,
+   "data": "2026-10-27",
+   "url": "https://www.mim.gov.it/web/miur-usr-campania/-/personale-scolastico-decreto-pubblicazione-4-bollettino-supplenze",
+   "nota": "documento non leggibile"
+  },
+  {
+   "provincia": "SA",
+   "turno": null,
+   "data": "2026-10-27",
+   "url": "https://www.mim.gov.it/web/miur-usr-campania/-/personale-docente-decreto-3-bollettino-supplenze",
+   "nota": "documento non leggibile"
+  },
+  {
+   "provincia": "SA",
+   "turno": null,
+   "data": "2026-10-27",
+   "url": "https://www.mim.gov.it/web/miur-usr-campania/-/personale-docente-decreto-pubblicazione-ii-bollettino",
+   "nota": "documento non leggibile"
+  },
+  {
+   "provincia": "SA",
+   "turno": null,
+   "data": "2026-10-27",
+   "url": "https://www.mim.gov.it/web/miur-usr-campania/-/personale-docente-nomine-a-tempo-determinato-da-gae-gps-rilievi-al-funzionamento-del-cd-algoritmo-riscontro-cumulativo",
+   "nota": "documento non leggibile"
+  },
+  {
+   "provincia": "SA",
+   "turno": null,
+   "data": "2026-10-27",
+   "url": "https://www.mim.gov.it/web/miur-usr-campania/-/personale-docente-liberatoria-ore-da-assegnare-internamente-come-ore-aggiuntive-fase-2-nota-mim-n-16054-del-19-giugno-2026",
+   "nota": "documento non leggibile"
+  },
+  {
+   "provincia": "SA",
+   "turno": null,
+   "data": "2026-10-27",
+   "url": "https://www.mim.gov.it/web/miur-usr-campania/-/indicazioni-relative-alle-procedure-di-nomina-del-personale-docente-a-tempo-determinato-da-gae-e-gps-a-s-2026-27-richiesta-ritiro-dell-istanza-ins-per",
    "nota": "documento non leggibile"
   },
   {
@@ -314,23 +370,9 @@
   },
   {
    "provincia": "IM",
-   "turno": 3,
+   "turno": 4,
    "data": "2026-10-27",
-   "url": "https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps-as-2026-27--iii-turno",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "IM",
-   "turno": 5,
-   "data": "2026-10-27",
-   "url": "https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps-as-2026-27--v-turno",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "SV",
-   "turno": 12,
-   "data": "2026-10-27",
-   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps----turno-12-1",
+   "url": "https://www.istruzioneimperia.gov.it/pagine/nomine-da-gps--iv-turno-",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
@@ -1391,6 +1433,13 @@
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
+   "provincia": "TA",
+   "turno": null,
+   "data": "2026-09-16",
+   "url": "https://www.usptaranto.it/wp-content/uploads/2026/09/m_pi.AOOUSPTA.REGISTRO-UFFICIALEU.0019836.16-09-2026.pdf",
+   "nota": "formato non riconosciuto"
+  },
+  {
    "provincia": "CA",
    "turno": null,
    "data": "2026-10-27",
@@ -2231,8 +2280,8 @@
   },
   {
    "provincia": "IM",
-   "turno": 4,
-   "nota": "bollettino non trovato (si passa dal turno 3 al 5)"
+   "turno": 3,
+   "nota": "bollettino non trovato (si passa dal turno 2 al 4)"
   },
   {
    "provincia": "CO",
