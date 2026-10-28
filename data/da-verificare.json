@@ -1,11 +1,11 @@
 {
- "aggiornato": "2026-10-28T06:20:52.199Z",
+ "aggiornato": "2026-10-28T11:12:49.143Z",
  "ocr": [],
  "zeroRighe": [
   {
    "provincia": "GO",
    "turno": null,
-   "data": "2026-10-28",
+   "data": "2026-10-15",
    "url": "https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/ufficio-territoriale-di-gorizia/allegati/Bollettino_TotaleNomine-8.pdf",
    "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
   },
@@ -27,7 +27,7 @@
   },
   {
    "provincia": "AQ",
-   "turno": null,
+   "turno": 2,
    "data": "2026-09-08",
    "url": "https://lnx.csalaquila.it/wp/wp-content/uploads/2026/09/GPS-2026_provvedimento-bollettino-n.-2_prot.-n.-13616_8_09_2026.pdf",
    "nota": "formato non riconosciuto"
@@ -48,7 +48,7 @@
   },
   {
    "provincia": "AQ",
-   "turno": null,
+   "turno": 5,
    "data": "2026-10-20",
    "url": "https://lnx.csalaquila.it/wp/wp-content/uploads/2026/10/Bollettino-n.-5-1.pdf",
    "nota": "formato non riconosciuto"
@@ -69,14 +69,14 @@
   },
   {
    "provincia": "CZ",
-   "turno": null,
+   "turno": 2,
    "data": "2026-10-28",
    "url": "https://www.istruzione.calabria.it/catanzaro/m_pi-aoouspcz-registro-ufficialeu-0009525-11-09-2026/",
    "nota": "documento non leggibile"
   },
   {
    "provincia": "CZ",
-   "turno": null,
+   "turno": 4,
    "data": "2026-10-28",
    "url": "https://www.istruzione.calabria.it/catanzaro/m_pi-aoouspcz-registro-ufficialeu-0010555-07-10-2026/",
    "nota": "documento non leggibile"
@@ -111,14 +111,14 @@
   },
   {
    "provincia": "FR",
-   "turno": null,
+   "turno": 1,
    "data": "2026-10-28",
    "url": "https://www.uspistruzione.fr.it/wp2/wp-content/uploads/2026/08/report-Ultimi-Nominati-Su-Posto-Intero-GPS-2026.28-1-BOLLETTINO.pdf",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "FR",
-   "turno": null,
+   "turno": 6,
    "data": "2026-10-28",
    "url": "https://www.uspistruzione.fr.it/wp2/wp-content/uploads/2026/10/reportUltimiNominatiSuPostoIntero-6-bollettino.pdf",
    "nota": "formato non riconosciuto"
@@ -278,36 +278,22 @@
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
-   "provincia": "SP",
-   "turno": 1,
-   "data": "2026-10-28",
-   "url": "https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---i-turno-as-20262027",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "SV",
-   "turno": 2,
-   "data": "2026-10-28",
-   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-1-2",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
    "provincia": "BG",
-   "turno": null,
+   "turno": 3,
    "data": "2026-10-28",
    "url": "https://www.mim.gov.it/web/bergamo/-/nomine-a-tempo-determinato-da-gae-e-gps-a-s-2026-27-bollettino-n-3-1",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "BG",
-   "turno": null,
+   "turno": 4,
    "data": "2026-10-28",
    "url": "https://www.mim.gov.it/web/bergamo/-/nomine-a-tempo-determinato-da-gae-e-gps-a-s-2026-27-bollettino-n-4-1",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "BG",
-   "turno": null,
+   "turno": 5,
    "data": "2026-10-28",
    "url": "https://www.mim.gov.it/web/bergamo/-/nomine-a-tempo-determinato-da-gae-e-gps-a-s-2026-27-bollettino-n-5-1",
    "nota": "nessun PDF o foglio trovato nella pagina"
@@ -328,7 +314,7 @@
   },
   {
    "provincia": "BG",
-   "turno": null,
+   "turno": 8,
    "data": "2026-10-28",
    "url": "https://www.mim.gov.it/web/bergamo/-/nomine-a-tempo-determinato-da-gps-a-s-2026-27-bollettino-n-8-1",
    "nota": "nessun PDF o foglio trovato nella pagina"
@@ -363,28 +349,28 @@
   },
   {
    "provincia": "BS",
-   "turno": null,
+   "turno": 5,
    "data": "2026-10-28",
    "url": "https://www.mim.gov.it/web/brescia/-/quinto-bollettino-di-nomine-a-tempo-determinato-da-gae-e-gps-esito-conferimento-nomine-a-t-d-da-i-e-ii-fascia-2",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "BS",
-   "turno": null,
+   "turno": 7,
    "data": "2026-10-28",
    "url": "https://www.mim.gov.it/web/brescia/-/settimo-bollettino-di-nomine-a-tempo-determinato-da-gae-e-gps-esito-conferimento-nomine-a-t-d-da-i-e-ii-fascia-1",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "BS",
-   "turno": null,
+   "turno": 8,
    "data": "2026-10-28",
    "url": "https://www.mim.gov.it/web/brescia/-/ottavo-bollettino-di-nomine-a-tempo-determinato-da-gae-e-gps-esito-conferimento-nomine-a-t-d-da-i-e-ii-fascia-1",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "CO",
-   "turno": null,
+   "turno": 2,
    "data": "2026-10-28",
    "url": "https://www.mim.gov.it/web/como/-/secondo-bollettino-incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-1",
    "nota": "nessun PDF o foglio trovato nella pagina"
@@ -412,14 +398,14 @@
   },
   {
    "provincia": "CR",
-   "turno": null,
+   "turno": 2,
    "data": "2026-10-28",
    "url": "https://www.mim.gov.it/web/cremona/-/nomine-a-tempo-determinato-personale-docente-a-s-2026-27-bollettino-11-09-2026-1",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "CR",
-   "turno": null,
+   "turno": 3,
    "data": "2026-10-28",
    "url": "https://www.mim.gov.it/web/cremona/-/nomine-a-tempo-determinato-personale-docente-a-s-2026-27-bollettino-25-09-2026-1",
    "nota": "nessun PDF o foglio trovato nella pagina"
@@ -524,21 +510,21 @@
   },
   {
    "provincia": "LO",
-   "turno": null,
+   "turno": 2,
    "data": "2026-10-28",
    "url": "https://www.mim.gov.it/web/lodi/-/individuazione-dei-destinatari-della-proposta-di-stipula-di-contratto-a-tempo-determinato-per-l-a-s-2026-2027-inseriti-nelle-graduatorie-provinciali-d",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "LO",
-   "turno": null,
+   "turno": 3,
    "data": "2026-10-28",
    "url": "https://www.mim.gov.it/web/lodi/-/individuazione-dei-destinatari-di-contratti-t-d-su-posti-comuni-e-di-sostegno-per-l-a-s-2026-2027-terzo-algoritmo",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "LO",
-   "turno": null,
+   "turno": 4,
    "data": "2026-10-28",
    "url": "https://www.mim.gov.it/web/lodi/-/individuazione-dei-destinatari-di-contratti-t-d-su-posti-comuni-e-di-sostegno-per-l-a-s-2026-2027-quarto-algoritmo",
    "nota": "nessun PDF o foglio trovato nella pagina"
@@ -566,7 +552,7 @@
   },
   {
    "provincia": "MN",
-   "turno": null,
+   "turno": 2,
    "data": "2026-10-28",
    "url": "https://www.mim.gov.it/web/mantova/-/nomine-a-tempo-determinato-da-gps-a-s-26-27-esito-conferimento-nomine-ii-bollettino-1",
    "nota": "nessun PDF o foglio trovato nella pagina"
@@ -594,21 +580,21 @@
   },
   {
    "provincia": "MN",
-   "turno": null,
+   "turno": 6,
    "data": "2026-10-28",
    "url": "https://www.mim.gov.it/web/mantova/-/nomine-a-tempo-determinato-da-gps-a-s-26-27-esito-conferimento-nomine-vi-bollettino-1",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "MN",
-   "turno": null,
+   "turno": 7,
    "data": "2026-10-28",
    "url": "https://www.mim.gov.it/web/mantova/-/esito-conferimento-nomine-a-tempo-determinato-da-gps-a-s-26-27-i-e-ii-fascia-vii-bollettino-1",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "MN",
-   "turno": null,
+   "turno": 8,
    "data": "2026-10-28",
    "url": "https://www.mim.gov.it/web/mantova/-/nomine-a-tempo-determinato-da-gps-a-s-26-27-esito-conferimento-nomine-viii-bollettino-1",
    "nota": "nessun PDF o foglio trovato nella pagina"
@@ -629,7 +615,7 @@
   },
   {
    "provincia": "MI",
-   "turno": null,
+   "turno": 4,
    "data": "2026-10-28",
    "url": "https://www.mim.gov.it/web/milano/-/pubblicazione-iv-bollettino-nomine-gps-personale-docente-ogni-ordine-e-grado-e-personale-educativo-a-s-2026-27-1",
    "nota": "nessun PDF o foglio trovato nella pagina"
@@ -693,7 +679,7 @@
   {
    "provincia": "PV",
    "turno": 3,
-   "data": "2026-10-28",
+   "data": "2026-09-21",
    "url": "https://www.mim.gov.it/documents/9081911/10331371/m_pi.AOOUSPPV.REGISTRO+UFFICIALE%28U%29.0007101.21-09-2026.pdf/c4cf7484-b984-6630-7ac5-39b028a6e711?version=1.0&t=1789989563571",
    "nota": "formato non riconosciuto"
   },
@@ -713,7 +699,7 @@
   },
   {
    "provincia": "SO",
-   "turno": null,
+   "turno": 4,
    "data": "2026-10-28",
    "url": "https://www.mim.gov.it/web/sondrio/-/esito-conferimento-nomine-a-tempo-determinato-da-gae-gps",
    "nota": "nessun PDF o foglio trovato nella pagina"
@@ -734,7 +720,7 @@
   },
   {
    "provincia": "SO",
-   "turno": null,
+   "turno": 8,
    "data": "2026-10-28",
    "url": "https://www.mim.gov.it/web/sondrio/-/eisto-conferimento-nomine-da-gae-gps-bollettino-n-8",
    "nota": "nessun PDF o foglio trovato nella pagina"
@@ -909,7 +895,7 @@
   },
   {
    "provincia": "CB",
-   "turno": null,
+   "turno": 2,
    "data": "2026-10-28",
    "url": "https://www.mim.gov.it/web/campobasso/-/conferimento-nomine-a-tempo-determinato-su-posti-curriculari-e-di-sostegno-del-personale-docente-ed-educativo-da-gae-gps-a-s-2026-2027-scuola-infanz-3",
    "nota": "nessun PDF o foglio trovato nella pagina"
@@ -923,7 +909,7 @@
   },
   {
    "provincia": "CB",
-   "turno": null,
+   "turno": 4,
    "data": "2026-10-28",
    "url": "https://www.mim.gov.it/web/campobasso/-/conferimento-nomine-a-tempo-determinato-su-posti-curriculari-del-personale-docente-gps-a-s-2026-2027-scuola-secondaria-di-ii-grado-iv-bollettino--1",
    "nota": "nessun PDF o foglio trovato nella pagina"
@@ -937,7 +923,7 @@
   },
   {
    "provincia": "CB",
-   "turno": null,
+   "turno": 6,
    "data": "2026-10-28",
    "url": "https://www.mim.gov.it/web/campobasso/-/conferimento-nomine-a-tempo-determinato-su-posti-curriculari-del-personale-docente-gps-a-s-2026-2027-scuola-infanzia-primaria-secondaria-di-i-e-di-i-3",
    "nota": "nessun PDF o foglio trovato nella pagina"
@@ -957,22 +943,15 @@
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
-   "provincia": "IS",
-   "turno": 5,
-   "data": "2026-10-28",
-   "url": "https://www.mim.gov.it/documents/10591991/10597831/nota+di+pubblicazione+quinto+turno+incarichi+TD_.pdf/eca85bec-a68a-88b7-074a-0ea087bdbb92?version=1.0&t=1791366478803",
-   "nota": "formato non riconosciuto"
-  },
-  {
    "provincia": "AL",
-   "turno": null,
+   "turno": 1,
    "data": "2026-10-28",
    "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/08/AL-Decreto-I-Turno_GPS-signed.pdf",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "AL",
-   "turno": null,
+   "turno": 3,
    "data": "2026-10-28",
    "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/09/AL-Decreto-III-Turno-GPS-signed.pdf",
    "nota": "formato non riconosciuto"
@@ -986,7 +965,7 @@
   },
   {
    "provincia": "AL",
-   "turno": null,
+   "turno": 5,
    "data": "2026-10-28",
    "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/09/AL-Decreto-V-Turno-GPS-signed.pdf",
    "nota": "formato non riconosciuto"
@@ -1014,106 +993,106 @@
   },
   {
    "provincia": "AL",
-   "turno": null,
+   "turno": 9,
    "data": "2026-10-28",
    "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/10/AL-Decreto-IX-Turno-GPS-signed.pdf",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "AL",
-   "turno": null,
+   "turno": 10,
    "data": "2026-10-28",
    "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/10/AL-Decreto-X-Turno-GPS-signed.pdf",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "AL",
-   "turno": null,
+   "turno": 11,
    "data": "2026-10-28",
    "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/10/AL-Decreto-XI-Turno-GPS-signed.pdf",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "AL",
-   "turno": null,
+   "turno": 12,
    "data": "2026-10-28",
    "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/10/AL-Decreto-XII-Turno-GPS.pdf",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "AL",
-   "turno": null,
+   "turno": 13,
    "data": "2026-10-28",
    "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/10/AL-Decreto-XIII-Turno-GPS-signed.pdf",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "AT",
-   "turno": null,
-   "data": "2026-10-28",
+   "turno": 1,
+   "data": "2026-08-28",
    "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/08/m_pi.AOOUSPAT.REGISTRO-UFFICIALEU.0003748.28-08-2026-1.pdf",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "AT",
-   "turno": null,
-   "data": "2026-10-28",
+   "turno": 3,
+   "data": "2026-09-11",
    "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/09/m_pi.AOOUSPAT.REGISTRO-UFFICIALEU.0003950.11-09-2026.pdf",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "AT",
-   "turno": null,
-   "data": "2026-10-28",
+   "turno": 4,
+   "data": "2026-09-16",
    "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/09/m_pi.AOOUSPAT.REGISTRO-UFFICIALEU.0004028.16-09-2026.pdf",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "AT",
-   "turno": null,
-   "data": "2026-10-28",
+   "turno": 5,
+   "data": "2026-09-22",
    "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/09/m_pi.AOOUSPAT.REGISTRO-UFFICIALEU.0004100.22-09-2026.pdf",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "AT",
-   "turno": null,
-   "data": "2026-10-28",
+   "turno": 6,
+   "data": "2026-09-25",
    "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/09/m_pi.AOOUSPAT.REGISTRO-UFFICIALEU.0004206.25-09-2026.pdf",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "AT",
    "turno": 7,
-   "data": "2026-10-28",
+   "data": "2026-09-29",
    "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/09/m_pi.AOOUSPAT.REGISTRO-UFFICIALEU.0004258.29-09-2026.pdf",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "AT",
-   "turno": null,
-   "data": "2026-10-28",
+   "turno": 8,
+   "data": "2026-10-09",
    "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/10/m_pi.AOOUSPAT.REGISTRO-UFFICIALEU.0004396.09-10-2026.pdf",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "AT",
-   "turno": null,
-   "data": "2026-10-28",
+   "turno": 9,
+   "data": "2026-10-13",
    "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/10/m_pi.AOOUSPAT.REGISTRO-UFFICIALEU.0004425.13-10-2026.pdf",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "AT",
-   "turno": null,
-   "data": "2026-10-28",
+   "turno": 10,
+   "data": "2026-10-15",
    "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/10/m_pi.AOOUSPAT.REGISTRO-UFFICIALEU.0004491.15-10-2026.pdf",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "AT",
-   "turno": null,
-   "data": "2026-10-28",
+   "turno": 11,
+   "data": "2026-10-27",
    "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/10/m_pi.AOOUSPAT.REGISTRO-UFFICIALEU.0004703.27-10-2026.pdf",
    "nota": "formato non riconosciuto"
   },
@@ -1273,13 +1252,6 @@
   },
   {
    "provincia": "VB",
-   "turno": 1,
-   "data": "2026-10-28",
-   "url": "https://www.istruzionepiemonte.it/verbania/wp-content/uploads/sites/8/2026/08/RUU.5071.31-08-2026-Decreto-pubblicazione-incarichi-a-tempo-determinato-personale-Docente-a.s.2026-27-primo-turno.pdf",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "VB",
    "turno": 2,
    "data": "2026-10-28",
    "url": "https://www.istruzionepiemonte.it/verbania/wp-content/uploads/sites/8/2026/09/Nomine-2°-turno-privacy.pdf",
@@ -1290,27 +1262,6 @@
    "turno": 4,
    "data": "2026-10-28",
    "url": "https://www.istruzionepiemonte.it/verbania/wp-content/uploads/sites/8/2026/09/Decreto-nomine-4°-Turno-scorrimento-GPS-1.pdf",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "VB",
-   "turno": 5,
-   "data": "2026-10-28",
-   "url": "https://www.istruzionepiemonte.it/verbania/wp-content/uploads/sites/8/2026/09/Decreto-nomine-5-turno-GPSU.0005782.28-09-2026.pdf",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "VB",
-   "turno": null,
-   "data": "2026-10-28",
-   "url": "https://www.istruzionepiemonte.it/verbania/wp-content/uploads/sites/8/2026/10/m_pi.AOOUSPVB.REGISTRO-UFFICIALEU.0006204.21-10-2026.pdf",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "VC",
-   "turno": 8,
-   "data": "2026-10-28",
-   "url": "https://www.istruzionepiemonte.it/vercelli/wp-content/uploads/sites/7/2026/10/m_pi.AOOUSPVC.REGISTRO-UFFICIALEU.0006553.02-10-2026.pdf",
    "nota": "formato non riconosciuto"
   },
   {
@@ -1358,84 +1309,77 @@
   {
    "provincia": "CA",
    "turno": null,
-   "data": "2026-10-28",
-   "url": "https://www.mim.gov.it/documents/8672112/10328155/m_pi.AOOUSPCA.REGISTRO+DECRETI%28R%29.0000734.31-08-2026_SUPPLENZE.pdf/e278f5a1-989a-571f-0bc0-cdb55d6a5cee?version=1.0&t=1788250527855",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "CA",
-   "turno": null,
-   "data": "2026-10-28",
+   "data": "2026-09-18",
    "url": "https://www.mim.gov.it/documents/8672112/10328155/1_m_pi.AOOUSPCA.REGISTRO+DECRETI%28R%29.0000803.18-09-2026-suppl.pdf/031f76d3-0345-502c-5c65-6773fa894172?version=1.0&t=1789737440701",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "NU",
    "turno": null,
-   "data": "2026-10-28",
+   "data": "2026-08-31",
    "url": "https://www.mim.gov.it/documents/8635161/10325141/Supplenze_I+turno_AOOUSPNU.REGISTRO+UFFICIALE%28U%29.0007702.31-08-2026.pdf/5588c20e-76b5-33a3-62bf-44ac702e5e38?version=1.0&t=1788185265006",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "NU",
    "turno": 3,
-   "data": "2026-10-28",
+   "data": "2026-09-22",
    "url": "https://www.mim.gov.it/documents/8635161/10325141/nomine+_terzo+turno_AOOUSPNU.REGISTRO+UFFICIALE%28U%29.0008702.22-09-2026.pdf/b43b4532-1b76-aaa6-6307-7453bb9f0926?version=1.0&t=1790076640843",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "NU",
    "turno": 4,
-   "data": "2026-10-28",
+   "data": "2026-10-02",
    "url": "https://www.mim.gov.it/documents/8635161/10325141/Decreto_nomine+turno+4_AOOUSPNU.REGISTRO+UFFICIALE%28U%29.0009175.02-10-2026.pdf/83332989-90bc-0dd8-9816-86e8f4f34cf6?version=1.0&t=1790948497834",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "NU",
    "turno": 5,
-   "data": "2026-10-28",
+   "data": "2026-10-07",
    "url": "https://www.mim.gov.it/documents/8635161/0/m_pi.AOOUSPNU.REGISTRO+UFFICIALE%28U%29.0009372.07-10-2026.pdf/4ed09539-6d34-3870-2ae2-29106cd340b6?version=1.0&t=1791374349131",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "NU",
    "turno": 6,
-   "data": "2026-10-28",
+   "data": "2026-10-13",
    "url": "https://www.mim.gov.it/documents/8635161/10325141/Decreto_nomine+turno+6_REGISTRO+UFFICIALE%28U%29.0009579.13-10-2026.pdf/58c3f604-17a5-53f9-f40a-abad79a3ce9f?version=1.0&t=1791895130817",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "NU",
    "turno": 6,
-   "data": "2026-10-28",
+   "data": "2026-10-14",
    "url": "https://www.mim.gov.it/documents/8635161/10325141/Integrazione_decreto+Nomine_turno+6_USPNU.REGISTRO+UFFICIALE%28U%29.0009680.14-10-2026.pdf/32de2e51-c605-4d4c-32a9-7cd5d34ef15c?version=1.0&t=1791979886752",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "NU",
    "turno": 7,
-   "data": "2026-10-28",
+   "data": "2026-10-22",
    "url": "https://www.mim.gov.it/documents/8635161/10428184/Decreto_nomine+settimo+turno_0010012.22-10-2026.pdf/58dc6002-617c-d8cc-5be6-b89cea1d3a02?version=1.0&t=1792672480096",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "OR",
    "turno": 3,
-   "data": "2026-10-28",
+   "data": "2026-09-28",
    "url": "https://www.mim.gov.it/documents/8609379/10333596/III+TURNO+-+DECRETO+CONFERIMENTO+NOMINE+A+TEMPO+DETERMINATO_Firmato.pdf/1a773049-9e8a-b34b-3b4b-24724e0bc8f6?version=1.0&t=1790604151321",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "OR",
    "turno": 5,
-   "data": "2026-10-28",
+   "data": "2026-10-20",
    "url": "https://www.mim.gov.it/documents/8609379/10333596/m_pi.AOOUSPOR.REGISTRO+UFFICIALE%28U%29.0006490.20-10-2026.pdf/b5017809-0eaa-71bb-771a-44b53c47b74b?version=1.0&t=1792494239126",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "OR",
    "turno": 6,
-   "data": "2026-10-28",
+   "data": "2026-10-23",
    "url": "https://www.mim.gov.it/documents/8609379/10038516/m_pi.AOOUSPOR.REGISTRO+UFFICIALE%28U%29.0006604.23-10-2026.pdf/2db2a181-f00f-912f-d8f5-ddc5592f20af?version=1.0&t=1792764095271",
    "nota": "formato non riconosciuto"
   },
@@ -1470,35 +1414,35 @@
   {
    "provincia": "EN",
    "turno": 1,
-   "data": "2026-10-28",
+   "data": "2026-08-31",
    "url": "https://cl-en.usr.sicilia.it/download/2290/15461/15465/m_pi-aoouspcl-en-registro-ufficialeu-0019730-31-08-2026.pdf",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "EN",
    "turno": 2,
-   "data": "2026-10-28",
+   "data": "2026-09-11",
    "url": "https://cl-en.usr.sicilia.it/download/2353/15778/15784/m_pi-aoouspcl-en-registro-ufficialeu-0021277-11-09-2026.pdf",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "EN",
    "turno": 3,
-   "data": "2026-10-28",
+   "data": "2026-09-23",
    "url": "https://cl-en.usr.sicilia.it/download/2400/16008/16014/m_pi-aoouspcl-en-registro-ufficialeu-0022432-23-09-2026.pdf",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "EN",
    "turno": 4,
-   "data": "2026-10-28",
+   "data": "2026-10-02",
    "url": "https://cl-en.usr.sicilia.it/download/2436/16180/16182/m_pi-aoouspcl-en-registro-ufficialeu-0023238-02-10-2026-1.pdf",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "EN",
    "turno": 5,
-   "data": "2026-10-28",
+   "data": "2026-10-23",
    "url": "https://cl-en.usr.sicilia.it/download/2474/16387-1/16398/m_pi-aoouspcl-en-registro-ufficialeu-0025041-23-10-2026-1-2.pdf",
    "nota": "formato non riconosciuto"
   },
@@ -1560,64 +1504,64 @@
   },
   {
    "provincia": "RG",
-   "turno": null,
-   "data": "2026-10-28",
+   "turno": 2,
+   "data": "2026-09-11",
    "url": "https://rg.usr.sicilia.it/download/1635/10992/10996/m_pi-aoousprg-registro-ufficialeu-0006769-11-09-2026.pdf",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "RG",
    "turno": 3,
-   "data": "2026-10-28",
+   "data": "2026-09-18",
    "url": "https://rg.usr.sicilia.it/download/1648/11063/11066/m_pi-aoousprg-registro-ufficialeu-0007042-18-09-2026.pdf",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "RG",
    "turno": 4,
-   "data": "2026-10-28",
+   "data": "2026-10-02",
    "url": "https://rg.usr.sicilia.it/download/1682/11231/11234/m_pi-aoousprg-registro-ufficialeu-0007651-02-10-2026.pdf",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "RG",
    "turno": null,
-   "data": "2026-10-28",
+   "data": "2026-10-12",
    "url": "https://rg.usr.sicilia.it/download/1698/11302-1/11304/m_pi-aoousprg-registro-ufficialeu-0007971-12-10-2026.pdf",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "RG",
    "turno": null,
-   "data": "2026-10-28",
+   "data": "2026-10-19",
    "url": "https://rg.usr.sicilia.it/download/1704/11351/11353/m_pi-aoousprg-registro-ufficialeu-0008182-19-10-2026.pdf",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "SR",
    "turno": null,
-   "data": "2026-10-28",
+   "data": "2026-08-31",
    "url": "https://sr.usr.sicilia.it/download/1859/13758/13761/m_pi-aoouspsr-registro-ufficialeu-0018538-31-08-2026.pdf",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "SR",
-   "turno": null,
-   "data": "2026-10-28",
+   "turno": 2,
+   "data": "2026-09-11",
    "url": "https://sr.usr.sicilia.it/download/1887/13927/13931/m_pi-aoouspsr-registro-ufficialeu-0020080-11-09-2026.pdf",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "SR",
-   "turno": null,
-   "data": "2026-10-28",
+   "turno": 3,
+   "data": "2026-10-02",
    "url": "https://sr.usr.sicilia.it/download/1952/14256/14260/m_pi-aoouspsr-registro-ufficialeu-0022222-02-10-2026.pdf",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "SR",
-   "turno": null,
-   "data": "2026-10-28",
+   "turno": 4,
+   "data": "2026-10-15",
    "url": "https://sr.usr.sicilia.it/download/2000/14525/14530/m_pi-aoouspsr-registro-ufficialeu-0023414-15-10-2026.pdf",
    "nota": "formato non riconosciuto"
   },
@@ -1728,7 +1672,7 @@
   },
   {
    "provincia": "MS",
-   "turno": null,
+   "turno": 2,
    "data": "2026-10-28",
    "url": "https://www.ustms.it/download/376/avvio-a-s-2026-27/8686/bollettino_totalenomine.pdf",
    "nota": "righe GPS non leggibili: 35"
@@ -1736,70 +1680,70 @@
   {
    "provincia": "PT",
    "turno": 1,
-   "data": "2026-10-28",
+   "data": "2026-08-31",
    "url": "https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/08/m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0005026.31-08-2026-TURNO-1-GPS.pdf",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "PT",
    "turno": 2,
-   "data": "2026-10-28",
+   "data": "2026-09-08",
    "url": "https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/09/m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0005198.08-09-2026-II-TURNO-GPS.pdf",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "PT",
    "turno": 3,
-   "data": "2026-10-28",
+   "data": "2026-09-14",
    "url": "https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/09/m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0005369.14-09-2026-III-turno-nomina-GPS.pdf",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "PT",
    "turno": 5,
-   "data": "2026-10-28",
+   "data": "2026-09-23",
    "url": "https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/09/m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0005586.23-09-2026-turno-v-gps.pdf",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "PT",
    "turno": 6,
-   "data": "2026-10-28",
+   "data": "2026-09-28",
    "url": "https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/09/m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0005792.28-09-2026-turno-VI-GPS.pdf",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "PT",
    "turno": 7,
-   "data": "2026-10-28",
+   "data": "2026-10-01",
    "url": "https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/10/m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0005875.01-10-2026-decreto-VII-turno-GPS.pdf",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "PT",
    "turno": 8,
-   "data": "2026-10-28",
+   "data": "2026-10-13",
    "url": "https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/10/m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0006193.13-10-2026-decreto-VIII-turno-di-nomina-gps.pdf",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "PT",
    "turno": 9,
-   "data": "2026-10-28",
+   "data": "2026-10-16",
    "url": "https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/10/m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0006290.16-10-2026.pdf",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "PT",
    "turno": 10,
-   "data": "2026-10-28",
+   "data": "2026-10-20",
    "url": "https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/10/m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0006364.20-10-2026.pdf",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "PT",
    "turno": null,
-   "data": "2026-10-28",
+   "data": "2026-10-26",
    "url": "https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/10/m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0006481.26-10-2026.pdf",
    "nota": "formato non riconosciuto"
   },
@@ -1889,135 +1833,142 @@
   },
   {
    "provincia": "PG",
-   "turno": null,
-   "data": "2026-10-28",
+   "turno": 2,
+   "data": "2026-08-28",
    "url": "https://istruzione.umbria.it/wp-content/uploads/2026/08/D.D.-prot.-n.-562-del-28.08.2026.pdf",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "PG",
    "turno": null,
-   "data": "2026-10-28",
+   "data": "2026-09-08",
    "url": "https://istruzione.umbria.it/wp-content/uploads/2026/09/D.D.-prot.-n.-616-del-08.09.2026.pdf",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "PG",
    "turno": null,
-   "data": "2026-10-28",
+   "data": "2026-09-15",
    "url": "https://istruzione.umbria.it/wp-content/uploads/2026/09/D.D.-prot.-n.-645-del-15.09.2026.pdf",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "PG",
    "turno": null,
-   "data": "2026-10-28",
+   "data": "2026-09-21",
    "url": "https://istruzione.umbria.it/wp-content/uploads/2026/09/D.D.-prot.-n.-656-del-21.09.2026.pdf",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "PG",
    "turno": null,
-   "data": "2026-10-28",
+   "data": "2026-09-24",
    "url": "https://istruzione.umbria.it/wp-content/uploads/2026/09/D.D.-prot.-n.-670-del-24.09.2026.pdf",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "PG",
    "turno": null,
-   "data": "2026-10-28",
+   "data": "2026-09-29",
    "url": "https://istruzione.umbria.it/wp-content/uploads/2026/09/D.D.-prot.-n.-681-del-29.09.2026.pdf",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "PG",
    "turno": null,
-   "data": "2026-10-28",
+   "data": "2026-10-05",
    "url": "https://istruzione.umbria.it/wp-content/uploads/2026/10/D.D.-prot.-n.-691-del-05.10.2026.pdf",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "PG",
    "turno": null,
-   "data": "2026-10-28",
+   "data": "2026-10-07",
    "url": "https://istruzione.umbria.it/wp-content/uploads/2026/10/D.D.-prot.-n.-697-del-07.10.2026.pdf",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "PG",
    "turno": null,
-   "data": "2026-10-28",
+   "data": "2026-10-12",
    "url": "https://istruzione.umbria.it/wp-content/uploads/2026/10/D.D.-prot.-n.-705-del-12.10.2026.pdf",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "PG",
    "turno": null,
-   "data": "2026-10-28",
+   "data": "2026-10-16",
    "url": "https://istruzione.umbria.it/wp-content/uploads/2026/10/D.D.-prot.-n.-722-del-16.10.2026.pdf",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "PG",
    "turno": null,
-   "data": "2026-10-28",
+   "data": "2026-10-20",
    "url": "https://istruzione.umbria.it/wp-content/uploads/2026/10/D.D.-prot.-n.-732-del-20.10.2026.pdf",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "PG",
    "turno": null,
-   "data": "2026-10-28",
+   "data": "2026-10-23",
    "url": "https://istruzione.umbria.it/wp-content/uploads/2026/10/D.D.-prot.-n.-742-del-23.10.2026.pdf",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "PG",
    "turno": null,
-   "data": "2026-10-28",
+   "data": "2026-10-26",
    "url": "https://istruzione.umbria.it/wp-content/uploads/2026/10/D.D.-prot.-n.-746-del-26.10.2026.pdf",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "TR",
    "turno": 2,
-   "data": "2026-10-28",
+   "data": "2026-09-12",
    "url": "https://istruzione.umbria.it/wp-content/uploads/2026/09/D.D.-prot.n.-638-del-12-09-2026.pdf",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "TR",
    "turno": null,
-   "data": "2026-10-28",
+   "data": "2026-09-22",
    "url": "https://istruzione.umbria.it/wp-content/uploads/2026/09/D.D.-prot.-n.662-del-22-09-2026.pdf",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "TR",
    "turno": null,
-   "data": "2026-10-28",
+   "data": "2026-09-24",
    "url": "https://istruzione.umbria.it/wp-content/uploads/2026/09/D.D.-prot.n.-671-del-24-09-2026.pdf",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "TR",
    "turno": null,
-   "data": "2026-10-28",
+   "data": "2026-10-02",
    "url": "https://istruzione.umbria.it/wp-content/uploads/2026/10/D.D.-N.688-del-02-10-2026.pdf",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "TR",
    "turno": null,
-   "data": "2026-10-28",
+   "data": "2026-10-09",
    "url": "https://istruzione.umbria.it/wp-content/uploads/2026/10/D.D.-prot.-n.-702-del-09-10-2026.pdf",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "TR",
    "turno": null,
-   "data": "2026-10-28",
+   "data": "2026-10-23",
    "url": "https://istruzione.umbria.it/wp-content/uploads/2026/10/D.D.-n.743-del-23.10.2026.pdf",
+   "nota": "formato non riconosciuto"
+  },
+  {
+   "provincia": "TR",
+   "turno": null,
+   "data": "2026-10-27",
+   "url": "https://istruzione.umbria.it/wp-content/uploads/2026/10/D.D.-prot.-n.-748-del-27-10-2026.pdf",
    "nota": "formato non riconosciuto"
   },
   {
@@ -2166,13 +2117,6 @@
    "data": "2026-10-28",
    "url": "https://t.me/share/url?text=Supplenze docenti 2026/27: bollettini del 27 ottobre [AGGIORNATO]&url=https://www.orizzontescuola.it/supplenze-docenti-ecco-i-bollettini-nomine-al-31-agosto-o-30-giugno-2027-in-aggiornamento/",
    "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "SA",
-   "turno": null,
-   "data": "2026-10-21",
-   "url": "https://www.mim.gov.it/documents/7673905/10936887/Bollettini+a.s.2023_24_privacy.zip/1314196a-3abc-91d8-b18c-d72c53159fbe?t=1792585523229",
-   "nota": "documento non leggibile"
   }
  ],
  "turniMancanti": [
@@ -2182,19 +2126,14 @@
    "nota": "bollettino non trovato (si passa dal turno 1 al 3)"
   },
   {
-   "provincia": "CZ",
-   "turno": 2,
-   "nota": "bollettino non trovato (si passa dal turno 1 al 3)"
+   "provincia": "VV",
+   "turno": 3,
+   "nota": "bollettino non trovato (si passa dal turno 2 al 5)"
   },
   {
-   "provincia": "KR",
-   "turno": 2,
-   "nota": "bollettino non trovato (si passa dal turno 1 al 3)"
-  },
-  {
-   "provincia": "PN",
+   "provincia": "VV",
    "turno": 4,
-   "nota": "bollettino non trovato (si passa dal turno 3 al 5)"
+   "nota": "bollettino non trovato (si passa dal turno 2 al 5)"
   },
   {
    "provincia": "GE",
@@ -2202,14 +2141,14 @@
    "nota": "bollettino non trovato (si passa dal turno 5 al 7)"
   },
   {
-   "provincia": "CO",
-   "turno": 2,
-   "nota": "bollettino non trovato (si passa dal turno 1 al 4)"
+   "provincia": "BS",
+   "turno": 6,
+   "nota": "bollettino non trovato (si passa dal turno 5 al 7)"
   },
   {
    "provincia": "CO",
    "turno": 3,
-   "nota": "bollettino non trovato (si passa dal turno 1 al 4)"
+   "nota": "bollettino non trovato (si passa dal turno 2 al 4)"
   },
   {
    "provincia": "LC",
@@ -2225,6 +2164,21 @@
    "provincia": "PV",
    "turno": 5,
    "nota": "bollettino non trovato (si passa dal turno 3 al 6)"
+  },
+  {
+   "provincia": "SO",
+   "turno": 5,
+   "nota": "bollettino non trovato (si passa dal turno 4 al 8)"
+  },
+  {
+   "provincia": "SO",
+   "turno": 6,
+   "nota": "bollettino non trovato (si passa dal turno 4 al 8)"
+  },
+  {
+   "provincia": "SO",
+   "turno": 7,
+   "nota": "bollettino non trovato (si passa dal turno 4 al 8)"
   },
   {
    "provincia": "AN",
@@ -2257,14 +2211,14 @@
    "nota": "bollettino non trovato (si passa dal turno 3 al 5)"
   },
   {
-   "provincia": "CB",
-   "turno": 4,
-   "nota": "bollettino non trovato (si passa dal turno 3 al 5)"
+   "provincia": "AL",
+   "turno": 2,
+   "nota": "bollettino non trovato (si passa dal turno 1 al 3)"
   },
   {
-   "provincia": "AL",
-   "turno": 5,
-   "nota": "bollettino non trovato (si passa dal turno 4 al 6)"
+   "provincia": "AT",
+   "turno": 2,
+   "nota": "bollettino non trovato (si passa dal turno 1 al 3)"
   },
   {
    "provincia": "BI",
@@ -2300,11 +2254,6 @@
    "provincia": "LU",
    "turno": 4,
    "nota": "bollettino non trovato (si passa dal turno 3 al 5)"
-  },
-  {
-   "provincia": "MS",
-   "turno": 2,
-   "nota": "bollettino non trovato (si passa dal turno 1 al 3)"
   },
   {
    "provincia": "PT",
