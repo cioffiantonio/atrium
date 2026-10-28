@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-28T11:12:49.143Z",
+ "aggiornato": "2026-10-28T17:19:19.221Z",
  "ocr": [],
  "zeroRighe": [
   {
@@ -275,6 +275,13 @@
    "turno": 1,
    "data": "2026-10-28",
    "url": "https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps--as-2026-27--i-turno",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "SV",
+   "turno": 2,
+   "data": "2026-10-28",
+   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-1-2",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
