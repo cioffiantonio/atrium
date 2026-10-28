@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-28T02:16:46.542Z",
+ "aggiornato": "2026-10-28T05:43:28.443Z",
  "ocr": [],
  "zeroRighe": [
   {
@@ -18,76 +18,6 @@
   }
  ],
  "nonLetti": [
-  {
-   "provincia": "SA",
-   "turno": null,
-   "data": "2026-10-21",
-   "url": "https://www.mim.gov.it/documents/7673905/10936887/Bollettini+a.s.2023_24_privacy.zip/1314196a-3abc-91d8-b18c-d72c53159fbe?t=1792585523229",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "SA",
-   "turno": null,
-   "data": "2026-10-28",
-   "url": "https://www.mim.gov.it/documents/7673905/7821594/FUNZIONIGRAMMA+2O25.pdf/0456f967-a1f0-6d8a-4bd8-74114d9c695b?t=1765376739226",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "SA",
-   "turno": null,
-   "data": "2026-10-28",
-   "url": "https://www.mim.gov.it/documents/7673905/10936887/Contatti_del_personale.pdf/d72b4e86-ffaa-e115-9d69-b127330d8c5c?t=1791380310767",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "SA",
-   "turno": null,
-   "data": "2026-10-28",
-   "url": "https://www.mim.gov.it/documents/7673905/10936887/Contatti+del+personale.pdf/a8021eba-a600-e91e-01ce-f61636b17c91?t=1786446363159",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "SA",
-   "turno": null,
-   "data": "2026-10-28",
-   "url": "https://www.mim.gov.it/web/miur-usr-campania/-/personale-scolastico-decreto-pubblicazione-4-bollettino-supplenze",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "SA",
-   "turno": null,
-   "data": "2026-10-28",
-   "url": "https://www.mim.gov.it/web/miur-usr-campania/-/personale-docente-decreto-3-bollettino-supplenze",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "SA",
-   "turno": null,
-   "data": "2026-10-28",
-   "url": "https://www.mim.gov.it/web/miur-usr-campania/-/personale-docente-decreto-pubblicazione-ii-bollettino",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "SA",
-   "turno": null,
-   "data": "2026-10-28",
-   "url": "https://www.mim.gov.it/web/miur-usr-campania/-/personale-docente-nomine-a-tempo-determinato-da-gae-gps-rilievi-al-funzionamento-del-cd-algoritmo-riscontro-cumulativo",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "SA",
-   "turno": null,
-   "data": "2026-10-28",
-   "url": "https://www.mim.gov.it/web/miur-usr-campania/-/personale-docente-liberatoria-ore-da-assegnare-internamente-come-ore-aggiuntive-fase-2-nota-mim-n-16054-del-19-giugno-2026",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "SA",
-   "turno": null,
-   "data": "2026-10-28",
-   "url": "https://www.mim.gov.it/web/miur-usr-campania/-/indicazioni-relative-alle-procedure-di-nomina-del-personale-docente-a-tempo-determinato-da-gae-e-gps-a-s-2026-27-richiesta-ritiro-dell-istanza-ins-per",
-   "nota": "documento non leggibile"
-  },
   {
    "provincia": "AQ",
    "turno": 1,
@@ -2236,6 +2166,13 @@
    "data": "2026-10-28",
    "url": "https://t.me/share/url?text=Supplenze docenti 2026/27: bollettini del 27 ottobre [AGGIORNATO]&url=https://www.orizzontescuola.it/supplenze-docenti-ecco-i-bollettini-nomine-al-31-agosto-o-30-giugno-2027-in-aggiornamento/",
    "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "SA",
+   "turno": null,
+   "data": "2026-10-28",
+   "url": "https://www.mim.gov.it/documents/7673905/10323025/LIBERATORIA+ORE+AGGIUNTIVE+DA+ASSEGNARE+INTERNAMENTE+-+FASE+2+NOTA+MIM+DEL+19.06.2026.pdf/7918a855-77b0-e9f7-98b4-674c435b9ac4?version=1.0&t=1787565894108",
+   "nota": "formato non riconosciuto"
   }
  ],
  "turniMancanti": [
