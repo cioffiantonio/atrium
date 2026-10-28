@@ -4,7 +4,13 @@ Province CON link su Orizzonte Scuola: 98 | SENZA link: CH PE FM BT SU CL BZ TN 
 -- BN Benevento --
 link da Orizzonte Scuola: 0
 ricerca diretta non riuscita: HTTP 403 su https://www.uspbenevento.it/?s=nomine+gps
-piattaforma non raggiungibile: HTTP 403 su https://www.uspbenevento.it/uat/wp-content/VARIE_SITO/PUBBLICAZIONE_SUPPLENZE/index.php
+      via diretto: errore HTTP 403 su https://www.uspbenevento.it/uat/wp-content/VARIE_SITO/PUBBLICAZIONE_SUPPLENZE/index.php
+        diagnosi blocco: stato 403, server "aruba-proxy", titolo "Wait a moment...", 14682 caratteri
+      via r.jina.ai: stato 200, 3292 caratteri -> non valida
+      via web.archive.org: stato 429, 620 caratteri -> non valida
+      via allorigins: stato 200, 14546 caratteri -> non valida
+      via corsproxy: stato 403, 322 caratteri -> non valida
+piattaforma non raggiungibile: nessuna via ha dato una risposta valida per nevento.it/uat/wp-content/VARIE_SITO/PUBBLICAZIONE_SUPPLENZE/index.php
 collegamenti dalla pagina elenco https://www.mim.gov.it/web/miur-usr-campania/uat-benevento : 0 (pagina di 70723 caratteri)
 pagine candidate dall'API WordPress: 0
 totale pagine da controllare: 0
