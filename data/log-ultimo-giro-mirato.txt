@@ -4,10 +4,10 @@ Province CON link su Orizzonte Scuola: 98 | SENZA link: CH PE FM BT SU CL BZ TN 
 -- BN Benevento --
 link da Orizzonte Scuola: 0
 ricerca diretta non riuscita: HTTP 403 su https://www.uspbenevento.it/?s=nomine+gps
-pagina elenco non riuscita: https://www.uspbenevento.it/uat/wp-content/VARIE_SITO/PUBBLICAZIONE_SUPPLENZE/index.php HTTP 403 su https://www.uspbenevento.it/uat/wp-content/VARIE_SITO/PUBBLICAZIONE_SUPPLENZE/index.php
-collegamenti dalla pagina elenco https://www.mim.gov.it/web/miur-usr-campania/uat-benevento : 0 (pagina di 70729 caratteri)
+piattaforma non raggiungibile: HTTP 403 su https://www.uspbenevento.it/uat/wp-content/VARIE_SITO/PUBBLICAZIONE_SUPPLENZE/index.php
+collegamenti dalla pagina elenco https://www.mim.gov.it/web/miur-usr-campania/uat-benevento : 0 (pagina di 70723 caratteri)
 pagine candidate dall'API WordPress: 0
 totale pagine da controllare: 0
   turni letti=0 non letti=0 -> da verificare
-RIEPILOGO DA VERIFICARE: letti con OCR=0 | zero righe=2 | non letti=308 | turni mancanti=40
+RIEPILOGO DA VERIFICARE: letti con OCR=0 | zero righe=2 | non letti=301 | turni mancanti=41
 Scritto /home/runner/work/atrium/atrium/data/bollettini.json
