@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-29T11:40:46.824Z",
+ "aggiornato": "2026-10-29T21:55:54.856Z",
  "ocr": [],
  "zeroRighe": [
   {
@@ -54,6 +54,41 @@
    "nota": "formato non riconosciuto"
   },
   {
+   "provincia": "TE",
+   "turno": null,
+   "data": "2026-10-29",
+   "url": "https://www.csateramo.it/wpusp/wp-content/uploads/2026/10/Dispositivo-pubblicazione-esiti-turno-INS-n.-8-del-29.10.2026.pdf",
+   "nota": "formato non riconosciuto"
+  },
+  {
+   "provincia": "RC",
+   "turno": null,
+   "data": "2026-10-29",
+   "url": "https://www.istruzioneatprc.it/aoousprc16117-20260917/",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "RC",
+   "turno": null,
+   "data": "2026-10-29",
+   "url": "https://www.istruzioneatprc.it/aoousprc17153-20261006/",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "RC",
+   "turno": null,
+   "data": "2026-10-29",
+   "url": "https://www.istruzioneatprc.it/aoousprc17798-20261016/",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "RC",
+   "turno": null,
+   "data": "2026-10-29",
+   "url": "https://www.istruzioneatprc.it/aoousprc18242-20261023/",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
    "provincia": "FR",
    "turno": 1,
    "data": "2026-08-31",
@@ -80,6 +115,13 @@
    "data": "2026-09-22",
    "url": "https://www.usplatina.it/wp/wp-content/uploads/2026/09/Report_UltimiNominatiSuPostoIntero-1.pdf",
    "nota": "formato non riconosciuto"
+  },
+  {
+   "provincia": "VT",
+   "turno": null,
+   "data": "2026-10-29",
+   "url": "https://www.provveditoratostudiviterbo.it/DOCENTI/2026/Bollettino_TotaleNomine_11_privacy.pdf",
+   "nota": "documento non leggibile"
   },
   {
    "provincia": "GE",
@@ -163,13 +205,6 @@
    "turno": 1,
    "data": "2026-10-29",
    "url": "https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps--as-2026-27--i-turno",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "SV",
-   "turno": 3,
-   "data": "2026-10-29",
-   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-2-",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
