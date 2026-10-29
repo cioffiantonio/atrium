@@ -1,3 +1,4 @@
+lettore cambiato: la memoria dei PDF viene rifatta
 GIRO MIRATO solo su: BN
 Orizzonte Scuola: province trovate nella pagina -> 98
 Province CON link su Orizzonte Scuola: 98 | SENZA link: CH PE FM BT SU CL BZ TN AO
@@ -5,15 +6,58 @@ Province CON link su Orizzonte Scuola: 98 | SENZA link: CH PE FM BT SU CL BZ TN 
 link da Orizzonte Scuola: 0
 ricerca diretta non riuscita: HTTP 403 su https://www.uspbenevento.it/?s=nomine+gps
       via diretto: errore HTTP 403 su https://www.uspbenevento.it/uat/wp-content/VARIE_SITO/PUBBLICAZIONE_SUPPLENZE/index.php
-        diagnosi blocco: stato 403, server "aruba-proxy", titolo "Wait a moment...", 14682 caratteri
-      via r.jina.ai: stato 200, 3292 caratteri -> non valida
-      via web.archive.org: stato 429, 620 caratteri -> non valida
-      via allorigins: stato 200, 14546 caratteri -> non valida
-      via corsproxy: stato 403, 322 caratteri -> non valida
-piattaforma non raggiungibile: nessuna via ha dato una risposta valida per nevento.it/uat/wp-content/VARIE_SITO/PUBBLICAZIONE_SUPPLENZE/index.php
-collegamenti dalla pagina elenco https://www.mim.gov.it/web/miur-usr-campania/uat-benevento : 0 (pagina di 70723 caratteri)
+        diagnosi blocco: stato 403, server "aruba-proxy", titolo "Wait a moment...", 14674 caratteri
+        browser: titolo pagina "Portale Bollettini Supplenze"
+      via browser: stato 200, 46507 caratteri -> OK
+piattaforma Benevento: 5 turni trovati (pagina di 46507 caratteri)
+   - turno 1 | pagina: BLICAZIONE_SUPPLENZE/dettaglio_bollettino.php?file=Bollettino_TotaleNomine_1.csv | csv: E_SITO/PUBBLICAZIONE_SUPPLENZE/Bollettino_TotaleNomine_1.csv
+   - turno 2 | pagina: BLICAZIONE_SUPPLENZE/dettaglio_bollettino.php?file=Bollettino_TotaleNomine_2.csv | csv: E_SITO/PUBBLICAZIONE_SUPPLENZE/Bollettino_TotaleNomine_2.csv
+   - turno 3 | pagina: BLICAZIONE_SUPPLENZE/dettaglio_bollettino.php?file=Bollettino_TotaleNomine_3.csv | csv: E_SITO/PUBBLICAZIONE_SUPPLENZE/Bollettino_TotaleNomine_3.csv
+   - turno 4 | pagina: BLICAZIONE_SUPPLENZE/dettaglio_bollettino.php?file=Bollettino_TotaleNomine_4.csv | csv: E_SITO/PUBBLICAZIONE_SUPPLENZE/Bollettino_TotaleNomine_4.csv
+   - turno 5 | pagina: BLICAZIONE_SUPPLENZE/dettaglio_bollettino.php?file=Bollettino_TotaleNomine_5.csv | csv: E_SITO/PUBBLICAZIONE_SUPPLENZE/Bollettino_TotaleNomine_5.csv
+collegamenti dalla pagina elenco https://www.mim.gov.it/web/miur-usr-campania/uat-benevento : 0 (pagina di 70769 caratteri)
 pagine candidate dall'API WordPress: 0
-totale pagine da controllare: 0
-  turni letti=0 non letti=0 -> da verificare
-RIEPILOGO DA VERIFICARE: letti con OCR=0 | zero righe=2 | non letti=301 | turni mancanti=41
+totale pagine da controllare: 5
+  scarico https://www.uspbenevento.it/uat/wp-content/VARIE_SITO/PUBBLICAZIONE_SUPPLENZE/dettaglio_bollettino.php?file=Bollettino_TotaleNomine_1.csv
+      via diretto: errore HTTP 403 su https://www.uspbenevento.it/uat/wp-content/VARIE_SITO/PUBBLICAZIONE_SUPPLENZE/dettaglio_
+        diagnosi blocco: stato 403, server "aruba-proxy", titolo "Wait a moment...", 14674 caratteri
+        browser: titolo pagina "Bollettino Supplenze - Turno 1"
+      via browser: stato 200, 394724 caratteri -> OK
+    pagina del turno 1: 394724 caratteri, tabelle/righe lette=186, data produzione 2026-08-31
+  data ricavata dalla data di produzione del bollettino: 2026-08-31
+    ok [turno]: calibrato=true righe GPS=163 scartate=0
+  scarico https://www.uspbenevento.it/uat/wp-content/VARIE_SITO/PUBBLICAZIONE_SUPPLENZE/dettaglio_bollettino.php?file=Bollettino_TotaleNomine_2.csv
+      via diretto: errore HTTP 403 su https://www.uspbenevento.it/uat/wp-content/VARIE_SITO/PUBBLICAZIONE_SUPPLENZE/dettaglio_
+        diagnosi blocco: stato 403, server "aruba-proxy", titolo "Wait a moment...", 14674 caratteri
+        browser: titolo pagina "Bollettino Supplenze - Turno 2"
+      via browser: stato 200, 260796 caratteri -> OK
+    pagina del turno 2: 260796 caratteri, tabelle/righe lette=119, data produzione 2026-09-17
+  data ricavata dalla data di produzione del bollettino: 2026-09-17
+    ok [turno]: calibrato=true righe GPS=111 scartate=0
+  scarico https://www.uspbenevento.it/uat/wp-content/VARIE_SITO/PUBBLICAZIONE_SUPPLENZE/dettaglio_bollettino.php?file=Bollettino_TotaleNomine_3.csv
+      via diretto: errore HTTP 403 su https://www.uspbenevento.it/uat/wp-content/VARIE_SITO/PUBBLICAZIONE_SUPPLENZE/dettaglio_
+        diagnosi blocco: stato 403, server "aruba-proxy", titolo "Wait a moment...", 14674 caratteri
+        browser: titolo pagina "Bollettino Supplenze - Turno 3"
+      via browser: stato 200, 102667 caratteri -> OK
+    pagina del turno 3: 102667 caratteri, tabelle/righe lette=39, data produzione 2026-10-02
+  data ricavata dalla data di produzione del bollettino: 2026-10-02
+    ok [turno]: calibrato=true righe GPS=36 scartate=0
+  scarico https://www.uspbenevento.it/uat/wp-content/VARIE_SITO/PUBBLICAZIONE_SUPPLENZE/dettaglio_bollettino.php?file=Bollettino_TotaleNomine_4.csv
+      via diretto: errore HTTP 403 su https://www.uspbenevento.it/uat/wp-content/VARIE_SITO/PUBBLICAZIONE_SUPPLENZE/dettaglio_
+        diagnosi blocco: stato 403, server "aruba-proxy", titolo "Wait a moment...", 14674 caratteri
+        browser: titolo pagina "Bollettino Supplenze - Turno 4"
+      via browser: stato 200, 51012 caratteri -> OK
+    pagina del turno 4: 51012 caratteri, tabelle/righe lette=13, data produzione 2026-10-11
+  data ricavata dalla data di produzione del bollettino: 2026-10-11
+    ok [turno]: calibrato=true righe GPS=13 scartate=0
+  scarico https://www.uspbenevento.it/uat/wp-content/VARIE_SITO/PUBBLICAZIONE_SUPPLENZE/dettaglio_bollettino.php?file=Bollettino_TotaleNomine_5.csv
+      via diretto: errore HTTP 403 su https://www.uspbenevento.it/uat/wp-content/VARIE_SITO/PUBBLICAZIONE_SUPPLENZE/dettaglio_
+        diagnosi blocco: stato 403, server "aruba-proxy", titolo "Wait a moment...", 14674 caratteri
+        browser: titolo pagina "Bollettino Supplenze - Turno 5"
+      via browser: stato 200, 52756 caratteri -> OK
+    pagina del turno 5: 52756 caratteri, tabelle/righe lette=14, data produzione 2026-10-19
+  data ricavata dalla data di produzione del bollettino: 2026-10-19
+    ok [turno]: calibrato=true righe GPS=14 scartate=0
+  turni letti=5 non letti=0 -> provincia completa
+RIEPILOGO DA VERIFICARE: letti con OCR=0 | zero righe=2 | non letti=301 | turni mancanti=42
 Scritto /home/runner/work/atrium/atrium/data/bollettini.json
