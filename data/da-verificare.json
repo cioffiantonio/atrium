@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-30T20:38:22.834Z",
+ "aggiornato": "2026-10-30T22:07:04.982Z",
  "ocr": [],
  "zeroRighe": [
   {
@@ -180,17 +180,10 @@
    "nota": "formato non riconosciuto"
   },
   {
-   "provincia": "IM",
-   "turno": 2,
-   "data": "2026-10-30",
-   "url": "https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps--as-2026-27--ii-turno",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
    "provincia": "SV",
-   "turno": 11,
+   "turno": 12,
    "data": "2026-10-30",
-   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps----turno-11",
+   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps----turno-12-1",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
@@ -1389,6 +1382,13 @@
    "data": "2026-10-30",
    "url": "https://www.istruzionepiemonte.it/vercelli/wp-content/uploads/sites/7/2026/10/m_pi.AOOUSPVC.REGISTRO-UFFICIALEU.0006553.02-10-2026.pdf",
    "pagine": 4
+  },
+  {
+   "provincia": "TA",
+   "turno": null,
+   "data": "2026-09-16",
+   "url": "https://www.usptaranto.it/wp-content/uploads/2026/09/m_pi.AOOUSPTA.REGISTRO-UFFICIALEU.0019836.16-09-2026.pdf",
+   "pagine": 2
   },
   {
    "provincia": "NU",
