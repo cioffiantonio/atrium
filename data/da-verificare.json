@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-29T23:05:27.282Z",
+ "aggiornato": "2026-10-30T02:40:52.274Z",
  "ocr": [],
  "zeroRighe": [
   {
@@ -10,21 +10,42 @@
    "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
   },
   {
-   "provincia": "VC",
-   "turno": null,
-   "data": "2026-10-07",
-   "url": "https://www.istruzionepiemonte.it/vercelli/wp-content/uploads/sites/7/2026/10/bollettinoDefinitivo.pdf",
-   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
-  },
-  {
    "provincia": "LC",
    "turno": null,
    "data": "2026-10-27",
    "url": "https://www.mim.gov.it/documents/9081350/10317897/bollettino+I+grado+27_10_2026.pdf/a5da4d8b-3cfc-0006-6a3a-90c5766c8889?version=1.0&t=1793099185153",
    "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
+  },
+  {
+   "provincia": "VC",
+   "turno": null,
+   "data": "2026-10-07",
+   "url": "https://www.istruzionepiemonte.it/vercelli/wp-content/uploads/sites/7/2026/10/bollettinoDefinitivo.pdf",
+   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
   }
  ],
  "nonLetti": [
+  {
+   "provincia": "AV",
+   "turno": 1,
+   "data": "2026-10-30",
+   "url": "https://atavellino.it/graduatorie-provinciali-di-supplenza-primo-bollettino-nomine-a-tempo-determinato-2026-2027-ogni-ordine-e-grado-avellino-e-provincia/",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "AV",
+   "turno": 2,
+   "data": "2026-10-30",
+   "url": "https://atavellino.it/graduatorie-provinciali-di-supplenza-secondo-bollettino-nomine-a-tempo-determinato-2026-2027-ogni-ordine-e-grado-avellino-e-provincia/",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "AV",
+   "turno": null,
+   "data": "2026-10-30",
+   "url": "https://atavellino.it/graduatorie-provinciali-di-supplenza-terzo-bollettino-nomine-a-tempo-determinato-2026-2027-ogni-ordine-e-grado-avellino-e-provincia/",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
   {
    "provincia": "AQ",
    "turno": 1,
@@ -68,30 +89,51 @@
    "nota": "formato non riconosciuto"
   },
   {
+   "provincia": "CZ",
+   "turno": 1,
+   "data": "2026-10-30",
+   "url": "https://www.istruzione.calabria.it/catanzaro/m_pi-aoouspcz-registro-ufficialeu-0008935-31-08-2026/",
+   "nota": "documento non leggibile"
+  },
+  {
+   "provincia": "CZ",
+   "turno": 2,
+   "data": "2026-10-30",
+   "url": "https://www.istruzione.calabria.it/catanzaro/m_pi-aoouspcz-registro-ufficialeu-0009525-11-09-2026/",
+   "nota": "documento non leggibile"
+  },
+  {
+   "provincia": "CZ",
+   "turno": 4,
+   "data": "2026-10-30",
+   "url": "https://www.istruzione.calabria.it/catanzaro/m_pi-aoouspcz-registro-ufficialeu-0010555-07-10-2026/",
+   "nota": "documento non leggibile"
+  },
+  {
    "provincia": "RC",
    "turno": null,
-   "data": "2026-10-29",
+   "data": "2026-10-30",
    "url": "https://www.istruzioneatprc.it/aoousprc16117-20260917/",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "RC",
    "turno": null,
-   "data": "2026-10-29",
+   "data": "2026-10-30",
    "url": "https://www.istruzioneatprc.it/aoousprc17153-20261006/",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "RC",
    "turno": null,
-   "data": "2026-10-29",
+   "data": "2026-10-30",
    "url": "https://www.istruzioneatprc.it/aoousprc17798-20261016/",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "RC",
    "turno": null,
-   "data": "2026-10-29",
+   "data": "2026-10-30",
    "url": "https://www.istruzioneatprc.it/aoousprc18242-20261023/",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
@@ -126,7 +168,7 @@
   {
    "provincia": "VT",
    "turno": null,
-   "data": "2026-10-29",
+   "data": "2026-10-30",
    "url": "https://www.provveditoratostudiviterbo.it/DOCENTI/2026/Bollettino_TotaleNomine_11_privacy.pdf",
    "nota": "documento non leggibile"
   },
@@ -208,163 +250,212 @@
    "nota": "formato non riconosciuto"
   },
   {
+   "provincia": "GE",
+   "turno": null,
+   "data": "2026-10-27",
+   "url": "https://cspace.spaggiari.eu//pub/GESR0002/GPS%202026-2028/TURNI%20GPS/XII%20turno/XII%20Turno%20GPS_m_pi.AOODRLI.REGISTRO%2520REGIONALE%2520DEI%2520DECRETI%2528R%2529.0003108.27-10-2026.pdf",
+   "nota": "formato non riconosciuto"
+  },
+  {
    "provincia": "IM",
-   "turno": 1,
-   "data": "2026-10-29",
-   "url": "https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps--as-2026-27--i-turno",
+   "turno": 4,
+   "data": "2026-10-30",
+   "url": "https://www.istruzioneimperia.gov.it/pagine/nomine-da-gps--iv-turno-",
    "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "SV",
+   "turno": 1,
+   "data": "2026-10-30",
+   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-1",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "BG",
+   "turno": 3,
+   "data": "2026-08-31",
+   "url": "https://www.mim.gov.it/documents/9081047/10244551/m_pi.AOOUSPBG.REGISTRO+DECRETI%28R%29.0000629.31-08-2026.pdf/f2361582-a11d-0ef9-2cef-5530249b8897?version=1.0&t=1788196628103",
+   "nota": "formato non riconosciuto"
+  },
+  {
+   "provincia": "BG",
+   "turno": 5,
+   "data": "2026-09-22",
+   "url": "https://www.mim.gov.it/documents/9081047/10244551/Bollettino+n.+5.pdf/98fb3fd4-b948-eccf-2b2f-ac63f8e32aea?version=1.0&t=1790075600580",
+   "nota": "formato non riconosciuto"
   },
   {
    "provincia": "BS",
    "turno": null,
-   "data": "2026-10-29",
+   "data": "2026-10-30",
    "url": "https://www.mim.gov.it/web/brescia/-/nomine-a-tempo-determinato-da-gae-e-gps-esito-conferimento-nomine-a-t-d-da-i-e-ii-fascia",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
-   "provincia": "BS",
-   "turno": null,
-   "data": "2026-10-29",
-   "url": "https://www.mim.gov.it/web/brescia/-/nomine-a-tempo-determinato-da-gae-e-gps-esito-conferimento-nomine-a-t-d-da-di-i-e-ii-fascia-25",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "BS",
-   "turno": 3,
-   "data": "2026-10-29",
-   "url": "https://www.mim.gov.it/web/brescia/-/terzo-bollettino-di-nomine-a-tempo-determinato-da-gae-e-gps-esito-conferimento-nomine-a-t-d-da-di-i-e-ii-fascia-1",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "BS",
-   "turno": 4,
-   "data": "2026-10-29",
-   "url": "https://www.mim.gov.it/web/brescia/-/quarto-bollettino-di-nomine-a-tempo-determinato-da-gae-e-gps-esito-conferimento-nomine-a-t-d-da-i-e-ii-fascia-1",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "BS",
-   "turno": 5,
-   "data": "2026-10-29",
-   "url": "https://www.mim.gov.it/web/brescia/-/quinto-bollettino-di-nomine-a-tempo-determinato-da-gae-e-gps-esito-conferimento-nomine-a-t-d-da-i-e-ii-fascia-2",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "BS",
-   "turno": 7,
-   "data": "2026-10-29",
-   "url": "https://www.mim.gov.it/web/brescia/-/settimo-bollettino-di-nomine-a-tempo-determinato-da-gae-e-gps-esito-conferimento-nomine-a-t-d-da-i-e-ii-fascia-1",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "BS",
-   "turno": 8,
-   "data": "2026-10-29",
-   "url": "https://www.mim.gov.it/web/brescia/-/ottavo-bollettino-di-nomine-a-tempo-determinato-da-gae-e-gps-esito-conferimento-nomine-a-t-d-da-i-e-ii-fascia-1",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "CR",
+   "provincia": "CO",
    "turno": 2,
-   "data": "2026-10-29",
-   "url": "https://www.mim.gov.it/web/cremona/-/nomine-a-tempo-determinato-personale-docente-a-s-2026-27-bollettino-11-09-2026-1",
+   "data": "2026-10-30",
+   "url": "https://www.mim.gov.it/web/como/-/secondo-bollettino-incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-1",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
-   "provincia": "CR",
-   "turno": 3,
-   "data": "2026-10-29",
-   "url": "https://www.mim.gov.it/web/cremona/-/nomine-a-tempo-determinato-personale-docente-a-s-2026-27-bollettino-25-09-2026-1",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "CR",
+   "provincia": "CO",
    "turno": null,
-   "data": "2026-10-29",
-   "url": "https://www.mim.gov.it/web/cremona/-/nomine-a-tempo-determinato-personale-docente-a-s-2026-27-bollettino-5-10-2026-1",
+   "data": "2026-10-30",
+   "url": "https://www.mim.gov.it/web/como/-/nomine-a-tempo-determinato-personale-docente-a-s-2026-27-terzo-scorrimento-1",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
-   "provincia": "CR",
-   "turno": null,
-   "data": "2026-10-29",
-   "url": "https://www.mim.gov.it/web/cremona/-/nomine-a-tempo-determinato-personale-docente-a-s-2026-27-bollettino-9-10-2026-1",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "CR",
-   "turno": null,
-   "data": "2026-10-29",
-   "url": "https://www.mim.gov.it/web/cremona/-/nomine-a-tempo-determinato-personale-docente-a-s-2026-27-bollettino-15-10-2026-1",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "MN",
-   "turno": null,
-   "data": "2026-10-29",
-   "url": "https://www.mim.gov.it/web/mantova/-/nomine-a-tempo-determinato-da-gps-a-s-26-27-esito-conferimento-nomine-1",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "MN",
-   "turno": 2,
-   "data": "2026-10-29",
-   "url": "https://www.mim.gov.it/web/mantova/-/nomine-a-tempo-determinato-da-gps-a-s-26-27-esito-conferimento-nomine-ii-bollettino-1",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "MN",
-   "turno": 3,
-   "data": "2026-10-29",
-   "url": "https://www.mim.gov.it/web/mantova/-/nomine-a-tempo-determinato-da-gps-a-s-26-27-esito-conferimento-nomine-iii-bollettino-1",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "MN",
+   "provincia": "CO",
    "turno": 4,
-   "data": "2026-10-29",
-   "url": "https://www.mim.gov.it/web/mantova/-/nomine-a-tempo-determinato-da-gps-a-s-26-27-esito-conferimento-nomine-iv-bollettino-1",
+   "data": "2026-10-30",
+   "url": "https://www.mim.gov.it/web/como/-/nomine-a-tempo-determinato-personale-docente-a-s-2026-27-quarto-scorrimento-1",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
-   "provincia": "MN",
+   "provincia": "CO",
    "turno": 5,
-   "data": "2026-10-29",
-   "url": "https://www.mim.gov.it/web/mantova/-/nomine-a-tempo-determinato-da-gps-a-s-26-27-esito-conferimento-nomine-v-bollettino-1",
+   "data": "2026-10-30",
+   "url": "https://www.mim.gov.it/web/como/-/nomine-a-tempo-determinato-personale-docente-a-s-2026-27-quinto-scorrimento-1",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
-   "provincia": "MN",
-   "turno": 6,
-   "data": "2026-10-29",
-   "url": "https://www.mim.gov.it/web/mantova/-/nomine-a-tempo-determinato-da-gps-a-s-26-27-esito-conferimento-nomine-vi-bollettino-1",
+   "provincia": "LC",
+   "turno": null,
+   "data": "2026-10-30",
+   "url": "https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-secondaria-di-primo-grado-secondo-scorrimento-e-di-secondo-grado-terzo-scorrimento-a-s--1",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
-   "provincia": "MN",
-   "turno": 7,
-   "data": "2026-10-29",
-   "url": "https://www.mim.gov.it/web/mantova/-/esito-conferimento-nomine-a-tempo-determinato-da-gps-a-s-26-27-i-e-ii-fascia-vii-bollettino-1",
+   "provincia": "LC",
+   "turno": 4,
+   "data": "2026-10-30",
+   "url": "https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-secondo-scorrimento-secondaria-di-primo-grado-terzo-scorrimento-e-di-seco-1",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
-   "provincia": "MN",
-   "turno": 8,
-   "data": "2026-10-29",
-   "url": "https://www.mim.gov.it/web/mantova/-/nomine-a-tempo-determinato-da-gps-a-s-26-27-esito-conferimento-nomine-viii-bollettino-1",
+   "provincia": "LC",
+   "turno": null,
+   "data": "2026-10-30",
+   "url": "https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-terzo-scorrimento-secondaria-di-primo-grado-quarto-scorrimento-e-di-secon-1",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "LC",
+   "turno": null,
+   "data": "2026-10-30",
+   "url": "https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-e-secondaria-di-primo-grado-sesto-scorrimento-e-di-scuola-secondaria-di-s-1",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "LC",
+   "turno": null,
+   "data": "2026-10-30",
+   "url": "https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-settimo-scorrimento-e-di-scuola-secondaria-di-secondo-grado-nono-scorrime-1",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "LC",
+   "turno": null,
+   "data": "2026-10-30",
+   "url": "https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-e-secondaria-di-primo-grado-nono-scorrimento-nonche-di-scuola-secondaria--1",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "LC",
+   "turno": null,
+   "data": "2026-10-30",
+   "url": "https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-e-secondaria-di-primo-grado-decimo-scorrimento-nonche-di-scuola-secondari-1",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "LC",
+   "turno": null,
+   "data": "2026-10-30",
+   "url": "https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-secondaria-di-primo-grado-undicesimo-scorrimento-e-di-scuola-secondaria-di-secondo-grad-1",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "LO",
+   "turno": 2,
+   "data": "2026-10-30",
+   "url": "https://www.mim.gov.it/web/lodi/-/individuazione-dei-destinatari-della-proposta-di-stipula-di-contratto-a-tempo-determinato-per-l-a-s-2026-2027-inseriti-nelle-graduatorie-provinciali-d",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "LO",
+   "turno": 3,
+   "data": "2026-10-30",
+   "url": "https://www.mim.gov.it/web/lodi/-/individuazione-dei-destinatari-di-contratti-t-d-su-posti-comuni-e-di-sostegno-per-l-a-s-2026-2027-terzo-algoritmo",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "LO",
+   "turno": 4,
+   "data": "2026-10-30",
+   "url": "https://www.mim.gov.it/web/lodi/-/individuazione-dei-destinatari-di-contratti-t-d-su-posti-comuni-e-di-sostegno-per-l-a-s-2026-2027-quarto-algoritmo",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "LO",
+   "turno": null,
+   "data": "2026-10-30",
+   "url": "https://www.mim.gov.it/web/lodi/-/individuazione-dei-destinatari-di-contratti-t-d-su-posti-comuni-e-di-sostegno-per-l-a-s-2026-2027-quinto-algoritmo",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "MB",
+   "turno": 2,
+   "data": "2026-10-30",
+   "url": "https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-2",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "MB",
+   "turno": 3,
+   "data": "2026-10-30",
+   "url": "https://www.mim.gov.it/web/monza-brianza/home/-/asset_publisher/ultimecomunicazioni/content/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-3-scorrimento-1?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_ultimecomunicazioni_redirect=https%3A%2F%2Fwww.mim.gov.it%2Fweb%2Fmonza-brianza%2Fhome%3Fp_p_id%3Dcom_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_ultimecomunicazioni%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_ultimecomunicazioni_cur%3D0%26p_r_p_resetCur%3Dfalse%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_ultimecomunicazioni_assetEntryId%3D11201465",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "MB",
+   "turno": null,
+   "data": "2026-10-30",
+   "url": "https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-4",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "MB",
+   "turno": null,
+   "data": "2026-10-30",
+   "url": "https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-6",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "MB",
+   "turno": null,
+   "data": "2026-10-30",
+   "url": "https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-8",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "MB",
+   "turno": null,
+   "data": "2026-10-30",
+   "url": "https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-10",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "PV",
    "turno": null,
-   "data": "2026-10-29",
+   "data": "2026-10-30",
    "url": "https://www.mim.gov.it/web/pavia/-/pubblicazione-esiti-individuazione-del-personale-docente-di-ogni-ordine-e-grado-ed-educativo-destinatario-di-contratto-a-tempo-determinato-per-l-ann-3",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "PV",
    "turno": 2,
-   "data": "2026-10-29",
+   "data": "2026-10-30",
    "url": "https://www.mim.gov.it/web/pavia/-/pubblicazione-esiti-individuazione-del-personale-docente-di-ogni-ordine-e-grado-ed-educativo-destinatario-di-contratto-a-tempo-determinato-per-l-ann-5",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
@@ -378,154 +469,133 @@
   {
    "provincia": "PV",
    "turno": 6,
-   "data": "2026-10-29",
+   "data": "2026-10-30",
    "url": "https://www.mim.gov.it/web/pavia/-/pubblicazione-esiti-individuazione-del-personale-docente-di-ogni-ordine-e-grado-ed-educativo-destinatario-di-contratto-a-tempo-determinato-per-l-an-13",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "PV",
    "turno": null,
-   "data": "2026-10-29",
+   "data": "2026-10-30",
    "url": "https://www.mim.gov.it/web/pavia/-/pubblicazione-esiti-individuazione-del-personale-docente-di-ogni-ordine-e-grado-ed-educativo-destinatario-di-contratto-a-tempo-determinato-per-l-an-15",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "SO",
    "turno": 4,
-   "data": "2026-10-29",
+   "data": "2026-10-30",
    "url": "https://www.mim.gov.it/web/sondrio/-/esito-conferimento-nomine-a-tempo-determinato-da-gae-gps",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "SO",
    "turno": null,
-   "data": "2026-10-29",
+   "data": "2026-10-30",
    "url": "https://www.mim.gov.it/web/sondrio/-/decreto-esiti-conferimento-nomine-a-tempo-determinato-gps-bollettino-5-1",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "SO",
    "turno": null,
-   "data": "2026-10-29",
+   "data": "2026-10-30",
    "url": "https://www.mim.gov.it/web/sondrio/-/esito-conferimento-nomine-a-tempo-determinato-da-gae-gps-1",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "SO",
    "turno": 8,
-   "data": "2026-10-29",
+   "data": "2026-10-30",
    "url": "https://www.mim.gov.it/web/sondrio/-/eisto-conferimento-nomine-da-gae-gps-bollettino-n-8",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "SO",
    "turno": null,
-   "data": "2026-10-29",
+   "data": "2026-10-30",
    "url": "https://www.mim.gov.it/web/sondrio/-/esito-conferimento-nomine-a-tempo-determinato-da-gae-gps-2",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "VA",
-   "turno": null,
-   "data": "2026-10-29",
-   "url": "https://www.mim.gov.it/web/varese/-/bollettino-nomine-gps-n-2-del-16-09-2026-attribuzione-incarichi-a-tempo-determinato-del-personale-docente-a-s-2026-27-1",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "VA",
-   "turno": 3,
-   "data": "2026-10-29",
-   "url": "https://www.mim.gov.it/web/varese/-/bollettino-di-nomine-n-3-1",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "VA",
    "turno": 4,
-   "data": "2026-10-29",
-   "url": "https://www.mim.gov.it/web/varese/-/pubblicazione-bollettino-nomine-n-4-1",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "VA",
-   "turno": 5,
-   "data": "2026-10-29",
-   "url": "https://www.mim.gov.it/web/varese/-/bollettino-n-9-relativo-agli-esiti-della-procedura-di-conferimento-degli-incarichi-a-tempo-determinato-da-gps--1",
-   "nota": "nessun PDF o foglio trovato nella pagina"
+   "data": "2026-10-02",
+   "url": "https://www.mim.gov.it/documents/9082015/0/m_pi.AOOUSPVA.REGISTRO+UFFICIALE%28U%29.0015736.02-10-2026.pdf/ad794382-26a6-98d5-fa5f-40d7d9910cf5?t=1790948823803",
+   "nota": "formato non riconosciuto"
   },
   {
    "provincia": "VA",
    "turno": null,
-   "data": "2026-10-29",
+   "data": "2026-10-30",
    "url": "https://www.mim.gov.it/web/varese/-/bollettino-nomine-n-7-relativo-agli-esiti-della-procedura-di-conferimento-degli-incarichi-a-tempo-determinato-da-gps-",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "AN",
    "turno": null,
-   "data": "2026-10-29",
+   "data": "2026-10-30",
    "url": "https://www.istruzione-ancona.it/nomine-a-tempo-determinato/",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "AN",
    "turno": null,
-   "data": "2026-10-29",
+   "data": "2026-10-30",
    "url": "https://www.istruzione-ancona.it/nomine-a-tempo-determinato-a-s-2026-27/",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "AN",
    "turno": 4,
-   "data": "2026-10-29",
+   "data": "2026-10-30",
    "url": "https://www.istruzione-ancona.it/nomine-a-tempo-determinato-a-s-2026-2027-3/",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "AN",
    "turno": null,
-   "data": "2026-10-29",
+   "data": "2026-10-30",
    "url": "https://www.istruzione-ancona.it/nomine-a-tempo-determinato-2026-2027-per-ogni-ordine-e-grado/",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "AN",
    "turno": 7,
-   "data": "2026-10-29",
+   "data": "2026-10-30",
    "url": "https://www.istruzione-ancona.it/nomine-a-tempo-determinato-a-s-2026-2027-4/",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "AN",
    "turno": null,
-   "data": "2026-10-29",
+   "data": "2026-10-30",
    "url": "https://www.istruzione-ancona.it/nomine-a-tempo-determinato-a-s-2026-2027-per-la-scuola-secondaria-di-secondo-grado/",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "AN",
    "turno": null,
-   "data": "2026-10-29",
+   "data": "2026-10-30",
    "url": "https://www.istruzione-ancona.it/nomine-a-tempo-determinato-a-s-2026-2027-per-le-scuola-scuola-secondaria/",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "AN",
    "turno": null,
-   "data": "2026-10-29",
+   "data": "2026-10-30",
    "url": "https://www.istruzione-ancona.it/docenti-di-ogni-ordine-e-grado-nomine-a-tempo-determinato-a-s-2026-2027/",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "AN",
    "turno": null,
-   "data": "2026-10-29",
+   "data": "2026-10-30",
    "url": "https://www.istruzione-ancona.it/personale-docente-nomine-a-tempo-determinato-45/",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "AN",
    "turno": null,
-   "data": "2026-10-29",
+   "data": "2026-10-30",
    "url": "https://www.istruzione-ancona.it/personale-docente-nomine-a-tempo-determinato-46/",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
@@ -588,49 +658,42 @@
   {
    "provincia": "CB",
    "turno": 2,
-   "data": "2026-10-29",
+   "data": "2026-10-30",
    "url": "https://www.mim.gov.it/web/campobasso/-/conferimento-nomine-a-tempo-determinato-su-posti-curriculari-e-di-sostegno-del-personale-docente-ed-educativo-da-gae-gps-a-s-2026-2027-scuola-infanz-3",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "CB",
    "turno": 3,
-   "data": "2026-10-29",
+   "data": "2026-10-30",
    "url": "https://www.mim.gov.it/web/campobasso/-/conferimento-nomine-a-tempo-determinato-su-posti-curriculari-e-di-sostegno-del-personale-docente-da-gps-a-s-2026-2027-primaria-secondaria-di-ii-grad-1",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "CB",
-   "turno": 4,
-   "data": "2026-10-29",
-   "url": "https://www.mim.gov.it/web/campobasso/-/conferimento-nomine-a-tempo-determinato-su-posti-curriculari-del-personale-docente-gps-a-s-2026-2027-scuola-secondaria-di-ii-grado-iv-bollettino--1",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "CB",
    "turno": 5,
-   "data": "2026-10-29",
+   "data": "2026-10-30",
    "url": "https://www.mim.gov.it/web/campobasso/-/conferimento-nomine-a-tempo-determinato-su-posti-curriculari-del-personale-docente-gps-a-s-2026-2027-scuola-infanzia-primaria-secondaria-di-i-e-di-i-1",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "CB",
    "turno": 6,
-   "data": "2026-10-29",
+   "data": "2026-10-30",
    "url": "https://www.mim.gov.it/web/campobasso/-/conferimento-nomine-a-tempo-determinato-su-posti-curriculari-del-personale-docente-gps-a-s-2026-2027-scuola-infanzia-primaria-secondaria-di-i-e-di-i-3",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "IS",
    "turno": 1,
-   "data": "2026-10-29",
+   "data": "2026-10-30",
    "url": "https://www.mim.gov.it/web/isernia/-/conferimento-nomine-a-tempo-determinato-su-posti-curriculari-e-posti-di-sostegno-del-personale-docente-da-gae-e-da-gps-a-s-2026-2027-scuola-dell-infan",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "IS",
    "turno": 2,
-   "data": "2026-10-29",
+   "data": "2026-10-30",
    "url": "https://www.mim.gov.it/web/isernia/-/conferimento-nomine-a-tempo-determinato-su-posti-curriculari-e-posti-di-sostegno-del-personale-docente-da-gae-e-da-gps-a-s-2026-2027-scuola-dell-inf-3",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
@@ -966,21 +1029,21 @@
   {
    "provincia": "LE",
    "turno": 1,
-   "data": "2026-10-29",
+   "data": "2026-10-30",
    "url": "https://www.ustlecce.it/index.php/personale-docente/file/3620-nomine-a-tempo-determinato-del-personale-docente-per-l-anno-scolastico-2026-27-fase-1-scuola-infanzia-primaria-secondaria-di-primo-e-secondo-grado",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "LE",
    "turno": null,
-   "data": "2026-10-29",
+   "data": "2026-10-30",
    "url": "https://www.ustlecce.it/index.php/personale-docente?download=3623:avviso-urgente-ai-docenti-aspiranti-a-incarichi-a-tempo-determinato-da-gae-e-gps-chiarimenti-sugli-esiti-della-fase-1-delle-supplenze-e-modalita-di-gestione-delle-segnalazioni",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "LE",
    "turno": null,
-   "data": "2026-10-29",
+   "data": "2026-10-30",
    "url": "https://www.ustlecce.it/index.php/personale-docente",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
@@ -1078,14 +1141,14 @@
   {
    "provincia": "AG",
    "turno": 3,
-   "data": "2026-10-29",
+   "data": "2026-10-30",
    "url": "https://ag.usr.sicilia.it/decreto-revoca-nomina-a-t-d-su-cdc-a060-conferita-con-provvedimento-terzo-turno-di-nomine-gps/",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "AG",
    "turno": 4,
-   "data": "2026-10-29",
+   "data": "2026-10-30",
    "url": "https://ag.usr.sicilia.it/decreto-revoca-nomina-a-t-d-per-la-cdc-admm-conferita-con-provvedimento-quarto-turno-di-nomine-gps/",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
@@ -1162,21 +1225,21 @@
   {
    "provincia": "PA",
    "turno": 2,
-   "data": "2026-10-29",
+   "data": "2026-10-30",
    "url": "https://pa.usr.sicilia.it/supplenze-docenti-da-gae-e-gps-a-s-2026-27-individuazione-e-assegnazione-delle-sedi-ii-turno/",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "PA",
    "turno": 3,
-   "data": "2026-10-29",
+   "data": "2026-10-30",
    "url": "https://pa.usr.sicilia.it/supplenze-docenti-da-gae-e-gps-a-s-2026-27-individuazione-e-assegnazione-delle-sedi-iii-turno/",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "PA",
    "turno": 4,
-   "data": "2026-10-29",
+   "data": "2026-10-30",
    "url": "https://pa.usr.sicilia.it/supplenze-docenti-da-gae-e-gps-a-s-2026-27-individuazione-e-assegnazione-delle-sedi-iv-turno/",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
@@ -1340,6 +1403,41 @@
    "data": "2026-10-26",
    "url": "https://www.ufficioscolasticogrosseto.it/uff7/attachments/article/5661/m_pi.AOOUSPGR.REGISTRO UFFICIALE(U).0007492.26-10-2026.pdf",
    "nota": "formato non riconosciuto"
+  },
+  {
+   "provincia": "LU",
+   "turno": null,
+   "data": "2026-10-30",
+   "url": "https://ustlucca.it/personale-docente-nomine-gps-a-tempo-determinato-turno-1-a-s-2026-27-del-31-08-2026/",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "LU",
+   "turno": 2,
+   "data": "2026-10-30",
+   "url": "https://ustlucca.it/personale-docente-nomine-gps-a-tempo-determinato-turno-2-a-s-2026-27-del-10-09-2026/",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "LU",
+   "turno": 3,
+   "data": "2026-10-30",
+   "url": "https://ustlucca.it/personale-docente-nomine-gps-a-tempo-determinato-turno-3-a-s-2026-27-del-21-09-2026/",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "LU",
+   "turno": null,
+   "data": "2026-10-30",
+   "url": "https://ustlucca.it/personale-docente-nomine-gps-a-tempo-determinato-turno-5-a-s-2026-27-del-20-10-2026/",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "LU",
+   "turno": null,
+   "data": "2026-10-30",
+   "url": "https://ustlucca.it/personale-docente-nomine-gps-a-tempo-determinato-turno-6-a-s-2026-27-del-23-10-2026/",
+   "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "PT",
@@ -1771,187 +1869,29 @@
   {
    "provincia": "VI",
    "turno": null,
-   "data": "2026-10-29",
+   "data": "2026-10-30",
    "url": "https://facebook.com/sharer/sharer.php?u=https://www.orizzontescuola.it/supplenze-docenti-ecco-i-bollettini-nomine-al-31-agosto-o-30-giugno-2027-in-aggiornamento/",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "VI",
    "turno": null,
-   "data": "2026-10-29",
+   "data": "2026-10-30",
    "url": "https://t.me/share/url?text=Supplenze docenti 2026/27: bollettini del 27 ottobre [AGGIORNATO]&url=https://www.orizzontescuola.it/supplenze-docenti-ecco-i-bollettini-nomine-al-31-agosto-o-30-giugno-2027-in-aggiornamento/",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "BG",
-   "turno": 3,
-   "data": "2026-08-31",
-   "url": "https://www.mim.gov.it/documents/9081047/10244551/m_pi.AOOUSPBG.REGISTRO+DECRETI%28R%29.0000629.31-08-2026.pdf/f2361582-a11d-0ef9-2cef-5530249b8897?version=1.0&t=1788196628103",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "BG",
-   "turno": 5,
-   "data": "2026-09-22",
-   "url": "https://www.mim.gov.it/documents/9081047/10244551/Bollettino+n.+5.pdf/98fb3fd4-b948-eccf-2b2f-ac63f8e32aea?version=1.0&t=1790075600580",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "CO",
-   "turno": 2,
-   "data": "2026-10-29",
-   "url": "https://www.mim.gov.it/web/como/-/secondo-bollettino-incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-1",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "CO",
-   "turno": null,
-   "data": "2026-10-29",
-   "url": "https://www.mim.gov.it/web/como/-/nomine-a-tempo-determinato-personale-docente-a-s-2026-27-terzo-scorrimento-1",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "CO",
-   "turno": 4,
-   "data": "2026-10-29",
-   "url": "https://www.mim.gov.it/web/como/-/nomine-a-tempo-determinato-personale-docente-a-s-2026-27-quarto-scorrimento-1",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "CO",
-   "turno": 5,
-   "data": "2026-10-29",
-   "url": "https://www.mim.gov.it/web/como/-/nomine-a-tempo-determinato-personale-docente-a-s-2026-27-quinto-scorrimento-1",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "LC",
-   "turno": null,
-   "data": "2026-10-29",
-   "url": "https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-secondaria-di-primo-grado-secondo-scorrimento-e-di-secondo-grado-terzo-scorrimento-a-s--1",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "LC",
-   "turno": 4,
-   "data": "2026-10-29",
-   "url": "https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-secondo-scorrimento-secondaria-di-primo-grado-terzo-scorrimento-e-di-seco-1",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "LC",
-   "turno": null,
-   "data": "2026-10-29",
-   "url": "https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-terzo-scorrimento-secondaria-di-primo-grado-quarto-scorrimento-e-di-secon-1",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "LC",
-   "turno": null,
-   "data": "2026-10-29",
-   "url": "https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-e-secondaria-di-primo-grado-sesto-scorrimento-e-di-scuola-secondaria-di-s-1",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "LC",
-   "turno": null,
-   "data": "2026-10-29",
-   "url": "https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-settimo-scorrimento-e-di-scuola-secondaria-di-secondo-grado-nono-scorrime-1",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "LC",
-   "turno": null,
-   "data": "2026-10-29",
-   "url": "https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-e-secondaria-di-primo-grado-nono-scorrimento-nonche-di-scuola-secondaria--1",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "LC",
-   "turno": null,
-   "data": "2026-10-29",
-   "url": "https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-e-secondaria-di-primo-grado-decimo-scorrimento-nonche-di-scuola-secondari-1",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "LC",
-   "turno": null,
-   "data": "2026-10-29",
-   "url": "https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-secondaria-di-primo-grado-undicesimo-scorrimento-e-di-scuola-secondaria-di-secondo-grad-1",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "LO",
-   "turno": 2,
-   "data": "2026-10-29",
-   "url": "https://www.mim.gov.it/web/lodi/-/individuazione-dei-destinatari-della-proposta-di-stipula-di-contratto-a-tempo-determinato-per-l-a-s-2026-2027-inseriti-nelle-graduatorie-provinciali-d",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "LO",
-   "turno": 3,
-   "data": "2026-10-29",
-   "url": "https://www.mim.gov.it/web/lodi/-/individuazione-dei-destinatari-di-contratti-t-d-su-posti-comuni-e-di-sostegno-per-l-a-s-2026-2027-terzo-algoritmo",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "LO",
-   "turno": 4,
-   "data": "2026-10-29",
-   "url": "https://www.mim.gov.it/web/lodi/-/individuazione-dei-destinatari-di-contratti-t-d-su-posti-comuni-e-di-sostegno-per-l-a-s-2026-2027-quarto-algoritmo",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "LO",
-   "turno": null,
-   "data": "2026-10-29",
-   "url": "https://www.mim.gov.it/web/lodi/-/individuazione-dei-destinatari-di-contratti-t-d-su-posti-comuni-e-di-sostegno-per-l-a-s-2026-2027-quinto-algoritmo",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "MB",
-   "turno": 2,
-   "data": "2026-10-29",
-   "url": "https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-2",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "MB",
-   "turno": 3,
-   "data": "2026-10-29",
-   "url": "https://www.mim.gov.it/web/monza-brianza/home/-/asset_publisher/ultimecomunicazioni/content/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-3-scorrimento-1?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_ultimecomunicazioni_redirect=https%3A%2F%2Fwww.mim.gov.it%2Fweb%2Fmonza-brianza%2Fhome%3Fp_p_id%3Dcom_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_ultimecomunicazioni%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_ultimecomunicazioni_cur%3D0%26p_r_p_resetCur%3Dfalse%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_ultimecomunicazioni_assetEntryId%3D11201465",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "MB",
-   "turno": null,
-   "data": "2026-10-29",
-   "url": "https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-4",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "MB",
-   "turno": null,
-   "data": "2026-10-29",
-   "url": "https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-6",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "MB",
-   "turno": null,
-   "data": "2026-10-29",
-   "url": "https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-8",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "MB",
-   "turno": null,
-   "data": "2026-10-29",
-   "url": "https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-10",
    "nota": "nessun PDF o foglio trovato nella pagina"
   }
  ],
  "turniMancanti": [
+  {
+   "provincia": "VV",
+   "turno": 3,
+   "nota": "bollettino non trovato (si passa dal turno 2 al 5)"
+  },
+  {
+   "provincia": "VV",
+   "turno": 4,
+   "nota": "bollettino non trovato (si passa dal turno 2 al 5)"
+  },
   {
    "provincia": "GE",
    "turno": 6,
@@ -1961,6 +1901,16 @@
    "provincia": "BS",
    "turno": 6,
    "nota": "bollettino non trovato (si passa dal turno 5 al 7)"
+  },
+  {
+   "provincia": "CO",
+   "turno": 3,
+   "nota": "bollettino non trovato (si passa dal turno 2 al 4)"
+  },
+  {
+   "provincia": "LC",
+   "turno": 3,
+   "nota": "bollettino non trovato (si passa dal turno 2 al 4)"
   },
   {
    "provincia": "PV",
@@ -2053,11 +2003,6 @@
    "nota": "bollettino non trovato (si passa dal turno 4 al 8)"
   },
   {
-   "provincia": "LU",
-   "turno": 4,
-   "nota": "bollettino non trovato (si passa dal turno 3 al 5)"
-  },
-  {
    "provincia": "PT",
    "turno": 4,
    "nota": "bollettino non trovato (si passa dal turno 3 al 5)"
@@ -2126,16 +2071,6 @@
    "provincia": "VE",
    "turno": 18,
    "nota": "bollettino non trovato (si passa dal turno 8 al 19)"
-  },
-  {
-   "provincia": "CO",
-   "turno": 3,
-   "nota": "bollettino non trovato (si passa dal turno 2 al 4)"
-  },
-  {
-   "provincia": "LC",
-   "turno": 3,
-   "nota": "bollettino non trovato (si passa dal turno 2 al 4)"
   }
  ]
 }
