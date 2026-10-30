@@ -1,50 +1,7 @@
 lettore cambiato: la memoria dei PDF viene rifatta
-GIRO MIRATO solo su: BG, LC, MB, CO, LO, AL, AT
+GIRO MIRATO solo su: LC, MB, CO, LO, AT
 Orizzonte Scuola: province trovate nella pagina -> 98
 Province CON link su Orizzonte Scuola: 98 | SENZA link: CH PE FM BT SU CL BZ TN AO
--- BG Bergamo --
-link da Orizzonte Scuola: 11
-totale pagine da controllare: 11
-  prova senza suffisso: web/bergamo/-/nomine-a-tempo-determinato-da-gae-e-gps-a-s-2026-27-bollettino-n-3 -> 2 allegati
-  scartati 1 decreti (non sono bollettini)
-  scarico https://www.mim.gov.it/documents/9081047/10244551/Bollettino+n.+3.pdf/c4dd42fb-ce5e-1c1f-8654-219bf93e358e?version=1.0&t=1788196682319
-  data ricavata dal caricamento dell'allegato: 2026-08-31
-    ok [turno]: calibrato=true righe GPS=1814 scartate=0
-  scartati 1 decreti (non sono bollettini)
-  stesso documento già trovato in questo giro, salto: https://www.mim.gov.it/documents/9081047/10244551/Bollettino+n.+3.pdf/c4dd42fb-ce5e-1c1f-8654-219bf93e358e?version=1.0&t=1788196682319
-  nessun PDF utilizzabile in https://www.mim.gov.it/web/bergamo/-/nomine-a-tempo-determinato-da-gae-e-gps-a-s-2026-27-bollettino-n-3
-  scartati 1 decreti (non sono bollettini)
-  nessun PDF o foglio trovato in https://www.mim.gov.it/web/bergamo/-/decreto-nomine-a-tempo-determinato-da-gae-e-gps-a-s-2026-27-bollettino-n-3-rettifica-parziale-decreto
-  scartati 1 decreti (non sono bollettini)
-  nessun PDF o foglio trovato in https://www.mim.gov.it/web/bergamo/-/nomine-a-tempo-determinato-da-gae-e-gps-a-s-2026-27-rettifiche-a-bollettino-n-3
-  prova senza suffisso: web/bergamo/-/nomine-a-tempo-determinato-da-gae-e-gps-a-s-2026-27-bollettino-n-4 -> 2 allegati
-  scartati 1 decreti (non sono bollettini)
-  scarico https://www.mim.gov.it/documents/9081047/10244551/Bollettino+n.+4.pdf/6152eab7-d906-232b-065a-ddd39c2e0eea?version=1.0&t=1789122024523
-  data ricavata dal caricamento dell'allegato: 2026-09-11
-    ok [turno]: calibrato=true righe GPS=183 scartate=0
-  nessun PDF o foglio trovato in https://www.mim.gov.it/web/bergamo/-/nomine-a-tempo-determinato-da-gps-a-s-2026-27-rettifiche-a-bollettino-n-4-1
-  prova senza suffisso: web/bergamo/-/nomine-a-tempo-determinato-da-gae-e-gps-a-s-2026-27-bollettino-n-5 -> 2 allegati
-  scartati 1 decreti (non sono bollettini)
-  scarico https://www.mim.gov.it/documents/9081047/10244551/Bollettino+n.+5.pdf/98fb3fd4-b948-eccf-2b2f-ac63f8e32aea?version=1.0&t=1790075600580
-  data ricavata dal caricamento dell'allegato: 2026-09-22
-    ok [turno]: calibrato=true righe GPS=70 scartate=0
-  nessun PDF o foglio trovato in https://www.mim.gov.it/web/bergamo/-/nomine-a-tempo-determinato-da-gps-a-s-2026-27-rettifiche-a-bollettino-n-5-1
-  prova senza suffisso: ov.it/web/bergamo/-/nomine-a-tempo-determinato-da-gps-a-s-2026-27-bollettino-n-6 -> 2 allegati
-  scartati 1 decreti (non sono bollettini)
-  scarico https://www.mim.gov.it/documents/9081047/10244551/Bollettino+n.+6.pdf/da8f13f3-b600-e590-60f6-020678bd214b?version=1.0&t=1790761978194
-  data ricavata dal caricamento dell'allegato: 2026-09-30
-    ok [turno]: calibrato=true righe GPS=33 scartate=0
-  prova senza suffisso: ov.it/web/bergamo/-/nomine-a-tempo-determinato-da-gps-a-s-2026-27-bollettino-n-7 -> 2 allegati
-  scartati 1 decreti (non sono bollettini)
-  scarico https://www.mim.gov.it/documents/9081047/10244551/Bollettino+n.+7.pdf/95865216-4152-89a8-2be6-65ab583dbbbc?version=1.0&t=1791205065923
-  data ricavata dal caricamento dell'allegato: 2026-10-05
-    ok [turno]: calibrato=true righe GPS=18 scartate=0
-  prova senza suffisso: ov.it/web/bergamo/-/nomine-a-tempo-determinato-da-gps-a-s-2026-27-bollettino-n-8 -> 2 allegati
-  scartati 1 decreti (non sono bollettini)
-  scarico https://www.mim.gov.it/documents/9081047/10244551/Bollettino+n.+8.pdf/8c0c699f-d458-5bb3-88b5-7a2abfa3387f?version=1.0&t=1791981001498
-  data ricavata dal caricamento dell'allegato: 2026-10-14
-    ok [turno]: calibrato=true righe GPS=48 scartate=0
-  turni letti=6 non letti=1 -> da verificare
 -- CO Como --
 link da Orizzonte Scuola: 7
 totale pagine da controllare: 7
@@ -57,16 +14,24 @@ totale pagine da controllare: 7
   data ricavata dal caricamento dell'allegato: 2026-09-07
   non sembra un bollettino, ignoro: https://www.mim.gov.it/web/como/-/nomine-a-tempo-determinato-gae-gps-precisazioni-1
   prova senza suffisso: secondo-bollettino-incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027 -> 0 allegati
-  pagina senza allegato riconoscibile (103238 caratteri); collegamenti a documenti: nessuno
+        browser: titolo pagina "Secondo bollettino - Incarichi a tempo determinato personale docente - a.s. 2026"
+  prova con il browser: 0 allegati
+  pagina senza allegato riconoscibile (103284 caratteri); collegamenti a documenti: nessuno
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/como/-/secondo-bollettino-incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-1
   prova senza suffisso: omo/-/nomine-a-tempo-determinato-personale-docente-a-s-2026-27-terzo-scorrimento -> 0 allegati
+        browser: titolo pagina "Nomine a tempo determinato personale docente a.s. 2026/27 – terzo scorrimento - "
+  prova con il browser: 0 allegati
   pagina senza allegato riconoscibile (103112 caratteri); collegamenti a documenti: nessuno
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/como/-/nomine-a-tempo-determinato-personale-docente-a-s-2026-27-terzo-scorrimento-1
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/como/-/decreto-correzione-nomine-supplenze-classe-di-concorso-adss--1
   prova senza suffisso: mo/-/nomine-a-tempo-determinato-personale-docente-a-s-2026-27-quarto-scorrimento -> 0 allegati
+        browser: titolo pagina "Nomine a tempo determinato personale docente a.s. 2026/27 – quarto scorrimento -"
+  prova con il browser: 0 allegati
   pagina senza allegato riconoscibile (103135 caratteri); collegamenti a documenti: nessuno
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/como/-/nomine-a-tempo-determinato-personale-docente-a-s-2026-27-quarto-scorrimento-1
   prova senza suffisso: mo/-/nomine-a-tempo-determinato-personale-docente-a-s-2026-27-quinto-scorrimento -> 0 allegati
+        browser: titolo pagina "Nomine a tempo determinato personale docente a.s. 2026/27 – quinto scorrimento -"
+  prova con il browser: 0 allegati
   pagina senza allegato riconoscibile (102991 caratteri); collegamenti a documenti: nessuno
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/como/-/nomine-a-tempo-determinato-personale-docente-a-s-2026-27-quinto-scorrimento-1
   TURNO MANCANTE: 3
@@ -98,13 +63,19 @@ Warning: TT: undefined function: 21
   data ricavata dal caricamento dell'allegato: 2026-09-16
     ok [turno]: calibrato=true righe GPS=16 scartate=0
   prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-secondaria-di-primo-grado-secondo-scorrimento-e-di-secondo-grado-terzo-scorrimento-a-s-
-  pagina senza allegato riconoscibile (108607 caratteri); collegamenti a documenti: nessuno
+        browser: titolo pagina "Reclutamento personale docente a tempo determinato di scuola secondaria di primo"
+  prova con il browser: 0 allegati
+  pagina senza allegato riconoscibile (108653 caratteri); collegamenti a documenti: nessuno
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-secondaria-di-primo-grado-secondo-scorrimento-e-di-secondo-grado-terzo-scorrimento-a-s--1
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/lecco/-/titolo-rettifica-nomine-a-tempo-determinato-a-s-2026-27-personale-docente-di-scuola-dell-infanzia-
   prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-secondo-scorrimento-secondaria-di-primo-grado-terzo-scorrimento-e-di-seco
+        browser: titolo pagina "Reclutamento personale docente a tempo determinato di scuola dell'infanzia SECON"
+  prova con il browser: 0 allegati
   pagina senza allegato riconoscibile (108840 caratteri); collegamenti a documenti: nessuno
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-secondo-scorrimento-secondaria-di-primo-grado-terzo-scorrimento-e-di-seco-1
   prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-terzo-scorrimento-secondaria-di-primo-grado-quarto-scorrimento-e-di-secon
+        browser: titolo pagina "Reclutamento personale docente a tempo determinato di scuola dell'infanzia TERZO"
+  prova con il browser: 0 allegati
   pagina senza allegato riconoscibile (108835 caratteri); collegamenti a documenti: nessuno
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-terzo-scorrimento-secondaria-di-primo-grado-quarto-scorrimento-e-di-secon-1
   scarico https://www.mim.gov.it/documents/9081350/10317897/m_pi.AOOUSPLC.REGISTRO+UFFICIALE%28U%29.0005366.29-09-2026.pdf/2910f517-6ab6-0b91-2185-ecf1f5b2c53b?version=1.0&t=1790679220449
@@ -121,19 +92,29 @@ Warning: TT: undefined function: 21
   data ricavata dal caricamento dell'allegato: 2026-10-02
     ok [turno]: calibrato=true righe GPS=4 scartate=0
   prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-e-secondaria-di-primo-grado-sesto-scorrimento-e-di-scuola-secondaria-di-s
+        browser: titolo pagina "Reclutamento personale docente a tempo determinato di scuola dell'infanzia e sec"
+  prova con il browser: 0 allegati
   pagina senza allegato riconoscibile (108838 caratteri); collegamenti a documenti: nessuno
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-e-secondaria-di-primo-grado-sesto-scorrimento-e-di-scuola-secondaria-di-s-1
   prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-settimo-scorrimento-e-di-scuola-secondaria-di-secondo-grado-nono-scorrime
+        browser: titolo pagina "Reclutamento personale docente a tempo determinato di scuola dell'infanzia SETTI"
+  prova con il browser: 0 allegati
   pagina senza allegato riconoscibile (108685 caratteri); collegamenti a documenti: nessuno
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-settimo-scorrimento-e-di-scuola-secondaria-di-secondo-grado-nono-scorrime-1
   prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-e-secondaria-di-primo-grado-nono-scorrimento-nonche-di-scuola-secondaria-
+        browser: titolo pagina "Reclutamento personale docente a tempo determinato di scuola dell'infanzia e sec"
+  prova con il browser: 0 allegati
   pagina senza allegato riconoscibile (108845 caratteri); collegamenti a documenti: nessuno
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-e-secondaria-di-primo-grado-nono-scorrimento-nonche-di-scuola-secondaria--1
   prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-e-secondaria-di-primo-grado-decimo-scorrimento-nonche-di-scuola-secondari
+        browser: titolo pagina "Reclutamento personale docente a tempo determinato di scuola dell'infanzia e sec"
+  prova con il browser: 0 allegati
   pagina senza allegato riconoscibile (108869 caratteri); collegamenti a documenti: nessuno
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-e-secondaria-di-primo-grado-decimo-scorrimento-nonche-di-scuola-secondari-1
   prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-secondaria-di-primo-grado-undicesimo-scorrimento-e-di-scuola-secondaria-di-secondo-grad
-  pagina senza allegato riconoscibile (108698 caratteri); collegamenti a documenti: nessuno
+        browser: titolo pagina "Reclutamento personale docente a tempo determinato di scuola secondaria di primo"
+  prova con il browser: 0 allegati
+  pagina senza allegato riconoscibile (108744 caratteri); collegamenti a documenti: nessuno
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-secondaria-di-primo-grado-undicesimo-scorrimento-e-di-scuola-secondaria-di-secondo-grad-1
   prova senza suffisso: rminato-di-scuola-secondaria-di-primo-grado-dodicesimo-scorrimento-a-s-2026-2027 -> 2 allegati
   scarico https://www.mim.gov.it/documents/9081350/10317897/bollettino+I+grado+27_10_2026.pdf/a5da4d8b-3cfc-0006-6a3a-90c5766c8889?version=1.0&t=1793099185153
@@ -154,12 +135,20 @@ totale pagine da controllare: 6
   scarico https://www.mim.gov.it/documents/9081432/0/Bollettino+definitivo+%284%29.pdf/5e20ac93-6d93-e279-5e3f-4a071a4fe377?t=1788197318978
   data ricavata dal caricamento dell'allegato: 2026-08-31
     ok [turno]: calibrato=true righe GPS=661 scartate=0
-  pagina senza allegato riconoscibile (108826 caratteri); collegamenti a documenti: nessuno
+        browser: titolo pagina "Individuazione dei destinatari della proposta di stipula di contratto a tempo de"
+  prova con il browser: 0 allegati
+  pagina senza allegato riconoscibile (108780 caratteri); collegamenti a documenti: nessuno
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/lodi/-/individuazione-dei-destinatari-della-proposta-di-stipula-di-contratto-a-tempo-determinato-per-l-a-s-2026-2027-inseriti-nelle-graduatorie-provinciali-d
+        browser: titolo pagina "Individuazione dei destinatari di contratti T.D. su posti comuni e di sostegno p"
+  prova con il browser: 0 allegati
   pagina senza allegato riconoscibile (107841 caratteri); collegamenti a documenti: nessuno
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/lodi/-/individuazione-dei-destinatari-di-contratti-t-d-su-posti-comuni-e-di-sostegno-per-l-a-s-2026-2027-terzo-algoritmo
-  pagina senza allegato riconoscibile (107839 caratteri); collegamenti a documenti: nessuno
+        browser: titolo pagina "Individuazione dei destinatari di contratti T.D. su posti comuni e di sostegno p"
+  prova con il browser: 0 allegati
+  pagina senza allegato riconoscibile (107793 caratteri); collegamenti a documenti: nessuno
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/lodi/-/individuazione-dei-destinatari-di-contratti-t-d-su-posti-comuni-e-di-sostegno-per-l-a-s-2026-2027-quarto-algoritmo
+        browser: titolo pagina "Individuazione dei destinatari di contratti T.D. su posti comuni e di sostegno p"
+  prova con il browser: 0 allegati
   pagina senza allegato riconoscibile (107793 caratteri); collegamenti a documenti: nessuno
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/lodi/-/individuazione-dei-destinatari-di-contratti-t-d-su-posti-comuni-e-di-sostegno-per-l-a-s-2026-2027-quinto-algoritmo
   prova senza suffisso: i-di-contratti-t-d-su-posti-comuni-e-di-sostegno-per-l-a-s-2026-2027-6-algoritmo -> 2 allegati
@@ -177,61 +166,35 @@ totale pagine da controllare: 7
   data ricavata dal caricamento dell'allegato: 2026-08-28
     ok [turno]: calibrato=true righe GPS=1311 scartate=0
   prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027
+        browser: titolo pagina "Incarichi a tempo determinato personale docente - a.s. 2026/2027 - Incarichi a t"
+  prova con il browser: 0 allegati
   pagina senza allegato riconoscibile (121490 caratteri); collegamenti a documenti: nessuno
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-2
-  pagina senza allegato riconoscibile (141597 caratteri); collegamenti a documenti: nessuno
+        browser: titolo pagina "Incarichi a tempo determinato personale docente - a.s. 2026/2027 - 3° scorriment"
+  prova con il browser: 0 allegati
+  pagina senza allegato riconoscibile (141551 caratteri); collegamenti a documenti: nessuno
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/monza-brianza/home/-/asset_publisher/ultimecomunicazioni/content/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-3-scorrimento-1?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_ultimecomunicazioni_redirect=https%3A%2F%2Fwww.mim.gov.it%2Fweb%2Fmonza-brianza%2Fhome%3Fp_p_id%3Dcom_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_ultimecomunicazioni%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_ultimecomunicazioni_cur%3D0%26p_r_p_resetCur%3Dfalse%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_ultimecomunicazioni_assetEntryId%3D11201465
   prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027
+        browser: titolo pagina "Incarichi a tempo determinato personale docente - a.s. 2026/2027 - Incarichi a t"
+  prova con il browser: 0 allegati
   pagina senza allegato riconoscibile (121486 caratteri); collegamenti a documenti: nessuno
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-4
   prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027
+        browser: titolo pagina "Incarichi a tempo determinato personale docente - a.s. 2026/2027 - Incarichi a t"
+  prova con il browser: 0 allegati
   pagina senza allegato riconoscibile (121484 caratteri); collegamenti a documenti: nessuno
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-6
   prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027
+        browser: titolo pagina "Incarichi a tempo determinato personale docente - a.s. 2026/2027 - Incarichi a t"
+  prova con il browser: 0 allegati
   pagina senza allegato riconoscibile (121531 caratteri); collegamenti a documenti: nessuno
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-8
   prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027
+        browser: titolo pagina "Incarichi a tempo determinato personale docente - a.s. 2026/2027 - Incarichi a t"
+  prova con il browser: 0 allegati
   pagina senza allegato riconoscibile (121499 caratteri); collegamenti a documenti: nessuno
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-10
   turni letti=1 non letti=6 -> da verificare
--- AL Alessandria --
-link da Orizzonte Scuola: 13
-totale pagine da controllare: 13
-  scartati 1 decreti (non sono bollettini)
-  la pagina ha solo decreti: ignoro onepiemonte.it/alessandria-asti/nomine-gps-bollettino-n-1-supplenze-alessandria/
-  scarico https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/09/AL_ChiarimentiNomineGPS-as26_27-signed.pdf
-Warning: TT: undefined function: 21
-Warning: TT: undefined function: 21
-Warning: TT: undefined function: 21
-Warning: TT: undefined function: 21
-    OCR: nessuna pagina scansionata nel documento
-Warning: TT: undefined function: 21
-Warning: TT: undefined function: 21
-  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-09-01
-  non sembra un bollettino, ignoro: https://www.istruzionepiemonte.it/alessandria-asti/avviso-chiarimenti-nomine-gps/
-  scartati 1 decreti (non sono bollettini)
-  la pagina ha solo decreti: ignoro onepiemonte.it/alessandria-asti/nomine-gps-bollettino-n-3-supplenze-alessandria/
-  scartati 1 decreti (non sono bollettini)
-  la pagina ha solo decreti: ignoro onepiemonte.it/alessandria-asti/nomine-gps-bollettino-n-4-supplenze-alessandria/
-  scartati 1 decreti (non sono bollettini)
-  la pagina ha solo decreti: ignoro onepiemonte.it/alessandria-asti/nomine-gps-bollettino-n-5-supplenze-alessandria/
-  scartati 1 decreti (non sono bollettini)
-  la pagina ha solo decreti: ignoro onepiemonte.it/alessandria-asti/nomine-gps-bollettino-n-6-supplenze-alessandria/
-  scartati 1 decreti (non sono bollettini)
-  la pagina ha solo decreti: ignoro onepiemonte.it/alessandria-asti/nomine-gps-bollettino-n-7-supplenze-alessandria/
-  scartati 1 decreti (non sono bollettini)
-  la pagina ha solo decreti: ignoro onepiemonte.it/alessandria-asti/nomine-gps-bollettino-n-8-supplenze-alessandria/
-  scartati 1 decreti (non sono bollettini)
-  la pagina ha solo decreti: ignoro onepiemonte.it/alessandria-asti/nomine-gps-bollettino-n-9-supplenze-alessandria/
-  scartati 1 decreti (non sono bollettini)
-  la pagina ha solo decreti: ignoro nepiemonte.it/alessandria-asti/nomine-gps-bollettino-n-10-supplenze-alessandria/
-  scartati 1 decreti (non sono bollettini)
-  la pagina ha solo decreti: ignoro nepiemonte.it/alessandria-asti/nomine-gps-bollettino-n-11-supplenze-alessandria/
-  scartati 1 decreti (non sono bollettini)
-  la pagina ha solo decreti: ignoro nepiemonte.it/alessandria-asti/nomine-gps-bollettino-n-12-supplenze-alessandria/
-  scartati 1 decreti (non sono bollettini)
-  la pagina ha solo decreti: ignoro //www.istruzionepiemonte.it/alessandria-asti/decreto-xiii-turno-gps-alessandria/
-  turni letti=0 non letti=0 -> da verificare
 -- AT Asti --
 link da Orizzonte Scuola: 11
 totale pagine da controllare: 11
@@ -243,8 +206,7 @@ Warning: TT: undefined function: 21
     OCR: nessuna pagina scansionata nel documento
 Warning: TT: undefined function: 21
 Warning: TT: undefined function: 21
-  data ricavata dal nome del file: 2026-08-28
-    ok [turno]: calibrato=false righe GPS=0 scartate=0
+  documento di tipo decreto, non è un bollettino: ignoro s/3/2026/08/m_pi.AOOUSPAT.REGISTRO-UFFICIALEU.0003748.28-08-2026-1.pdf
   scarico https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/08/m_pi.AOOUSPAT.REGISTRO-UFFICIALEU.0003764.31-08-2026.pdf
 Warning: TT: undefined function: 21
 Warning: TT: undefined function: 21
@@ -266,8 +228,7 @@ Warning: TT: invalid function id: 136
 Warning: TT: undefined function: 21
 Warning: TT: undefined function: 21
 Warning: TT: invalid function id: 136
-  data ricavata dal nome del file: 2026-09-11
-    ok [turno]: calibrato=false righe GPS=0 scartate=0
+  documento di tipo decreto, non è un bollettino: ignoro tes/3/2026/09/m_pi.AOOUSPAT.REGISTRO-UFFICIALEU.0003950.11-09-2026.pdf
   scarico https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/09/m_pi.AOOUSPAT.REGISTRO-UFFICIALEU.0004028.16-09-2026.pdf
 Warning: TT: undefined function: 21
 Warning: TT: undefined function: 21
@@ -279,8 +240,7 @@ Warning: TT: invalid function id: 136
 Warning: TT: undefined function: 21
 Warning: TT: undefined function: 21
 Warning: TT: invalid function id: 136
-  data ricavata dal nome del file: 2026-09-16
-    ok [turno]: calibrato=false righe GPS=0 scartate=0
+  documento di tipo decreto, non è un bollettino: ignoro tes/3/2026/09/m_pi.AOOUSPAT.REGISTRO-UFFICIALEU.0004028.16-09-2026.pdf
   scarico https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/09/m_pi.AOOUSPAT.REGISTRO-UFFICIALEU.0004100.22-09-2026.pdf
 Warning: TT: undefined function: 21
 Warning: TT: undefined function: 21
@@ -292,8 +252,7 @@ Warning: TT: invalid function id: 136
 Warning: TT: undefined function: 21
 Warning: TT: undefined function: 21
 Warning: TT: invalid function id: 136
-  data ricavata dal nome del file: 2026-09-22
-    ok [turno]: calibrato=false righe GPS=0 scartate=0
+  documento di tipo decreto, non è un bollettino: ignoro tes/3/2026/09/m_pi.AOOUSPAT.REGISTRO-UFFICIALEU.0004100.22-09-2026.pdf
   scarico https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/09/m_pi.AOOUSPAT.REGISTRO-UFFICIALEU.0004206.25-09-2026.pdf
 Warning: TT: undefined function: 21
 Warning: TT: undefined function: 21
@@ -305,8 +264,7 @@ Warning: TT: invalid function id: 136
 Warning: TT: undefined function: 21
 Warning: TT: undefined function: 21
 Warning: TT: invalid function id: 136
-  data ricavata dal nome del file: 2026-09-25
-    ok [turno]: calibrato=false righe GPS=0 scartate=0
+  documento di tipo decreto, non è un bollettino: ignoro tes/3/2026/09/m_pi.AOOUSPAT.REGISTRO-UFFICIALEU.0004206.25-09-2026.pdf
   scarico https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/09/m_pi.AOOUSPAT.REGISTRO-UFFICIALEU.0004258.29-09-2026.pdf
 Warning: TT: undefined function: 21
 Warning: TT: undefined function: 21
@@ -318,8 +276,7 @@ Warning: TT: invalid function id: 136
 Warning: TT: undefined function: 21
 Warning: TT: undefined function: 21
 Warning: TT: invalid function id: 136
-  data ricavata dal nome del file: 2026-09-29
-    ok [turno]: calibrato=false righe GPS=0 scartate=0
+  documento di tipo decreto, non è un bollettino: ignoro tes/3/2026/09/m_pi.AOOUSPAT.REGISTRO-UFFICIALEU.0004258.29-09-2026.pdf
   scarico https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/10/m_pi.AOOUSPAT.REGISTRO-UFFICIALEU.0004396.09-10-2026.pdf
 Warning: TT: undefined function: 21
 Warning: TT: undefined function: 21
@@ -331,8 +288,7 @@ Warning: TT: invalid function id: 136
 Warning: TT: undefined function: 21
 Warning: TT: undefined function: 21
 Warning: TT: invalid function id: 136
-  data ricavata dal nome del file: 2026-10-09
-    ok [turno]: calibrato=false righe GPS=0 scartate=0
+  documento di tipo decreto, non è un bollettino: ignoro tes/3/2026/10/m_pi.AOOUSPAT.REGISTRO-UFFICIALEU.0004396.09-10-2026.pdf
   scarico https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/10/m_pi.AOOUSPAT.REGISTRO-UFFICIALEU.0004425.13-10-2026.pdf
 Warning: TT: undefined function: 21
 Warning: TT: undefined function: 21
@@ -344,8 +300,7 @@ Warning: TT: invalid function id: 136
 Warning: TT: undefined function: 21
 Warning: TT: undefined function: 21
 Warning: TT: invalid function id: 136
-  data ricavata dal nome del file: 2026-10-13
-    ok [turno]: calibrato=false righe GPS=0 scartate=0
+  documento di tipo decreto, non è un bollettino: ignoro tes/3/2026/10/m_pi.AOOUSPAT.REGISTRO-UFFICIALEU.0004425.13-10-2026.pdf
   scarico https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/10/m_pi.AOOUSPAT.REGISTRO-UFFICIALEU.0004491.15-10-2026.pdf
 Warning: TT: undefined function: 21
 Warning: TT: undefined function: 21
@@ -357,8 +312,7 @@ Warning: TT: invalid function id: 136
 Warning: TT: undefined function: 21
 Warning: TT: undefined function: 21
 Warning: TT: invalid function id: 136
-  data ricavata dal nome del file: 2026-10-15
-    ok [turno]: calibrato=false righe GPS=0 scartate=0
+  documento di tipo decreto, non è un bollettino: ignoro tes/3/2026/10/m_pi.AOOUSPAT.REGISTRO-UFFICIALEU.0004491.15-10-2026.pdf
   scarico https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/10/m_pi.AOOUSPAT.REGISTRO-UFFICIALEU.0004703.27-10-2026.pdf
 Warning: TT: undefined function: 21
 Warning: TT: undefined function: 21
@@ -370,9 +324,7 @@ Warning: TT: invalid function id: 136
 Warning: TT: undefined function: 21
 Warning: TT: undefined function: 21
 Warning: TT: invalid function id: 136
-  data ricavata dal nome del file: 2026-10-27
-    ok [turno]: calibrato=false righe GPS=0 scartate=0
-  TURNO MANCANTE: 2
-  turni letti=0 non letti=11 -> da verificare
-RIEPILOGO DA VERIFICARE: letti con OCR=0 | zero righe=3 | non letti=252 | turni mancanti=37
+  documento di tipo decreto, non è un bollettino: ignoro tes/3/2026/10/m_pi.AOOUSPAT.REGISTRO-UFFICIALEU.0004703.27-10-2026.pdf
+  turni letti=0 non letti=0 -> da verificare
+RIEPILOGO DA VERIFICARE: letti con OCR=0 | zero righe=3 | non letti=242 | turni mancanti=36
 Scritto /home/runner/work/atrium/atrium/data/bollettini.json
