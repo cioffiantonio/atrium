@@ -48,7 +48,8 @@ jobs:
         env:
           PROVINCE_FILTER: ${{ github.event.inputs.province }}
         run: |
-          if [ -z "$PROVINCE_FILTER" ] || echo ",${PROVINCE_FILTER^^}," | grep -q ",BN,"; then echo "serve=si" >> "$GITHUB_OUTPUT"; else echo "serve=no" >> "$GITHUB_OUTPUT"; fi
+          # serve per Benevento e per le pagine del Ministero con allegati caricati dal JavaScript
+          echo "serve=si" >> "$GITHUB_OUTPUT"
       - name: Cache del browser
         if: steps.browser.outputs.serve == 'si'
         uses: actions/cache@v4
