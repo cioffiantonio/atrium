@@ -36,6 +36,8 @@ jobs:
         with:
           node-version: 20
       - run: npm install
+      # lettura dei bollettini in formato Excel (.xlsx) e archivi zip
+      - run: npm install --no-save read-excel-file@9 fflate@0.8
       # strumenti per leggere con l'OCR i bollettini scansionati (pdftoppm + tesseract, anche in italiano)
       - name: Installa OCR
         run: |
