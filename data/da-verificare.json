@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-31T02:49:21.280Z",
+ "aggiornato": "2026-10-31T08:51:04.504Z",
  "ocr": [],
  "zeroRighe": [
   {
@@ -31,20 +31,6 @@
    "data": "2026-10-29",
    "url": "https://fc.istruzioneer.gov.it/wp-content/uploads/sites/4/2026/10/Bollettino-totale-nomine-del-29-ottobre-2026-signed.pdf",
    "nota": "righe GPS non leggibili: 1"
-  },
-  {
-   "provincia": "AQ",
-   "turno": 3,
-   "data": "2026-09-16",
-   "url": "https://lnx.csalaquila.it/wp/wp-content/uploads/2026/09/Bollettino-3.pdf",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "AQ",
-   "turno": 5,
-   "data": "2026-10-20",
-   "url": "https://lnx.csalaquila.it/wp/wp-content/uploads/2026/10/Bollettino-n.-5-1.pdf",
-   "nota": "formato non riconosciuto"
   },
   {
    "provincia": "CZ",
@@ -586,13 +572,6 @@
    "nota": "formato non riconosciuto"
   },
   {
-   "provincia": "CN",
-   "turno": null,
-   "data": "2026-09-11",
-   "url": "https://www.istruzionepiemonte.it/cuneo/wp-content/uploads/sites/5/2026/09/BollettinoDefinitivo_Fase-7_per-sito.pdf",
-   "nota": "righe GPS non leggibili: 1"
-  },
-  {
    "provincia": "BR",
    "turno": 2,
    "data": "2026-09-15",
@@ -822,6 +801,27 @@
    "data": "2026-10-31",
    "url": "https://t.me/share/url?text=Supplenze docenti 2026/27: bollettini del 30 ottobre [AGGIORNATO]&url=https://www.orizzontescuola.it/supplenze-docenti-ecco-i-bollettini-nomine-al-31-agosto-o-30-giugno-2027-in-aggiornamento/",
    "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "AQ",
+   "turno": 3,
+   "data": "2026-09-16",
+   "url": "https://lnx.csalaquila.it/wp/wp-content/uploads/2026/09/Bollettino-3.pdf",
+   "nota": "formato non riconosciuto"
+  },
+  {
+   "provincia": "AQ",
+   "turno": 5,
+   "data": "2026-10-20",
+   "url": "https://lnx.csalaquila.it/wp/wp-content/uploads/2026/10/Bollettino-n.-5-1.pdf",
+   "nota": "formato non riconosciuto"
+  },
+  {
+   "provincia": "CN",
+   "turno": null,
+   "data": "2026-09-11",
+   "url": "https://www.istruzionepiemonte.it/cuneo/wp-content/uploads/sites/5/2026/09/BollettinoDefinitivo_Fase-7_per-sito.pdf",
+   "nota": "righe GPS non leggibili: 1"
   }
  ],
  "turniMancanti": [
@@ -916,11 +916,6 @@
    "nota": "bollettino non trovato (si passa dal turno 3 al 7)"
   },
   {
-   "provincia": "OR",
-   "turno": 3,
-   "nota": "bollettino non trovato (si passa dal turno 2 al 4)"
-  },
-  {
    "provincia": "FI",
    "turno": 9,
    "nota": "bollettino non trovato (si passa dal turno 8 al 10)"
@@ -1009,6 +1004,11 @@
    "provincia": "VE",
    "turno": 18,
    "nota": "bollettino non trovato (si passa dal turno 8 al 19)"
+  },
+  {
+   "provincia": "OR",
+   "turno": 3,
+   "nota": "bollettino non trovato (si passa dal turno 2 al 4)"
   }
  ],
  "decretiIgnorati": [
@@ -1074,34 +1074,6 @@
    "data": "2026-10-31",
    "url": "https://www.mim.gov.it/documents/7673905/7821594/m_pi.AOODRCA.REGISTRO+UFFICIALE%28U%29.0083021.31-10-2025.pdf/53b3e618-77a1-0148-0b80-12afaa019635?t=1761907834845",
    "pagine": 2
-  },
-  {
-   "provincia": "AQ",
-   "turno": 1,
-   "data": "2026-08-28",
-   "url": "https://lnx.csalaquila.it/wp/wp-content/uploads/2026/08/GPS-2026_provvedimento_bollettino-n.1_prot.-n.-12971-del-28-agosto-2026.pdf",
-   "pagine": 2
-  },
-  {
-   "provincia": "AQ",
-   "turno": 2,
-   "data": "2026-09-08",
-   "url": "https://lnx.csalaquila.it/wp/wp-content/uploads/2026/09/GPS-2026_provvedimento-bollettino-n.-2_prot.-n.-13616_8_09_2026.pdf",
-   "pagine": 2
-  },
-  {
-   "provincia": "AQ",
-   "turno": 4,
-   "data": "2026-09-25",
-   "url": "https://lnx.csalaquila.it/wp/wp-content/uploads/2026/09/GPS_provvedimento-n.-14517_25_09_2026_bollettino-n.-4.pdf",
-   "pagine": 2
-  },
-  {
-   "provincia": "TE",
-   "turno": null,
-   "data": "2026-10-29",
-   "url": "https://www.csateramo.it/wpusp/wp-content/uploads/2026/10/Dispositivo-pubblicazione-esiti-turno-INS-n.-8-del-29.10.2026.pdf",
-   "pagine": 3
   },
   {
    "provincia": "PZ",
@@ -1244,6 +1216,279 @@
    "pagine": 3
   },
   {
+   "provincia": "VC",
+   "turno": 8,
+   "data": "2026-10-31",
+   "url": "https://www.istruzionepiemonte.it/vercelli/wp-content/uploads/sites/7/2026/10/m_pi.AOOUSPVC.REGISTRO-UFFICIALEU.0006553.02-10-2026.pdf",
+   "pagine": 4
+  },
+  {
+   "provincia": "TA",
+   "turno": null,
+   "data": "2026-09-16",
+   "url": "https://www.usptaranto.it/wp-content/uploads/2026/09/m_pi.AOOUSPTA.REGISTRO-UFFICIALEU.0019836.16-09-2026.pdf",
+   "pagine": 2
+  },
+  {
+   "provincia": "EN",
+   "turno": 1,
+   "data": "2026-10-31",
+   "url": "https://cl-en.usr.sicilia.it/download/2290/15461/15465/m_pi-aoouspcl-en-registro-ufficialeu-0019730-31-08-2026.pdf",
+   "pagine": 8
+  },
+  {
+   "provincia": "EN",
+   "turno": 2,
+   "data": "2026-10-31",
+   "url": "https://cl-en.usr.sicilia.it/download/2353/15778/15784/m_pi-aoouspcl-en-registro-ufficialeu-0021277-11-09-2026.pdf",
+   "pagine": 10
+  },
+  {
+   "provincia": "EN",
+   "turno": 3,
+   "data": "2026-10-31",
+   "url": "https://cl-en.usr.sicilia.it/download/2400/16008/16014/m_pi-aoouspcl-en-registro-ufficialeu-0022432-23-09-2026.pdf",
+   "pagine": 10
+  },
+  {
+   "provincia": "EN",
+   "turno": 4,
+   "data": "2026-10-31",
+   "url": "https://cl-en.usr.sicilia.it/download/2436/16180/16182/m_pi-aoouspcl-en-registro-ufficialeu-0023238-02-10-2026-1.pdf",
+   "pagine": 10
+  },
+  {
+   "provincia": "EN",
+   "turno": 5,
+   "data": "2026-10-31",
+   "url": "https://cl-en.usr.sicilia.it/download/2474/16387-1/16398/m_pi-aoouspcl-en-registro-ufficialeu-0025041-23-10-2026-1-2.pdf",
+   "pagine": 10
+  },
+  {
+   "provincia": "ME",
+   "turno": 3,
+   "data": "2026-10-31",
+   "url": "https://me.usr.sicilia.it/download/2589/25263/25265/aoouspme-registro-ufficiale-2026-0022869.pdf",
+   "pagine": 5
+  },
+  {
+   "provincia": "ME",
+   "turno": 5,
+   "data": "2026-10-31",
+   "url": "https://me.usr.sicilia.it/download/2720/28005/28008/aoouspme-registro-ufficiale-2026-0025909.pdf",
+   "pagine": 10
+  },
+  {
+   "provincia": "RG",
+   "turno": null,
+   "data": "2026-10-31",
+   "url": "https://rg.usr.sicilia.it/download/1607/10856/10860/m_pi-aoousprg-registro-ufficialeu-0006202-31-08-2026.pdf",
+   "pagine": 7
+  },
+  {
+   "provincia": "RG",
+   "turno": 2,
+   "data": "2026-10-31",
+   "url": "https://rg.usr.sicilia.it/download/1635/10992/10996/m_pi-aoousprg-registro-ufficialeu-0006769-11-09-2026.pdf",
+   "pagine": 8
+  },
+  {
+   "provincia": "RG",
+   "turno": 3,
+   "data": "2026-10-31",
+   "url": "https://rg.usr.sicilia.it/download/1648/11063/11066/m_pi-aoousprg-registro-ufficialeu-0007042-18-09-2026.pdf",
+   "pagine": 8
+  },
+  {
+   "provincia": "RG",
+   "turno": 4,
+   "data": "2026-10-31",
+   "url": "https://rg.usr.sicilia.it/download/1682/11231/11234/m_pi-aoousprg-registro-ufficialeu-0007651-02-10-2026.pdf",
+   "pagine": 8
+  },
+  {
+   "provincia": "RG",
+   "turno": null,
+   "data": "2026-10-31",
+   "url": "https://rg.usr.sicilia.it/download/1698/11302-1/11304/m_pi-aoousprg-registro-ufficialeu-0007971-12-10-2026.pdf",
+   "pagine": 8
+  },
+  {
+   "provincia": "RG",
+   "turno": null,
+   "data": "2026-10-31",
+   "url": "https://rg.usr.sicilia.it/download/1704/11351/11353/m_pi-aoousprg-registro-ufficialeu-0008182-19-10-2026.pdf",
+   "pagine": 2
+  },
+  {
+   "provincia": "SR",
+   "turno": null,
+   "data": "2026-10-31",
+   "url": "https://sr.usr.sicilia.it/download/1859/13758/13761/m_pi-aoouspsr-registro-ufficialeu-0018538-31-08-2026.pdf",
+   "pagine": 5
+  },
+  {
+   "provincia": "SR",
+   "turno": 2,
+   "data": "2026-10-31",
+   "url": "https://sr.usr.sicilia.it/download/1887/13927/13931/m_pi-aoouspsr-registro-ufficialeu-0020080-11-09-2026.pdf",
+   "pagine": 5
+  },
+  {
+   "provincia": "SR",
+   "turno": 3,
+   "data": "2026-10-31",
+   "url": "https://sr.usr.sicilia.it/download/1952/14256/14260/m_pi-aoouspsr-registro-ufficialeu-0022222-02-10-2026.pdf",
+   "pagine": 6
+  },
+  {
+   "provincia": "SR",
+   "turno": 4,
+   "data": "2026-10-31",
+   "url": "https://sr.usr.sicilia.it/download/2000/14525/14530/m_pi-aoouspsr-registro-ufficialeu-0023414-15-10-2026.pdf",
+   "pagine": 5
+  },
+  {
+   "provincia": "GR",
+   "turno": null,
+   "data": "2026-08-31",
+   "url": "https://www.ufficioscolasticogrosseto.it/uff7/attachments/article/5213/m_pi.AOOUSPGR.REGISTRO UFFICIALE(U).0005757.31-08-2026.pdf",
+   "pagine": 4
+  },
+  {
+   "provincia": "GR",
+   "turno": null,
+   "data": "2026-09-09",
+   "url": "https://www.ufficioscolasticogrosseto.it/uff7/attachments/article/5252/m_pi.AOOUSPGR.REGISTRO UFFICIALE(U).0006084.09-09-2026.pdf",
+   "pagine": 4
+  },
+  {
+   "provincia": "GR",
+   "turno": 3,
+   "data": "2026-09-16",
+   "url": "https://www.ufficioscolasticogrosseto.it/uff7/attachments/article/5299/m_pi.AOOUSPGR.REGISTRO UFFICIALE(U).0006244.16-09-2026.pdf",
+   "pagine": 4
+  },
+  {
+   "provincia": "GR",
+   "turno": null,
+   "data": "2026-10-06",
+   "url": "https://www.ufficioscolasticogrosseto.it/uff7/attachments/article/5521/m_pi.AOOUSPGR.REGISTRO UFFICIALE(U).0006891.06-10-2026.pdf",
+   "pagine": 4
+  },
+  {
+   "provincia": "GR",
+   "turno": null,
+   "data": "2026-10-13",
+   "url": "https://www.ufficioscolasticogrosseto.it/uff7/attachments/article/5585/m_pi.AOOUSPGR.REGISTRO UFFICIALE(U).0007078.13-10-2026.pdf",
+   "pagine": 4
+  },
+  {
+   "provincia": "GR",
+   "turno": null,
+   "data": "2026-10-22",
+   "url": "https://www.ufficioscolasticogrosseto.it/uff7/attachments/article/5648/m_pi.AOOUSPGR.REGISTRO UFFICIALE(U).0007391.22-10-2026.pdf",
+   "pagine": 4
+  },
+  {
+   "provincia": "GR",
+   "turno": null,
+   "data": "2026-10-26",
+   "url": "https://www.ufficioscolasticogrosseto.it/uff7/attachments/article/5661/m_pi.AOOUSPGR.REGISTRO UFFICIALE(U).0007492.26-10-2026.pdf",
+   "pagine": 5
+  },
+  {
+   "provincia": "PI",
+   "turno": 1,
+   "data": "2026-08-28",
+   "url": "https://www.usp-pi.it/wp-content/uploads/2026/08/m_pi.AOOUSPPI.REGISTRO-UFFICIALEU.0007243.28-08-2026.pdf",
+   "pagine": 3
+  },
+  {
+   "provincia": "TR",
+   "turno": null,
+   "data": "2026-10-31",
+   "url": "https://istruzione.umbria.it/wp-content/uploads/2026/08/D.D.-prot.-n.-579-del-29-08-2026.pdf",
+   "pagine": 4
+  },
+  {
+   "provincia": "TR",
+   "turno": 2,
+   "data": "2026-10-31",
+   "url": "https://istruzione.umbria.it/wp-content/uploads/2026/09/D.D.-prot.n.-638-del-12-09-2026.pdf",
+   "pagine": 5
+  },
+  {
+   "provincia": "TR",
+   "turno": null,
+   "data": "2026-10-31",
+   "url": "https://istruzione.umbria.it/wp-content/uploads/2026/09/D.D.-prot.-n.662-del-22-09-2026.pdf",
+   "pagine": 6
+  },
+  {
+   "provincia": "TR",
+   "turno": null,
+   "data": "2026-10-31",
+   "url": "https://istruzione.umbria.it/wp-content/uploads/2026/09/D.D.-prot.n.-671-del-24-09-2026.pdf",
+   "pagine": 6
+  },
+  {
+   "provincia": "TR",
+   "turno": null,
+   "data": "2026-10-31",
+   "url": "https://istruzione.umbria.it/wp-content/uploads/2026/10/D.D.-N.688-del-02-10-2026.pdf",
+   "pagine": 6
+  },
+  {
+   "provincia": "TR",
+   "turno": null,
+   "data": "2026-10-31",
+   "url": "https://istruzione.umbria.it/wp-content/uploads/2026/10/D.D.-prot.-n.-702-del-09-10-2026.pdf",
+   "pagine": 6
+  },
+  {
+   "provincia": "TR",
+   "turno": null,
+   "data": "2026-10-31",
+   "url": "https://istruzione.umbria.it/wp-content/uploads/2026/10/D.D.-n.743-del-23.10.2026.pdf",
+   "pagine": 7
+  },
+  {
+   "provincia": "TR",
+   "turno": null,
+   "data": "2026-10-31",
+   "url": "https://istruzione.umbria.it/wp-content/uploads/2026/10/D.D.-prot.-n.-748-del-27-10-2026.pdf",
+   "pagine": 7
+  },
+  {
+   "provincia": "AQ",
+   "turno": 1,
+   "data": "2026-08-28",
+   "url": "https://lnx.csalaquila.it/wp/wp-content/uploads/2026/08/GPS-2026_provvedimento_bollettino-n.1_prot.-n.-12971-del-28-agosto-2026.pdf",
+   "pagine": 2
+  },
+  {
+   "provincia": "AQ",
+   "turno": 2,
+   "data": "2026-09-08",
+   "url": "https://lnx.csalaquila.it/wp/wp-content/uploads/2026/09/GPS-2026_provvedimento-bollettino-n.-2_prot.-n.-13616_8_09_2026.pdf",
+   "pagine": 2
+  },
+  {
+   "provincia": "AQ",
+   "turno": 4,
+   "data": "2026-09-25",
+   "url": "https://lnx.csalaquila.it/wp/wp-content/uploads/2026/09/GPS_provvedimento-n.-14517_25_09_2026_bollettino-n.-4.pdf",
+   "pagine": 2
+  },
+  {
+   "provincia": "TE",
+   "turno": null,
+   "data": "2026-10-29",
+   "url": "https://www.csateramo.it/wpusp/wp-content/uploads/2026/10/Dispositivo-pubblicazione-esiti-turno-INS-n.-8-del-29.10.2026.pdf",
+   "pagine": 3
+  },
+  {
    "provincia": "CN",
    "turno": null,
    "data": "2026-10-31",
@@ -1370,20 +1615,6 @@
    "pagine": 4
   },
   {
-   "provincia": "VC",
-   "turno": 8,
-   "data": "2026-10-31",
-   "url": "https://www.istruzionepiemonte.it/vercelli/wp-content/uploads/sites/7/2026/10/m_pi.AOOUSPVC.REGISTRO-UFFICIALEU.0006553.02-10-2026.pdf",
-   "pagine": 4
-  },
-  {
-   "provincia": "TA",
-   "turno": null,
-   "data": "2026-09-16",
-   "url": "https://www.usptaranto.it/wp-content/uploads/2026/09/m_pi.AOOUSPTA.REGISTRO-UFFICIALEU.0019836.16-09-2026.pdf",
-   "pagine": 2
-  },
-  {
    "provincia": "NU",
    "turno": null,
    "data": "2026-10-31",
@@ -1454,125 +1685,6 @@
    "pagine": 6
   },
   {
-   "provincia": "EN",
-   "turno": 1,
-   "data": "2026-10-31",
-   "url": "https://cl-en.usr.sicilia.it/download/2290/15461/15465/m_pi-aoouspcl-en-registro-ufficialeu-0019730-31-08-2026.pdf",
-   "pagine": 8
-  },
-  {
-   "provincia": "EN",
-   "turno": 2,
-   "data": "2026-10-31",
-   "url": "https://cl-en.usr.sicilia.it/download/2353/15778/15784/m_pi-aoouspcl-en-registro-ufficialeu-0021277-11-09-2026.pdf",
-   "pagine": 10
-  },
-  {
-   "provincia": "EN",
-   "turno": 3,
-   "data": "2026-10-31",
-   "url": "https://cl-en.usr.sicilia.it/download/2400/16008/16014/m_pi-aoouspcl-en-registro-ufficialeu-0022432-23-09-2026.pdf",
-   "pagine": 10
-  },
-  {
-   "provincia": "EN",
-   "turno": 4,
-   "data": "2026-10-31",
-   "url": "https://cl-en.usr.sicilia.it/download/2436/16180/16182/m_pi-aoouspcl-en-registro-ufficialeu-0023238-02-10-2026-1.pdf",
-   "pagine": 10
-  },
-  {
-   "provincia": "EN",
-   "turno": 5,
-   "data": "2026-10-31",
-   "url": "https://cl-en.usr.sicilia.it/download/2474/16387-1/16398/m_pi-aoouspcl-en-registro-ufficialeu-0025041-23-10-2026-1-2.pdf",
-   "pagine": 10
-  },
-  {
-   "provincia": "ME",
-   "turno": 3,
-   "data": "2026-10-31",
-   "url": "https://me.usr.sicilia.it/download/2589/25263/25265/aoouspme-registro-ufficiale-2026-0022869.pdf",
-   "pagine": 5
-  },
-  {
-   "provincia": "ME",
-   "turno": 5,
-   "data": "2026-10-31",
-   "url": "https://me.usr.sicilia.it/download/2720/28005/28008/aoouspme-registro-ufficiale-2026-0025909.pdf",
-   "pagine": 10
-  },
-  {
-   "provincia": "RG",
-   "turno": null,
-   "data": "2026-10-31",
-   "url": "https://rg.usr.sicilia.it/download/1607/10856/10860/m_pi-aoousprg-registro-ufficialeu-0006202-31-08-2026.pdf",
-   "pagine": 7
-  },
-  {
-   "provincia": "RG",
-   "turno": 2,
-   "data": "2026-10-31",
-   "url": "https://rg.usr.sicilia.it/download/1635/10992/10996/m_pi-aoousprg-registro-ufficialeu-0006769-11-09-2026.pdf",
-   "pagine": 8
-  },
-  {
-   "provincia": "RG",
-   "turno": 3,
-   "data": "2026-10-31",
-   "url": "https://rg.usr.sicilia.it/download/1648/11063/11066/m_pi-aoousprg-registro-ufficialeu-0007042-18-09-2026.pdf",
-   "pagine": 8
-  },
-  {
-   "provincia": "RG",
-   "turno": 4,
-   "data": "2026-10-31",
-   "url": "https://rg.usr.sicilia.it/download/1682/11231/11234/m_pi-aoousprg-registro-ufficialeu-0007651-02-10-2026.pdf",
-   "pagine": 8
-  },
-  {
-   "provincia": "RG",
-   "turno": null,
-   "data": "2026-10-31",
-   "url": "https://rg.usr.sicilia.it/download/1698/11302-1/11304/m_pi-aoousprg-registro-ufficialeu-0007971-12-10-2026.pdf",
-   "pagine": 8
-  },
-  {
-   "provincia": "RG",
-   "turno": null,
-   "data": "2026-10-31",
-   "url": "https://rg.usr.sicilia.it/download/1704/11351/11353/m_pi-aoousprg-registro-ufficialeu-0008182-19-10-2026.pdf",
-   "pagine": 2
-  },
-  {
-   "provincia": "SR",
-   "turno": null,
-   "data": "2026-10-31",
-   "url": "https://sr.usr.sicilia.it/download/1859/13758/13761/m_pi-aoouspsr-registro-ufficialeu-0018538-31-08-2026.pdf",
-   "pagine": 5
-  },
-  {
-   "provincia": "SR",
-   "turno": 2,
-   "data": "2026-10-31",
-   "url": "https://sr.usr.sicilia.it/download/1887/13927/13931/m_pi-aoouspsr-registro-ufficialeu-0020080-11-09-2026.pdf",
-   "pagine": 5
-  },
-  {
-   "provincia": "SR",
-   "turno": 3,
-   "data": "2026-10-31",
-   "url": "https://sr.usr.sicilia.it/download/1952/14256/14260/m_pi-aoouspsr-registro-ufficialeu-0022222-02-10-2026.pdf",
-   "pagine": 6
-  },
-  {
-   "provincia": "SR",
-   "turno": 4,
-   "data": "2026-10-31",
-   "url": "https://sr.usr.sicilia.it/download/2000/14525/14530/m_pi-aoouspsr-registro-ufficialeu-0023414-15-10-2026.pdf",
-   "pagine": 5
-  },
-  {
    "provincia": "AR",
    "turno": 1,
    "data": "2026-08-29",
@@ -1626,62 +1738,6 @@
    "turno": 9,
    "data": "2026-10-29",
    "url": "https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_9/m_pi.AOOUSPAR.REGISTRO_UFFICIALEU.0011009.28-10-2026.pdf",
-   "pagine": 3
-  },
-  {
-   "provincia": "GR",
-   "turno": null,
-   "data": "2026-08-31",
-   "url": "https://www.ufficioscolasticogrosseto.it/uff7/attachments/article/5213/m_pi.AOOUSPGR.REGISTRO UFFICIALE(U).0005757.31-08-2026.pdf",
-   "pagine": 4
-  },
-  {
-   "provincia": "GR",
-   "turno": null,
-   "data": "2026-09-09",
-   "url": "https://www.ufficioscolasticogrosseto.it/uff7/attachments/article/5252/m_pi.AOOUSPGR.REGISTRO UFFICIALE(U).0006084.09-09-2026.pdf",
-   "pagine": 4
-  },
-  {
-   "provincia": "GR",
-   "turno": 3,
-   "data": "2026-09-16",
-   "url": "https://www.ufficioscolasticogrosseto.it/uff7/attachments/article/5299/m_pi.AOOUSPGR.REGISTRO UFFICIALE(U).0006244.16-09-2026.pdf",
-   "pagine": 4
-  },
-  {
-   "provincia": "GR",
-   "turno": null,
-   "data": "2026-10-06",
-   "url": "https://www.ufficioscolasticogrosseto.it/uff7/attachments/article/5521/m_pi.AOOUSPGR.REGISTRO UFFICIALE(U).0006891.06-10-2026.pdf",
-   "pagine": 4
-  },
-  {
-   "provincia": "GR",
-   "turno": null,
-   "data": "2026-10-13",
-   "url": "https://www.ufficioscolasticogrosseto.it/uff7/attachments/article/5585/m_pi.AOOUSPGR.REGISTRO UFFICIALE(U).0007078.13-10-2026.pdf",
-   "pagine": 4
-  },
-  {
-   "provincia": "GR",
-   "turno": null,
-   "data": "2026-10-22",
-   "url": "https://www.ufficioscolasticogrosseto.it/uff7/attachments/article/5648/m_pi.AOOUSPGR.REGISTRO UFFICIALE(U).0007391.22-10-2026.pdf",
-   "pagine": 4
-  },
-  {
-   "provincia": "GR",
-   "turno": null,
-   "data": "2026-10-26",
-   "url": "https://www.ufficioscolasticogrosseto.it/uff7/attachments/article/5661/m_pi.AOOUSPGR.REGISTRO UFFICIALE(U).0007492.26-10-2026.pdf",
-   "pagine": 5
-  },
-  {
-   "provincia": "PI",
-   "turno": 1,
-   "data": "2026-08-28",
-   "url": "https://www.usp-pi.it/wp-content/uploads/2026/08/m_pi.AOOUSPPI.REGISTRO-UFFICIALEU.0007243.28-08-2026.pdf",
    "pagine": 3
   },
   {
@@ -1935,62 +1991,34 @@
    "data": "2026-10-31",
    "url": "https://istruzione.umbria.it/wp-content/uploads/2026/10/D.D.-prot.-n.-749-del-28.10.2026.pdf",
    "pagine": 8
+  }
+ ],
+ "pagineSoloDecreti": [
+  {
+   "provincia": "VB",
+   "turno": 1,
+   "data": "2026-10-31",
+   "url": "https://www.istruzionepiemonte.it/verbania/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-primo-turno-di-nomina/",
+   "altriLink": [
+    "zionepiemonte.it/verbania/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-primo-turno-di-nomina/",
+    "iemonte.it%2Fverbania%2Fincarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-primo-turno-di-nomina%2F",
+    "2Fverbania%2Fincarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-primo-turno-di-nomina%2F&format=xml",
+    "wp-content/uploads/sites/8/2026/08/Incarichi-a-tempo-determinato-personale-Docente-a.s.2026-27-primo-turno.zip",
+    "https://www.istruzionepiemonte.it/verbania/tag/nomine-a-tempo-determinato/",
+    "https://www.istruzionepiemonte.it/verbania/personale-ata-nomine-a-tempo-determinato-a-s-2026-2027-2/"
+   ]
   },
   {
-   "provincia": "TR",
-   "turno": null,
+   "provincia": "PT",
+   "turno": 7,
    "data": "2026-10-31",
-   "url": "https://istruzione.umbria.it/wp-content/uploads/2026/08/D.D.-prot.-n.-579-del-29-08-2026.pdf",
-   "pagine": 4
-  },
-  {
-   "provincia": "TR",
-   "turno": 2,
-   "data": "2026-10-31",
-   "url": "https://istruzione.umbria.it/wp-content/uploads/2026/09/D.D.-prot.n.-638-del-12-09-2026.pdf",
-   "pagine": 5
-  },
-  {
-   "provincia": "TR",
-   "turno": null,
-   "data": "2026-10-31",
-   "url": "https://istruzione.umbria.it/wp-content/uploads/2026/09/D.D.-prot.-n.662-del-22-09-2026.pdf",
-   "pagine": 6
-  },
-  {
-   "provincia": "TR",
-   "turno": null,
-   "data": "2026-10-31",
-   "url": "https://istruzione.umbria.it/wp-content/uploads/2026/09/D.D.-prot.n.-671-del-24-09-2026.pdf",
-   "pagine": 6
-  },
-  {
-   "provincia": "TR",
-   "turno": null,
-   "data": "2026-10-31",
-   "url": "https://istruzione.umbria.it/wp-content/uploads/2026/10/D.D.-N.688-del-02-10-2026.pdf",
-   "pagine": 6
-  },
-  {
-   "provincia": "TR",
-   "turno": null,
-   "data": "2026-10-31",
-   "url": "https://istruzione.umbria.it/wp-content/uploads/2026/10/D.D.-prot.-n.-702-del-09-10-2026.pdf",
-   "pagine": 6
-  },
-  {
-   "provincia": "TR",
-   "turno": null,
-   "data": "2026-10-31",
-   "url": "https://istruzione.umbria.it/wp-content/uploads/2026/10/D.D.-n.743-del-23.10.2026.pdf",
-   "pagine": 7
-  },
-  {
-   "provincia": "TR",
-   "turno": null,
-   "data": "2026-10-31",
-   "url": "https://istruzione.umbria.it/wp-content/uploads/2026/10/D.D.-prot.-n.-748-del-27-10-2026.pdf",
-   "pagine": 7
+   "url": "https://www.ufficioscolasticoprovinciale.pistoia.it/conferimento-supplenze-al-personale-docente-per-lanno-scolastico-2026-27-da-gae-e-gps-provincia-di-pistoia-assegnazione-sede-vii-turno-di-nomina-gps-om-27-2026/",
+   "altriLink": [
+    "o-scolastico-2026-27-da-gae-e-gps-provincia-di-pistoia-assegnazione-sede-vii-turno-di-nomina-gps-om-27-2026%2F",
+    "o-2026-27-da-gae-e-gps-provincia-di-pistoia-assegnazione-sede-vii-turno-di-nomina-gps-om-27-2026%2F&format=xml",
+    "nno-scolastico-2026-27-da-gae-e-gps-provincia-di-pistoia-assegnazione-sede-vii-turno-di-nomina-gps-om-27-2026/",
+    "https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/10/definitivo-VII-turno-GPS.xlsx"
+   ]
   }
  ]
 }
