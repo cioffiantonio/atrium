@@ -1,469 +1,155 @@
-GIRO MIRATO solo su: PT, NU, VB, CN, OR, TE, PG, SI, AR, TO, AQ
+lettore cambiato: la memoria dei PDF viene rifatta
+GIRO MIRATO solo su: PT, VB
 Orizzonte Scuola: province trovate nella pagina -> 98
 Province CON link su Orizzonte Scuola: 98 | SENZA link: CH PE FM BT SU CL BZ TN AO
--- AQ L'Aquila --
-link da Orizzonte Scuola: 12
-totale pagine da controllare: 11
-  scarico https://lnx.csalaquila.it/wp/wp-content/uploads/2026/08/GPS-2026_provvedimento_bollettino-n.1_prot.-n.-12971-del-28-agosto-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  scarico https://lnx.csalaquila.it/wp/wp-content/uploads/2026/08/bollettino-1-1.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro 026_provvedimento_bollettino-n.1_prot.-n.-12971-del-28-agosto-2026.pdf
-  scarico https://lnx.csalaquila.it/wp/wp-content/uploads/2026/09/GPS-2026_provvedimento-bollettino-n.-2_prot.-n.-13616_8_09_2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  scarico https://lnx.csalaquila.it/wp/wp-content/uploads/2026/09/bollettino-n.2.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro 09/GPS-2026_provvedimento-bollettino-n.-2_prot.-n.-13616_8_09_2026.pdf
-  scarico https://lnx.csalaquila.it/wp/wp-content/uploads/2026/09/Bollettino-3.pdf
-    dalla memoria: non letto (righe GPS=0)
-  scarico https://lnx.csalaquila.it/wp/wp-content/uploads/2026/09/m_pi.AOOUSPAQ.REGISTRO-UFFICIALEU.0014061.16-09-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-    ok [turno]: calibrato=false righe GPS=0 scartate=0
-  scarico https://lnx.csalaquila.it/wp/wp-content/uploads/2026/09/GPS_provvedimento-n.-14517_25_09_2026_bollettino-n.-4.pdf
-    dalla memoria: non letto (righe GPS=0)
-  scarico https://lnx.csalaquila.it/wp/wp-content/uploads/2026/09/Bollettino-4.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro oads/2026/09/GPS_provvedimento-n.-14517_25_09_2026_bollettino-n.-4.pdf
-  scarico https://lnx.csalaquila.it/wp/wp-content/uploads/2026/10/Bollettino-n.-5-1.pdf
-    dalla memoria: non letto (righe GPS=0)
-  scarico https://lnx.csalaquila.it/wp/wp-content/uploads/2026/10/m_pi.AOOUSPAQ.REGISTRO-UFFICIALEU.0015976.20-10-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-    ok [turno]: calibrato=false righe GPS=0 scartate=0
-  scarico https://www.istruzionechietipescara.it/wp-content/uploads/2026/08/CHIETI-BOLLETTINO-1.pdf
-    dalla memoria: letto (righe GPS=858)
-    ok [turno]: calibrato=true righe GPS=858 scartate=0
-  scarico https://www.istruzionechietipescara.it/wp-content/uploads/2026/09/CHIETI-BOLLETTINO-2.pdf
-    dalla memoria: letto (righe GPS=105)
-    ok [turno]: calibrato=true righe GPS=105 scartate=0
-  scarico https://www.istruzionechietipescara.it/wp-content/uploads/2026/09/ALLEGATO-A-CHIETI-BOLLETTINO-3.pdf
-    dalla memoria: letto (righe GPS=28)
-    ok [turno]: calibrato=true righe GPS=28 scartate=0
-  scarico https://www.istruzionechietipescara.it/wp-content/uploads/2026/10/ALLEGATO-A-CHIETI-Bollettino-Turno-N.4.pdf
-    dalla memoria: letto (righe GPS=18)
-    ok [turno]: calibrato=true righe GPS=18 scartate=0
-  scarico https://www.istruzionechietipescara.it/wp-content/uploads/2026/10/ALLEGATO-A-CHIETI-Bollettino-Turno-N.5.pdf
-    dalla memoria: letto (righe GPS=8)
-    ok [turno]: calibrato=true righe GPS=8 scartate=0
-  scarico https://www.istruzionechietipescara.it/wp-content/uploads/2026/10/ALLEGATO-A-CHIETI-Bollettino-Turno-N.6.pdf
-    dalla memoria: letto (righe GPS=86)
-    ok [turno]: calibrato=true righe GPS=86 scartate=0
-  turni letti=6 non letti=2 -> da verificare
--- TE Teramo --
-link da Orizzonte Scuola: 8
-totale pagine da controllare: 8
-  scarico https://www.csateramo.it/wpusp/wp-content/uploads/2026/08/BOLLETTINO-DEFINITIVO.pdf
-    dalla memoria: letto (righe GPS=678)
-  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-08-28
-    ok [turno]: calibrato=true righe GPS=678 scartate=0
-  scarico https://www.csateramo.it/wpusp/wp-content/uploads/2026/09/Bollettino-DEFINITIVO-totale.pdf
-    dalla memoria: letto (righe GPS=43)
-  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-09-07
-    ok [turno]: calibrato=true righe GPS=43 scartate=0
-  scarico https://www.csateramo.it/wpusp/wp-content/uploads/2026/09/Bollettino-DEFINITIVO-.pdf
-    dalla memoria: letto (righe GPS=12)
-  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-09-16
-    ok [turno]: calibrato=true righe GPS=12 scartate=0
-  scarico https://www.csateramo.it/wpusp/wp-content/uploads/2026/09/Bollettino-DEFINITIVO.pdf
-    dalla memoria: letto (righe GPS=3)
-  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-09-22
-    ok [turno]: calibrato=true righe GPS=3 scartate=0
-  scarico https://www.csateramo.it/wpusp/wp-content/uploads/2026/09/Bollettino-DEFINITIVO-1.pdf
-    dalla memoria: letto (righe GPS=4)
-  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-09-29
-    ok [turno]: calibrato=true righe GPS=4 scartate=0
-  scarico https://www.csateramo.it/wpusp/wp-content/uploads/2026/10/Bollettino-DEFINITIVO.pdf
-    dalla memoria: letto (righe GPS=2)
-  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-10-06
-    ok [turno]: calibrato=true righe GPS=2 scartate=0
-  scarico https://www.csateramo.it/wpusp/wp-content/uploads/2026/10/Bollettino-DEFINITIVO-1.pdf
-    dalla memoria: letto (righe GPS=48)
-  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-10-21
-    ok [turno]: calibrato=true righe GPS=48 scartate=0
-  scarico https://www.csateramo.it/wpusp/wp-content/uploads/2026/10/Dispositivo-pubblicazione-esiti-turno-INS-n.-8-del-29.10.2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro 6/10/Dispositivo-pubblicazione-esiti-turno-INS-n.-8-del-29.10.2026.pdf
-  turno 2 non trovato, ma ci sono bollettini senza numero nel periodo: non lo conto
-  turni letti=7 non letti=0 -> provincia completa
--- CN Cuneo --
-link da Orizzonte Scuola: 10
-totale pagine da controllare: 10
-  scarico https://www.istruzionepiemonte.it/cuneo/wp-content/uploads/sites/5/2026/08/Bollettino_TotaleNominePDF.pdf
-    dalla memoria: letto (righe GPS=1343)
-  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-08-28
-    ok [turno]: calibrato=true righe GPS=1343 scartate=0
-  scarico https://www.istruzionepiemonte.it/cuneo/wp-content/uploads/sites/5/2026/09/AVVISO-Nomine-GPS-FASE-6.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro /cuneo/wp-content/uploads/sites/5/2026/09/AVVISO-Nomine-GPS-FASE-6.pdf
-  scarico https://www.istruzionepiemonte.it/cuneo/wp-content/uploads/sites/5/2026/09/BollettinoDefinitivo_Fase-7_per-sito.pdf
-    dalla memoria: non letto (righe GPS=25)
-  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-09-11
-    ok [turno]: calibrato=true righe GPS=25 scartate=1
-  scarico https://www.istruzionepiemonte.it/cuneo/wp-content/uploads/sites/5/2026/09/AVVISO-Nomine-GPS-FASE-8.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro /cuneo/wp-content/uploads/sites/5/2026/09/AVVISO-Nomine-GPS-FASE-8.pdf
-  scarico https://www.istruzionepiemonte.it/cuneo/wp-content/uploads/sites/5/2026/09/AVVISO-Nomine-GPS-FASE-9.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro /cuneo/wp-content/uploads/sites/5/2026/09/AVVISO-Nomine-GPS-FASE-9.pdf
-  scarico https://www.istruzionepiemonte.it/cuneo/wp-content/uploads/sites/5/2026/10/AVVISO-Nomine-GPS-FASE-11.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro cuneo/wp-content/uploads/sites/5/2026/10/AVVISO-Nomine-GPS-FASE-11.pdf
-  scarico https://www.istruzionepiemonte.it/cuneo/wp-content/uploads/sites/5/2026/10/AVVISO-Nomine-GPS-FASE-12.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro cuneo/wp-content/uploads/sites/5/2026/10/AVVISO-Nomine-GPS-FASE-12.pdf
-  scarico https://www.istruzionepiemonte.it/cuneo/wp-content/uploads/sites/5/2026/10/AVVISO-Nomine-GPS-FASE-14.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro cuneo/wp-content/uploads/sites/5/2026/10/AVVISO-Nomine-GPS-FASE-14.pdf
-  scarico https://www.istruzionepiemonte.it/cuneo/wp-content/uploads/sites/5/2026/10/AVVISO-Nomine-GPS-FASE-15.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro cuneo/wp-content/uploads/sites/5/2026/10/AVVISO-Nomine-GPS-FASE-15.pdf
-  scarico https://www.istruzionepiemonte.it/cuneo/wp-content/uploads/sites/5/2026/10/AVVISO-Nomine-GPS-FASE-16-1.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro neo/wp-content/uploads/sites/5/2026/10/AVVISO-Nomine-GPS-FASE-16-1.pdf
-  turni letti=1 non letti=1 -> da verificare
--- TO Torino --
-link da Orizzonte Scuola: 7
-totale pagine da controllare: 7
-  scarico https://www.istruzionepiemonte.it/torino/wp-content/uploads/sites/15/2026/08/m_pi.AOOUSPTO.REGISTRO-UFFICIALEU.0016346.29-08-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro es/15/2026/08/m_pi.AOOUSPTO.REGISTRO-UFFICIALEU.0016346.29-08-2026.pdf
-  scarico https://www.istruzionepiemonte.it/torino/wp-content/uploads/sites/15/2026/09/m_pi.AOOUSPTO.REGISTRO-UFFICIALEU.0017548.09-09-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro es/15/2026/09/m_pi.AOOUSPTO.REGISTRO-UFFICIALEU.0017548.09-09-2026.pdf
-  scarico https://www.istruzionepiemonte.it/torino/wp-content/uploads/sites/15/2026/09/m_pi.AOOUSPTO.REGISTRO-UFFICIALEU.0018196.18-09-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro es/15/2026/09/m_pi.AOOUSPTO.REGISTRO-UFFICIALEU.0018196.18-09-2026.pdf
-  scarico https://www.istruzionepiemonte.it/torino/wp-content/uploads/sites/15/2026/10/m_pi.AOOUSPTO.REGISTRO-UFFICIALEU.0019130.02-10-2026-1.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro /15/2026/10/m_pi.AOOUSPTO.REGISTRO-UFFICIALEU.0019130.02-10-2026-1.pdf
-  scarico https://www.istruzionepiemonte.it/torino/wp-content/uploads/sites/15/2026/10/m_pi.AOOUSPTO.REGISTRO-UFFICIALEU.0019761.09-10-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro es/15/2026/10/m_pi.AOOUSPTO.REGISTRO-UFFICIALEU.0019761.09-10-2026.pdf
-  scarico https://www.istruzionepiemonte.it/torino/wp-content/uploads/sites/15/2026/10/m_pi.AOOUSPTO.REGISTRO-UFFICIALEU.0020278.16-10-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro es/15/2026/10/m_pi.AOOUSPTO.REGISTRO-UFFICIALEU.0020278.16-10-2026.pdf
-  scarico https://www.istruzionepiemonte.it/torino/wp-content/uploads/sites/15/2026/10/m_pi.AOOUSPTO.REGISTRO-UFFICIALEU.0020723.23-10-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro es/15/2026/10/m_pi.AOOUSPTO.REGISTRO-UFFICIALEU.0020723.23-10-2026.pdf
-  turni letti=0 non letti=0 -> da verificare
 -- VB Verbano-Cusio-Ossola --
 link da Orizzonte Scuola: 8
 totale pagine da controllare: 8
   scartati 1 decreti (non sono bollettini)
-  la pagina ha solo decreti: ignoro richi-a-tempo-determinato-personale-docente-a-s-2026-2027-primo-turno-di-nomina/
-     ~ zionepiemonte.it/verbania/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-primo-turno-di-nomina/
-     ~ iemonte.it%2Fverbania%2Fincarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-primo-turno-di-nomina%2F
-     ~ 2Fverbania%2Fincarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-primo-turno-di-nomina%2F&format=xml
-     ~ wp-content/uploads/sites/8/2026/08/Incarichi-a-tempo-determinato-personale-Docente-a.s.2026-27-primo-turno.zip
-     ~ https://www.istruzionepiemonte.it/verbania/tag/nomine-a-tempo-determinato/
-     ~ https://www.istruzionepiemonte.it/verbania/personale-ata-nomine-a-tempo-determinato-a-s-2026-2027-2/
+  scarico https://www.istruzionepiemonte.it/verbania/wp-content/uploads/sites/8/2026/08/Incarichi-a-tempo-determinato-personale-Docente-a.s.2026-27-primo-turno.zip
+    documento non leggibile: https://www.istruzionepiemonte.it/verbania/wp-content/uploads/sites/8/2026/08/Incarichi-a-tempo-determinato-personale-Docente-a.s.2026-27-primo-turno.zip libreria fflate non installata
+  nessun PDF utilizzabile in https://www.istruzionepiemonte.it/verbania/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-primo-turno-di-nomina/
+  scarico https://www.istruzionepiemonte.it/verbania/wp-content/uploads/sites/8/2026/09/Nomine-2°-turno-privacy.xlsx
+    documento non leggibile: https://www.istruzionepiemonte.it/verbania/wp-content/uploads/sites/8/2026/09/Nomine-2°-turno-privacy.xlsx libreria read-excel-file non installata
   scarico https://www.istruzionepiemonte.it/verbania/wp-content/uploads/sites/8/2026/09/Nomine-2°-turno-privacy.pdf
-    dalla memoria: letto (righe GPS=43)
   data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-09-10
     ok [turno]: calibrato=true righe GPS=43 scartate=0
   scarico https://www.istruzionepiemonte.it/verbania/wp-content/uploads/sites/8/2026/09/3°-Bollettino-Nomine-scorrimento-GPS.pdf
-    dalla memoria: letto (righe GPS=13)
   data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-09-16
     ok [turno]: calibrato=true righe GPS=13 scartate=0
+  scarico https://www.istruzionepiemonte.it/verbania/wp-content/uploads/sites/8/2026/09/4°-Bollettino-di-nomine-scorrimento-4°-Turno-GPS.xlsx
+    documento non leggibile: https://www.istruzionepiemonte.it/verbania/wp-content/uploads/sites/8/2026/09/4°-Bollettino-di-nomine-scorrimento-4°-Turno-GPS.xlsx libreria read-excel-file non installata
   scarico https://www.istruzionepiemonte.it/verbania/wp-content/uploads/sites/8/2026/09/Decreto-nomine-4°-Turno-scorrimento-GPS-1.pdf
-    dalla memoria: non letto (righe GPS=0)
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+    OCR: nessuna pagina scansionata nel documento
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+  scarico https://www.istruzionepiemonte.it/verbania/wp-content/uploads/sites/8/2026/09/Disponibilita-4°-Turno-scorrimento-GPS.xlsx
+    documento non leggibile: https://www.istruzionepiemonte.it/verbania/wp-content/uploads/sites/8/2026/09/Disponibilita-4°-Turno-scorrimento-GPS.xlsx libreria read-excel-file non installata
   documento di tipo decreto, non è un bollettino: ignoro /uploads/sites/8/2026/09/Decreto-nomine-4°-Turno-scorrimento-GPS-1.pdf
+  scarico https://www.istruzionepiemonte.it/verbania/wp-content/uploads/sites/8/2026/09/Bollettino-nomine-5°-Turno-scorrimento-GPS.xlsx
+    documento non leggibile: https://www.istruzionepiemonte.it/verbania/wp-content/uploads/sites/8/2026/09/Bollettino-nomine-5°-Turno-scorrimento-GPS.xlsx libreria read-excel-file non installata
   scarico https://www.istruzionepiemonte.it/verbania/wp-content/uploads/sites/8/2026/09/Decreto-nomine-5-turno-GPSU.0005782.28-09-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+    OCR: nessuna pagina scansionata nel documento
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+  scarico https://www.istruzionepiemonte.it/verbania/wp-content/uploads/sites/8/2026/09/Disponibilita-posti-5°-Turno-scorrimento-GPS.xlsx
+    documento non leggibile: https://www.istruzionepiemonte.it/verbania/wp-content/uploads/sites/8/2026/09/Disponibilita-posti-5°-Turno-scorrimento-GPS.xlsx libreria read-excel-file non installata
   documento di tipo decreto, non è un bollettino: ignoro ads/sites/8/2026/09/Decreto-nomine-5-turno-GPSU.0005782.28-09-2026.pdf
   scarico https://www.istruzionepiemonte.it/verbania/wp-content/uploads/sites/8/2026/10/Bollettino-nomine-6°-turno-scorrimento-GPS.pdf
-    dalla memoria: letto (righe GPS=6)
   data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-10-06
     ok [turno]: calibrato=true righe GPS=6 scartate=0
   scarico https://www.istruzionepiemonte.it/verbania/wp-content/uploads/sites/8/2026/10/Bollettino-nomine-7°-turno-scorrimento-GPS.pdf
-    dalla memoria: letto (righe GPS=5)
   data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-10-13
     ok [turno]: calibrato=true righe GPS=5 scartate=0
+  scarico https://www.istruzionepiemonte.it/verbania/wp-content/uploads/sites/8/2026/10/Bollettino-nomina-8°-Turno-scorrimento-GPS.xlsx
+    documento non leggibile: https://www.istruzionepiemonte.it/verbania/wp-content/uploads/sites/8/2026/10/Bollettino-nomina-8°-Turno-scorrimento-GPS.xlsx libreria read-excel-file non installata
   scarico https://www.istruzionepiemonte.it/verbania/wp-content/uploads/sites/8/2026/10/m_pi.AOOUSPVB.REGISTRO-UFFICIALEU.0006204.21-10-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+    OCR: nessuna pagina scansionata nel documento
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+  scarico https://www.istruzionepiemonte.it/verbania/wp-content/uploads/sites/8/2026/10/Disponibilita-posti-e-spezzoni-orari-8°-Turno-scorrimento-GPS.xlsx
+    documento non leggibile: https://www.istruzionepiemonte.it/verbania/wp-content/uploads/sites/8/2026/10/Disponibilita-posti-e-spezzoni-orari-8°-Turno-scorrimento-GPS.xlsx libreria read-excel-file non installata
   documento di tipo decreto, non è un bollettino: ignoro tes/8/2026/10/m_pi.AOOUSPVB.REGISTRO-UFFICIALEU.0006204.21-10-2026.pdf
-  turni letti=4 non letti=0 -> provincia completa
--- NU Nuoro --
-link da Orizzonte Scuola: 11
-totale pagine da controllare: 11
-  scarico https://www.mim.gov.it/documents/8635161/10325141/Supplenze_I+turno_AOOUSPNU.REGISTRO+UFFICIALE%28U%29.0007702.31-08-2026.pdf/5588c20e-76b5-33a3-62bf-44ac702e5e38?version=1.0&t=1788185265006
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro 6.pdf/5588c20e-76b5-33a3-62bf-44ac702e5e38?version=1.0&t=1788185265006
-  scarico https://www.mim.gov.it/documents/8635161/10325141/Rettifica_nomine+SS1_AOOUSPNU.REGISTRO+UFFICIALE%28U%29.0007941.04-09-2026.pdf/e28166a1-90d1-4b63-1b53-bb0a1f9481f7?version=1.0&t=1788518197919
-    dalla memoria: non letto (righe GPS=0)
-  data ricavata dal caricamento dell'allegato: 2026-09-04
-    ok [rett]: calibrato=false righe GPS=0 scartate=0
-  scarico https://www.mim.gov.it/documents/8635161/10325141/RETTIFICA+I+TURNO_B015_2026+AOOUSPNU.REGISTRO+UFFICIALE%28U%29.0007976.07-09-2026.pdf/d14dc0af-1734-231b-7746-fe36cfacb7c1?version=1.0&t=1788774125487
-    dalla memoria: non letto (righe GPS=0)
-  data ricavata dal caricamento dell'allegato: 2026-09-07
-    ok [rett]: calibrato=false righe GPS=0 scartate=0
-  scarico https://www.mim.gov.it/documents/8635161/10325141/2%C2%B0+rettifica+II+bollettino+nomine+AA+AOOUSPNU.REGISTRO+UFFICIALE%28U%29.0008349.16-09-2026.pdf/1cd8b30b-df8e-231b-d76e-7288e03b1d29?version=1.0&t=1789552714948
-    dalla memoria: non letto (righe GPS=0)
-  data ricavata dal caricamento dell'allegato: 2026-09-16
-    ok [rett]: calibrato=false righe GPS=0 scartate=0
-  scarico https://www.mim.gov.it/documents/8635161/10325141/nomine+_terzo+turno_AOOUSPNU.REGISTRO+UFFICIALE%28U%29.0008702.22-09-2026.pdf/b43b4532-1b76-aaa6-6307-7453bb9f0926?version=1.0&t=1790076640843
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro 6.pdf/b43b4532-1b76-aaa6-6307-7453bb9f0926?version=1.0&t=1790076640843
-  scarico https://www.mim.gov.it/documents/8635161/10325141/Decreto_nomine+turno+4_AOOUSPNU.REGISTRO+UFFICIALE%28U%29.0009175.02-10-2026.pdf/83332989-90bc-0dd8-9816-86e8f4f34cf6?version=1.0&t=1790948497834
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro 6.pdf/83332989-90bc-0dd8-9816-86e8f4f34cf6?version=1.0&t=1790948497834
-  scarico https://www.mim.gov.it/documents/8635161/0/m_pi.AOOUSPNU.REGISTRO+UFFICIALE%28U%29.0009372.07-10-2026.pdf/4ed09539-6d34-3870-2ae2-29106cd340b6?version=1.0&t=1791374349131
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro 6.pdf/4ed09539-6d34-3870-2ae2-29106cd340b6?version=1.0&t=1791374349131
-  scarico https://www.mim.gov.it/documents/8635161/10325141/Decreto_nomine+turno+6_REGISTRO+UFFICIALE%28U%29.0009579.13-10-2026.pdf/58c3f604-17a5-53f9-f40a-abad79a3ce9f?version=1.0&t=1791895130817
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro 6.pdf/58c3f604-17a5-53f9-f40a-abad79a3ce9f?version=1.0&t=1791895130817
-  scarico https://www.mim.gov.it/documents/8635161/10325141/Integrazione_decreto+Nomine_turno+6_USPNU.REGISTRO+UFFICIALE%28U%29.0009680.14-10-2026.pdf/32de2e51-c605-4d4c-32a9-7cd5d34ef15c?version=1.0&t=1791979886752
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro 6.pdf/32de2e51-c605-4d4c-32a9-7cd5d34ef15c?version=1.0&t=1791979886752
-  scarico https://www.mim.gov.it/documents/8609379/10333596/m_pi.AOOUSPOR.REGISTRO+UFFICIALE%28U%29.0006211.08-10-2026.pdf/b68ce2b9-30dc-190b-cced-83f6fd0c66dd?version=1.0&t=1791472131275
-    dalla memoria: non letto (righe GPS=0)
-  data ricavata dal caricamento dell'allegato: 2026-10-08
-    ok [rett]: calibrato=false righe GPS=0 scartate=0
-  scarico https://www.mim.gov.it/documents/8635161/10428184/Decreto_nomine+settimo+turno_0010012.22-10-2026.pdf/58dc6002-617c-d8cc-5be6-b89cea1d3a02?version=1.0&t=1792672480096
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro 6.pdf/58dc6002-617c-d8cc-5be6-b89cea1d3a02?version=1.0&t=1792672480096
-  turni letti=0 non letti=0 -> da verificare
--- OR Oristano --
-link da Orizzonte Scuola: 11
-totale pagine da controllare: 10
-  scartati 1 allegati generici (contatti, organigramma...)
-  scarico https://www.mim.gov.it/documents/8609379/0/m_pi.AOOUSPOR.REGISTRO+UFFICIALE%28U%29.0005079.31-08-2026+%281%29.pdf/330a63b5-459e-1e61-1bf5-e51686601742?version=1.0&t=1788451197964
-    dalla memoria: non letto (righe GPS=0)
-  scarico https://www.mim.gov.it/documents/8609379/10333596/I+TURNO-+ELENCO+INCARICHI+ATEMPO+DETERMINATO++A.S.+26-27.pdf/824e1eae-ce2c-833b-fa88-05ab1de72f8e?version=1.0&t=1788245276093
-    dalla memoria: letto (righe GPS=276)
-  data ricavata dal caricamento dell'allegato: 2026-09-01
-    ok [turno]: calibrato=true righe GPS=276 scartate=0
-  errore su https://www.mim.gov.it/web/oristano/-/annullamento-e-sostituzione-del-provvedimento-di-pubblicazione-relativo-al-i-turno-di-conferimento-contratti-a-tempo-determinato-per-il-personale-doce -> HTTP 404 su https://www.mim.gov.it/web/oristano/-/annullamento-e-sostituzione-del-provvedimento-di-pubblicazione-relativo-al-i-turno-di-conferimento-contratti-a-tempo-determinato-per-il-personale-doce
-  scarico https://www.mim.gov.it/documents/8609379/10333596/m_pi.AOOUSPOR.REGISTRO+UFFICIALE%28U%29.0005250.04-09-2026.pdf/f2d9bac0-ecac-329e-ade5-03e6d7da7c98?version=1.0&t=1788517603717
-    dalla memoria: non letto (righe GPS=0)
-  scarico https://www.mim.gov.it/documents/8609379/10333596/ALL.+A+INTEGRAZIONE+E+RETTIFICA+DISPONIBILITA%27.pdf/d38e1ce7-094e-a585-2a6e-81bcd9c11a0d?version=1.0&t=1788517603569
-    dalla memoria: non letto (righe GPS=0)
-  scarico https://www.mim.gov.it/documents/8609379/10333596/ALL.+B+-+Bollettino+EEEE.pdf/9bd5e0f7-4084-0a87-0223-14716d3fe37a?version=1.0&t=1788517603860
-    dalla memoria: letto (righe GPS=21)
-  data ricavata dal caricamento dell'allegato: 2026-09-04
-    ok [rett]: calibrato=true righe GPS=21 scartate=0
-  scarico https://www.mim.gov.it/documents/8609379/10333596/m_pi.AOOUSPOR.REGISTRO+UFFICIALE%28U%29.0005370.09-09-2026.pdf/3095893a-ebb3-bb0b-331b-6e8d3d46b071?version=1.0&t=1788962009827
-    dalla memoria: non letto (righe GPS=0)
-  scarico https://www.mim.gov.it/documents/8609379/10333596/bollettino-+A047+-ADSS+-+A045.zip.pdf/01a306d8-0ee0-4a57-bba1-bb10bbdc2957?version=1.0&t=1788962009676
-    dalla memoria: letto (righe GPS=71)
-  data ricavata dal caricamento dell'allegato: 2026-09-09
-    ok [rett]: calibrato=true righe GPS=71 scartate=0
-  scartati 1 allegati generici (contatti, organigramma...)
-  scarico https://www.mim.gov.it/documents/8609379/10038516/ALLEGATO+2+-+II+TURNO+-+BOLLETTINO+NOMINE.pdf/5e4dee3e-3b2b-925c-f041-69c35f904d67?version=1.0&t=1789628207753
-    dalla memoria: letto (righe GPS=29)
-  data ricavata dal caricamento dell'allegato: 2026-09-17
-    ok [turno]: calibrato=true righe GPS=29 scartate=0
-  scartati 1 allegati generici (contatti, organigramma...)
-  scarico https://www.mim.gov.it/documents/8609379/10333596/m_pi.AOOUSPOR.REGISTRO+UFFICIALE%28U%29.0005728.22-09-2026.pdf/265d8d1a-e6e4-8a98-61d2-96492cd67be5?version=1.0&t=1790084191356
-    dalla memoria: non letto (righe GPS=0)
-  scarico https://www.mim.gov.it/documents/8609379/10333596/Bollettino+Totale+nomine.pdf/1bacb816-b0d4-6bcf-09ae-88a6bae82666?version=1.0&t=1790084191148
-    dalla memoria: letto (righe GPS=30)
-  data ricavata dal caricamento dell'allegato: 2026-09-22
-    ok [rett]: calibrato=true righe GPS=30 scartate=0
-  scarico https://www.mim.gov.it/documents/8609379/10333596/III+TURNO+-+DECRETO+CONFERIMENTO+NOMINE+A+TEMPO+DETERMINATO_Firmato.pdf/1a773049-9e8a-b34b-3b4b-24724e0bc8f6?version=1.0&t=1790604151321
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro o.pdf/1a773049-9e8a-b34b-3b4b-24724e0bc8f6?version=1.0&t=1790604151321
-  scartati 1 allegati generici (contatti, organigramma...)
-  scarico https://www.mim.gov.it/documents/8609379/10333596/m_pi.AOOUSPOR.REGISTRO+UFFICIALE%28U%29.0006140.07-10-2026.pdf/a9a19a2b-7277-1b0b-cc9c-91dba383da3e?version=1.0&t=1791369827006
-    dalla memoria: non letto (righe GPS=0)
-  scarico https://www.mim.gov.it/documents/8609379/10333596/All.1+-+IV+Turno+Disponibilita%27+incarichi+a+tempo+determinato.pdf/0c399790-e8ba-27d2-7008-78f137b461e7?version=1.0&t=1791369826851
-    dalla memoria: non letto (righe GPS=0)
-  scarico https://www.mim.gov.it/documents/8609379/10333596/ALL.+1-Bis+Posti+Orario.pdf/9624c7f1-de38-6f82-0ff9-6ac06cd83745?version=1.0&t=1791369826713
-    dalla memoria: non letto (righe GPS=0)
-  scarico https://www.mim.gov.it/documents/8609379/10333596/ALL.+2+BOLLETTINO+NOMINE.pdf/c4b8d617-6f3e-0859-4588-f3db777c2baf?version=1.0&t=1791369826571
-    dalla memoria: letto (righe GPS=2)
-  data ricavata dal caricamento dell'allegato: 2026-10-07
-    ok [turno]: calibrato=true righe GPS=2 scartate=0
-  scartati 1 allegati generici (contatti, organigramma...)
-  scarico https://www.mim.gov.it/documents/8609379/10333596/m_pi.AOOUSPOR.REGISTRO+UFFICIALE%28U%29.0006490.20-10-2026.pdf/b5017809-0eaa-71bb-771a-44b53c47b74b?version=1.0&t=1792494239126
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro 6.pdf/b5017809-0eaa-71bb-771a-44b53c47b74b?version=1.0&t=1792494239126
-  scarico https://www.mim.gov.it/documents/8609379/10038516/m_pi.AOOUSPOR.REGISTRO+UFFICIALE%28U%29.0006604.23-10-2026.pdf/2db2a181-f00f-912f-d8f5-ddc5592f20af?version=1.0&t=1792764095271
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro 6.pdf/2db2a181-f00f-912f-d8f5-ddc5592f20af?version=1.0&t=1792764095271
-  TURNO MANCANTE: 3
-  turni letti=3 non letti=2 -> da verificare
--- AR Arezzo --
-link da Orizzonte Scuola: 8
-totale pagine da controllare: 8
-  scarico https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_1/m_pi.AOOUSPAR.REGISTRO_UFFICIALEU.0008333.29-08-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro /Bollettino_1/m_pi.AOOUSPAR.REGISTRO_UFFICIALEU.0008333.29-08-2026.pdf
-  scarico https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_2/m_pi.AOOUSPAR.REGISTRO_UFFICIALEU.0009073.12-09-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro /Bollettino_2/m_pi.AOOUSPAR.REGISTRO_UFFICIALEU.0009073.12-09-2026.pdf
-  scarico https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_3/m_pi.AOOUSPAR.REGISTRO_UFFICIALEU.0009404.21-09-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro /Bollettino_3/m_pi.AOOUSPAR.REGISTRO_UFFICIALEU.0009404.21-09-2026.pdf
-  scarico https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_4/m_pi.AOOUSPAR.REGISTRO_UFFICIALEU.0009761.28-09-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro /Bollettino_4/m_pi.AOOUSPAR.REGISTRO_UFFICIALEU.0009761.28-09-2026.pdf
-  scarico https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_5/m_pi.AOOUSPAR.REGISTRO_UFFICIALEU.0010017.05-10-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro /Bollettino_5/m_pi.AOOUSPAR.REGISTRO_UFFICIALEU.0010017.05-10-2026.pdf
-  scarico https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_7/m_pi.AOOUSPAR.REGISTRO_UFFICIALEU.0010450.13-10-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro /Bollettino_7/m_pi.AOOUSPAR.REGISTRO_UFFICIALEU.0010450.13-10-2026.pdf
-  scarico https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_8/m_pi.AOOUSPAR.REGISTRO_UFFICIALEU.0010730.20-10-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro /Bollettino_8/m_pi.AOOUSPAR.REGISTRO_UFFICIALEU.0010730.20-10-2026.pdf
-  scarico https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_9/m_pi.AOOUSPAR.REGISTRO_UFFICIALEU.0011009.28-10-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro /Bollettino_9/m_pi.AOOUSPAR.REGISTRO_UFFICIALEU.0011009.28-10-2026.pdf
-  turni letti=0 non letti=0 -> da verificare
+  turni letti=4 non letti=1 -> da verificare
 -- PT Pistoia --
 link da Orizzonte Scuola: 10
 totale pagine da controllare: 10
+  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/08/BOLLETTINO-DEFINITIVO-I-TURNO-GPS-31.08.26.xlsx
+    documento non leggibile: https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/08/BOLLETTINO-DEFINITIVO-I-TURNO-GPS-31.08.26.xlsx libreria read-excel-file non installata
   scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/08/m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0005026.31-08-2026-TURNO-1-GPS.pdf
-    dalla memoria: non letto (righe GPS=0)
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+    OCR: nessuna pagina scansionata nel documento
+Warning: TT: undefined function: 21
+  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/08/DISPONIBILITA-SU-SCUOLA-PER-I-TURNO-GPS.xlsx
+    documento non leggibile: https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/08/DISPONIBILITA-SU-SCUOLA-PER-I-TURNO-GPS.xlsx libreria read-excel-file non installata
+  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/08/PostiOrario_AA_441896-1.xlsx
+    documento non leggibile: https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/08/PostiOrario_AA_441896-1.xlsx libreria read-excel-file non installata
+  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/08/PostiOrario_EE_441896-1.xlsx
+    documento non leggibile: https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/08/PostiOrario_EE_441896-1.xlsx libreria read-excel-file non installata
   documento di tipo decreto, non è un bollettino: ignoro 8/m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0005026.31-08-2026-TURNO-1-GPS.pdf
+  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/09/BOLLETTINO-DEFINITIVO-II-TURNO-GPS.xlsx
+    documento non leggibile: https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/09/BOLLETTINO-DEFINITIVO-II-TURNO-GPS.xlsx libreria read-excel-file non installata
   scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/09/m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0005198.08-09-2026-II-TURNO-GPS.pdf
-    dalla memoria: non letto (righe GPS=0)
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+    OCR: nessuna pagina scansionata nel documento
+Warning: TT: undefined function: 21
+  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/09/DISPONIBILITA-SCUOLE-SECONDO-TURNO-GPS.xlsx
+    documento non leggibile: https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/09/DISPONIBILITA-SCUOLE-SECONDO-TURNO-GPS.xlsx libreria read-excel-file non installata
   documento di tipo decreto, non è un bollettino: ignoro /m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0005198.08-09-2026-II-TURNO-GPS.pdf
+  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/09/Bollettino_TotaleNomine-14.09.26.xlsx
+    documento non leggibile: https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/09/Bollettino_TotaleNomine-14.09.26.xlsx libreria read-excel-file non installata
   scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/09/m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0005369.14-09-2026-III-turno-nomina-GPS.pdf
-    dalla memoria: non letto (righe GPS=0)
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+    OCR: nessuna pagina scansionata nel documento
+Warning: TT: undefined function: 21
   documento di tipo decreto, non è un bollettino: ignoro OUSPPT.REGISTRO-UFFICIALEU.0005369.14-09-2026-III-turno-nomina-GPS.pdf
+  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/09/bollettino-definitivo-v-turno.xlsx
+    documento non leggibile: https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/09/bollettino-definitivo-v-turno.xlsx libreria read-excel-file non installata
   scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/09/m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0005586.23-09-2026-turno-v-gps.pdf
-    dalla memoria: non letto (righe GPS=0)
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+    OCR: nessuna pagina scansionata nel documento
+Warning: TT: undefined function: 21
   documento di tipo decreto, non è un bollettino: ignoro 9/m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0005586.23-09-2026-turno-v-gps.pdf
+  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/09/BOLLETTINO-DEFINITIVO-TURNO-VI.xlsx
+    documento non leggibile: https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/09/BOLLETTINO-DEFINITIVO-TURNO-VI.xlsx libreria read-excel-file non installata
   scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/09/m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0005792.28-09-2026-turno-VI-GPS.pdf
-    dalla memoria: non letto (righe GPS=0)
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+    OCR: nessuna pagina scansionata nel documento
+Warning: TT: undefined function: 21
   documento di tipo decreto, non è un bollettino: ignoro /m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0005792.28-09-2026-turno-VI-GPS.pdf
   scartati 1 decreti (non sono bollettini)
-  la pagina ha solo decreti: ignoro e-gps-provincia-di-pistoia-assegnazione-sede-vii-turno-di-nomina-gps-om-27-2026/
-     ~ o-scolastico-2026-27-da-gae-e-gps-provincia-di-pistoia-assegnazione-sede-vii-turno-di-nomina-gps-om-27-2026%2F
-     ~ o-2026-27-da-gae-e-gps-provincia-di-pistoia-assegnazione-sede-vii-turno-di-nomina-gps-om-27-2026%2F&format=xml
-     ~ nno-scolastico-2026-27-da-gae-e-gps-provincia-di-pistoia-assegnazione-sede-vii-turno-di-nomina-gps-om-27-2026/
-     ~ https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/10/definitivo-VII-turno-GPS.xlsx
+  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/10/definitivo-VII-turno-GPS.xlsx
+    documento non leggibile: https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/10/definitivo-VII-turno-GPS.xlsx libreria read-excel-file non installata
+  nessun PDF utilizzabile in https://www.ufficioscolasticoprovinciale.pistoia.it/conferimento-supplenze-al-personale-docente-per-lanno-scolastico-2026-27-da-gae-e-gps-provincia-di-pistoia-assegnazione-sede-vii-turno-di-nomina-gps-om-27-2026/
+  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/10/bollettino-definitivo-VIII-turno.xlsx
+    documento non leggibile: https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/10/bollettino-definitivo-VIII-turno.xlsx libreria read-excel-file non installata
   scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/10/m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0006193.13-10-2026-decreto-VIII-turno-di-nomina-gps.pdf
-    dalla memoria: non letto (righe GPS=0)
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+    OCR: nessuna pagina scansionata nel documento
+Warning: TT: undefined function: 21
   documento di tipo decreto, non è un bollettino: ignoro TRO-UFFICIALEU.0006193.13-10-2026-decreto-VIII-turno-di-nomina-gps.pdf
+  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/10/Bollettino_TotaleNomine.xlsx
+    documento non leggibile: https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/10/Bollettino_TotaleNomine.xlsx libreria read-excel-file non installata
   scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/10/m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0006290.16-10-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+    OCR: nessuna pagina scansionata nel documento
+Warning: TT: undefined function: 21
   documento di tipo decreto, non è un bollettino: ignoro loads/2026/10/m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0006290.16-10-2026.pdf
+  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/10/Bollettino_TotaleNomine-X-Turno.xlsx
+    documento non leggibile: https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/10/Bollettino_TotaleNomine-X-Turno.xlsx libreria read-excel-file non installata
   scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/10/m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0006364.20-10-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+    OCR: nessuna pagina scansionata nel documento
+Warning: TT: undefined function: 21
   documento di tipo decreto, non è un bollettino: ignoro loads/2026/10/m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0006364.20-10-2026.pdf
+  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/10/Bollettino-Totale-nomine-XI-TURNO.xlsx
+    documento non leggibile: https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/10/Bollettino-Totale-nomine-XI-TURNO.xlsx libreria read-excel-file non installata
   scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/10/m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0006481.26-10-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+    OCR: nessuna pagina scansionata nel documento
+Warning: TT: undefined function: 21
   documento di tipo decreto, non è un bollettino: ignoro loads/2026/10/m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0006481.26-10-2026.pdf
-  turni letti=0 non letti=0 -> da verificare
--- SI Siena --
-link da Orizzonte Scuola: 13
-totale pagine da controllare: 13
-  scarico https://www.uspsi.it/wp-content/uploads/2026/08/m_pi.AOOUSPSI.REGISTRO-UFFICIALEU.0005318.28-08-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro loads/2026/08/m_pi.AOOUSPSI.REGISTRO-UFFICIALEU.0005318.28-08-2026.pdf
-  scarico https://www.uspsi.it/wp-content/uploads/2026/09/m_pi.AOOUSPSI.REGISTRO-UFFICIALEU.0005577.09-09-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro loads/2026/09/m_pi.AOOUSPSI.REGISTRO-UFFICIALEU.0005577.09-09-2026.pdf
-  scarico https://www.uspsi.it/wp-content/uploads/2026/09/m_pi.AOOUSPSI.REGISTRO-UFFICIALEU.0005682.15-09-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro loads/2026/09/m_pi.AOOUSPSI.REGISTRO-UFFICIALEU.0005682.15-09-2026.pdf
-  scarico https://www.uspsi.it/wp-content/uploads/2026/09/m_pi.AOOUSPSI.REGISTRO-UFFICIALEU.0005759.18-09-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro loads/2026/09/m_pi.AOOUSPSI.REGISTRO-UFFICIALEU.0005759.18-09-2026.pdf
-  scarico https://www.uspsi.it/wp-content/uploads/2026/09/m_pi.AOOUSPSI.REGISTRO-UFFICIALEU.0005803.22-09-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro loads/2026/09/m_pi.AOOUSPSI.REGISTRO-UFFICIALEU.0005803.22-09-2026.pdf
-  scarico https://www.uspsi.it/wp-content/uploads/2026/09/m_pi.AOOUSPSI.REGISTRO-UFFICIALEU.0005923.25-09-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro loads/2026/09/m_pi.AOOUSPSI.REGISTRO-UFFICIALEU.0005923.25-09-2026.pdf
-  scarico https://www.uspsi.it/wp-content/uploads/2026/09/m_pi.AOOUSPSI.REGISTRO-UFFICIALEU.0006022.29-09-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro loads/2026/09/m_pi.AOOUSPSI.REGISTRO-UFFICIALEU.0006022.29-09-2026.pdf
-  scarico https://www.uspsi.it/wp-content/uploads/2026/10/m_pi.AOOUSPSI.REGISTRO-UFFICIALEU.0006265.08-10-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro loads/2026/10/m_pi.AOOUSPSI.REGISTRO-UFFICIALEU.0006265.08-10-2026.pdf
-  scarico https://www.uspsi.it/wp-content/uploads/2026/10/m_pi.AOOUSPSI.REGISTRO-UFFICIALEU.0006386.13-10-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro loads/2026/10/m_pi.AOOUSPSI.REGISTRO-UFFICIALEU.0006386.13-10-2026.pdf
-  scarico https://www.uspsi.it/wp-content/uploads/2026/10/m_pi.AOOUSPSI.REGISTRO-UFFICIALEU.0006453.16-10-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro loads/2026/10/m_pi.AOOUSPSI.REGISTRO-UFFICIALEU.0006453.16-10-2026.pdf
-  scarico https://www.uspsi.it/wp-content/uploads/2026/10/m_pi.AOOUSPSI.REGISTRO-UFFICIALEU.0006635.23-10-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro loads/2026/10/m_pi.AOOUSPSI.REGISTRO-UFFICIALEU.0006635.23-10-2026.pdf
-  scarico https://www.uspsi.it/wp-content/uploads/2026/10/m_pi.AOOUSPSI.REGISTRO-UFFICIALEU.0006694.26-10-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro loads/2026/10/m_pi.AOOUSPSI.REGISTRO-UFFICIALEU.0006694.26-10-2026.pdf
-  scarico https://www.uspsi.it/wp-content/uploads/2026/10/m_pi.AOOUSPSI.REGISTRO-UFFICIALEU.0006751.28-10-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro loads/2026/10/m_pi.AOOUSPSI.REGISTRO-UFFICIALEU.0006751.28-10-2026.pdf
-  turni letti=0 non letti=0 -> da verificare
--- PG Perugia --
-link da Orizzonte Scuola: 21
-totale pagine da controllare: 21
-  scarico https://istruzione.umbria.it/wp-content/uploads/2026/08/D.D.-prot.-n.-562-del-28.08.2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro ria.it/wp-content/uploads/2026/08/D.D.-prot.-n.-562-del-28.08.2026.pdf
-  scarico https://istruzione.umbria.it/wp-content/uploads/2026/08/D.D.-prot.-n.-580-del-31.08.2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  data ricavata dal nome del file: 2026-08-31
-    ok [rett]: calibrato=false righe GPS=0 scartate=0
-  scarico https://istruzione.umbria.it/wp-content/uploads/2026/09/D.D.-prot.-n.-598-del-02.09.2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  data ricavata dal nome del file: 2026-09-02
-    ok [rett]: calibrato=false righe GPS=0 scartate=0
-  scarico https://istruzione.umbria.it/wp-content/uploads/2026/09/D.D.-prot.-n.-611.07-09-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  data ricavata dal nome del file: 2026-09-07
-    ok [rett]: calibrato=false righe GPS=0 scartate=0
-  scarico https://istruzione.umbria.it/wp-content/uploads/2026/09/D.D.-prot.-n.-616-del-08.09.2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro ria.it/wp-content/uploads/2026/09/D.D.-prot.-n.-616-del-08.09.2026.pdf
-  scarico https://istruzione.umbria.it/wp-content/uploads/2026/09/D.D.-prot.-n.-620-del-09.09.2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  data ricavata dal nome del file: 2026-09-09
-    ok [rett]: calibrato=false righe GPS=0 scartate=0
-  scarico https://istruzione.umbria.it/wp-content/uploads/2026/09/D.D.-prot.-n.-634-del-11.09.2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  data ricavata dal nome del file: 2026-09-11
-    ok [rett]: calibrato=false righe GPS=0 scartate=0
-  scarico https://istruzione.umbria.it/wp-content/uploads/2026/09/D.D.-prot.-n.-645-del-15.09.2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro ria.it/wp-content/uploads/2026/09/D.D.-prot.-n.-645-del-15.09.2026.pdf
-  scarico https://istruzione.umbria.it/wp-content/uploads/2026/09/D.D.-prot.-n.-650-del-16.09.2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  data ricavata dal nome del file: 2026-09-16
-    ok [rett]: calibrato=false righe GPS=0 scartate=0
-  scarico https://istruzione.umbria.it/wp-content/uploads/2026/09/D.D.-prot.-n.-656-del-21.09.2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro ria.it/wp-content/uploads/2026/09/D.D.-prot.-n.-656-del-21.09.2026.pdf
-  scarico https://istruzione.umbria.it/wp-content/uploads/2026/09/D.D.-prot.-n.-670-del-24.09.2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro ria.it/wp-content/uploads/2026/09/D.D.-prot.-n.-670-del-24.09.2026.pdf
-  scarico https://istruzione.umbria.it/wp-content/uploads/2026/09/D.D.-prot.-n.-681-del-29.09.2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro ria.it/wp-content/uploads/2026/09/D.D.-prot.-n.-681-del-29.09.2026.pdf
-  scarico https://istruzione.umbria.it/wp-content/uploads/2026/10/D.D.-prot.-n.-691-del-05.10.2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro ria.it/wp-content/uploads/2026/10/D.D.-prot.-n.-691-del-05.10.2026.pdf
-  scarico https://istruzione.umbria.it/wp-content/uploads/2026/10/D.D.-prot.-n.-697-del-07.10.2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro ria.it/wp-content/uploads/2026/10/D.D.-prot.-n.-697-del-07.10.2026.pdf
-  scarico https://istruzione.umbria.it/wp-content/uploads/2026/10/D.D.-prot.-n.-705-del-12.10.2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro ria.it/wp-content/uploads/2026/10/D.D.-prot.-n.-705-del-12.10.2026.pdf
-  scarico https://istruzione.umbria.it/wp-content/uploads/2026/10/D.D.-prot.-n.-722-del-16.10.2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro ria.it/wp-content/uploads/2026/10/D.D.-prot.-n.-722-del-16.10.2026.pdf
-  scarico https://istruzione.umbria.it/wp-content/uploads/2026/10/D.D.-prot.-n.-732-del-20.10.2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro ria.it/wp-content/uploads/2026/10/D.D.-prot.-n.-732-del-20.10.2026.pdf
-  scarico https://istruzione.umbria.it/wp-content/uploads/2026/10/D.D.-prot.-n.-737-del-21.10.2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  data ricavata dal nome del file: 2026-10-21
-    ok [rett]: calibrato=false righe GPS=0 scartate=0
-  scarico https://istruzione.umbria.it/wp-content/uploads/2026/10/D.D.-prot.-n.-742-del-23.10.2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro ria.it/wp-content/uploads/2026/10/D.D.-prot.-n.-742-del-23.10.2026.pdf
-  scarico https://istruzione.umbria.it/wp-content/uploads/2026/10/D.D.-prot.-n.-746-del-26.10.2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro ria.it/wp-content/uploads/2026/10/D.D.-prot.-n.-746-del-26.10.2026.pdf
-  scarico https://istruzione.umbria.it/wp-content/uploads/2026/10/D.D.-prot.-n.-749-del-28.10.2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro ria.it/wp-content/uploads/2026/10/D.D.-prot.-n.-749-del-28.10.2026.pdf
-  turni letti=0 non letti=0 -> da verificare
-RIEPILOGO DA VERIFICARE: letti con OCR=0 | zero righe=3 | non letti=114 | turni mancanti=37
+  turni letti=0 non letti=1 -> da verificare
+RIEPILOGO DA VERIFICARE: letti con OCR=0 | zero righe=3 | non letti=116 | turni mancanti=37
 Scritto /home/runner/work/atrium/atrium/data/bollettini.json
