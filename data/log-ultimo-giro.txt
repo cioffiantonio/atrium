@@ -209,7 +209,7 @@ totale pagine da controllare: 35
   anno scolastico precedente, salto: https://re.istruzioneer.gov.it/2025/08/01/procedura-straordinaria-ex-art-5-d-l-44-2023-pubblicazione-esiti-nomine-a-s-2025-2026/
   anno scolastico precedente, salto: https://re.istruzioneer.gov.it/2024/08/22/procedura-straordinaria-ex-art-5-d-l-44-2023-pubblicazione-esiti-nomine-2/
   anno scolastico precedente, salto: https://re.istruzioneer.gov.it/2023/08/04/procedura-straordinaria-ex-art-5-d-l-44-2023-pubblicazione-esiti-nomine/
-  pagina senza allegato riconoscibile (70176 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (70181 caratteri); collegamenti a documenti: nessuno
   non sembra un bollettino, ignoro: https://re.istruzioneer.gov.it/2026/08/20/gps-cancellazione-domande-informatizzazione-nomine-supplenze-a-s-2026-2027/
   scarico https://re.istruzioneer.gov.it/wp-content/uploads/sites/10/2026/10/Bollettino_TotaleNomine-6.pdf
     dalla memoria: letto (righe GPS=1)
@@ -745,7 +745,7 @@ totale pagine da controllare: 6
 link da Orizzonte Scuola: 0
 ricerca diretta non riuscita: HTTP 403 su https://www.uspbenevento.it/?s=nomine+gps
       via diretto: errore HTTP 403 su https://www.uspbenevento.it/uat/wp-content/VARIE_SITO/PUBBLICAZIONE_SUPPLENZE/index.php
-        diagnosi blocco: stato 403, server "aruba-proxy", titolo "Wait a moment...", 14674 caratteri
+        diagnosi blocco: stato 403, server "aruba-proxy", titolo "Wait a moment...", 14682 caratteri
         browser: titolo pagina "Portale Bollettini Supplenze"
       via browser: stato 200, 46507 caratteri -> OK
 piattaforma Benevento: 5 turni trovati (pagina di 46507 caratteri)
@@ -759,7 +759,7 @@ pagine candidate dall'API WordPress: 0
 totale pagine da controllare: 5
   scarico https://www.uspbenevento.it/uat/wp-content/VARIE_SITO/PUBBLICAZIONE_SUPPLENZE/dettaglio_bollettino.php?file=Bollettino_TotaleNomine_1.csv
       via diretto: errore HTTP 403 su https://www.uspbenevento.it/uat/wp-content/VARIE_SITO/PUBBLICAZIONE_SUPPLENZE/dettaglio_
-        diagnosi blocco: stato 403, server "aruba-proxy", titolo "Wait a moment...", 14674 caratteri
+        diagnosi blocco: stato 403, server "aruba-proxy", titolo "Wait a moment...", 14682 caratteri
         browser: titolo pagina "Bollettino Supplenze - Turno 1"
       via browser: stato 200, 394724 caratteri -> OK
     pagina del turno 1: 394724 caratteri, tabelle/righe lette=186, data produzione 2026-08-31
@@ -767,7 +767,7 @@ totale pagine da controllare: 5
     ok [turno]: calibrato=true righe GPS=163 scartate=0
   scarico https://www.uspbenevento.it/uat/wp-content/VARIE_SITO/PUBBLICAZIONE_SUPPLENZE/dettaglio_bollettino.php?file=Bollettino_TotaleNomine_2.csv
       via diretto: errore HTTP 403 su https://www.uspbenevento.it/uat/wp-content/VARIE_SITO/PUBBLICAZIONE_SUPPLENZE/dettaglio_
-        diagnosi blocco: stato 403, server "aruba-proxy", titolo "Wait a moment...", 14674 caratteri
+        diagnosi blocco: stato 403, server "aruba-proxy", titolo "Wait a moment...", 14682 caratteri
         browser: titolo pagina "Bollettino Supplenze - Turno 2"
       via browser: stato 200, 260796 caratteri -> OK
     pagina del turno 2: 260796 caratteri, tabelle/righe lette=119, data produzione 2026-09-17
@@ -775,7 +775,7 @@ totale pagine da controllare: 5
     ok [turno]: calibrato=true righe GPS=111 scartate=0
   scarico https://www.uspbenevento.it/uat/wp-content/VARIE_SITO/PUBBLICAZIONE_SUPPLENZE/dettaglio_bollettino.php?file=Bollettino_TotaleNomine_3.csv
       via diretto: errore HTTP 403 su https://www.uspbenevento.it/uat/wp-content/VARIE_SITO/PUBBLICAZIONE_SUPPLENZE/dettaglio_
-        diagnosi blocco: stato 403, server "aruba-proxy", titolo "Wait a moment...", 14674 caratteri
+        diagnosi blocco: stato 403, server "aruba-proxy", titolo "Wait a moment...", 14682 caratteri
         browser: titolo pagina "Bollettino Supplenze - Turno 3"
       via browser: stato 200, 102667 caratteri -> OK
     pagina del turno 3: 102667 caratteri, tabelle/righe lette=39, data produzione 2026-10-02
@@ -783,7 +783,7 @@ totale pagine da controllare: 5
     ok [turno]: calibrato=true righe GPS=36 scartate=0
   scarico https://www.uspbenevento.it/uat/wp-content/VARIE_SITO/PUBBLICAZIONE_SUPPLENZE/dettaglio_bollettino.php?file=Bollettino_TotaleNomine_4.csv
       via diretto: errore HTTP 403 su https://www.uspbenevento.it/uat/wp-content/VARIE_SITO/PUBBLICAZIONE_SUPPLENZE/dettaglio_
-        diagnosi blocco: stato 403, server "aruba-proxy", titolo "Wait a moment...", 14674 caratteri
+        diagnosi blocco: stato 403, server "aruba-proxy", titolo "Wait a moment...", 14682 caratteri
         browser: titolo pagina "Bollettino Supplenze - Turno 4"
       via browser: stato 200, 51012 caratteri -> OK
     pagina del turno 4: 51012 caratteri, tabelle/righe lette=13, data produzione 2026-10-11
@@ -791,7 +791,7 @@ totale pagine da controllare: 5
     ok [turno]: calibrato=true righe GPS=13 scartate=0
   scarico https://www.uspbenevento.it/uat/wp-content/VARIE_SITO/PUBBLICAZIONE_SUPPLENZE/dettaglio_bollettino.php?file=Bollettino_TotaleNomine_5.csv
       via diretto: errore HTTP 403 su https://www.uspbenevento.it/uat/wp-content/VARIE_SITO/PUBBLICAZIONE_SUPPLENZE/dettaglio_
-        diagnosi blocco: stato 403, server "aruba-proxy", titolo "Wait a moment...", 14674 caratteri
+        diagnosi blocco: stato 403, server "aruba-proxy", titolo "Wait a moment...", 14682 caratteri
         browser: titolo pagina "Bollettino Supplenze - Turno 5"
       via browser: stato 200, 52756 caratteri -> OK
     pagina del turno 5: 52756 caratteri, tabelle/righe lette=14, data produzione 2026-10-19
@@ -828,86 +828,32 @@ totale pagine da controllare: 6
   turni letti=4 non letti=0 -> provincia completa
 -- NA Napoli --
 link da Orizzonte Scuola: 20
-pagine candidate dalla ricerca diretta: 0
+ricerca diretta non riuscita: HTTP 500 su https://www.uat-napoli.it/?s=nomine+gps
 pagine candidate dall'API WordPress: 0
 totale pagine da controllare: 18
-  scarico https://www.uat-napoli.it/wp-content/uploads/2026/08/1°Bollettino_TotaleNomine_supplenze_202627_Ogni_ordine_e_grado_Na.pdf
-    dalla memoria: letto (righe GPS=6461)
-    ok [turno]: calibrato=true righe GPS=6461 scartate=0
-  scarico https://www.uat-napoli.it/wp-content/uploads/2026/09/m_pi.AOOUSPNA.REGISTRO-UFFICIALEI.0023943.11-09-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  scarico https://www.uat-napoli.it/wp-content/uploads/2026/09/Rettifiche-1-bollettino-MM.pdf
-    dalla memoria: letto (righe GPS=27)
-    ok [rett]: calibrato=true righe GPS=27 scartate=0
-  scarico https://www.uat-napoli.it/wp-content/uploads/2026/09/m_pi.AOOUSPNA.REGISTRO-UFFICIALEI.0024117.14-09-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  scarico https://www.uat-napoli.it/wp-content/uploads/2026/09/Ulteriori-rettifiche-primo-bollettino.pdf
-    dalla memoria: letto (righe GPS=5)
-    ok [rett]: calibrato=true righe GPS=5 scartate=0
-  scartati 1 decreti (non sono bollettini)
-  scarico https://www.uat-napoli.it/wp-content/uploads/2026/09/m_pi.AOOUSPNA.REGISTRO-UFFICIALEU.0024305.16-09-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-    ok [rett]: calibrato=false righe GPS=0 scartate=0
-  scarico https://www.uat-napoli.it/wp-content/uploads/2026/09/m_pi.AOOUSPNA.REGISTRO-UFFICIALEU.0024311.16-09-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-    ok [rett]: calibrato=false righe GPS=0 scartate=0
-  scarico https://www.uat-napoli.it/wp-content/uploads/2026/09/Scioglimento-ed-istituzione-posto-orario.pdf
-    dalla memoria: non letto (righe GPS=0)
-  scarico https://www.uat-napoli.it/wp-content/uploads/2026/09/m_pi.AOOUSPNA.REGISTRO-UFFICIALEI.0024435.18-09-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  scarico https://www.uat-napoli.it/wp-content/uploads/2026/09/Ulteriori-rettifiche-primo-bollettino-2.pdf
-    dalla memoria: letto (righe GPS=5)
-    ok [rett]: calibrato=true righe GPS=5 scartate=0
-  scarico https://www.uat-napoli.it/wp-content/uploads/2026/09/m_pi.AOOUSPNA.REGISTRO-UFFICIALEU.0024492.18-09-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-    ok [rett]: calibrato=false righe GPS=0 scartate=0
-  scarico https://www.uat-napoli.it/wp-content/uploads/2026/09/m_pi.AOOUSPNA.REGISTRO-UFFICIALEU.0024552.18-09-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-    ok [rett]: calibrato=false righe GPS=0 scartate=0
-  scarico https://www.uat-napoli.it/wp-content/uploads/2026/10/m_pi.AOOUSPNA.REGISTRO-UFFICIALEU.0026639.16-10-2026-1.pdf
-    dalla memoria: non letto (righe GPS=0)
-  scarico https://www.uat-napoli.it/wp-content/uploads/2026/10/RETTIFICHE-GPS_III_BOLLETTINO.pdf
-    dalla memoria: letto (righe GPS=15)
-    ok [rett]: calibrato=true righe GPS=15 scartate=0
-  scarico https://www.uat-napoli.it/wp-content/uploads/2026/10/m_pi.AOOUSPNA.REGISTRO-UFFICIALEI.0026797.19-10-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  scarico https://www.uat-napoli.it/wp-content/uploads/2026/10/Rettifiche-nomine-scuola-secondaria-di-primo-grado.pdf
-    dalla memoria: letto (righe GPS=2)
-    ok [rett]: calibrato=true righe GPS=2 scartate=0
-  scarico https://www.uat-napoli.it/wp-content/uploads/2026/09/2°Bollettino_Tot_Nomine_Ogni_ord_e_grado_NA-1.pdf
-    dalla memoria: letto (righe GPS=767)
-    ok [turno]: calibrato=true righe GPS=767 scartate=0
-  scarico https://www.uat-napoli.it/wp-content/uploads/2026/10/m_pi.AOOUSPNA.REGISTRO-UFFICIALEI.0025564.01-10-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  scarico https://www.uat-napoli.it/wp-content/uploads/2026/10/Rettifiche-nomine-GPS-MM-25564.01-10-2026.pdf
-    dalla memoria: letto (righe GPS=3)
-    ok [rett]: calibrato=true righe GPS=3 scartate=0
-  scarico https://www.uat-napoli.it/wp-content/uploads/2026/10/m_pi.AOOUSPNA.REGISTRO-UFFICIALEU.0025762.05-10-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  scarico https://www.uat-napoli.it/wp-content/uploads/2026/10/IV-RETTIFICHE-GPS_II_BOLLETTINO.pdf
-    dalla memoria: letto (righe GPS=3)
-    ok [rett]: calibrato=true righe GPS=3 scartate=0
-  scarico https://www.uat-napoli.it/wp-content/uploads/2026/10/m_pi.AOOUSPNA.REGISTRO-UFFICIALEU.0026207.09-10-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-    ok [rett]: calibrato=false righe GPS=0 scartate=0
-  scarico https://www.uat-napoli.it/wp-content/uploads/2026/10/m_pi.AOOUSPNA.REGISTRO-UFFICIALEI.0026119.09-10-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  scarico https://www.uat-napoli.it/wp-content/uploads/2026/10/Ulteriori-rettifiche-bollettini-MM-2_0026119.09-10-2026.pdf
-    dalla memoria: letto (righe GPS=3)
-    ok [rett]: calibrato=true righe GPS=3 scartate=0
-  scarico https://www.uat-napoli.it/wp-content/uploads/2026/10/m_pi.AOOUSPNA.REGISTRO-UFFICIALEU.0026374.13-10-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-    ok [rett]: calibrato=false righe GPS=0 scartate=0
-  scarico https://www.uat-napoli.it/wp-content/uploads/2026/10/3°Bollettino_TotaleNomine_Ogni_Ordine_e_Grado_Na.pdf
-    dalla memoria: letto (righe GPS=472)
-    ok [turno]: calibrato=true righe GPS=472 scartate=0
-  scarico https://www.uat-napoli.it/wp-content/uploads/2026/10/m_pi.AOOUSPNA.REGISTRO-UFFICIALEU.0026553.15-10-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-    ok [rett]: calibrato=false righe GPS=0 scartate=0
-  turni letti=3 non letti=0 -> provincia completa
+  errore su https://www.uat-napoli.it/graduatorie-provinciali-di-supplenza-primo-bollettino-nomine-a-tempo-determinato-2026-2027-ogni-ordine-e-grado-napoli-e-provincia/ -> HTTP 500 su https://www.uat-napoli.it/graduatorie-provinciali-di-supplenza-primo-bollettino-nomine-a-tempo-determinato-2026-2027-ogni-ordine-e-grado-napoli-e-provincia/
+  errore su https://www.uat-napoli.it/scuola-secondaria-di-primo-grado-nomine-a-tempo-determinato-a-s-2025-2026-rettifiche-bollettino-del-31-08-26-posti-orario-ed-assegnazione-ore/ -> HTTP 500 su https://www.uat-napoli.it/scuola-secondaria-di-primo-grado-nomine-a-tempo-determinato-a-s-2025-2026-rettifiche-bollettino-del-31-08-26-posti-orario-ed-assegnazione-ore/
+  errore su https://www.uat-napoli.it/scuola-secondaria-di-primo-grado-nomine-a-tempo-determinato-a-s-2026-2027-ulteriori-rettifiche/ -> HTTP 500 su https://www.uat-napoli.it/scuola-secondaria-di-primo-grado-nomine-a-tempo-determinato-a-s-2026-2027-ulteriori-rettifiche/
+  errore su https://www.uat-napoli.it/scuola-secondaria-di-secondo-grado-nomine-a-tempo-determinato-a-s-2026-2027-ulteriori-rettifiche-i-bollettino/ -> HTTP 500 su https://www.uat-napoli.it/scuola-secondaria-di-secondo-grado-nomine-a-tempo-determinato-a-s-2026-2027-ulteriori-rettifiche-i-bollettino/
+  errore su https://www.uat-napoli.it/graduatorie-provinciali-di-supplenza-scuola-dellinfanzia-e-primaria-decreto-di-rettifica-1-bollettino-nomine-a-tempo-determinato-a-s-2026-2027/ -> HTTP 500 su https://www.uat-napoli.it/graduatorie-provinciali-di-supplenza-scuola-dellinfanzia-e-primaria-decreto-di-rettifica-1-bollettino-nomine-a-tempo-determinato-a-s-2026-2027/
+  errore su https://www.uat-napoli.it/scuola-secondaria-di-primo-grado-nomine-a-tempo-determinato-a-s-2026-2027-ulteriori-rettifiche-assegnazioni-e-posti-orario/ -> HTTP 500 su https://www.uat-napoli.it/scuola-secondaria-di-primo-grado-nomine-a-tempo-determinato-a-s-2026-2027-ulteriori-rettifiche-assegnazioni-e-posti-orario/
+  errore su https://www.uat-napoli.it/graduatorie-provinciali-di-supplenza-scuola-dellinfanzia-e-primaria-rettifica-1-bollettino-nomine-a-tempo-determinato-a-s-2026-2027/ -> HTTP 500 su https://www.uat-napoli.it/graduatorie-provinciali-di-supplenza-scuola-dellinfanzia-e-primaria-rettifica-1-bollettino-nomine-a-tempo-determinato-a-s-2026-2027/
+  errore su https://www.uat-napoli.it/graduatorie-provinciali-di-supplenza-scuola-dellinfanzia-e-primaria-rettifica-1-bollettino-nomine-a-tempo-determinato-a-s-2026-2027-2/ -> HTTP 500 su https://www.uat-napoli.it/graduatorie-provinciali-di-supplenza-scuola-dellinfanzia-e-primaria-rettifica-1-bollettino-nomine-a-tempo-determinato-a-s-2026-2027-2/
+  errore su https://www.uat-napoli.it/scuola-secondaria-di-secondo-grado-nomine-a-tempo-determinato-a-s-2026-2027-rettifiche-iii-bollettino/ -> HTTP 500 su https://www.uat-napoli.it/scuola-secondaria-di-secondo-grado-nomine-a-tempo-determinato-a-s-2026-2027-rettifiche-iii-bollettino/
+  errore su https://www.uat-napoli.it/scuola-secondaria-di-primo-grado-nomine-a-tempo-determinato-a-s-2026-2027-rettifiche-ai-bollettini-di-nomina-e-posti-orario/ -> HTTP 500 su https://www.uat-napoli.it/scuola-secondaria-di-primo-grado-nomine-a-tempo-determinato-a-s-2026-2027-rettifiche-ai-bollettini-di-nomina-e-posti-orario/
+  errore su https://www.uat-napoli.it/graduatorie-provinciali-di-supplenza-secondo-bollettino-nomine-a-tempo-determinato-2026-2027-ogni-ordine-e-grado-napoli-e-provincia/ -> HTTP 500 su https://www.uat-napoli.it/graduatorie-provinciali-di-supplenza-secondo-bollettino-nomine-a-tempo-determinato-2026-2027-ogni-ordine-e-grado-napoli-e-provincia/
+  errore su https://www.uat-napoli.it/scuola-secondaria-di-primo-grado-nomine-a-tempo-determinato-a-s-2026-2027-rettifiche-bollettini/ -> HTTP 500 su https://www.uat-napoli.it/scuola-secondaria-di-primo-grado-nomine-a-tempo-determinato-a-s-2026-2027-rettifiche-bollettini/
+  errore su https://www.uat-napoli.it/scuola-secondaria-di-secondo-grado-nomine-a-tempo-determinato-a-s-2026-2027-ulteriori-rettifiche-ii-bollettino-2/ -> HTTP 500 su https://www.uat-napoli.it/scuola-secondaria-di-secondo-grado-nomine-a-tempo-determinato-a-s-2026-2027-ulteriori-rettifiche-ii-bollettino-2/
+  errore su https://www.uat-napoli.it/scuola-dellinfanzia-e-primaria-nomine-a-tempo-determinato-a-s-2026-27-decreto-di-rettifica-cumulativo/ -> HTTP 500 su https://www.uat-napoli.it/scuola-dellinfanzia-e-primaria-nomine-a-tempo-determinato-a-s-2026-27-decreto-di-rettifica-cumulativo/
+  errore su https://www.uat-napoli.it/scuola-secondaria-di-primo-grado-nomine-a-tempo-determinato-a-s-2026-2027-rettifiche-ai-bollettini-di-nomina/ -> HTTP 500 su https://www.uat-napoli.it/scuola-secondaria-di-primo-grado-nomine-a-tempo-determinato-a-s-2026-2027-rettifiche-ai-bollettini-di-nomina/
+  errore su https://www.uat-napoli.it/scuola-dellinfanzia-e-primaria-nomine-a-tempo-determinato-a-s-2026-27-decreto-di-rettifica-n-3/ -> HTTP 500 su https://www.uat-napoli.it/scuola-dellinfanzia-e-primaria-nomine-a-tempo-determinato-a-s-2026-27-decreto-di-rettifica-n-3/
+  errore su https://www.uat-napoli.it/graduatorie-provinciali-di-supplenza-terzo-bollettino-nomine-a-tempo-determinato-2026-2027-ogni-ordine-e-grado-napoli-e-provincia/ -> HTTP 500 su https://www.uat-napoli.it/graduatorie-provinciali-di-supplenza-terzo-bollettino-nomine-a-tempo-determinato-2026-2027-ogni-ordine-e-grado-napoli-e-provincia/
+  errore su https://www.uat-napoli.it/scuola-dellinfanzia-e-primaria-graduatorie-provinciali-di-supplenza-decreto-rettifica-3-bollettino/ -> HTTP 500 su https://www.uat-napoli.it/scuola-dellinfanzia-e-primaria-graduatorie-provinciali-di-supplenza-decreto-rettifica-3-bollettino/
+  turni letti=0 non letti=18 -> da verificare
+  tengo i dati precedenti: turni letti ora=0, prima=3, pagine=18
 -- SA Salerno --
 link da Orizzonte Scuola: 0
-collegamenti dalla pagina elenco https://www.mim.gov.it/web/miur-usr-campania/uat-salerno : 18 (pagina di 223785 caratteri)
+collegamenti dalla pagina elenco https://www.mim.gov.it/web/miur-usr-campania/uat-salerno : 18 (pagina di 223795 caratteri)
    - Personale docente - Decreto pubblicazione 7° Bollettino Supplenze | .it/web/miur-usr-campania/-/personale-docente-decreto-pubblicazione-7-bollettino-supplenze
    - Personale docente - Decreto rettifiche ADEE 6° Bollettino Supplenze | t/web/miur-usr-campania/-/personale-docente-decreto-rettifiche-adee-6-bollettino-supplenze
    - Personale docente - Decreto pubblicazione 6° Bollettino Supplenze | .it/web/miur-usr-campania/-/personale-docente-decreto-pubblicazione-6-bollettino-supplenze
@@ -1227,46 +1173,20 @@ totale pagine da controllare: 8
 -- MT Matera --
 link da Orizzonte Scuola: 12
 totale pagine da controllare: 12
-  scartati 1 decreti (non sono bollettini)
-  scarico https://www.istruzionematera.it/wp-content/uploads/2026/09/1°-Bollettino-nomine-a-t.d.-a.s.-26_27.pdf
-    dalla memoria: letto (righe GPS=302)
-  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-09-02
-    ok [turno]: calibrato=true righe GPS=302 scartate=0
-  scartati 1 decreti (non sono bollettini)
-  nessun PDF o foglio trovato in https://www.istruzionematera.it/rettifica-primo-bollettino-nomine-a-tempo-determinato-prot-n-147-02-09-2026/
-  scartati 1 decreti (non sono bollettini)
-  nessun PDF o foglio trovato in https://www.istruzionematera.it/rettifica-bollettino-1-nomine-a-tempo-determinato-adss-sostegno-scuola-secondaria-di-secondo-grado/
-  scartati 1 decreti (non sono bollettini)
-  nessun PDF o foglio trovato in https://www.istruzionematera.it/rettifica-bollettino-1-nomine-a-tempo-determinato-as2a-scuola-secondaria-di-secondo-grado/
-  scartati 1 decreti (non sono bollettini)
-  nessun PDF o foglio trovato in https://www.istruzionematera.it/decreto-di-rettifica-scuola-secondaria-di-secondo-grado/
-  scartati 1 decreti (non sono bollettini)
-  scarico https://www.istruzionematera.it/wp-content/uploads/2026/09/2°-Bollettino-nomine-a-t.d..pdf
-    dalla memoria: letto (righe GPS=47)
-  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-09-17
-    ok [turno]: calibrato=true righe GPS=47 scartate=0
-  scartati 1 decreti (non sono bollettini)
-  nessun PDF o foglio trovato in https://www.istruzionematera.it/decreto-rettifica-2-bollettino-nomine-a-tempo-determinato/
-  scartati 1 decreti (non sono bollettini)
-  nessun PDF o foglio trovato in https://www.istruzionematera.it/ii-decreto-rettifica-2-bollettino-nomine-a-t-d-scuola-secondaria-di-primo-grado/
-  scartati 1 decreti (non sono bollettini)
-  scarico https://www.istruzionematera.it/wp-content/uploads/2026/09/3°-Bollettino.pdf
-    dalla memoria: letto (righe GPS=9)
-  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-09-25
-    ok [turno]: calibrato=true righe GPS=9 scartate=0
-  scartati 1 decreti (non sono bollettini)
-  scarico https://www.istruzionematera.it/wp-content/uploads/2026/10/Bollettino-V..pdf
-    dalla memoria: letto (righe GPS=25)
-  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-10-15
-    ok [turno]: calibrato=true righe GPS=25 scartate=0
-  scartati 1 decreti (non sono bollettini)
-  nessun PDF o foglio trovato in https://www.istruzionematera.it/decreto-di-rettifica-del-bollettino-n-5-scuola-secondaria-di-secondo-grado-adss/
-  scartati 1 decreti (non sono bollettini)
-  scarico https://www.istruzionematera.it/wp-content/uploads/2026/10/6°-Bollettino.pdf
-    dalla memoria: letto (righe GPS=9)
-  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-10-23
-    ok [turno]: calibrato=true righe GPS=9 scartate=0
-  turni letti=5 non letti=0 -> provincia completa
+  errore su https://www.istruzionematera.it/1-bollettino-nomine-a-tempo-determinato-a-s-2026-27/ -> HTTP 500 su https://www.istruzionematera.it/1-bollettino-nomine-a-tempo-determinato-a-s-2026-27/
+  errore su https://www.istruzionematera.it/rettifica-primo-bollettino-nomine-a-tempo-determinato-prot-n-147-02-09-2026/ -> HTTP 500 su https://www.istruzionematera.it/rettifica-primo-bollettino-nomine-a-tempo-determinato-prot-n-147-02-09-2026/
+  errore su https://www.istruzionematera.it/rettifica-bollettino-1-nomine-a-tempo-determinato-adss-sostegno-scuola-secondaria-di-secondo-grado/ -> HTTP 500 su https://www.istruzionematera.it/rettifica-bollettino-1-nomine-a-tempo-determinato-adss-sostegno-scuola-secondaria-di-secondo-grado/
+  errore su https://www.istruzionematera.it/rettifica-bollettino-1-nomine-a-tempo-determinato-as2a-scuola-secondaria-di-secondo-grado/ -> HTTP 500 su https://www.istruzionematera.it/rettifica-bollettino-1-nomine-a-tempo-determinato-as2a-scuola-secondaria-di-secondo-grado/
+  errore su https://www.istruzionematera.it/decreto-di-rettifica-scuola-secondaria-di-secondo-grado/ -> HTTP 500 su https://www.istruzionematera.it/decreto-di-rettifica-scuola-secondaria-di-secondo-grado/
+  errore su https://www.istruzionematera.it/decreto-2-bollettino-nomine-a-t-d-2026/ -> HTTP 500 su https://www.istruzionematera.it/decreto-2-bollettino-nomine-a-t-d-2026/
+  errore su https://www.istruzionematera.it/decreto-rettifica-2-bollettino-nomine-a-tempo-determinato/ -> HTTP 500 su https://www.istruzionematera.it/decreto-rettifica-2-bollettino-nomine-a-tempo-determinato/
+  errore su https://www.istruzionematera.it/ii-decreto-rettifica-2-bollettino-nomine-a-t-d-scuola-secondaria-di-primo-grado/ -> HTTP 500 su https://www.istruzionematera.it/ii-decreto-rettifica-2-bollettino-nomine-a-t-d-scuola-secondaria-di-primo-grado/
+  errore su https://www.istruzionematera.it/decreto-3-bollettino-nomine-a-t-d-2026-27/ -> HTTP 500 su https://www.istruzionematera.it/decreto-3-bollettino-nomine-a-t-d-2026-27/
+  errore su https://www.istruzionematera.it/decreto-5-bollettino-nomine-a-t-d-2026-27/ -> HTTP 500 su https://www.istruzionematera.it/decreto-5-bollettino-nomine-a-t-d-2026-27/
+  errore su https://www.istruzionematera.it/decreto-di-rettifica-del-bollettino-n-5-scuola-secondaria-di-secondo-grado-adss/ -> HTTP 500 su https://www.istruzionematera.it/decreto-di-rettifica-del-bollettino-n-5-scuola-secondaria-di-secondo-grado-adss/
+  errore su https://www.istruzionematera.it/decreto-6-bollettino-nomine-a-t-d-2026-27/ -> HTTP 500 su https://www.istruzionematera.it/decreto-6-bollettino-nomine-a-t-d-2026-27/
+  turni letti=0 non letti=11 -> da verificare
+  tengo i dati precedenti: turni letti ora=0, prima=5, pagine=12
 -- PZ Potenza --
 link da Orizzonte Scuola: 6
 totale pagine da controllare: 6
@@ -1396,8 +1316,9 @@ Warning: Indexing all PDF objects
     documento non leggibile: https://www.istruzione.calabria.it/catanzaro/wp-content/uploads/AllegatiAttiAlboPretorio/m_pi.AOOUSPCZ.REGISTRO-UFFICIALEU.0008935.31-08-2026.pdf Invalid PDF structure.
   nessun PDF utilizzabile in https://www.istruzione.calabria.it/catanzaro/m_pi-aoouspcz-registro-ufficialeu-0008935-31-08-2026/
   scarico https://www.istruzione.calabria.it/catanzaro/wp-content/uploads/2026/09/Decreto-Rettifica-I-Bollettino-Prot-n.9294.07-09-2026.pdf
-    OCR: nessuna pagina scansionata nel documento
+    dalla memoria: non letto (righe GPS=0)
   scarico https://www.istruzione.calabria.it/catanzaro/wp-content/uploads/2026/09/Rettifiche-Bollettino-1.pdf
+    dalla memoria: letto (righe GPS=12)
   data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-09-07
     ok [rett]: calibrato=true righe GPS=12 scartate=0
   scarico https://www.istruzione.calabria.it/catanzaro/wp-content/uploads/AllegatiAttiAlboPretorio/BollettinoTolateNomine_N2_1.pdf
@@ -1583,6 +1504,7 @@ Warning: Indexing all PDF objects
     documento non leggibile: https://www.istruzione.calabria.it/catanzaro/wp-content/uploads/AllegatiAttiAlboPretorio/m_pi.AOOUSPCZ.REGISTRO-UFFICIALEU.0009780.17-09-2026.pdf Invalid PDF structure.
   nessun PDF utilizzabile in https://www.istruzione.calabria.it/catanzaro/m_pi-aoouspcz-registro-ufficialeu-0009780-17-09-2026/
   scarico https://www.istruzione.calabria.it/catanzaro/wp-content/uploads/2026/09/BollettinoTotaleNomine_N3-1.pdf
+    dalla memoria: letto (righe GPS=56)
   data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-09-25
     ok [turno]: calibrato=true righe GPS=56 scartate=0
   scarico https://www.istruzione.calabria.it/catanzaro/wp-content/uploads/AllegatiAttiAlboPretorio/TotaleNomine_4.pdf
@@ -1677,9 +1599,11 @@ Warning: Indexing all PDF objects
     documento non leggibile: https://www.istruzione.calabria.it/catanzaro/wp-content/uploads/AllegatiAttiAlboPretorio/m_pi.AOOUSPCZ.REGISTRO-UFFICIALEU.0010555.07-10-2026.pdf Invalid PDF structure.
   nessun PDF utilizzabile in https://www.istruzione.calabria.it/catanzaro/m_pi-aoouspcz-registro-ufficialeu-0010555-07-10-2026/
   scarico https://www.istruzione.calabria.it/catanzaro/wp-content/uploads/2026/10/Bollettino_TotaleNomine_5-1.pdf
+    dalla memoria: letto (righe GPS=17)
   data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-10-16
     ok [turno]: calibrato=true righe GPS=17 scartate=0
   scarico https://www.istruzione.calabria.it/catanzaro/wp-content/uploads/2026/10/BollettinoTotaleNomine_6-1.pdf
+    dalla memoria: letto (righe GPS=11)
   data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-10-20
     ok [turno]: calibrato=true righe GPS=11 scartate=0
   turni letti=3 non letti=3 -> da verificare
@@ -1687,60 +1611,64 @@ Warning: Indexing all PDF objects
 link da Orizzonte Scuola: 16
 totale pagine da controllare: 15
   scarico https://www.istruzione.calabria.it/cosenza/wp-content/uploads/2026/08/BollettinoTotaleNomine-4.pdf
+    dalla memoria: letto (righe GPS=1138)
   data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-08-29
     ok [turno]: calibrato=true righe GPS=1138 scartate=0
   scartati 1 decreti (non sono bollettini)
   scarico https://www.istruzione.calabria.it/cosenza/wp-content/uploads/2026/09/m_pi.AOOUSPCS.REGISTRO-UFFICIALEU.0013061.01-09-2026.pdf
-    OCR: nessuna pagina scansionata nel documento
+    dalla memoria: non letto (righe GPS=0)
   data ricavata dal nome del file: 2026-09-01
     ok [rett]: calibrato=false righe GPS=0 scartate=0
   scarico https://www.istruzione.calabria.it/cosenza/wp-content/uploads/2026/09/m_pi.AOOUSPCS.REGISTRO-UFFICIALEU.0013235.03-09-2026-1.pdf
-    OCR: nessuna pagina scansionata nel documento
+    dalla memoria: non letto (righe GPS=0)
   data ricavata dal nome del file: 2026-09-03
     ok [rett]: calibrato=false righe GPS=0 scartate=0
   scarico https://www.istruzione.calabria.it/cosenza/wp-content/uploads/2026/09/m_pi.AOOUSPCS.REGISTRO-UFFICIALEU.0013490.08-09-2026.pdf
-    OCR: nessuna pagina scansionata nel documento
+    dalla memoria: non letto (righe GPS=0)
   data ricavata dal nome del file: 2026-09-08
     ok [rett]: calibrato=false righe GPS=0 scartate=0
   scarico https://www.istruzione.calabria.it/cosenza/wp-content/uploads/2026/09/Bollettino-Totale-Nomine-3.pdf
+    dalla memoria: letto (righe GPS=98)
   data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-09-09
     ok [turno]: calibrato=true righe GPS=98 scartate=0
   scarico https://www.istruzione.calabria.it/cosenza/wp-content/uploads/2026/09/m_pi.AOOUSPCS.REGISTRO-UFFICIALEU.0013628.11-09-2026.pdf
-    OCR: nessuna pagina scansionata nel documento
+    dalla memoria: non letto (righe GPS=0)
   data ricavata dal nome del file: 2026-09-11
     ok [rett]: calibrato=false righe GPS=0 scartate=0
   scarico https://www.istruzione.calabria.it/cosenza/wp-content/uploads/2026/09/m_pi.AOOUSPCS.REGISTRO-UFFICIALEU.0013816.15-09-2026.pdf
-    OCR: nessuna pagina scansionata nel documento
+    dalla memoria: non letto (righe GPS=0)
   data ricavata dal nome del file: 2026-09-15
     ok [rett]: calibrato=false righe GPS=0 scartate=0
   scarico https://www.istruzione.calabria.it/cosenza/wp-content/uploads/2026/09/m_pi.AOOUSPCS.REGISTRO-UFFICIALEU.0013939.17-09-2026.pdf
-    OCR: nessuna pagina scansionata nel documento
+    dalla memoria: non letto (righe GPS=0)
   data ricavata dal nome del file: 2026-09-17
     ok [rett]: calibrato=false righe GPS=0 scartate=0
   scarico https://www.istruzione.calabria.it/cosenza/wp-content/uploads/2026/09/m_pi.AOOUSPCS.REGISTRO-UFFICIALEU.0014281.24-09-2026.pdf
-    OCR: nessuna pagina scansionata nel documento
+    dalla memoria: non letto (righe GPS=0)
   data ricavata dal nome del file: 2026-09-24
   non sembra un bollettino, ignoro: https://www.istruzione.calabria.it/cosenza/aoouspcs14281-202600924/
   scarico https://www.istruzione.calabria.it/cosenza/wp-content/uploads/2026/09/m_pi.AOOUSPCS.REGISTRO-UFFICIALEU.0014441.28-09-2026-1.pdf
-    OCR: nessuna pagina scansionata nel documento
+    dalla memoria: non letto (righe GPS=0)
   data ricavata dal nome del file: 2026-09-28
     ok [rett]: calibrato=false righe GPS=0 scartate=0
   scarico https://www.istruzione.calabria.it/cosenza/wp-content/uploads/2026/10/Bollettino_TotaleNomine-PUBBLICAZIONE.pdf
+    dalla memoria: letto (righe GPS=77)
   data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-10-01
     ok [turno]: calibrato=true righe GPS=77 scartate=0
   scarico https://www.istruzione.calabria.it/cosenza/wp-content/uploads/2026/10/m_pi.AOOUSPCS.REGISTRO-UFFICIALEU.0014882.05-10-2026.pdf
-    OCR: nessuna pagina scansionata nel documento
+    dalla memoria: non letto (righe GPS=0)
   data ricavata dal nome del file: 2026-10-05
     ok [rett]: calibrato=false righe GPS=0 scartate=0
   scarico https://www.istruzione.calabria.it/cosenza/wp-content/uploads/2026/10/BollettinoTotaleNomine-5.pdf
-Warning: TT: undefined function: 21
+    dalla memoria: letto (righe GPS=30)
   data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-10-16
     ok [turno]: calibrato=true righe GPS=30 scartate=0
   scarico https://www.istruzione.calabria.it/cosenza/wp-content/uploads/2026/10/m_pi.AOOUSPCS.REGISTRO-UFFICIALEU.0015732.20-10-2026.pdf
-    OCR: nessuna pagina scansionata nel documento
+    dalla memoria: non letto (righe GPS=0)
   data ricavata dal nome del file: 2026-10-20
   non sembra un bollettino, ignoro: https://www.istruzione.calabria.it/cosenza/aoouspcs15732-20261020/
   scarico https://www.istruzione.calabria.it/cosenza/wp-content/uploads/2026/10/BollettinoTotaleNomine.pdf
+    dalla memoria: letto (righe GPS=16)
   data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-10-27
     ok [turno]: calibrato=true righe GPS=16 scartate=0
   turni letti=5 non letti=0 -> provincia completa
@@ -1748,34 +1676,43 @@ Warning: TT: undefined function: 21
 link da Orizzonte Scuola: 9
 totale pagine da controllare: 9
   scarico https://www.istruzione.calabria.it/crotone/wp-content/uploads/2026/08/BOLLETTINO-N.-1.pdf
+    dalla memoria: letto (righe GPS=490)
   data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-08-31
     ok [turno]: calibrato=true righe GPS=490 scartate=0
   scarico https://www.istruzione.calabria.it/crotone/wp-content/uploads/2026/09/GPS-2026-2028-rettifiche-I-turno-di-nomine_prot_0004472.09-09-2026.pdf
-    OCR: nessuna pagina scansionata nel documento
+    dalla memoria: non letto (righe GPS=0)
   scarico https://www.istruzione.calabria.it/crotone/wp-content/uploads/2026/09/rettifiche-ed-integrzioni-al-Bollettino-n.-1.pdf
+    dalla memoria: letto (righe GPS=52)
   data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-09-09
     ok [rett]: calibrato=true righe GPS=52 scartate=0
   scarico https://www.istruzione.calabria.it/crotone/wp-content/uploads/2026/09/Seconda-rettifica-al-bollettino-n.-1-nomine-a-tempo-determinato-personale-docente-a.s.-2026-2027U.0004517.10-09-2026.pdf
-    OCR: nessuna pagina scansionata nel documento
+    dalla memoria: non letto (righe GPS=0)
   scarico https://www.istruzione.calabria.it/crotone/wp-content/uploads/2026/09/Seconda-rettifica-al-bollettino-n.1.pdf
+    dalla memoria: letto (righe GPS=13)
   data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-09-10
     ok [rett]: calibrato=true righe GPS=13 scartate=0
   scarico https://www.istruzione.calabria.it/crotone/wp-content/uploads/2026/09/bollettino-n.-2-nomine-a-tempo-determinato-personale-docente.pdf
+    dalla memoria: letto (righe GPS=37)
   data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-09-17
     ok [turno]: calibrato=true righe GPS=37 scartate=0
   scarico https://www.istruzione.calabria.it/crotone/wp-content/uploads/2026/09/Integrazioni-e-rettifiche-al-bollettino-n.-2.pdf
+    dalla memoria: letto (righe GPS=9)
   data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-09-22
     ok [rett]: calibrato=true righe GPS=9 scartate=0
   scarico https://www.istruzione.calabria.it/crotone/wp-content/uploads/2026/10/III-bollettino-nomine-a-t.d.-2026-2027.pdf
+    dalla memoria: letto (righe GPS=18)
   data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-10-07
     ok [turno]: calibrato=true righe GPS=18 scartate=0
   scarico https://www.istruzione.calabria.it/crotone/wp-content/uploads/2026/10/INTEGRAZIONI-E-RETTIFICHE-A-III-TURNO-NOMINE-A-T.D.-2026-2027.pdf
+    dalla memoria: letto (righe GPS=2)
   data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-10-14
     ok [rett]: calibrato=true righe GPS=2 scartate=0
   scarico https://www.istruzione.calabria.it/crotone/wp-content/uploads/2026/10/bollettino-n.-4-nomine-a-tempo-determinato.pdf
+    dalla memoria: letto (righe GPS=15)
   data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-10-21
     ok [turno]: calibrato=true righe GPS=15 scartate=0
   scarico https://www.istruzione.calabria.it/crotone/wp-content/uploads/2026/10/integrazione-bollettino-n.4.pdf
+    dalla memoria: letto (righe GPS=1)
   data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-10-26
     ok [turno]: calibrato=true righe GPS=1 scartate=0
   turni letti=5 non letti=0 -> provincia completa
@@ -1802,53 +1739,61 @@ link da Orizzonte Scuola: 10
 totale pagine da controllare: 10
   scartati 1 decreti (non sono bollettini)
   scarico https://www.istruzione.calabria.it/vibovalentia/wp-content/uploads/2026/08/I-BOLLETTINO.pdf
+    dalla memoria: letto (righe GPS=172)
   data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-08-31
     ok [turno]: calibrato=true righe GPS=172 scartate=0
   scartati 1 decreti (non sono bollettini)
   scarico https://www.istruzione.calabria.it/vibovalentia/wp-content/uploads/2026/08/m_pi.AOOUSPVV.REGISTRO-UFFICIALEU.0006372.31-08-2026.pdf
-    OCR: nessuna pagina scansionata nel documento
+    dalla memoria: non letto (righe GPS=0)
   data ricavata dal nome del file: 2026-08-31
     ok [rett]: calibrato=false righe GPS=0 scartate=0
   scartati 1 decreti (non sono bollettini)
   scarico https://www.istruzione.calabria.it/vibovalentia/wp-content/uploads/2026/09/m_pi.AOOUSPVV.REGISTRO-UFFICIALEU.0006838.11-09-2026.pdf
-    OCR: nessuna pagina scansionata nel documento
+    dalla memoria: non letto (righe GPS=0)
   scarico https://www.istruzione.calabria.it/vibovalentia/wp-content/uploads/2026/09/RETTIFICA-I-BOLLETTINO.pdf
+    dalla memoria: letto (righe GPS=189)
   data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-09-11
     ok [rett]: calibrato=true righe GPS=189 scartate=0
   scartati 1 decreti (non sono bollettini)
   scarico https://www.istruzione.calabria.it/vibovalentia/wp-content/uploads/2026/09/REVOCHE.pdf
-    OCR: nessuna pagina scansionata nel documento
+    dalla memoria: non letto (righe GPS=0)
   scarico https://www.istruzione.calabria.it/vibovalentia/wp-content/uploads/2026/09/m_pi.AOOUSPVV.REGISTRO-UFFICIALEU.0007072.19-09-2026.pdf
-    OCR: nessuna pagina scansionata nel documento
+    dalla memoria: non letto (righe GPS=0)
   scarico https://www.istruzione.calabria.it/vibovalentia/wp-content/uploads/2026/09/RETTIFICHE.pdf
+    dalla memoria: non letto (righe GPS=16)
   data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-09-19
     ok [rett]: calibrato=true righe GPS=16 scartate=1
   scartati 1 decreti (non sono bollettini)
   scarico https://www.istruzione.calabria.it/vibovalentia/wp-content/uploads/2026/09/II-Bollettino.pdf
+    dalla memoria: letto (righe GPS=25)
   data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-09-22
     ok [turno]: calibrato=true righe GPS=25 scartate=0
   scartati 1 decreti (non sono bollettini)
   scarico https://www.istruzione.calabria.it/vibovalentia/wp-content/uploads/2026/09/m_pi.AOOUSPVV.REGISTRO-UFFICIALEU.0007184.23-09-2026.pdf
-    OCR: nessuna pagina scansionata nel documento
+    dalla memoria: non letto (righe GPS=0)
   documento di tipo decreto, non è un bollettino: ignoro loads/2026/09/m_pi.AOOUSPVV.REGISTRO-UFFICIALEU.0007184.23-09-2026.pdf
   scartati 1 decreti (non sono bollettini)
   scarico https://www.istruzione.calabria.it/vibovalentia/wp-content/uploads/2026/09/m_pi.AOOUSPVV.REGISTRO-UFFICIALEU.0007289.28-09-2026.pdf
-    OCR: nessuna pagina scansionata nel documento
+    dalla memoria: non letto (righe GPS=0)
   scarico https://www.istruzione.calabria.it/vibovalentia/wp-content/uploads/2026/09/rettifica.pdf
+    dalla memoria: letto (righe GPS=3)
   data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-09-28
     ok [rett]: calibrato=true righe GPS=3 scartate=0
   scartati 1 decreti (non sono bollettini)
   scarico https://www.istruzione.calabria.it/vibovalentia/wp-content/uploads/2026/10/m_pi.AOOUSPVV.REGISTRO-UFFICIALEU.0007668.12-10-2026.pdf
-    OCR: nessuna pagina scansionata nel documento
+    dalla memoria: non letto (righe GPS=0)
   scarico https://www.istruzione.calabria.it/vibovalentia/wp-content/uploads/2026/10/Rettifica-Bollettino-IV.pdf
+    dalla memoria: letto (righe GPS=28)
   data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-10-12
     ok [rett]: calibrato=true righe GPS=28 scartate=0
   scartati 1 decreti (non sono bollettini)
   scarico https://www.istruzione.calabria.it/vibovalentia/wp-content/uploads/2026/10/Bollettino-V.pdf
+    dalla memoria: letto (righe GPS=6)
   data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-10-16
     ok [turno]: calibrato=true righe GPS=6 scartate=0
   scartati 1 decreti (non sono bollettini)
   scarico https://www.istruzione.calabria.it/vibovalentia/wp-content/uploads/2026/10/Bollettino-VI.pdf
+    dalla memoria: letto (righe GPS=2)
   data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-10-23
     ok [turno]: calibrato=true righe GPS=2 scartate=0
   TURNO MANCANTE: 3
@@ -1859,21 +1804,17 @@ link da Orizzonte Scuola: 5
 totale pagine da controllare: 5
   scarico https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/ufficio-territoriale-di-gorizia/allegati/Bollettino_Totale_Nomine-n_3.pdf
     dalla memoria: letto (righe GPS=245)
-  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-08-31
     ok [turno]: calibrato=true righe GPS=245 scartate=0
   scarico https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/ufficio-territoriale-di-pordenone/allegati/Turno_4_-_allegato_11.pdf
     dalla memoria: non letto (righe GPS=0)
   scarico https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/ufficio-territoriale-di-pordenone/allegati/Turno_4_-_allegato_21.pdf
     dalla memoria: letto (righe GPS=55)
-  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-09-09
     ok [turno]: calibrato=true righe GPS=55 scartate=0
   scarico https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/ufficio-territoriale-di-gorizia/allegati/Bollettino_TotaleNomine-4-del-11_09_2026.pdf
     dalla memoria: letto (righe GPS=19)
-  data ricavata dal nome del file: 2026-09-11
     ok [turno]: calibrato=true righe GPS=19 scartate=0
   scarico https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/ufficio-territoriale-di-gorizia/allegati/Bollettino_TotaleNomine-5.pdf
     dalla memoria: letto (righe GPS=4)
-  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-10-01
     ok [turno]: calibrato=true righe GPS=4 scartate=0
   scarico https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/ufficio-territoriale-di-gorizia/allegati/Bollettino_TotaleNomine-8.pdf
     dalla memoria: non letto (righe GPS=0)
@@ -1883,7 +1824,6 @@ totale pagine da controllare: 5
     dalla memoria: non letto (righe GPS=0)
   scarico https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/ufficio-territoriale-di-gorizia/allegati/m_pi.AOOUSPGO.REGISTRO-UFFICIALEU.0004194.15-10-2026-Decreto-pubblicazione-nomine-II-turno-8-bollettino.pdf
     dalla memoria: non letto (righe GPS=0)
-  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-10-15
     ok [turno]: calibrato=true righe GPS=0 scartate=0
   turni letti=4 non letti=1 -> da verificare
 -- PN Pordenone --
@@ -1897,6 +1837,7 @@ totale pagine da controllare: 10
     dalla memoria: non letto (righe GPS=0)
   scarico https://usrfvg.gov.it/pdflink/it/d6a236ad-4558-4628-b211-bcc7cff695b5/AVVISO-ANNULLAMENTO-DUFFICIO-IN-VIA-DI-AUTOTUTELA-DELLE-INDIVIDUAZIONI-DEI-SUPPLENTI-CHE-IN-DATA-28-AGOSTO-2026-HANNO-RICEVUTO-LA-PROPOSTA-DI-CONTRATTO-A-TEMPO-DETERMINATO-DALLE-GRADUATORIE-GAE-E-GPS-1-e-2-FASCIA..pdf
     dalla memoria: non letto (righe GPS=0)
+  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-08-31
     ok [rett]: calibrato=false righe GPS=0 scartate=0
   scarico https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/ufficio-territoriale-di-pordenone/allegati/Turno-3-allegato-1.pdf
     dalla memoria: non letto (righe GPS=0)
@@ -1908,43 +1849,36 @@ totale pagine da controllare: 10
     dalla memoria: non letto (righe GPS=0)
   scarico https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/ufficio-territoriale-di-pordenone/allegati/Turno_4_-_allegato_21.pdf
     dalla memoria: letto (righe GPS=55)
-  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-09-09
     ok [turno]: calibrato=true righe GPS=55 scartate=0
   scarico https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/ufficio-territoriale-di-pordenone/allegati/Turno-5-Allegato-1_.pdf
     dalla memoria: non letto (righe GPS=0)
   scarico https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/ufficio-territoriale-di-pordenone/allegati/Turno-5-Allegato-2_.pdf
     dalla memoria: letto (righe GPS=14)
-  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-09-21
     ok [turno]: calibrato=true righe GPS=14 scartate=0
   scarico https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/ufficio-territoriale-di-pordenone/allegati/Turno-6-Allegato-1.pdf
     dalla memoria: non letto (righe GPS=0)
   scarico https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/ufficio-territoriale-di-pordenone/allegati/Turno-6-Allegato-2.pdf
     dalla memoria: letto (righe GPS=5)
-  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-09-24
     ok [turno]: calibrato=true righe GPS=5 scartate=0
   scarico https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/ufficio-territoriale-di-pordenone/allegati/Turno-7-Allegato-1.pdf
     dalla memoria: non letto (righe GPS=0)
   scarico https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/ufficio-territoriale-di-pordenone/allegati/Turno-7-Allegato-2.pdf
     dalla memoria: letto (righe GPS=6)
-  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-09-29
     ok [turno]: calibrato=true righe GPS=6 scartate=0
   scarico https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/ufficio-territoriale-di-pordenone/allegati/Turno-8-Allegato-1.pdf
     dalla memoria: non letto (righe GPS=0)
   scarico https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/ufficio-territoriale-di-pordenone/allegati/Turno-8-Allegato-2.pdf
     dalla memoria: letto (righe GPS=4)
-  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-10-01
     ok [turno]: calibrato=true righe GPS=4 scartate=0
   scarico https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/ufficio-territoriale-di-pordenone/allegati/Turno-9-Allegato-1.pdf
     dalla memoria: non letto (righe GPS=0)
   scarico https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/ufficio-territoriale-di-pordenone/allegati/Turno-9-Allegato-2.pdf
     dalla memoria: letto (righe GPS=2)
-  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-10-20
     ok [turno]: calibrato=true righe GPS=2 scartate=0
   scarico https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/ufficio-territoriale-di-pordenone/allegati/Turno-10-Allegato-1.pdf
     dalla memoria: non letto (righe GPS=0)
   scarico https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/ufficio-territoriale-di-pordenone/allegati/Turno-10-Allegato-2.pdf
     dalla memoria: letto (righe GPS=3)
-  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-10-28
     ok [turno]: calibrato=true righe GPS=3 scartate=0
   turno 4 non trovato, ma ci sono bollettini senza numero nel periodo: non lo conto
   turni letti=9 non letti=0 -> provincia completa
@@ -1959,7 +1893,6 @@ totale pagine da controllare: 9
   scartati 2 decreti (non sono bollettini)
   scarico https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/ufficio-territoriale-di-trieste/allegati/2026/Elenco-docenti-rettifiche-nomine-a-TD.pdf
     dalla memoria: letto (righe GPS=2)
-  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-09-04
     ok [rett]: calibrato=true righe GPS=2 scartate=0
   scartati 1 decreti (non sono bollettini)
   scarico https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/Direzione/Ufficio3/allegati-ufficio-3/2026/rettifica-secondo-bollettino-supplenze-TS-as-2026-2027.pdf
@@ -1969,31 +1902,25 @@ totale pagine da controllare: 9
   scartati 1 decreti (non sono bollettini)
   scarico https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/Direzione/Ufficio3/allegati-ufficio-3/2026/III-bollettino-nomine-a-tempo-determinato.pdf
     dalla memoria: letto (righe GPS=20)
-  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-09-18
     ok [turno]: calibrato=true righe GPS=20 scartate=0
   scarico https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/ufficio-territoriale-di-trieste/allegati/2026/IV-Bollettino-nomine-a-TD.pdf
     dalla memoria: letto (righe GPS=9)
-  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-10-02
     ok [turno]: calibrato=true righe GPS=9 scartate=0
   scartati 1 decreti (non sono bollettini)
   scarico https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/Direzione/Ufficio3/allegati-ufficio-3/2026/V-bollettino-nomine-a-tempo-determinato.pdf
     dalla memoria: letto (righe GPS=4)
-  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-10-09
     ok [turno]: calibrato=true righe GPS=4 scartate=0
   scartati 1 decreti (non sono bollettini)
   scarico https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/Direzione/Ufficio3/allegati-ufficio-3/2026/VI-bollettino-nomine-a-TD.pdf
     dalla memoria: letto (righe GPS=4)
-  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-10-15
     ok [turno]: calibrato=true righe GPS=4 scartate=0
   scartati 1 decreti (non sono bollettini)
   scarico https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/Direzione/Ufficio3/allegati-ufficio-3/2026/VII-bollettino-nomine-a-Tempo-Determinato.pdf
     dalla memoria: letto (righe GPS=3)
-  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-10-27
     ok [turno]: calibrato=true righe GPS=3 scartate=0
   scartati 1 decreti (non sono bollettini)
   scarico https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/Direzione/Ufficio3/allegati-ufficio-3/2026/Ottavo-Bollettino-nomine-a-TD.pdf
     dalla memoria: letto (righe GPS=2)
-  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-10-30
     ok [turno]: calibrato=true righe GPS=2 scartate=0
   turni letti=7 non letti=0 -> provincia completa
 -- UD Udine --
@@ -2018,27 +1945,21 @@ totale pagine da controllare: 10
     ok [rett]: calibrato=false righe GPS=0 scartate=0
   scarico https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/ufficio-territoriale-di-udine/allegati/2026-09-17_12016_AOOUSPUD_assunzioni-TD-docenti_Bollettino_TotaleNomine_definitivo.pdf
     dalla memoria: letto (righe GPS=21)
-  data ricavata dal nome del file: 2026-09-17
     ok [turno]: calibrato=true righe GPS=21 scartate=0
   scarico https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/ufficio-territoriale-di-udine/allegati/2026-09-25_Bollettino_TotaleNomine.pdf
     dalla memoria: letto (righe GPS=13)
-  data ricavata dal nome del file: 2026-09-25
     ok [turno]: calibrato=true righe GPS=13 scartate=0
   scarico https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/ufficio-territoriale-di-udine/allegati/2026-10-06_12679_AOOUSPUD_assunzioni-TD-docenti_Bollettino_TotaleNomine_definitivo.pdf
     dalla memoria: letto (righe GPS=2)
-  data ricavata dal nome del file: 2026-10-06
     ok [turno]: calibrato=true righe GPS=2 scartate=0
   scarico https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/ufficio-territoriale-di-udine/allegati/2026-10-09_12850_AOOUSPUD_assunzioni-TD-docenti_Bollettino_TotaleNomine_definitivo.pdf
     dalla memoria: letto (righe GPS=1)
-  data ricavata dal nome del file: 2026-10-09
     ok [turno]: calibrato=true righe GPS=1 scartate=0
   scarico https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/ufficio-territoriale-di-udine/allegati/2026-10-14_13004_AOOUSPUD_assunzioni-TD-docenti_Bollettino_TotaleNomine_definitivo.pdf
     dalla memoria: letto (righe GPS=3)
-  data ricavata dal nome del file: 2026-10-14
     ok [turno]: calibrato=true righe GPS=3 scartate=0
   scarico https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/ufficio-territoriale-di-udine/allegati/2026-10-19_13161_AOOUSPUD_assunzioni-TD-docenti_Bollettino_TotaleNomine_definitivo.pdf
     dalla memoria: letto (righe GPS=1)
-  data ricavata dal nome del file: 2026-10-19
     ok [turno]: calibrato=true righe GPS=1 scartate=0
   turni letti=9 non letti=0 -> provincia completa
 -- FR Frosinone --
@@ -2379,16 +2300,13 @@ totale pagine da controllare: 10
   errore su https://www.istruzioneimperia.gov.it/pagine/vii-turno-di-nomine-da-gps -> HTTP 509 su https://www.istruzioneimperia.gov.it/pagine/vii-turno-di-nomine-da-gps
   errore su https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps--as-2026-27--vii-turno -> HTTP 509 su https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps--as-2026-27--vii-turno
   errore su https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps--as-2026-27--ix-turno -> HTTP 509 su https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps--as-2026-27--ix-turno
-  pagina senza allegato riconoscibile (57448 caratteri); collegamenti a documenti: 
-     ~ /pvw2/app/default/tools.php?act=downloadFile&id=1658
-     ~ /pvw2/app/default/tools.php?act=downloadFile&id=1657
-  nessun PDF o foglio trovato in https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps-as-2026-27--x-turno
+  errore su https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps-as-2026-27--x-turno -> HTTP 509 su https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps-as-2026-27--x-turno
   turni letti=0 non letti=10 -> da verificare
 -- SP La Spezia --
 link da Orizzonte Scuola: 11
 totale pagine da controllare: 11
   errore su https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---i-turno-as-20262027 -> HTTP 509 su https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---i-turno-as-20262027
-  errore su https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---i-turno-as-20262027-1 -> HTTP 509 su https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---i-turno-as-20262027-1
+  nessun PDF o foglio trovato in https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---i-turno-as-20262027-1
   errore su https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---ii-turno-11092026 -> HTTP 509 su https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---ii-turno-11092026
   errore su https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---ii-turno-11092026-1 -> HTTP 509 su https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---ii-turno-11092026-1
   errore su https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---iii-turno-15092026--1 -> HTTP 509 su https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---iii-turno-15092026--1
@@ -2398,16 +2316,13 @@ totale pagine da controllare: 11
   errore su https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---vii-turno-07102026- -> HTTP 509 su https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---vii-turno-07102026-
   errore su https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---viii-turno-09102026- -> HTTP 509 su https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---viii-turno-09102026-
   errore su https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---ix-turno-13102026 -> HTTP 509 su https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---ix-turno-13102026
-  turni letti=0 non letti=11 -> da verificare
+  turni letti=0 non letti=10 -> da verificare
 -- SV Savona --
 link da Orizzonte Scuola: 14
 totale pagine da controllare: 14
   errore su https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-1 -> HTTP 509 su https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-1
   errore su https://www.istruzionesavona.gov.it/pagine/decreto-di-rettifica-delle-assegnazioni---1-turno-gps- -> HTTP 509 su https://www.istruzionesavona.gov.it/pagine/decreto-di-rettifica-delle-assegnazioni---1-turno-gps-
-  pagina senza allegato riconoscibile (53903 caratteri); collegamenti a documenti: 
-     ~ /pvw2/app/default/tools.php?act=downloadFile&id=1751
-     ~ /pvw2/app/default/tools.php?act=downloadFile&id=1750
-  nessun PDF o foglio trovato in https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-1-2
+  errore su https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-1-2 -> HTTP 509 su https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-1-2
   errore su https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-2- -> HTTP 509 su https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-2-
   errore su https://www.istruzionesavona.gov.it/pagine/decreto-rettifica-termine-incarico-personale-docente-i-e-ii-grado -> HTTP 509 su https://www.istruzionesavona.gov.it/pagine/decreto-rettifica-termine-incarico-personale-docente-i-e-ii-grado
   errore su https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-4 -> HTTP 509 su https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-4
@@ -2415,7 +2330,10 @@ totale pagine da controllare: 14
   errore su https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-5-1 -> HTTP 509 su https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-5-1
   errore su https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-6- -> HTTP 509 su https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-6-
   errore su https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-8-- -> HTTP 509 su https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-8--
-  errore su https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-9 -> HTTP 509 su https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-9
+  pagina senza allegato riconoscibile (53926 caratteri); collegamenti a documenti: 
+     ~ /pvw2/app/default/tools.php?act=downloadFile&id=1781
+     ~ /pvw2/app/default/tools.php?act=downloadFile&id=1780
+  nessun PDF o foglio trovato in https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-9
   errore su https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-9-1 -> HTTP 509 su https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-9-1
   errore su https://www.istruzionesavona.gov.it/pagine/nomine-da-gps----turno-11 -> HTTP 509 su https://www.istruzionesavona.gov.it/pagine/nomine-da-gps----turno-11
   errore su https://www.istruzionesavona.gov.it/pagine/nomine-da-gps----turno-12-1 -> HTTP 509 su https://www.istruzionesavona.gov.it/pagine/nomine-da-gps----turno-12-1
@@ -2474,7 +2392,7 @@ link da Orizzonte Scuola: 8
 totale pagine da controllare: 8
         browser: titolo pagina "Nomine a tempo determinato da GAE e GPS - Esito conferimento nomine a T.D. da I "
   prova con il browser: 0 allegati
-  pagina senza allegato riconoscibile (104884 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (104930 caratteri); collegamenti a documenti: nessuno
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/brescia/-/nomine-a-tempo-determinato-da-gae-e-gps-esito-conferimento-nomine-a-t-d-da-i-e-ii-fascia
   prova senza suffisso: mpo-determinato-da-gae-e-gps-esito-conferimento-nomine-a-t-d-da-di-i-e-ii-fascia -> 2 allegati
   scarico https://www.mim.gov.it/documents/9081166/9232380/Bollettino+totale+nomine.pdf/363635f1-c9a1-f357-03e6-e057175eb773?version=1.0&t=1756556395055
@@ -2631,7 +2549,7 @@ totale pagine da controllare: 15
   prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-terzo-scorrimento-secondaria-di-primo-grado-quarto-scorrimento-e-di-secon
         browser: titolo pagina "Reclutamento personale docente a tempo determinato di scuola dell'infanzia TERZO"
   prova con il browser: 0 allegati
-  pagina senza allegato riconoscibile (108835 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (108881 caratteri); collegamenti a documenti: nessuno
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-terzo-scorrimento-secondaria-di-primo-grado-quarto-scorrimento-e-di-secon-1
   scarico https://www.mim.gov.it/documents/9081350/10317897/m_pi.AOOUSPLC.REGISTRO+UFFICIALE%28U%29.0005366.29-09-2026.pdf/2910f517-6ab6-0b91-2185-ecf1f5b2c53b?version=1.0&t=1790679220449
     dalla memoria: non letto (righe GPS=0)
@@ -2654,7 +2572,7 @@ totale pagine da controllare: 15
   prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-settimo-scorrimento-e-di-scuola-secondaria-di-secondo-grado-nono-scorrime
         browser: titolo pagina "Reclutamento personale docente a tempo determinato di scuola dell'infanzia SETTI"
   prova con il browser: 0 allegati
-  pagina senza allegato riconoscibile (108685 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (108731 caratteri); collegamenti a documenti: nessuno
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-settimo-scorrimento-e-di-scuola-secondaria-di-secondo-grado-nono-scorrime-1
   prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-e-secondaria-di-primo-grado-nono-scorrimento-nonche-di-scuola-secondaria-
         browser: titolo pagina "Reclutamento personale docente a tempo determinato di scuola dell'infanzia e sec"
@@ -2664,12 +2582,12 @@ totale pagine da controllare: 15
   prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-e-secondaria-di-primo-grado-decimo-scorrimento-nonche-di-scuola-secondari
         browser: titolo pagina "Reclutamento personale docente a tempo determinato di scuola dell'infanzia e sec"
   prova con il browser: 0 allegati
-  pagina senza allegato riconoscibile (108869 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (108915 caratteri); collegamenti a documenti: nessuno
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-e-secondaria-di-primo-grado-decimo-scorrimento-nonche-di-scuola-secondari-1
   prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-secondaria-di-primo-grado-undicesimo-scorrimento-e-di-scuola-secondaria-di-secondo-grad
         browser: titolo pagina "Reclutamento personale docente a tempo determinato di scuola secondaria di primo"
   prova con il browser: 0 allegati
-  pagina senza allegato riconoscibile (108698 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (108744 caratteri); collegamenti a documenti: nessuno
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-secondaria-di-primo-grado-undicesimo-scorrimento-e-di-scuola-secondaria-di-secondo-grad-1
   prova senza suffisso: rminato-di-scuola-secondaria-di-primo-grado-dodicesimo-scorrimento-a-s-2026-2027 -> 2 allegati
   scarico https://www.mim.gov.it/documents/9081350/10317897/bollettino+I+grado+27_10_2026.pdf/a5da4d8b-3cfc-0006-6a3a-90c5766c8889?version=1.0&t=1793099185153
@@ -2698,7 +2616,7 @@ totale pagine da controllare: 6
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/lodi/-/individuazione-dei-destinatari-di-contratti-t-d-su-posti-comuni-e-di-sostegno-per-l-a-s-2026-2027-terzo-algoritmo
         browser: titolo pagina "Individuazione dei destinatari di contratti T.D. su posti comuni e di sostegno p"
   prova con il browser: 0 allegati
-  pagina senza allegato riconoscibile (107793 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (107839 caratteri); collegamenti a documenti: nessuno
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/lodi/-/individuazione-dei-destinatari-di-contratti-t-d-su-posti-comuni-e-di-sostegno-per-l-a-s-2026-2027-quarto-algoritmo
         browser: titolo pagina "Individuazione dei destinatari di contratti T.D. su posti comuni e di sostegno p"
   prova con il browser: 0 allegati
@@ -2813,12 +2731,12 @@ totale pagine da controllare: 7
   prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027
         browser: titolo pagina "Incarichi a tempo determinato personale docente - a.s. 2026/2027 - Incarichi a t"
   prova con il browser: 0 allegati
-  pagina senza allegato riconoscibile (121532 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (121486 caratteri); collegamenti a documenti: nessuno
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-4
   prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027
         browser: titolo pagina "Incarichi a tempo determinato personale docente - a.s. 2026/2027 - Incarichi a t"
   prova con il browser: 0 allegati
-  pagina senza allegato riconoscibile (121484 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (121530 caratteri); collegamenti a documenti: nessuno
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-6
   prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027
         browser: titolo pagina "Incarichi a tempo determinato personale docente - a.s. 2026/2027 - Incarichi a t"
@@ -2842,7 +2760,7 @@ totale pagine da controllare: 7
   prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/pavia/-/pubblicazione-esiti-individuazione-del-personale-docente-di-ogni-ordine-e-grado-ed-educativo-destinatario-di-contratto-a-tempo-determinato-per-l-ann
         browser: titolo pagina "Pubblicazione esiti individuazione del personale docente di ogni ordine e grado "
   prova con il browser: 0 allegati
-  pagina senza allegato riconoscibile (105401 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (105447 caratteri); collegamenti a documenti: nessuno
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/pavia/-/pubblicazione-esiti-individuazione-del-personale-docente-di-ogni-ordine-e-grado-ed-educativo-destinatario-di-contratto-a-tempo-determinato-per-l-ann-5
   scarico https://www.mim.gov.it/documents/9081911/10331371/m_pi.AOOUSPPV.REGISTRO+UFFICIALE%28U%29.0007101.21-09-2026.pdf/c4cf7484-b984-6630-7ac5-39b028a6e711?version=1.0&t=1789989563571
     dalla memoria: non letto (righe GPS=0)
@@ -2893,7 +2811,7 @@ totale pagine da controllare: 6
   prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/sondrio/-/eisto-conferimento-nomine-da-gae-gps-bollettino-n
         browser: titolo pagina "Esito conferimento nomine da GAE\GPS - Bollettino n. 8 - Esito conferimento nomi"
   prova con il browser: 0 allegati
-  pagina senza allegato riconoscibile (130693 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (130739 caratteri); collegamenti a documenti: nessuno
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/sondrio/-/eisto-conferimento-nomine-da-gae-gps-bollettino-n-8
   prova senza suffisso: im.gov.it/web/sondrio/-/esito-conferimento-nomine-a-tempo-determinato-da-gae-gps -> 0 allegati
         browser: titolo pagina "Esito conferimento nomine a tempo determinato da GAE\GPS - Esito conferimento no"
@@ -2945,7 +2863,7 @@ totale pagine da controllare: 10
     ok [turno]: calibrato=true righe GPS=19 scartate=0
         browser: titolo pagina "Bollettino nomine n. 7 relativo agli esiti della procedura di conferimento degli"
   prova con il browser: 0 allegati
-  pagina senza allegato riconoscibile (158864 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (158818 caratteri); collegamenti a documenti: nessuno
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/varese/-/bollettino-nomine-n-7-relativo-agli-esiti-della-procedura-di-conferimento-degli-incarichi-a-tempo-determinato-da-gps-
   TURNO MANCANTE: 4
   turni letti=3 non letti=2 -> da verificare
@@ -2961,7 +2879,7 @@ totale pagine da controllare: 11
      ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/includes/download.php?id=30416
      ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/includes/download.php?id=30417
   non sembra un bollettino, ignoro: https://www.istruzione-ancona.it/nomine-a-tempo-determinato-a-s-2026-2027/
-  pagina senza allegato riconoscibile (107828 caratteri); collegamenti a documenti: 
+  pagina senza allegato riconoscibile (107827 caratteri); collegamenti a documenti: 
      ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/css/frontend.css?ver=1.3.1
      ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/includes/download.php?id=30459
      ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/includes/download.php?id=30462
@@ -2986,27 +2904,27 @@ totale pagine da controllare: 11
      ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/includes/download.php?id=30699
      ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/includes/download.php?id=30700
   nessun PDF o foglio trovato in https://www.istruzione-ancona.it/nomine-a-tempo-determinato-a-s-2026-2027-4/
-  pagina senza allegato riconoscibile (107791 caratteri); collegamenti a documenti: 
+  pagina senza allegato riconoscibile (107912 caratteri); collegamenti a documenti: 
      ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/css/frontend.css?ver=1.3.1
      ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/includes/download.php?id=30732
      ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/includes/download.php?id=30731
   nessun PDF o foglio trovato in https://www.istruzione-ancona.it/nomine-a-tempo-determinato-a-s-2026-2027-per-la-scuola-secondaria-di-secondo-grado/
-  pagina senza allegato riconoscibile (107451 caratteri); collegamenti a documenti: 
+  pagina senza allegato riconoscibile (107572 caratteri); collegamenti a documenti: 
      ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/css/frontend.css?ver=1.3.1
      ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/includes/download.php?id=30744
      ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/includes/download.php?id=30745
   nessun PDF o foglio trovato in https://www.istruzione-ancona.it/nomine-a-tempo-determinato-a-s-2026-2027-per-le-scuola-scuola-secondaria/
-  pagina senza allegato riconoscibile (109261 caratteri); collegamenti a documenti: 
+  pagina senza allegato riconoscibile (109382 caratteri); collegamenti a documenti: 
      ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/css/frontend.css?ver=1.3.1
      ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/includes/download.php?id=30904
      ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/includes/download.php?id=30905
   nessun PDF o foglio trovato in https://www.istruzione-ancona.it/docenti-di-ogni-ordine-e-grado-nomine-a-tempo-determinato-a-s-2026-2027/
-  pagina senza allegato riconoscibile (108422 caratteri); collegamenti a documenti: 
+  pagina senza allegato riconoscibile (108543 caratteri); collegamenti a documenti: 
      ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/css/frontend.css?ver=1.3.1
      ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/includes/download.php?id=30938
      ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/includes/download.php?id=30939
   nessun PDF o foglio trovato in https://www.istruzione-ancona.it/personale-docente-nomine-a-tempo-determinato-45/
-  pagina senza allegato riconoscibile (108420 caratteri); collegamenti a documenti: 
+  pagina senza allegato riconoscibile (108541 caratteri); collegamenti a documenti: 
      ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/css/frontend.css?ver=1.3.1
      ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/includes/download.php?id=30967
      ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/includes/download.php?id=30968
@@ -3905,7 +3823,7 @@ totale pagine da controllare: 3
   nessun PDF o foglio trovato in https://www.ustlecce.it/index.php/personale-docente/file/3620-nomine-a-tempo-determinato-del-personale-docente-per-l-anno-scolastico-2026-27-fase-1-scuola-infanzia-primaria-secondaria-di-primo-e-secondo-grado
   pagina senza allegato riconoscibile (230671 caratteri); collegamenti a documenti: nessuno
   nessun PDF o foglio trovato in https://www.ustlecce.it/index.php/personale-docente?download=3623:avviso-urgente-ai-docenti-aspiranti-a-incarichi-a-tempo-determinato-da-gae-e-gps-chiarimenti-sugli-esiti-della-fase-1-delle-supplenze-e-modalita-di-gestione-delle-segnalazioni
-  pagina senza allegato riconoscibile (190969 caratteri); collegamenti a documenti: 
+  pagina senza allegato riconoscibile (190899 caratteri); collegamenti a documenti: 
      ~ /media/com_phocadownload/css/main/phocadownload.css
      ~ /media/com_phocadownload/css/main/rating.css
      ~ /media/com_phocadownload/css/custom/default.css
@@ -3930,9 +3848,7 @@ totale pagine da controllare: 10
   scarico https://www.usptaranto.it/wp-content/uploads/2026/09/Bollettino-turno-3-supplenze-GPS-a.s.-2026-27.pdf
     dalla memoria: letto (righe GPS=42)
     ok [turno]: calibrato=true righe GPS=42 scartate=0
-  scarico https://www.usptaranto.it/wp-content/uploads/2026/09/m_pi.AOOUSPTA.REGISTRO-UFFICIALEU.0020526.24-09-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  non sembra un bollettino, ignoro: https://www.usptaranto.it/2026/09/24/scuola-secondaria-di-ii-grado-gps-decreto-di-revoca-e-scorrimento-cl-c-adss/
+  errore su https://www.usptaranto.it/2026/09/24/scuola-secondaria-di-ii-grado-gps-decreto-di-revoca-e-scorrimento-cl-c-adss/ -> The operation was aborted due to timeout
   scarico https://www.usptaranto.it/wp-content/uploads/2026/10/Bollettino-TURNO-5-supplenze-GPS-a.s.-2026-27.pdf
     dalla memoria: letto (righe GPS=44)
     ok [turno]: calibrato=true righe GPS=44 scartate=0
@@ -4661,61 +4577,15 @@ totale pagine da controllare: 13
 -- AR Arezzo --
 link da Orizzonte Scuola: 8
 totale pagine da controllare: 8
-  scarico https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_1/Bollettino_1.xlsx
-    documento non leggibile: https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_1/Bollettino_1.xlsx libreria read-excel-file non installata
-  scarico https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_1/m_pi.AOOUSPAR.REGISTRO_UFFICIALEU.0008333.29-08-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro /Bollettino_1/m_pi.AOOUSPAR.REGISTRO_UFFICIALEU.0008333.29-08-2026.pdf
-  scarico https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_2/Bollettino_2_totale_nomine.xlsx
-    documento non leggibile: https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_2/Bollettino_2_totale_nomine.xlsx libreria read-excel-file non installata
-  scarico https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_2/m_pi.AOOUSPAR.REGISTRO_UFFICIALEU.0009073.12-09-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  scarico https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_2/Dispo_2_Bollettino.xlsx
-    documento non leggibile: https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_2/Dispo_2_Bollettino.xlsx libreria read-excel-file non installata
-  documento di tipo decreto, non è un bollettino: ignoro /Bollettino_2/m_pi.AOOUSPAR.REGISTRO_UFFICIALEU.0009073.12-09-2026.pdf
-  scarico https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_3/Bollettino_3_Supplenze_GPS.xlsx
-    documento non leggibile: https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_3/Bollettino_3_Supplenze_GPS.xlsx libreria read-excel-file non installata
-  scarico https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_3/m_pi.AOOUSPAR.REGISTRO_UFFICIALEU.0009404.21-09-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  scarico https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_3/Disponibilit%C3%A0_3_Bollettino.xlsx
-    documento non leggibile: https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_3/Disponibilit%C3%A0_3_Bollettino.xlsx libreria read-excel-file non installata
-  documento di tipo decreto, non è un bollettino: ignoro /Bollettino_3/m_pi.AOOUSPAR.REGISTRO_UFFICIALEU.0009404.21-09-2026.pdf
-  scarico https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_4/Bollettino_4_Supplenze_GPS.xlsx
-    documento non leggibile: https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_4/Bollettino_4_Supplenze_GPS.xlsx libreria read-excel-file non installata
-  scarico https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_4/m_pi.AOOUSPAR.REGISTRO_UFFICIALEU.0009761.28-09-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  scarico https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_4/Disponibilit%C3%A0_4_turno.xlsx
-    documento non leggibile: https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_4/Disponibilit%C3%A0_4_turno.xlsx libreria read-excel-file non installata
-  documento di tipo decreto, non è un bollettino: ignoro /Bollettino_4/m_pi.AOOUSPAR.REGISTRO_UFFICIALEU.0009761.28-09-2026.pdf
-  scarico https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_5/Bollettino_5_Supplenze_GPS.xlsx
-    documento non leggibile: https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_5/Bollettino_5_Supplenze_GPS.xlsx libreria read-excel-file non installata
-  scarico https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_5/m_pi.AOOUSPAR.REGISTRO_UFFICIALEU.0010017.05-10-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  scarico https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_5/Disponibilit%C3%A0_5_bollettino.xlsx
-    documento non leggibile: https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_5/Disponibilit%C3%A0_5_bollettino.xlsx libreria read-excel-file non installata
-  documento di tipo decreto, non è un bollettino: ignoro /Bollettino_5/m_pi.AOOUSPAR.REGISTRO_UFFICIALEU.0010017.05-10-2026.pdf
-  scarico https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_7/Bollettino_7_Supplenze_GPS.xlsx
-    documento non leggibile: https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_7/Bollettino_7_Supplenze_GPS.xlsx libreria read-excel-file non installata
-  scarico https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_7/m_pi.AOOUSPAR.REGISTRO_UFFICIALEU.0010450.13-10-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  scarico https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_7/Disponibilit%C3%A0_7_bollettino.xlsx
-    documento non leggibile: https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_7/Disponibilit%C3%A0_7_bollettino.xlsx libreria read-excel-file non installata
-  documento di tipo decreto, non è un bollettino: ignoro /Bollettino_7/m_pi.AOOUSPAR.REGISTRO_UFFICIALEU.0010450.13-10-2026.pdf
-  scarico https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_8/Bollettino_8_Supplenze_GPS.xlsx
-    documento non leggibile: https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_8/Bollettino_8_Supplenze_GPS.xlsx libreria read-excel-file non installata
-  scarico https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_8/m_pi.AOOUSPAR.REGISTRO_UFFICIALEU.0010730.20-10-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  scarico https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_8/Disponibilit%C3%A0_8_bollettino.xlsx
-    documento non leggibile: https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_8/Disponibilit%C3%A0_8_bollettino.xlsx libreria read-excel-file non installata
-  documento di tipo decreto, non è un bollettino: ignoro /Bollettino_8/m_pi.AOOUSPAR.REGISTRO_UFFICIALEU.0010730.20-10-2026.pdf
-  scarico https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_9/Bollettino_9_Supplenze_GPS.xlsx
-    documento non leggibile: https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_9/Bollettino_9_Supplenze_GPS.xlsx libreria read-excel-file non installata
-  scarico https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_9/m_pi.AOOUSPAR.REGISTRO_UFFICIALEU.0011009.28-10-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  scarico https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_9/Disponibilit%C3%A0_9_bollettino.xlsx
-    documento non leggibile: https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_9/Disponibilit%C3%A0_9_bollettino.xlsx libreria read-excel-file non installata
-  documento di tipo decreto, non è un bollettino: ignoro /Bollettino_9/m_pi.AOOUSPAR.REGISTRO_UFFICIALEU.0011009.28-10-2026.pdf
-  turni letti=0 non letti=0 -> da verificare
+  errore su https://www.arezzoistruzione.it/usparezzo/index.php/docenti/graduatorie/g-p-s/2082-pubblicazione-bollettino-turno-1-gps-a-s-2026-2027 -> HTTP 500 su https://www.arezzoistruzione.it/usparezzo/index.php/docenti/graduatorie/g-p-s/2082-pubblicazione-bollettino-turno-1-gps-a-s-2026-2027
+  errore su https://www.arezzoistruzione.it/usparezzo/index.php/docenti/graduatorie/g-p-s/2102-incarichi-a-tempo-determinato-personale-docente-e-educativo-secondo-turno-nomine-da-gps-a-s-2026-27 -> HTTP 500 su https://www.arezzoistruzione.it/usparezzo/index.php/docenti/graduatorie/g-p-s/2102-incarichi-a-tempo-determinato-personale-docente-e-educativo-secondo-turno-nomine-da-gps-a-s-2026-27
+  errore su https://www.arezzoistruzione.it/usparezzo/index.php/docenti/graduatorie/g-p-s/2134-incarichi-a-tempo-determinato-personale-docente-e-educativo-terzo-turno-nomine-da-gps-a-s-2026-27 -> HTTP 500 su https://www.arezzoistruzione.it/usparezzo/index.php/docenti/graduatorie/g-p-s/2134-incarichi-a-tempo-determinato-personale-docente-e-educativo-terzo-turno-nomine-da-gps-a-s-2026-27
+  errore su https://www.arezzoistruzione.it/usparezzo/index.php/docenti/graduatorie/g-p-s/2163-incarichi-a-tempo-determinato-personale-docente-e-educativo-quarto-turno-nomine-da-gps-a-s-2026-27 -> HTTP 500 su https://www.arezzoistruzione.it/usparezzo/index.php/docenti/graduatorie/g-p-s/2163-incarichi-a-tempo-determinato-personale-docente-e-educativo-quarto-turno-nomine-da-gps-a-s-2026-27
+  errore su https://www.arezzoistruzione.it/usparezzo/index.php/docenti/graduatorie/g-p-s/2168-incarichi-a-tempo-determinato-personale-docente-e-educativo-quinto-turno-nomine-da-gps-a-s-2026-27 -> HTTP 500 su https://www.arezzoistruzione.it/usparezzo/index.php/docenti/graduatorie/g-p-s/2168-incarichi-a-tempo-determinato-personale-docente-e-educativo-quinto-turno-nomine-da-gps-a-s-2026-27
+  errore su https://www.arezzoistruzione.it/usparezzo/index.php/docenti/graduatorie/g-p-s/2172-incarichi-a-tempo-determinato-personale-docente-e-educativo-settimo-turno-nomine-da-gps-a-s-2026-27 -> HTTP 500 su https://www.arezzoistruzione.it/usparezzo/index.php/docenti/graduatorie/g-p-s/2172-incarichi-a-tempo-determinato-personale-docente-e-educativo-settimo-turno-nomine-da-gps-a-s-2026-27
+  errore su https://www.arezzoistruzione.it/usparezzo/index.php/docenti/graduatorie/g-p-s/2177-incarichi-a-tempo-determinato-personale-docente-e-educativo-ottavo-turno-nomine-da-gps-a-s-2026-27 -> HTTP 500 su https://www.arezzoistruzione.it/usparezzo/index.php/docenti/graduatorie/g-p-s/2177-incarichi-a-tempo-determinato-personale-docente-e-educativo-ottavo-turno-nomine-da-gps-a-s-2026-27
+  errore su https://www.arezzoistruzione.it/usparezzo/index.php/docenti/graduatorie/g-p-s/2187-incarichi-a-tempo-determinato-personale-docente-e-educativo-nono-turno-nomine-da-gps-a-s-2026-27 -> HTTP 500 su https://www.arezzoistruzione.it/usparezzo/index.php/docenti/graduatorie/g-p-s/2187-incarichi-a-tempo-determinato-personale-docente-e-educativo-nono-turno-nomine-da-gps-a-s-2026-27
+  turni letti=0 non letti=8 -> da verificare
 -- FI Firenze --
 link da Orizzonte Scuola: 12
 totale pagine da controllare: 12
@@ -4938,64 +4808,17 @@ totale pagine da controllare: 7
 -- PT Pistoia --
 link da Orizzonte Scuola: 10
 totale pagine da controllare: 10
-  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/08/BOLLETTINO-DEFINITIVO-I-TURNO-GPS-31.08.26.xlsx
-    documento non leggibile: https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/08/BOLLETTINO-DEFINITIVO-I-TURNO-GPS-31.08.26.xlsx libreria read-excel-file non installata
-  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/08/m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0005026.31-08-2026-TURNO-1-GPS.pdf
-    dalla memoria: non letto (righe GPS=0)
-  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/08/DISPONIBILITA-SU-SCUOLA-PER-I-TURNO-GPS.xlsx
-    documento non leggibile: https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/08/DISPONIBILITA-SU-SCUOLA-PER-I-TURNO-GPS.xlsx libreria read-excel-file non installata
-  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/08/PostiOrario_AA_441896-1.xlsx
-    documento non leggibile: https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/08/PostiOrario_AA_441896-1.xlsx libreria read-excel-file non installata
-  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/08/PostiOrario_EE_441896-1.xlsx
-    documento non leggibile: https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/08/PostiOrario_EE_441896-1.xlsx libreria read-excel-file non installata
-  documento di tipo decreto, non è un bollettino: ignoro 8/m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0005026.31-08-2026-TURNO-1-GPS.pdf
-  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/09/BOLLETTINO-DEFINITIVO-II-TURNO-GPS.xlsx
-    documento non leggibile: https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/09/BOLLETTINO-DEFINITIVO-II-TURNO-GPS.xlsx libreria read-excel-file non installata
-  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/09/m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0005198.08-09-2026-II-TURNO-GPS.pdf
-    dalla memoria: non letto (righe GPS=0)
-  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/09/DISPONIBILITA-SCUOLE-SECONDO-TURNO-GPS.xlsx
-    documento non leggibile: https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/09/DISPONIBILITA-SCUOLE-SECONDO-TURNO-GPS.xlsx libreria read-excel-file non installata
-  documento di tipo decreto, non è un bollettino: ignoro /m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0005198.08-09-2026-II-TURNO-GPS.pdf
-  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/09/Bollettino_TotaleNomine-14.09.26.xlsx
-    documento non leggibile: https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/09/Bollettino_TotaleNomine-14.09.26.xlsx libreria read-excel-file non installata
-  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/09/m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0005369.14-09-2026-III-turno-nomina-GPS.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro OUSPPT.REGISTRO-UFFICIALEU.0005369.14-09-2026-III-turno-nomina-GPS.pdf
-  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/09/bollettino-definitivo-v-turno.xlsx
-    documento non leggibile: https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/09/bollettino-definitivo-v-turno.xlsx libreria read-excel-file non installata
-  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/09/m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0005586.23-09-2026-turno-v-gps.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro 9/m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0005586.23-09-2026-turno-v-gps.pdf
-  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/09/BOLLETTINO-DEFINITIVO-TURNO-VI.xlsx
-    documento non leggibile: https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/09/BOLLETTINO-DEFINITIVO-TURNO-VI.xlsx libreria read-excel-file non installata
-  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/09/m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0005792.28-09-2026-turno-VI-GPS.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro /m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0005792.28-09-2026-turno-VI-GPS.pdf
-  scartati 1 decreti (non sono bollettini)
-  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/10/definitivo-VII-turno-GPS.xlsx
-    documento non leggibile: https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/10/definitivo-VII-turno-GPS.xlsx libreria read-excel-file non installata
-  nessun PDF utilizzabile in https://www.ufficioscolasticoprovinciale.pistoia.it/conferimento-supplenze-al-personale-docente-per-lanno-scolastico-2026-27-da-gae-e-gps-provincia-di-pistoia-assegnazione-sede-vii-turno-di-nomina-gps-om-27-2026/
-  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/10/bollettino-definitivo-VIII-turno.xlsx
-    documento non leggibile: https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/10/bollettino-definitivo-VIII-turno.xlsx libreria read-excel-file non installata
-  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/10/m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0006193.13-10-2026-decreto-VIII-turno-di-nomina-gps.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro TRO-UFFICIALEU.0006193.13-10-2026-decreto-VIII-turno-di-nomina-gps.pdf
-  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/10/Bollettino_TotaleNomine.xlsx
-    documento non leggibile: https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/10/Bollettino_TotaleNomine.xlsx libreria read-excel-file non installata
-  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/10/m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0006290.16-10-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro loads/2026/10/m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0006290.16-10-2026.pdf
-  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/10/Bollettino_TotaleNomine-X-Turno.xlsx
-    documento non leggibile: https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/10/Bollettino_TotaleNomine-X-Turno.xlsx libreria read-excel-file non installata
-  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/10/m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0006364.20-10-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro loads/2026/10/m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0006364.20-10-2026.pdf
-  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/10/Bollettino-Totale-nomine-XI-TURNO.xlsx
-    documento non leggibile: https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/10/Bollettino-Totale-nomine-XI-TURNO.xlsx libreria read-excel-file non installata
-  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/10/m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0006481.26-10-2026.pdf
-    dalla memoria: non letto (righe GPS=0)
-  documento di tipo decreto, non è un bollettino: ignoro loads/2026/10/m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0006481.26-10-2026.pdf
-  turni letti=0 non letti=1 -> da verificare
+  errore su https://www.ufficioscolasticoprovinciale.pistoia.it/conferimento-supplenze-al-personale-docente-per-lanno-scolastico-2026-27-da-gae-e-gps-provincia-di-pistoia-assegnazione-sede-i-turno-di-nomina-gps-om-27-2026/ -> HTTP 500 su https://www.ufficioscolasticoprovinciale.pistoia.it/conferimento-supplenze-al-personale-docente-per-lanno-scolastico-2026-27-da-gae-e-gps-provincia-di-pistoia-assegnazione-sede-i-turno-di-nomina-gps-om-27-2026/
+  errore su https://www.ufficioscolasticoprovinciale.pistoia.it/conferimento-supplenze-al-personale-docente-per-lanno-scolastico-2026-27-da-gae-e-gps-provincia-di-pistoia-assegnazione-sede-ii-turno-di-nomina-gps-om-27-2026/ -> HTTP 500 su https://www.ufficioscolasticoprovinciale.pistoia.it/conferimento-supplenze-al-personale-docente-per-lanno-scolastico-2026-27-da-gae-e-gps-provincia-di-pistoia-assegnazione-sede-ii-turno-di-nomina-gps-om-27-2026/
+  errore su https://www.ufficioscolasticoprovinciale.pistoia.it/conferimento-supplenze-al-personale-docente-per-lanno-scolastico-2026-27-da-gae-e-gps-provincia-di-pistoia-assegnazione-sede-iii-turno-di-nomina-gps/ -> HTTP 500 su https://www.ufficioscolasticoprovinciale.pistoia.it/conferimento-supplenze-al-personale-docente-per-lanno-scolastico-2026-27-da-gae-e-gps-provincia-di-pistoia-assegnazione-sede-iii-turno-di-nomina-gps/
+  errore su https://www.ufficioscolasticoprovinciale.pistoia.it/conferimento-supplenze-al-personale-docente-per-lanno-scolastico-2026-27-da-gae-e-gps-provincia-di-pistoia-assegnazione-sede-v-turno-di-nomina-gps-om-27-2026/ -> HTTP 500 su https://www.ufficioscolasticoprovinciale.pistoia.it/conferimento-supplenze-al-personale-docente-per-lanno-scolastico-2026-27-da-gae-e-gps-provincia-di-pistoia-assegnazione-sede-v-turno-di-nomina-gps-om-27-2026/
+  errore su https://www.ufficioscolasticoprovinciale.pistoia.it/conferimento-supplenze-al-personale-docente-per-lanno-scolastico-2026-27-da-gae-e-gps-provincia-di-pistoia-assegnazione-sede-vi-turno-di-nomina-gps-om-27-2026/ -> HTTP 500 su https://www.ufficioscolasticoprovinciale.pistoia.it/conferimento-supplenze-al-personale-docente-per-lanno-scolastico-2026-27-da-gae-e-gps-provincia-di-pistoia-assegnazione-sede-vi-turno-di-nomina-gps-om-27-2026/
+  errore su https://www.ufficioscolasticoprovinciale.pistoia.it/conferimento-supplenze-al-personale-docente-per-lanno-scolastico-2026-27-da-gae-e-gps-provincia-di-pistoia-assegnazione-sede-vii-turno-di-nomina-gps-om-27-2026/ -> HTTP 500 su https://www.ufficioscolasticoprovinciale.pistoia.it/conferimento-supplenze-al-personale-docente-per-lanno-scolastico-2026-27-da-gae-e-gps-provincia-di-pistoia-assegnazione-sede-vii-turno-di-nomina-gps-om-27-2026/
+  errore su https://www.ufficioscolasticoprovinciale.pistoia.it/conferimento-supplenze-al-personale-docente-per-lanno-scolastico-2026-27-da-gae-e-gps-provincia-di-pistoia-assegnazione-sede-viii-turno-di-nomina-gps-om-27-2026/ -> HTTP 500 su https://www.ufficioscolasticoprovinciale.pistoia.it/conferimento-supplenze-al-personale-docente-per-lanno-scolastico-2026-27-da-gae-e-gps-provincia-di-pistoia-assegnazione-sede-viii-turno-di-nomina-gps-om-27-2026/
+  errore su https://www.ufficioscolasticoprovinciale.pistoia.it/conferimento-supplenze-al-personale-docente-per-lanno-scolastico-2026-27-da-gae-e-gps-provincia-di-pistoia-assegnazione-sede-ix-turno-di-nomina-gps-om-27-2026/ -> HTTP 500 su https://www.ufficioscolasticoprovinciale.pistoia.it/conferimento-supplenze-al-personale-docente-per-lanno-scolastico-2026-27-da-gae-e-gps-provincia-di-pistoia-assegnazione-sede-ix-turno-di-nomina-gps-om-27-2026/
+  errore su https://www.ufficioscolasticoprovinciale.pistoia.it/conferimento-supplenze-al-personale-docente-per-lanno-scolastico-2026-27-da-gae-e-gps-provincia-di-pistoia-assegnazione-sede-x-turno-di-nomina-gps-om-27-2026/ -> HTTP 500 su https://www.ufficioscolasticoprovinciale.pistoia.it/conferimento-supplenze-al-personale-docente-per-lanno-scolastico-2026-27-da-gae-e-gps-provincia-di-pistoia-assegnazione-sede-x-turno-di-nomina-gps-om-27-2026/
+  errore su https://www.ufficioscolasticoprovinciale.pistoia.it/conferimento-supplenze-al-personale-docente-per-lanno-scolastico-2026-27-da-gae-e-gps-provincia-di-pistoia-assegnazione-sede-xi-turno-di-nomina-gps-om-27-2026/ -> HTTP 500 su https://www.ufficioscolasticoprovinciale.pistoia.it/conferimento-supplenze-al-personale-docente-per-lanno-scolastico-2026-27-da-gae-e-gps-provincia-di-pistoia-assegnazione-sede-xi-turno-di-nomina-gps-om-27-2026/
+  turni letti=0 non letti=10 -> da verificare
 -- PO Prato --
 link da Orizzonte Scuola: 12
 totale pagine da controllare: 12
@@ -5573,19 +5396,19 @@ totale pagine da controllare: 8
   la pagina ha solo decreti: ignoro https://venezia.istruzioneveneto.gov.it/20260831_34324/
      ~  GRADO E DEL PERSONALE EDUCATIVO – I TURNO DI NOMINE - https://venezia.istruzioneveneto.gov.it/20260831_34324/
      ~ https://venezia.istruzioneveneto.gov.it/20260831_34324/?download=34326
-  pagina senza allegato riconoscibile (81305 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (81237 caratteri); collegamenti a documenti: nessuno
   nessun PDF o foglio trovato in https://venezia.istruzioneveneto.gov.it/20260911_34393/
-  pagina senza allegato riconoscibile (80653 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (80723 caratteri); collegamenti a documenti: nessuno
   nessun PDF o foglio trovato in https://venezia.istruzioneveneto.gov.it/20260922_34436/
-  pagina senza allegato riconoscibile (80765 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (80761 caratteri); collegamenti a documenti: nessuno
   nessun PDF o foglio trovato in https://venezia.istruzioneveneto.gov.it/20261006_34503/
-  pagina senza allegato riconoscibile (81126 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (81108 caratteri); collegamenti a documenti: nessuno
   nessun PDF o foglio trovato in https://venezia.istruzioneveneto.gov.it/20261013_34527/
-  pagina senza allegato riconoscibile (78761 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (78829 caratteri); collegamenti a documenti: nessuno
   nessun PDF o foglio trovato in https://venezia.istruzioneveneto.gov.it/20261019_34540/
-  pagina senza allegato riconoscibile (81194 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (81038 caratteri); collegamenti a documenti: nessuno
   nessun PDF o foglio trovato in https://venezia.istruzioneveneto.gov.it/20261020_34550/
-  pagina senza allegato riconoscibile (81109 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (81057 caratteri); collegamenti a documenti: nessuno
   nessun PDF o foglio trovato in https://venezia.istruzioneveneto.gov.it/20261027_34565/
   TURNO MANCANTE: 4
   TURNO MANCANTE: 9
@@ -5652,15 +5475,15 @@ totale pagine da controllare: 14
   nessun PDF utilizzabile in https://vicenza.istruzioneveneto.gov.it/2026/10/20/docenti-individuati-quali-destinatari-per-lanno-scolastico-2026-2027-di-una-proposta-di-stipula-di-contratto-a-tempo-determinato-per-supplenza-turno-del-20-10-2026/
   stesso documento già trovato in questo giro, salto: https://vicenza.istruzioneveneto.gov.it/wp-content/uploads/2021/07/Guida_01-feed-reader-outlook.pdf
   nessun PDF utilizzabile in https://vicenza.istruzioneveneto.gov.it/2026/10/26/docenti-individuati-quali-destinatari-per-lanno-scolastico-2026-2027-di-una-proposta-di-stipula-di-contratto-a-tempo-determinato-per-supplenza-turno-del-26-10-2026/
-  pagina senza allegato riconoscibile (364871 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (361989 caratteri); collegamenti a documenti: nessuno
   nessun PDF o foglio trovato in https://facebook.com/sharer/sharer.php?u=https://www.orizzontescuola.it/supplenze-docenti-ecco-i-bollettini-nomine-al-31-agosto-o-30-giugno-2027-in-aggiornamento/
   errore su whatsapp://send?text=Supplenze docenti 2026/27: bollettini del 30 ottobre [AGGIORNATO]%20https://www.orizzontescuola.it/supplenze-docenti-ecco-i-bollettini-nomine-al-31-agosto-o-30-giugno-2027-in-aggiornamento/ -> fetch failed
-  pagina senza allegato riconoscibile (11350 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (11352 caratteri); collegamenti a documenti: nessuno
   nessun PDF o foglio trovato in https://t.me/share/url?text=Supplenze docenti 2026/27: bollettini del 30 ottobre [AGGIORNATO]&url=https://www.orizzontescuola.it/supplenze-docenti-ecco-i-bollettini-nomine-al-31-agosto-o-30-giugno-2027-in-aggiornamento/
-  pagina senza allegato riconoscibile (3035449 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (1655215 caratteri); collegamenti a documenti: nessuno
   non sembra un bollettino, ignoro: https://profile.google.com/cp/Cg0vZy8xMXZrejAweDg1
   pagina senza allegato riconoscibile (78486 caratteri); collegamenti a documenti: nessuno
   non sembra un bollettino, ignoro: https://www.orizzontescuola.it/concorso-dirigenti-il-ministero-prepara-il-nuovo-bando-gioca-danticipo-preparati/
   turni letti=0 non letti=12 -> da verificare
-RIEPILOGO DA VERIFICARE: letti con OCR=0 | zero righe=4 | non letti=136 | turni mancanti=39
+RIEPILOGO DA VERIFICARE: letti con OCR=0 | zero righe=4 | non letti=134 | turni mancanti=39
 Scritto /home/runner/work/atrium/atrium/data/bollettini.json
