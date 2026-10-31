@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-31T11:46:43.320Z",
+ "aggiornato": "2026-10-31T13:36:45.917Z",
  "ocr": [],
  "zeroRighe": [
   {
@@ -1167,27 +1167,6 @@
    "pagine": 2
   },
   {
-   "provincia": "SA",
-   "turno": null,
-   "data": "2026-10-31",
-   "url": "https://www.mim.gov.it/documents/7673905/7821594/m_pi.AOODRCA.REGISTRO+UFFICIALE%28U%29.0083021.31-10-2025.pdf/53b3e618-77a1-0148-0b80-12afaa019635?t=1761907834845",
-   "pagine": 2
-  },
-  {
-   "provincia": "SA",
-   "turno": null,
-   "data": "2026-10-31",
-   "url": "https://www.mim.gov.it/documents/7673905/7821594/m_pi.AOODRCA.REGISTRO+UFFICIALE%28U%29.0083021.31-10-2025.pdf/53b3e618-77a1-0148-0b80-12afaa019635?t=1761907834845",
-   "pagine": 2
-  },
-  {
-   "provincia": "SA",
-   "turno": null,
-   "data": "2026-10-31",
-   "url": "https://www.mim.gov.it/documents/7673905/7821594/m_pi.AOODRCA.REGISTRO+UFFICIALE%28U%29.0083021.31-10-2025.pdf/53b3e618-77a1-0148-0b80-12afaa019635?t=1761907834845",
-   "pagine": 2
-  },
-  {
    "provincia": "AQ",
    "turno": 1,
    "data": "2026-08-28",
@@ -2061,6 +2040,27 @@
    "data": "2026-10-31",
    "url": "https://istruzione.umbria.it/wp-content/uploads/2026/10/D.D.-prot.-n.-748-del-27-10-2026.pdf",
    "pagine": 7
+  },
+  {
+   "provincia": "SA",
+   "turno": null,
+   "data": "2026-10-31",
+   "url": "https://www.mim.gov.it/documents/7673905/7821594/m_pi.AOODRCA.REGISTRO+UFFICIALE%28U%29.0083021.31-10-2025.pdf/53b3e618-77a1-0148-0b80-12afaa019635?t=1761907834845",
+   "pagine": 2
+  },
+  {
+   "provincia": "SA",
+   "turno": null,
+   "data": "2026-10-31",
+   "url": "https://www.mim.gov.it/documents/7673905/7821594/m_pi.AOODRCA.REGISTRO+UFFICIALE%28U%29.0083021.31-10-2025.pdf/53b3e618-77a1-0148-0b80-12afaa019635?t=1761907834845",
+   "pagine": 2
+  },
+  {
+   "provincia": "SA",
+   "turno": null,
+   "data": "2026-10-31",
+   "url": "https://www.mim.gov.it/documents/7673905/7821594/m_pi.AOODRCA.REGISTRO+UFFICIALE%28U%29.0083021.31-10-2025.pdf/53b3e618-77a1-0148-0b80-12afaa019635?t=1761907834845",
+   "pagine": 2
   }
  ],
  "pagineSoloDecreti": [

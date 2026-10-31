@@ -1,155 +1,233 @@
-lettore cambiato: la memoria dei PDF viene rifatta
-GIRO MIRATO solo su: PT, VB
+GIRO MIRATO solo su: SA
 Orizzonte Scuola: province trovate nella pagina -> 98
 Province CON link su Orizzonte Scuola: 98 | SENZA link: CH PE FM BT SU CL BZ TN AO
--- VB Verbano-Cusio-Ossola --
-link da Orizzonte Scuola: 8
-totale pagine da controllare: 8
+-- SA Salerno --
+link da Orizzonte Scuola: 0
+collegamenti dalla pagina elenco https://www.mim.gov.it/web/miur-usr-campania/uat-salerno : 18 (pagina di 223785 caratteri)
+   - Personale docente - Decreto pubblicazione 7° Bollettino Supplenze | .it/web/miur-usr-campania/-/personale-docente-decreto-pubblicazione-7-bollettino-supplenze
+   - Personale docente - Decreto rettifiche ADEE 6° Bollettino Supplenze | t/web/miur-usr-campania/-/personale-docente-decreto-rettifiche-adee-6-bollettino-supplenze
+   - Personale docente - Decreto pubblicazione 6° Bollettino Supplenze | .it/web/miur-usr-campania/-/personale-docente-decreto-pubblicazione-6-bollettino-supplenze
+   - Personale docente - Decreto pubblicazione 5° Bollettino Supplenze | .it/web/miur-usr-campania/-/personale-docente-decreto-pubblicazione-5-bollettino-supplenze
+   - Personale docente - Decreto rettifiche 4° bollettino supplenze | gov.it/web/miur-usr-campania/-/personale-docente-decreto-rettifiche-4-bollettino-supplenze
+   - Personale scolastico - Decreto pubblicazione 4° Bollettino Supplenze | /web/miur-usr-campania/-/personale-scolastico-decreto-pubblicazione-4-bollettino-supplenze
+   - Personale docente - Decreto rettifiche 3° bollettino | //www.mim.gov.it/web/miur-usr-campania/-/personale-docente-decreto-rettifiche-3-bollettino
+   - Personale docente - Decreto 3° bollettino supplenze | ://www.mim.gov.it/web/miur-usr-campania/-/personale-docente-decreto-3-bollettino-supplenze
+   - Personale docente – Rettifiche 2° bollettino supplenze del 15 settembr | r-usr-campania/-/personale-docente-rettifiche-2-bollettino-supplenze-del-15-settembre-2026
+   - Personale docente - Decreto pubblicazione II Bollettino | w.mim.gov.it/web/miur-usr-campania/-/personale-docente-decreto-pubblicazione-ii-bollettino
+   - Personale docente - Rettifiche al 1° Bollettino delle Supplenze del 31 | campania/-/personale-docente-rettifiche-al-1-bollettino-delle-supplenze-del-31-agosto-2026
+   - Personale docente - Nomine a tempo determinato da GAE-GPS, rilievi al  | empo-determinato-da-gae-gps-rilievi-al-funzionamento-del-cd-algoritmo-riscontro-cumulativo
+totale pagine da controllare: 18
+  scartati 4 allegati generici (contatti, organigramma...)
+  scarico https://www.mim.gov.it/documents/7673905/10936887/Bollettini+a.s.2023_24_privacy.zip/1314196a-3abc-91d8-b18c-d72c53159fbe?t=1792585523229
+    zip di un altro anno scolastico, salto: 23_24_privacy.zip/1314196a-3abc-91d8-b18c-d72c53159fbe?t=1792585523229
+  scarico https://www.mim.gov.it/documents/7673905/7821594/m_pi.AOODRCA.REGISTRO+UFFICIALE%28U%29.0083021.31-10-2025.pdf/53b3e618-77a1-0148-0b80-12afaa019635?t=1761907834845
+    dalla memoria: non letto (righe GPS=0)
+  scarico https://www.mim.gov.it/documents/7673905/10323025/ORGANICI+DOCENTI+2026-27.zip/f6467ac1-eb41-4015-5e23-b3a1962a3da1?t=1790953118996
+    documento non leggibile: https://www.mim.gov.it/documents/7673905/10323025/ORGANICI+DOCENTI+2026-27.zip/f6467ac1-eb41-4015-5e23-b3a1962a3da1?t=1790953118996 libreria fflate non installata
+  scarico https://www.mim.gov.it/documents/7673905/10323025/settimo+bollettino+privacy.pdf/1f125be7-82d9-2813-786c-77a6476eb4e9?version=1.0&t=1792751016110
+    dalla memoria: letto (righe GPS=12)
+  data ricavata dal caricamento dell'allegato: 2026-10-23
+    ok [turno]: calibrato=true righe GPS=12 scartate=0
+  scartati 4 allegati generici (contatti, organigramma...)
+  scarico https://www.mim.gov.it/documents/7673905/10936887/Bollettini+a.s.2023_24_privacy.zip/1314196a-3abc-91d8-b18c-d72c53159fbe?t=1792585523229
+    zip di un altro anno scolastico, salto: 23_24_privacy.zip/1314196a-3abc-91d8-b18c-d72c53159fbe?t=1792585523229
+  scarico https://www.mim.gov.it/documents/7673905/7821594/m_pi.AOODRCA.REGISTRO+UFFICIALE%28U%29.0083021.31-10-2025.pdf/53b3e618-77a1-0148-0b80-12afaa019635?t=1761907834845
+    dalla memoria: non letto (righe GPS=0)
+  scarico https://www.mim.gov.it/documents/7673905/10323025/ORGANICI+DOCENTI+2026-27.zip/f6467ac1-eb41-4015-5e23-b3a1962a3da1?t=1790953118996
+    documento non leggibile: https://www.mim.gov.it/documents/7673905/10323025/ORGANICI+DOCENTI+2026-27.zip/f6467ac1-eb41-4015-5e23-b3a1962a3da1?t=1790953118996 libreria fflate non installata
+  scarico https://www.mim.gov.it/documents/7673905/11011788/DECRETO+RETTIFICHE+ADEE+6%C2%B0+BOLLETTINO+SUPPLENZE.pdf/cc030a78-cc16-4dde-9f93-dfa812a4693c?version=1.0&t=1792486484824
+    dalla memoria: non letto (righe GPS=0)
+  data ricavata dal caricamento dell'allegato: 2025-10-31
+  anno scolastico precedente, salto: https://www.mim.gov.it/web/miur-usr-campania/-/personale-docente-decreto-rettifiche-adee-6-bollettino-supplenze
+  scartati 4 allegati generici (contatti, organigramma...)
+  scarico https://www.mim.gov.it/documents/7673905/10936887/Bollettini+a.s.2023_24_privacy.zip/1314196a-3abc-91d8-b18c-d72c53159fbe?t=1792585523229
+    zip di un altro anno scolastico, salto: 23_24_privacy.zip/1314196a-3abc-91d8-b18c-d72c53159fbe?t=1792585523229
+  scarico https://www.mim.gov.it/documents/7673905/7821594/m_pi.AOODRCA.REGISTRO+UFFICIALE%28U%29.0083021.31-10-2025.pdf/53b3e618-77a1-0148-0b80-12afaa019635?t=1761907834845
+    dalla memoria: non letto (righe GPS=0)
+  scarico https://www.mim.gov.it/documents/7673905/10323025/ORGANICI+DOCENTI+2026-27.zip/f6467ac1-eb41-4015-5e23-b3a1962a3da1?t=1790953118996
+    documento non leggibile: https://www.mim.gov.it/documents/7673905/10323025/ORGANICI+DOCENTI+2026-27.zip/f6467ac1-eb41-4015-5e23-b3a1962a3da1?t=1790953118996 libreria fflate non installata
+  scarico https://www.mim.gov.it/documents/7673905/10323025/m_pi.AOOUSPSA.REGISTRO+UFFICIALE%28U%29.0026441.16-10-2026.pdf/dcc99e59-1504-dd53-6529-4811179b19bc?version=1.0&t=1792147760974
+    dalla memoria: non letto (righe GPS=0)
+  scarico https://www.mim.gov.it/documents/7673905/10323025/sesto+bollettino+privacy.pdf/4ecc29f6-dd33-1a72-661c-0f5f960714be?version=1.0&t=1792147760755
+    dalla memoria: letto (righe GPS=11)
+  data ricavata dal caricamento dell'allegato: 2026-10-16
+    ok [turno]: calibrato=true righe GPS=11 scartate=0
+  scartati 4 allegati generici (contatti, organigramma...)
+  scarico https://www.mim.gov.it/documents/7673905/10936887/Bollettini+a.s.2023_24_privacy.zip/1314196a-3abc-91d8-b18c-d72c53159fbe?t=1792585523229
+    zip di un altro anno scolastico, salto: 23_24_privacy.zip/1314196a-3abc-91d8-b18c-d72c53159fbe?t=1792585523229
+  scarico https://www.mim.gov.it/documents/7673905/7821594/m_pi.AOODRCA.REGISTRO+UFFICIALE%28U%29.0083021.31-10-2025.pdf/53b3e618-77a1-0148-0b80-12afaa019635?t=1761907834845
+    dalla memoria: non letto (righe GPS=0)
+  scarico https://www.mim.gov.it/documents/7673905/10323025/ORGANICI+DOCENTI+2026-27.zip/f6467ac1-eb41-4015-5e23-b3a1962a3da1?t=1790953118996
+    documento non leggibile: https://www.mim.gov.it/documents/7673905/10323025/ORGANICI+DOCENTI+2026-27.zip/f6467ac1-eb41-4015-5e23-b3a1962a3da1?t=1790953118996 libreria fflate non installata
+  scarico https://www.mim.gov.it/documents/7673905/11011788/BOLLETTINO+TOTALE+NOMINA+PRIVACY.pdf/f9aa60d4-4770-a69f-4144-b1bc97bd31d1?version=1.0&t=1791896233486
+    dalla memoria: letto (righe GPS=26)
+  data ricavata dal caricamento dell'allegato: 2026-10-13
+    ok [turno]: calibrato=true righe GPS=26 scartate=0
+  scartati 4 allegati generici (contatti, organigramma...)
+  scarico https://www.mim.gov.it/documents/7673905/10936887/Bollettini+a.s.2023_24_privacy.zip/1314196a-3abc-91d8-b18c-d72c53159fbe?t=1792585523229
+    zip di un altro anno scolastico, salto: 23_24_privacy.zip/1314196a-3abc-91d8-b18c-d72c53159fbe?t=1792585523229
+  scarico https://www.mim.gov.it/documents/7673905/7821594/m_pi.AOODRCA.REGISTRO+UFFICIALE%28U%29.0083021.31-10-2025.pdf/53b3e618-77a1-0148-0b80-12afaa019635?t=1761907834845
+    dalla memoria: non letto (righe GPS=0)
+  scarico https://www.mim.gov.it/documents/7673905/10323025/ORGANICI+DOCENTI+2026-27.zip/f6467ac1-eb41-4015-5e23-b3a1962a3da1?t=1790953118996
+    documento non leggibile: https://www.mim.gov.it/documents/7673905/10323025/ORGANICI+DOCENTI+2026-27.zip/f6467ac1-eb41-4015-5e23-b3a1962a3da1?t=1790953118996 libreria fflate non installata
+  scarico https://www.mim.gov.it/documents/7673905/10936887/DECRETO+RETTIFICHE+4%C2%B0+BOLLETTINO+SUPPLENZE.pdf/cd9c9b84-ae51-69e8-0157-447c81f64aff?version=1.0&t=1791463257095
+    dalla memoria: non letto (righe GPS=0)
+  data ricavata dal caricamento dell'allegato: 2025-10-31
+  anno scolastico precedente, salto: https://www.mim.gov.it/web/miur-usr-campania/-/personale-docente-decreto-rettifiche-4-bollettino-supplenze
+  scartati 4 allegati generici (contatti, organigramma...)
+  scarico https://www.mim.gov.it/documents/7673905/10936887/Bollettini+a.s.2023_24_privacy.zip/1314196a-3abc-91d8-b18c-d72c53159fbe?t=1792585523229
+    zip di un altro anno scolastico, salto: 23_24_privacy.zip/1314196a-3abc-91d8-b18c-d72c53159fbe?t=1792585523229
+  scarico https://www.mim.gov.it/documents/7673905/7821594/m_pi.AOODRCA.REGISTRO+UFFICIALE%28U%29.0083021.31-10-2025.pdf/53b3e618-77a1-0148-0b80-12afaa019635?t=1761907834845
+    dalla memoria: non letto (righe GPS=0)
+  scarico https://www.mim.gov.it/documents/7673905/10323025/ORGANICI+DOCENTI+2026-27.zip/f6467ac1-eb41-4015-5e23-b3a1962a3da1?t=1790953118996
+    documento non leggibile: https://www.mim.gov.it/documents/7673905/10323025/ORGANICI+DOCENTI+2026-27.zip/f6467ac1-eb41-4015-5e23-b3a1962a3da1?t=1790953118996 libreria fflate non installata
+  scarico https://www.mim.gov.it/documents/7673905/11011788/4.+Bollettino_TotaleNomine+PRIVACY.pdf/d6931dad-0162-5d28-a853-6be67def8bbe?version=1.0&t=1791287196280
+    dalla memoria: letto (righe GPS=49)
+  data ricavata dal caricamento dell'allegato: 2026-10-06
+    ok [turno]: calibrato=true righe GPS=49 scartate=0
+  scartati 4 allegati generici (contatti, organigramma...)
+  scarico https://www.mim.gov.it/documents/7673905/10936887/Bollettini+a.s.2023_24_privacy.zip/1314196a-3abc-91d8-b18c-d72c53159fbe?t=1792585523229
+    zip di un altro anno scolastico, salto: 23_24_privacy.zip/1314196a-3abc-91d8-b18c-d72c53159fbe?t=1792585523229
+  scarico https://www.mim.gov.it/documents/7673905/7821594/m_pi.AOODRCA.REGISTRO+UFFICIALE%28U%29.0083021.31-10-2025.pdf/53b3e618-77a1-0148-0b80-12afaa019635?t=1761907834845
+    dalla memoria: non letto (righe GPS=0)
+  scarico https://www.mim.gov.it/documents/7673905/10323025/ORGANICI+DOCENTI+2026-27.zip/f6467ac1-eb41-4015-5e23-b3a1962a3da1?t=1790953118996
+    documento non leggibile: https://www.mim.gov.it/documents/7673905/10323025/ORGANICI+DOCENTI+2026-27.zip/f6467ac1-eb41-4015-5e23-b3a1962a3da1?t=1790953118996 libreria fflate non installata
+  scarico https://www.mim.gov.it/documents/7673905/10323025/decreto+rettifiche+3%C2%B0+bollettino.pdf/cce90298-2354-dbe2-f5f4-8216ea7e20d4?version=1.0&t=1790776942936
+    dalla memoria: non letto (righe GPS=0)
+  scarico https://www.mim.gov.it/documents/7673905/10323025/RETTIFICHE+AL+3%C2%B0+BOLLETTINO.pdf/f630fb5c-8896-4cfb-1db8-ac2a4dc82dd2?version=1.0&t=1790776942770
+    dalla memoria: non letto (righe GPS=0)
+  data ricavata dal caricamento dell'allegato: 2025-10-31
+  anno scolastico precedente, salto: https://www.mim.gov.it/web/miur-usr-campania/-/personale-docente-decreto-rettifiche-3-bollettino
+  scartati 4 allegati generici (contatti, organigramma...)
+  scarico https://www.mim.gov.it/documents/7673905/10936887/Bollettini+a.s.2023_24_privacy.zip/1314196a-3abc-91d8-b18c-d72c53159fbe?t=1792585523229
+    zip di un altro anno scolastico, salto: 23_24_privacy.zip/1314196a-3abc-91d8-b18c-d72c53159fbe?t=1792585523229
+  scarico https://www.mim.gov.it/documents/7673905/7821594/m_pi.AOODRCA.REGISTRO+UFFICIALE%28U%29.0083021.31-10-2025.pdf/53b3e618-77a1-0148-0b80-12afaa019635?t=1761907834845
+    dalla memoria: non letto (righe GPS=0)
+  scarico https://www.mim.gov.it/documents/7673905/10323025/ORGANICI+DOCENTI+2026-27.zip/f6467ac1-eb41-4015-5e23-b3a1962a3da1?t=1790953118996
+    documento non leggibile: https://www.mim.gov.it/documents/7673905/10323025/ORGANICI+DOCENTI+2026-27.zip/f6467ac1-eb41-4015-5e23-b3a1962a3da1?t=1790953118996 libreria fflate non installata
+  scarico https://www.mim.gov.it/documents/7673905/10936887/DECRETO+3%C2%B0+BOLLETTINO.pdf/31746ecb-df8e-236f-f040-873a7025014d?version=1.0&t=1790603246981
+    dalla memoria: non letto (righe GPS=0)
+  scarico https://www.mim.gov.it/documents/7673905/10936887/Bollettino_TotaleNomine_PRIVACY.pdf/9f711355-87c4-e4cd-cd4f-2d0e78c6656e?version=1.0&t=1790603291924
+    dalla memoria: letto (righe GPS=95)
+  data ricavata dal caricamento dell'allegato: 2026-09-28
+    ok [turno]: calibrato=true righe GPS=95 scartate=0
+  scartati 4 allegati generici (contatti, organigramma...)
+  scarico https://www.mim.gov.it/documents/7673905/10936887/Bollettini+a.s.2023_24_privacy.zip/1314196a-3abc-91d8-b18c-d72c53159fbe?t=1792585523229
+    zip di un altro anno scolastico, salto: 23_24_privacy.zip/1314196a-3abc-91d8-b18c-d72c53159fbe?t=1792585523229
+  scarico https://www.mim.gov.it/documents/7673905/7821594/m_pi.AOODRCA.REGISTRO+UFFICIALE%28U%29.0083021.31-10-2025.pdf/53b3e618-77a1-0148-0b80-12afaa019635?t=1761907834845
+    dalla memoria: non letto (righe GPS=0)
+  scarico https://www.mim.gov.it/documents/7673905/10323025/ORGANICI+DOCENTI+2026-27.zip/f6467ac1-eb41-4015-5e23-b3a1962a3da1?t=1790953118996
+    documento non leggibile: https://www.mim.gov.it/documents/7673905/10323025/ORGANICI+DOCENTI+2026-27.zip/f6467ac1-eb41-4015-5e23-b3a1962a3da1?t=1790953118996 libreria fflate non installata
+  scarico https://www.mim.gov.it/documents/7673905/11011788/decreto+rettifiche+2%C2%B0+bollettino.pdf/70d7d311-5acf-e518-e3a0-011c8d0f4b47?version=1.0&t=1789738940031
+    dalla memoria: non letto (righe GPS=0)
+  scarico https://www.mim.gov.it/documents/7673905/11011788/RETTIFICHE+AL+2%C2%B0+BOLLETTINO.pdf/baf97ba3-69af-dd95-8b66-527e5e5dc7ef?version=1.0&t=1789738939732
+    dalla memoria: non letto (righe GPS=0)
+  data ricavata dal caricamento dell'allegato: 2025-10-31
+  anno scolastico precedente, salto: https://www.mim.gov.it/web/miur-usr-campania/-/personale-docente-rettifiche-2-bollettino-supplenze-del-15-settembre-2026
+  scartati 4 allegati generici (contatti, organigramma...)
+  scarico https://www.mim.gov.it/documents/7673905/10936887/Bollettini+a.s.2023_24_privacy.zip/1314196a-3abc-91d8-b18c-d72c53159fbe?t=1792585523229
+    zip di un altro anno scolastico, salto: 23_24_privacy.zip/1314196a-3abc-91d8-b18c-d72c53159fbe?t=1792585523229
+  scarico https://www.mim.gov.it/documents/7673905/7821594/m_pi.AOODRCA.REGISTRO+UFFICIALE%28U%29.0083021.31-10-2025.pdf/53b3e618-77a1-0148-0b80-12afaa019635?t=1761907834845
+    dalla memoria: non letto (righe GPS=0)
+  scarico https://www.mim.gov.it/documents/7673905/10323025/ORGANICI+DOCENTI+2026-27.zip/f6467ac1-eb41-4015-5e23-b3a1962a3da1?t=1790953118996
+    documento non leggibile: https://www.mim.gov.it/documents/7673905/10323025/ORGANICI+DOCENTI+2026-27.zip/f6467ac1-eb41-4015-5e23-b3a1962a3da1?t=1790953118996 libreria fflate non installata
+  scarico https://www.mim.gov.it/documents/7673905/11011788/DECRETO+2+BOLLETTINO.pdf/a465a71c-83d6-82a9-6339-bc27fd20c97a?version=1.0&t=1789479563060
+    dalla memoria: non letto (righe GPS=0)
+  scarico https://www.mim.gov.it/documents/7673905/11011788/SECONDO+BOLLETTINO+NOMINE+-+15.09.2026.pdf/1a3dab44-ebe1-9faf-87b2-6cd3f5b8267e?version=1.0&t=1789479562666
+    dalla memoria: letto (righe GPS=211)
+  data ricavata dal caricamento dell'allegato: 2026-09-15
+    ok [turno]: calibrato=true righe GPS=211 scartate=0
+  scartati 4 allegati generici (contatti, organigramma...)
+  scarico https://www.mim.gov.it/documents/7673905/10936887/Bollettini+a.s.2023_24_privacy.zip/1314196a-3abc-91d8-b18c-d72c53159fbe?t=1792585523229
+    zip di un altro anno scolastico, salto: 23_24_privacy.zip/1314196a-3abc-91d8-b18c-d72c53159fbe?t=1792585523229
+  scarico https://www.mim.gov.it/documents/7673905/7821594/m_pi.AOODRCA.REGISTRO+UFFICIALE%28U%29.0083021.31-10-2025.pdf/53b3e618-77a1-0148-0b80-12afaa019635?t=1761907834845
+    dalla memoria: non letto (righe GPS=0)
+  scarico https://www.mim.gov.it/documents/7673905/10323025/ORGANICI+DOCENTI+2026-27.zip/f6467ac1-eb41-4015-5e23-b3a1962a3da1?t=1790953118996
+    documento non leggibile: https://www.mim.gov.it/documents/7673905/10323025/ORGANICI+DOCENTI+2026-27.zip/f6467ac1-eb41-4015-5e23-b3a1962a3da1?t=1790953118996 libreria fflate non installata
+  scarico https://www.mim.gov.it/documents/7673905/10323025/BOLLETTINO+RETTIFICHE+PRIVACY.pdf/1d65333f-829b-fc55-bcdc-cc60f27b9453?version=1.0&t=1788518050587
+    dalla memoria: non letto (righe GPS=0)
+  scarico https://www.mim.gov.it/documents/7673905/10323025/DECRETO+RETTIFICHE+AL+1%C2%B0+BOLLETTINO+SUPPLENZE+DEL+31+AGO+2026.pdf/d68665df-f6cc-6b7e-42bf-c5ca3b1f6536?version=1.0&t=1788518050454
+    dalla memoria: non letto (righe GPS=0)
+  data ricavata dal caricamento dell'allegato: 2025-10-31
+  anno scolastico precedente, salto: https://www.mim.gov.it/web/miur-usr-campania/-/personale-docente-rettifiche-al-1-bollettino-delle-supplenze-del-31-agosto-2026
+  scartati 4 allegati generici (contatti, organigramma...)
+  scarico https://www.mim.gov.it/documents/7673905/10936887/Bollettini+a.s.2023_24_privacy.zip/1314196a-3abc-91d8-b18c-d72c53159fbe?t=1792585523229
+    zip di un altro anno scolastico, salto: 23_24_privacy.zip/1314196a-3abc-91d8-b18c-d72c53159fbe?t=1792585523229
+  scarico https://www.mim.gov.it/documents/7673905/7821594/m_pi.AOODRCA.REGISTRO+UFFICIALE%28U%29.0083021.31-10-2025.pdf/53b3e618-77a1-0148-0b80-12afaa019635?t=1761907834845
+    dalla memoria: non letto (righe GPS=0)
+  scarico https://www.mim.gov.it/documents/7673905/10323025/ORGANICI+DOCENTI+2026-27.zip/f6467ac1-eb41-4015-5e23-b3a1962a3da1?t=1790953118996
+    documento non leggibile: https://www.mim.gov.it/documents/7673905/10323025/ORGANICI+DOCENTI+2026-27.zip/f6467ac1-eb41-4015-5e23-b3a1962a3da1?t=1790953118996 libreria fflate non installata
+  scarico https://www.mim.gov.it/documents/7673905/10323025/m_pi.AOOUSPSA.REGISTRO+UFFICIALE%28U%29.0021504.01-09-2026.pdf/4bfbe7e4-1213-7114-89f2-580f89c7c042?version=1.0&t=1788277221537
+    dalla memoria: non letto (righe GPS=0)
+  documento di tipo decreto, non è un bollettino: ignoro 21.31-10-2025.pdf/53b3e618-77a1-0148-0b80-12afaa019635?t=1761907834845
+  scartati 4 allegati generici (contatti, organigramma...)
+  scarico https://www.mim.gov.it/documents/7673905/10936887/Bollettini+a.s.2023_24_privacy.zip/1314196a-3abc-91d8-b18c-d72c53159fbe?t=1792585523229
+    zip di un altro anno scolastico, salto: 23_24_privacy.zip/1314196a-3abc-91d8-b18c-d72c53159fbe?t=1792585523229
+  scarico https://www.mim.gov.it/documents/7673905/7821594/m_pi.AOODRCA.REGISTRO+UFFICIALE%28U%29.0083021.31-10-2025.pdf/53b3e618-77a1-0148-0b80-12afaa019635?t=1761907834845
+    dalla memoria: non letto (righe GPS=0)
+  scarico https://www.mim.gov.it/documents/7673905/10323025/ORGANICI+DOCENTI+2026-27.zip/f6467ac1-eb41-4015-5e23-b3a1962a3da1?t=1790953118996
+    documento non leggibile: https://www.mim.gov.it/documents/7673905/10323025/ORGANICI+DOCENTI+2026-27.zip/f6467ac1-eb41-4015-5e23-b3a1962a3da1?t=1790953118996 libreria fflate non installata
+  scarico https://www.mim.gov.it/documents/7673905/10323025/Bollettino_TotaleNomine+privacy.pdf/4d6209b1-79c5-b9d9-b91d-69a7220c65db?version=1.0&t=1788186503493
+    dalla memoria: letto (righe GPS=1563)
+  data ricavata dal caricamento dell'allegato: 2026-08-31
+    ok [rett]: calibrato=true righe GPS=1563 scartate=0
+  scartati 4 allegati generici (contatti, organigramma...)
+  scarico https://www.mim.gov.it/documents/7673905/10936887/Bollettini+a.s.2023_24_privacy.zip/1314196a-3abc-91d8-b18c-d72c53159fbe?t=1792585523229
+    zip di un altro anno scolastico, salto: 23_24_privacy.zip/1314196a-3abc-91d8-b18c-d72c53159fbe?t=1792585523229
+  scarico https://www.mim.gov.it/documents/7673905/7821594/m_pi.AOODRCA.REGISTRO+UFFICIALE%28U%29.0083021.31-10-2025.pdf/53b3e618-77a1-0148-0b80-12afaa019635?t=1761907834845
+    dalla memoria: non letto (righe GPS=0)
+  scarico https://www.mim.gov.it/documents/7673905/10323025/ORGANICI+DOCENTI+2026-27.zip/f6467ac1-eb41-4015-5e23-b3a1962a3da1?t=1790953118996
+    documento non leggibile: https://www.mim.gov.it/documents/7673905/10323025/ORGANICI+DOCENTI+2026-27.zip/f6467ac1-eb41-4015-5e23-b3a1962a3da1?t=1790953118996 libreria fflate non installata
+  scarico https://www.mim.gov.it/documents/7673905/11011788/m_pi.AOOUSPSA.REGISTRO+UFFICIALE%28U%29.0021184.28-08-2026.pdf/eaf5ca90-8924-f813-e529-9fa74b4e3353?version=1.0&t=1787920512027
+    dalla memoria: non letto (righe GPS=0)
+  data ricavata dal caricamento dell'allegato: 2025-10-31
+  anno scolastico precedente, salto: https://www.mim.gov.it/web/miur-usr-campania/-/personale-docente-continuita-didattica-riscontro-massivo-bollettino-conferme-sostegno-a-s-2026-2027
+  scartati 4 allegati generici (contatti, organigramma...)
   scartati 1 decreti (non sono bollettini)
-  scarico https://www.istruzionepiemonte.it/verbania/wp-content/uploads/sites/8/2026/08/Incarichi-a-tempo-determinato-personale-Docente-a.s.2026-27-primo-turno.zip
-    documento non leggibile: https://www.istruzionepiemonte.it/verbania/wp-content/uploads/sites/8/2026/08/Incarichi-a-tempo-determinato-personale-Docente-a.s.2026-27-primo-turno.zip libreria fflate non installata
-  nessun PDF utilizzabile in https://www.istruzionepiemonte.it/verbania/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-primo-turno-di-nomina/
-  scarico https://www.istruzionepiemonte.it/verbania/wp-content/uploads/sites/8/2026/09/Nomine-2°-turno-privacy.xlsx
-    documento non leggibile: https://www.istruzionepiemonte.it/verbania/wp-content/uploads/sites/8/2026/09/Nomine-2°-turno-privacy.xlsx libreria read-excel-file non installata
-  scarico https://www.istruzionepiemonte.it/verbania/wp-content/uploads/sites/8/2026/09/Nomine-2°-turno-privacy.pdf
-  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-09-10
-    ok [turno]: calibrato=true righe GPS=43 scartate=0
-  scarico https://www.istruzionepiemonte.it/verbania/wp-content/uploads/sites/8/2026/09/3°-Bollettino-Nomine-scorrimento-GPS.pdf
-  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-09-16
-    ok [turno]: calibrato=true righe GPS=13 scartate=0
-  scarico https://www.istruzionepiemonte.it/verbania/wp-content/uploads/sites/8/2026/09/4°-Bollettino-di-nomine-scorrimento-4°-Turno-GPS.xlsx
-    documento non leggibile: https://www.istruzionepiemonte.it/verbania/wp-content/uploads/sites/8/2026/09/4°-Bollettino-di-nomine-scorrimento-4°-Turno-GPS.xlsx libreria read-excel-file non installata
-  scarico https://www.istruzionepiemonte.it/verbania/wp-content/uploads/sites/8/2026/09/Decreto-nomine-4°-Turno-scorrimento-GPS-1.pdf
-Warning: TT: undefined function: 21
-Warning: TT: undefined function: 21
-Warning: TT: undefined function: 21
-Warning: TT: undefined function: 21
-    OCR: nessuna pagina scansionata nel documento
-Warning: TT: undefined function: 21
-Warning: TT: undefined function: 21
-  scarico https://www.istruzionepiemonte.it/verbania/wp-content/uploads/sites/8/2026/09/Disponibilita-4°-Turno-scorrimento-GPS.xlsx
-    documento non leggibile: https://www.istruzionepiemonte.it/verbania/wp-content/uploads/sites/8/2026/09/Disponibilita-4°-Turno-scorrimento-GPS.xlsx libreria read-excel-file non installata
-  documento di tipo decreto, non è un bollettino: ignoro /uploads/sites/8/2026/09/Decreto-nomine-4°-Turno-scorrimento-GPS-1.pdf
-  scarico https://www.istruzionepiemonte.it/verbania/wp-content/uploads/sites/8/2026/09/Bollettino-nomine-5°-Turno-scorrimento-GPS.xlsx
-    documento non leggibile: https://www.istruzionepiemonte.it/verbania/wp-content/uploads/sites/8/2026/09/Bollettino-nomine-5°-Turno-scorrimento-GPS.xlsx libreria read-excel-file non installata
-  scarico https://www.istruzionepiemonte.it/verbania/wp-content/uploads/sites/8/2026/09/Decreto-nomine-5-turno-GPSU.0005782.28-09-2026.pdf
-Warning: TT: undefined function: 21
-Warning: TT: undefined function: 21
-Warning: TT: undefined function: 21
-Warning: TT: undefined function: 21
-    OCR: nessuna pagina scansionata nel documento
-Warning: TT: undefined function: 21
-Warning: TT: undefined function: 21
-  scarico https://www.istruzionepiemonte.it/verbania/wp-content/uploads/sites/8/2026/09/Disponibilita-posti-5°-Turno-scorrimento-GPS.xlsx
-    documento non leggibile: https://www.istruzionepiemonte.it/verbania/wp-content/uploads/sites/8/2026/09/Disponibilita-posti-5°-Turno-scorrimento-GPS.xlsx libreria read-excel-file non installata
-  documento di tipo decreto, non è un bollettino: ignoro ads/sites/8/2026/09/Decreto-nomine-5-turno-GPSU.0005782.28-09-2026.pdf
-  scarico https://www.istruzionepiemonte.it/verbania/wp-content/uploads/sites/8/2026/10/Bollettino-nomine-6°-turno-scorrimento-GPS.pdf
-  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-10-06
-    ok [turno]: calibrato=true righe GPS=6 scartate=0
-  scarico https://www.istruzionepiemonte.it/verbania/wp-content/uploads/sites/8/2026/10/Bollettino-nomine-7°-turno-scorrimento-GPS.pdf
-  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-10-13
-    ok [turno]: calibrato=true righe GPS=5 scartate=0
-  scarico https://www.istruzionepiemonte.it/verbania/wp-content/uploads/sites/8/2026/10/Bollettino-nomina-8°-Turno-scorrimento-GPS.xlsx
-    documento non leggibile: https://www.istruzionepiemonte.it/verbania/wp-content/uploads/sites/8/2026/10/Bollettino-nomina-8°-Turno-scorrimento-GPS.xlsx libreria read-excel-file non installata
-  scarico https://www.istruzionepiemonte.it/verbania/wp-content/uploads/sites/8/2026/10/m_pi.AOOUSPVB.REGISTRO-UFFICIALEU.0006204.21-10-2026.pdf
-Warning: TT: undefined function: 21
-Warning: TT: undefined function: 21
-Warning: TT: undefined function: 21
-Warning: TT: undefined function: 21
-    OCR: nessuna pagina scansionata nel documento
-Warning: TT: undefined function: 21
-Warning: TT: undefined function: 21
-  scarico https://www.istruzionepiemonte.it/verbania/wp-content/uploads/sites/8/2026/10/Disponibilita-posti-e-spezzoni-orari-8°-Turno-scorrimento-GPS.xlsx
-    documento non leggibile: https://www.istruzionepiemonte.it/verbania/wp-content/uploads/sites/8/2026/10/Disponibilita-posti-e-spezzoni-orari-8°-Turno-scorrimento-GPS.xlsx libreria read-excel-file non installata
-  documento di tipo decreto, non è un bollettino: ignoro tes/8/2026/10/m_pi.AOOUSPVB.REGISTRO-UFFICIALEU.0006204.21-10-2026.pdf
-  turni letti=4 non letti=1 -> da verificare
--- PT Pistoia --
-link da Orizzonte Scuola: 10
-totale pagine da controllare: 10
-  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/08/BOLLETTINO-DEFINITIVO-I-TURNO-GPS-31.08.26.xlsx
-    documento non leggibile: https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/08/BOLLETTINO-DEFINITIVO-I-TURNO-GPS-31.08.26.xlsx libreria read-excel-file non installata
-  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/08/m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0005026.31-08-2026-TURNO-1-GPS.pdf
-Warning: TT: undefined function: 21
-Warning: TT: undefined function: 21
-    OCR: nessuna pagina scansionata nel documento
-Warning: TT: undefined function: 21
-  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/08/DISPONIBILITA-SU-SCUOLA-PER-I-TURNO-GPS.xlsx
-    documento non leggibile: https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/08/DISPONIBILITA-SU-SCUOLA-PER-I-TURNO-GPS.xlsx libreria read-excel-file non installata
-  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/08/PostiOrario_AA_441896-1.xlsx
-    documento non leggibile: https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/08/PostiOrario_AA_441896-1.xlsx libreria read-excel-file non installata
-  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/08/PostiOrario_EE_441896-1.xlsx
-    documento non leggibile: https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/08/PostiOrario_EE_441896-1.xlsx libreria read-excel-file non installata
-  documento di tipo decreto, non è un bollettino: ignoro 8/m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0005026.31-08-2026-TURNO-1-GPS.pdf
-  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/09/BOLLETTINO-DEFINITIVO-II-TURNO-GPS.xlsx
-    documento non leggibile: https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/09/BOLLETTINO-DEFINITIVO-II-TURNO-GPS.xlsx libreria read-excel-file non installata
-  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/09/m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0005198.08-09-2026-II-TURNO-GPS.pdf
-Warning: TT: undefined function: 21
-Warning: TT: undefined function: 21
-    OCR: nessuna pagina scansionata nel documento
-Warning: TT: undefined function: 21
-  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/09/DISPONIBILITA-SCUOLE-SECONDO-TURNO-GPS.xlsx
-    documento non leggibile: https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/09/DISPONIBILITA-SCUOLE-SECONDO-TURNO-GPS.xlsx libreria read-excel-file non installata
-  documento di tipo decreto, non è un bollettino: ignoro /m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0005198.08-09-2026-II-TURNO-GPS.pdf
-  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/09/Bollettino_TotaleNomine-14.09.26.xlsx
-    documento non leggibile: https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/09/Bollettino_TotaleNomine-14.09.26.xlsx libreria read-excel-file non installata
-  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/09/m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0005369.14-09-2026-III-turno-nomina-GPS.pdf
-Warning: TT: undefined function: 21
-Warning: TT: undefined function: 21
-    OCR: nessuna pagina scansionata nel documento
-Warning: TT: undefined function: 21
-  documento di tipo decreto, non è un bollettino: ignoro OUSPPT.REGISTRO-UFFICIALEU.0005369.14-09-2026-III-turno-nomina-GPS.pdf
-  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/09/bollettino-definitivo-v-turno.xlsx
-    documento non leggibile: https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/09/bollettino-definitivo-v-turno.xlsx libreria read-excel-file non installata
-  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/09/m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0005586.23-09-2026-turno-v-gps.pdf
-Warning: TT: undefined function: 21
-Warning: TT: undefined function: 21
-    OCR: nessuna pagina scansionata nel documento
-Warning: TT: undefined function: 21
-  documento di tipo decreto, non è un bollettino: ignoro 9/m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0005586.23-09-2026-turno-v-gps.pdf
-  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/09/BOLLETTINO-DEFINITIVO-TURNO-VI.xlsx
-    documento non leggibile: https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/09/BOLLETTINO-DEFINITIVO-TURNO-VI.xlsx libreria read-excel-file non installata
-  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/09/m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0005792.28-09-2026-turno-VI-GPS.pdf
-Warning: TT: undefined function: 21
-Warning: TT: undefined function: 21
-    OCR: nessuna pagina scansionata nel documento
-Warning: TT: undefined function: 21
-  documento di tipo decreto, non è un bollettino: ignoro /m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0005792.28-09-2026-turno-VI-GPS.pdf
-  scartati 1 decreti (non sono bollettini)
-  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/10/definitivo-VII-turno-GPS.xlsx
-    documento non leggibile: https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/10/definitivo-VII-turno-GPS.xlsx libreria read-excel-file non installata
-  nessun PDF utilizzabile in https://www.ufficioscolasticoprovinciale.pistoia.it/conferimento-supplenze-al-personale-docente-per-lanno-scolastico-2026-27-da-gae-e-gps-provincia-di-pistoia-assegnazione-sede-vii-turno-di-nomina-gps-om-27-2026/
-  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/10/bollettino-definitivo-VIII-turno.xlsx
-    documento non leggibile: https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/10/bollettino-definitivo-VIII-turno.xlsx libreria read-excel-file non installata
-  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/10/m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0006193.13-10-2026-decreto-VIII-turno-di-nomina-gps.pdf
-Warning: TT: undefined function: 21
-Warning: TT: undefined function: 21
-    OCR: nessuna pagina scansionata nel documento
-Warning: TT: undefined function: 21
-  documento di tipo decreto, non è un bollettino: ignoro TRO-UFFICIALEU.0006193.13-10-2026-decreto-VIII-turno-di-nomina-gps.pdf
-  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/10/Bollettino_TotaleNomine.xlsx
-    documento non leggibile: https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/10/Bollettino_TotaleNomine.xlsx libreria read-excel-file non installata
-  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/10/m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0006290.16-10-2026.pdf
-Warning: TT: undefined function: 21
-Warning: TT: undefined function: 21
-    OCR: nessuna pagina scansionata nel documento
-Warning: TT: undefined function: 21
-  documento di tipo decreto, non è un bollettino: ignoro loads/2026/10/m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0006290.16-10-2026.pdf
-  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/10/Bollettino_TotaleNomine-X-Turno.xlsx
-    documento non leggibile: https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/10/Bollettino_TotaleNomine-X-Turno.xlsx libreria read-excel-file non installata
-  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/10/m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0006364.20-10-2026.pdf
-Warning: TT: undefined function: 21
-Warning: TT: undefined function: 21
-    OCR: nessuna pagina scansionata nel documento
-Warning: TT: undefined function: 21
-  documento di tipo decreto, non è un bollettino: ignoro loads/2026/10/m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0006364.20-10-2026.pdf
-  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/10/Bollettino-Totale-nomine-XI-TURNO.xlsx
-    documento non leggibile: https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/10/Bollettino-Totale-nomine-XI-TURNO.xlsx libreria read-excel-file non installata
-  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/10/m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0006481.26-10-2026.pdf
-Warning: TT: undefined function: 21
-Warning: TT: undefined function: 21
-    OCR: nessuna pagina scansionata nel documento
-Warning: TT: undefined function: 21
-  documento di tipo decreto, non è un bollettino: ignoro loads/2026/10/m_pi.AOOUSPPT.REGISTRO-UFFICIALEU.0006481.26-10-2026.pdf
-  turni letti=0 non letti=1 -> da verificare
-RIEPILOGO DA VERIFICARE: letti con OCR=0 | zero righe=3 | non letti=116 | turni mancanti=37
+  scarico https://www.mim.gov.it/documents/7673905/10936887/Bollettini+a.s.2023_24_privacy.zip/1314196a-3abc-91d8-b18c-d72c53159fbe?t=1792585523229
+    zip di un altro anno scolastico, salto: 23_24_privacy.zip/1314196a-3abc-91d8-b18c-d72c53159fbe?t=1792585523229
+  scarico https://www.mim.gov.it/documents/7673905/7821594/m_pi.AOODRCA.REGISTRO+UFFICIALE%28U%29.0083021.31-10-2025.pdf/53b3e618-77a1-0148-0b80-12afaa019635?t=1761907834845
+    dalla memoria: non letto (righe GPS=0)
+  scarico https://www.mim.gov.it/documents/7673905/10323025/ORGANICI+DOCENTI+2026-27.zip/f6467ac1-eb41-4015-5e23-b3a1962a3da1?t=1790953118996
+    documento non leggibile: https://www.mim.gov.it/documents/7673905/10323025/ORGANICI+DOCENTI+2026-27.zip/f6467ac1-eb41-4015-5e23-b3a1962a3da1?t=1790953118996 libreria fflate non installata
+  scarico https://www.mim.gov.it/documents/7673905/10323025/Bollettino_Totale_Conferme_privacy.pdf/d38327c1-691b-54b4-3cc9-04748233293b?version=1.0&t=1787836336328
+    dalla memoria: letto (righe GPS=854)
+  data ricavata dal caricamento dell'allegato: 2026-08-27
+    ok [altro]: calibrato=true righe GPS=854 scartate=0
+  scartati 4 allegati generici (contatti, organigramma...)
+  scarico https://www.mim.gov.it/documents/7673905/10936887/Bollettini+a.s.2023_24_privacy.zip/1314196a-3abc-91d8-b18c-d72c53159fbe?t=1792585523229
+    zip di un altro anno scolastico, salto: 23_24_privacy.zip/1314196a-3abc-91d8-b18c-d72c53159fbe?t=1792585523229
+  scarico https://www.mim.gov.it/documents/7673905/7821594/m_pi.AOODRCA.REGISTRO+UFFICIALE%28U%29.0083021.31-10-2025.pdf/53b3e618-77a1-0148-0b80-12afaa019635?t=1761907834845
+    dalla memoria: non letto (righe GPS=0)
+  scarico https://www.mim.gov.it/documents/7673905/10323025/ORGANICI+DOCENTI+2026-27.zip/f6467ac1-eb41-4015-5e23-b3a1962a3da1?t=1790953118996
+    documento non leggibile: https://www.mim.gov.it/documents/7673905/10323025/ORGANICI+DOCENTI+2026-27.zip/f6467ac1-eb41-4015-5e23-b3a1962a3da1?t=1790953118996 libreria fflate non installata
+  scarico https://www.mim.gov.it/documents/7673905/10323025/LIBERATORIA+ORE+AGGIUNTIVE+DA+ASSEGNARE+INTERNAMENTE+-+FASE+2+NOTA+MIM+DEL+19.06.2026.pdf/7918a855-77b0-e9f7-98b4-674c435b9ac4?version=1.0&t=1787565894108
+    dalla memoria: non letto (righe GPS=0)
+  scarico https://www.mim.gov.it/documents/7673905/10323025/PROSPE_1.pdf/25ffa6fa-8fee-e5ec-5185-57bbfd8a0889?version=1.0&t=1787565893939
+    dalla memoria: non letto (righe GPS=0)
+  documento di tipo decreto, non è un bollettino: ignoro 21.31-10-2025.pdf/53b3e618-77a1-0148-0b80-12afaa019635?t=1761907834845
+  scartati 5 allegati generici (contatti, organigramma...)
+  scarico https://www.mim.gov.it/documents/7673905/10936887/Bollettini+a.s.2023_24_privacy.zip/1314196a-3abc-91d8-b18c-d72c53159fbe?t=1792585523229
+    zip di un altro anno scolastico, salto: 23_24_privacy.zip/1314196a-3abc-91d8-b18c-d72c53159fbe?t=1792585523229
+  scarico https://www.mim.gov.it/documents/7673905/7821594/m_pi.AOODRCA.REGISTRO+UFFICIALE%28U%29.0083021.31-10-2025.pdf/53b3e618-77a1-0148-0b80-12afaa019635?t=1761907834845
+    dalla memoria: non letto (righe GPS=0)
+  scarico https://www.mim.gov.it/documents/7673905/10323025/ORGANICI+DOCENTI+2026-27.zip/f6467ac1-eb41-4015-5e23-b3a1962a3da1?t=1790953118996
+    documento non leggibile: https://www.mim.gov.it/documents/7673905/10323025/ORGANICI+DOCENTI+2026-27.zip/f6467ac1-eb41-4015-5e23-b3a1962a3da1?t=1790953118996 libreria fflate non installata
+  scarico https://www.mim.gov.it/documents/7673905/10936887/CIRCOLARE+RITIRO+DOMANDE+SU+INS.pdf/e97be013-279d-01aa-bf68-da9a00248805?version=1.0&t=1786960067306
+    dalla memoria: non letto (righe GPS=0)
+  documento di tipo decreto, non è un bollettino: ignoro 21.31-10-2025.pdf/53b3e618-77a1-0148-0b80-12afaa019635?t=1761907834845
+  scartati 4 allegati generici (contatti, organigramma...)
+  scarico https://www.mim.gov.it/documents/7673905/10936887/Bollettini+a.s.2023_24_privacy.zip/1314196a-3abc-91d8-b18c-d72c53159fbe?t=1792585523229
+    zip di un altro anno scolastico, salto: 23_24_privacy.zip/1314196a-3abc-91d8-b18c-d72c53159fbe?t=1792585523229
+  scarico https://www.mim.gov.it/documents/7673905/7821594/m_pi.AOODRCA.REGISTRO+UFFICIALE%28U%29.0083021.31-10-2025.pdf/53b3e618-77a1-0148-0b80-12afaa019635?t=1761907834845
+    dalla memoria: non letto (righe GPS=0)
+  scarico https://www.mim.gov.it/documents/7673905/10323025/ORGANICI+DOCENTI+2026-27.zip/f6467ac1-eb41-4015-5e23-b3a1962a3da1?t=1790953118996
+    documento non leggibile: https://www.mim.gov.it/documents/7673905/10323025/ORGANICI+DOCENTI+2026-27.zip/f6467ac1-eb41-4015-5e23-b3a1962a3da1?t=1790953118996 libreria fflate non installata
+  scarico https://www.mim.gov.it/documents/7673905/10936887/AOODGPER.REGISTRO+UFFICIALE.2026.0020083.pdf/4e1d6757-44fb-f386-ade6-88911c8119a4?version=1.0&t=1785758152727
+    dalla memoria: non letto (righe GPS=0)
+  data ricavata dal caricamento dell'allegato: 2025-10-31
+  anno scolastico precedente, salto: https://www.mim.gov.it/web/miur-usr-campania/-/istruzioni-e-indicazioni-operative-in-materia-di-supplenze-al-personale-docente-educativo-ed-a-t-a-termine-per-la-presentazione-delle-istanze-relative
+  bollettino manuale aggiunto: 2026-08-31 PDF Bollettino_TotaleNomine privacy (USR Campania), letto con tabelle
+  turni letti=6 non letti=0 -> provincia completa
+RIEPILOGO DA VERIFICARE: letti con OCR=0 | zero righe=4 | non letti=129 | turni mancanti=37
 Scritto /home/runner/work/atrium/atrium/data/bollettini.json
