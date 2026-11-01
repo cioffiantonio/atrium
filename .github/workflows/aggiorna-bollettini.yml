@@ -37,7 +37,9 @@ jobs:
           node-version: 20
       - run: npm install
       # lettura dei bollettini in formato Excel (.xlsx) e archivi zip
-      - run: npm install --no-save read-excel-file@9 fflate@0.8
+      # IMPORTANTE: tutte le librerie extra in UN SOLO comando. Un secondo "npm install --no-save" rimuove
+      # quelle installate dal primo (è così che Excel e zip non funzionavano).
+      - run: npm install --no-save read-excel-file@9 fflate@0.8 playwright
       # strumenti per leggere con l'OCR i bollettini scansionati (pdftoppm + tesseract, anche in italiano)
       - name: Installa OCR
         run: |
@@ -61,7 +63,6 @@ jobs:
       - name: Installa il browser
         if: steps.browser.outputs.serve == 'si'
         run: |
-          npm install --no-save playwright
           npx playwright install --with-deps chromium
       - name: Leggi i bollettini
         env:
