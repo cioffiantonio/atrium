@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-01T15:33:59.868Z",
+ "aggiornato": "2026-11-01T21:39:55.473Z",
  "ocr": [],
  "zeroRighe": [
   {
@@ -51,6 +51,13 @@
    "turno": 5,
    "data": "2026-10-20",
    "url": "https://lnx.csalaquila.it/wp/wp-content/uploads/2026/10/Bollettino-n.-5-1.pdf",
+   "nota": "formato non riconosciuto"
+  },
+  {
+   "provincia": "AQ",
+   "turno": 6,
+   "data": "2026-10-29",
+   "url": "https://lnx.csalaquila.it/wp/wp-content/uploads/2026/10/Bollettino-n.-6.pdf",
    "nota": "formato non riconosciuto"
   },
   {
@@ -181,16 +188,16 @@
   },
   {
    "provincia": "IM",
-   "turno": 1,
+   "turno": 10,
    "data": "2026-11-01",
-   "url": "https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps--as-2026-27--i-turno",
+   "url": "https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps-as-2026-27--x-turno",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "SV",
-   "turno": 1,
+   "turno": 4,
    "data": "2026-11-01",
-   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-1",
+   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-4",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
@@ -845,6 +852,13 @@
    "nota": "documento non leggibile"
   },
   {
+   "provincia": "PG",
+   "turno": 6,
+   "data": "2026-10-29",
+   "url": "https://lnx.csalaquila.it/wp/wp-content/uploads/2026/10/Bollettino-n.-6.pdf",
+   "nota": "formato non riconosciuto"
+  },
+  {
    "provincia": "PD",
    "turno": null,
    "data": "2026-10-16",
@@ -857,6 +871,13 @@
    "data": "2026-10-27",
    "url": "https://padova.istruzioneveneto.gov.it/wp-content/uploads/2026/10/Bollettino-XIV-turno-27.10.2026.pdf",
    "nota": "righe GPS non leggibili: 1"
+  },
+  {
+   "provincia": "PD",
+   "turno": null,
+   "data": "2026-10-30",
+   "url": "https://padova.istruzioneveneto.gov.it/wp-content/uploads/2026/10/Bollettino-XV-turno-30.10.2026.pdf",
+   "nota": "righe GPS non leggibili: 6"
   },
   {
    "provincia": "VE",
@@ -973,15 +994,22 @@
   {
    "provincia": "VI",
    "turno": null,
+   "data": "2026-10-30",
+   "url": "https://vicenza.istruzioneveneto.gov.it/2026/10/30/docenti-individuati-quali-destinatari-per-lanno-scolastico-2026-2027-di-una-proposta-di-stipula-di-contratto-a-tempo-determinato-per-supplenza-turno-del-30-10-2026/",
+   "nota": "documento non leggibile"
+  },
+  {
+   "provincia": "VI",
+   "turno": null,
    "data": "2026-11-01",
    "url": "https://facebook.com/sharer/sharer.php?u=https://www.orizzontescuola.it/supplenze-docenti-ecco-i-bollettini-nomine-al-31-agosto-o-30-giugno-2027-in-aggiornamento/",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "VI",
-   "turno": null,
+   "turno": 1,
    "data": "2026-11-01",
-   "url": "https://t.me/share/url?text=Supplenze docenti 2026/27: bollettini del 30 ottobre [AGGIORNATO]&url=https://www.orizzontescuola.it/supplenze-docenti-ecco-i-bollettini-nomine-al-31-agosto-o-30-giugno-2027-in-aggiornamento/",
+   "url": "https://t.me/share/url?text=Supplenze docenti 2026/27: per i bollettini pubblicati venerdì 30 ottobre attenzione alla data di presa di servizio&url=https://www.orizzontescuola.it/supplenze-docenti-ecco-i-bollettini-nomine-al-31-agosto-o-30-giugno-2027-in-aggiornamento/",
    "nota": "nessun PDF o foglio trovato nella pagina"
   }
  ],
@@ -1118,13 +1146,13 @@
   },
   {
    "provincia": "PO",
-   "turno": 7,
-   "nota": "bollettino non trovato (si passa dal turno 6 al 8)"
-  },
-  {
-   "provincia": "PO",
    "turno": 9,
    "nota": "bollettino non trovato (si passa dal turno 8 al 10)"
+  },
+  {
+   "provincia": "BL",
+   "turno": 8,
+   "nota": "bollettino non trovato (si passa dal turno 7 al 9)"
   },
   {
    "provincia": "PD",
@@ -1518,13 +1546,6 @@
    "pagine": 4
   },
   {
-   "provincia": "TA",
-   "turno": null,
-   "data": "2026-09-16",
-   "url": "https://www.usptaranto.it/wp-content/uploads/2026/09/m_pi.AOOUSPTA.REGISTRO-UFFICIALEU.0019836.16-09-2026.pdf",
-   "pagine": 2
-  },
-  {
    "provincia": "NU",
    "turno": null,
    "data": "2026-11-01",
@@ -1712,6 +1733,62 @@
    "data": "2026-11-01",
    "url": "https://sr.usr.sicilia.it/download/2000/14525/14530/m_pi-aoouspsr-registro-ufficialeu-0023414-15-10-2026.pdf",
    "pagine": 5
+  },
+  {
+   "provincia": "AR",
+   "turno": 1,
+   "data": "2026-08-29",
+   "url": "https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_1/m_pi.AOOUSPAR.REGISTRO_UFFICIALEU.0008333.29-08-2026.pdf",
+   "pagine": 3
+  },
+  {
+   "provincia": "AR",
+   "turno": 2,
+   "data": "2026-09-12",
+   "url": "https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_2/m_pi.AOOUSPAR.REGISTRO_UFFICIALEU.0009073.12-09-2026.pdf",
+   "pagine": 3
+  },
+  {
+   "provincia": "AR",
+   "turno": 3,
+   "data": "2026-09-21",
+   "url": "https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_3/m_pi.AOOUSPAR.REGISTRO_UFFICIALEU.0009404.21-09-2026.pdf",
+   "pagine": 3
+  },
+  {
+   "provincia": "AR",
+   "turno": 4,
+   "data": "2026-09-28",
+   "url": "https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_4/m_pi.AOOUSPAR.REGISTRO_UFFICIALEU.0009761.28-09-2026.pdf",
+   "pagine": 3
+  },
+  {
+   "provincia": "AR",
+   "turno": 5,
+   "data": "2026-10-05",
+   "url": "https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_5/m_pi.AOOUSPAR.REGISTRO_UFFICIALEU.0010017.05-10-2026.pdf",
+   "pagine": 3
+  },
+  {
+   "provincia": "AR",
+   "turno": 7,
+   "data": "2026-10-13",
+   "url": "https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_7/m_pi.AOOUSPAR.REGISTRO_UFFICIALEU.0010450.13-10-2026.pdf",
+   "pagine": 3
+  },
+  {
+   "provincia": "AR",
+   "turno": 8,
+   "data": "2026-10-20",
+   "url": "https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_8/m_pi.AOOUSPAR.REGISTRO_UFFICIALEU.0010730.20-10-2026.pdf",
+   "pagine": 3
+  },
+  {
+   "provincia": "AR",
+   "turno": 9,
+   "data": "2026-10-29",
+   "url": "https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_9/m_pi.AOOUSPAR.REGISTRO_UFFICIALEU.0011009.28-10-2026.pdf",
+   "pagine": 3
   },
   {
    "provincia": "GR",
@@ -1921,6 +1998,13 @@
    "turno": null,
    "data": "2026-10-28",
    "url": "https://www.uspsi.it/wp-content/uploads/2026/10/m_pi.AOOUSPSI.REGISTRO-UFFICIALEU.0006751.28-10-2026.pdf",
+   "pagine": 3
+  },
+  {
+   "provincia": "SI",
+   "turno": null,
+   "data": "2026-10-30",
+   "url": "https://www.uspsi.it/wp-content/uploads/2026/10/m_pi.AOOUSPSI.REGISTRO-UFFICIALEU.0006804.30-10-2026.pdf",
    "pagine": 3
   },
   {
