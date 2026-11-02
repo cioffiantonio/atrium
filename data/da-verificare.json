@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-02T12:36:14.098Z",
+ "aggiornato": "2026-11-02T13:46:46.082Z",
  "ocr": [],
  "zeroRighe": [
   {
@@ -258,9 +258,9 @@
   },
   {
    "provincia": "SP",
-   "turno": 2,
+   "turno": null,
    "data": "2026-11-02",
-   "url": "https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---ii-turno-11092026",
+   "url": "https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---viii-turno-09102026-",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
@@ -1395,7 +1395,7 @@
    "provincia": "GE",
    "turno": null,
    "data": "2026-11-02",
-   "url": "https://www.istruzionegenova.gov.it/pagine/xii-turno-gps---as-2026-2027",
+   "url": "https://www.istruzionegenova.gov.it/pagine/xiv-turno-gps---as-2026-2027",
    "altriLink": [
     "/pagine/decreto-di-nomina-i-fascia-sostegno-adaa-e-adee---genova",
     "/pagine/ix-turno-gps---solo-nomina-pppp",
