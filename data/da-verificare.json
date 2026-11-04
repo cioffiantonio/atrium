@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-04T11:52:54.422Z",
+ "aggiornato": "2026-11-04T13:29:54.622Z",
  "ocr": [],
  "zeroRighe": [
   {
@@ -131,27 +131,6 @@
    "nota": "righe GPS non leggibili: 1"
   },
   {
-   "provincia": "AV",
-   "turno": 1,
-   "data": "2026-11-04",
-   "url": "https://atavellino.it/graduatorie-provinciali-di-supplenza-primo-bollettino-nomine-a-tempo-determinato-2026-2027-ogni-ordine-e-grado-avellino-e-provincia/",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "AV",
-   "turno": 2,
-   "data": "2026-11-04",
-   "url": "https://atavellino.it/graduatorie-provinciali-di-supplenza-secondo-bollettino-nomine-a-tempo-determinato-2026-2027-ogni-ordine-e-grado-avellino-e-provincia/",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "AV",
-   "turno": null,
-   "data": "2026-11-04",
-   "url": "https://atavellino.it/graduatorie-provinciali-di-supplenza-terzo-bollettino-nomine-a-tempo-determinato-2026-2027-ogni-ordine-e-grado-avellino-e-provincia/",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
    "provincia": "AQ",
    "turno": 3,
    "data": "2026-09-16",
@@ -171,6 +150,62 @@
    "data": "2026-10-29",
    "url": "https://lnx.csalaquila.it/wp/wp-content/uploads/2026/10/Bollettino-n.-6.pdf",
    "nota": "formato non riconosciuto"
+  },
+  {
+   "provincia": "CZ",
+   "turno": 1,
+   "data": "2026-11-04",
+   "url": "https://www.istruzione.calabria.it/catanzaro/m_pi-aoouspcz-registro-ufficialeu-0008935-31-08-2026/",
+   "nota": "documento non leggibile"
+  },
+  {
+   "provincia": "CZ",
+   "turno": 2,
+   "data": "2026-11-04",
+   "url": "https://www.istruzione.calabria.it/catanzaro/m_pi-aoouspcz-registro-ufficialeu-0009525-11-09-2026/",
+   "nota": "documento non leggibile"
+  },
+  {
+   "provincia": "CZ",
+   "turno": 4,
+   "data": "2026-11-04",
+   "url": "https://www.istruzione.calabria.it/catanzaro/m_pi-aoouspcz-registro-ufficialeu-0010555-07-10-2026/",
+   "nota": "documento non leggibile"
+  },
+  {
+   "provincia": "RC",
+   "turno": null,
+   "data": "2026-11-04",
+   "url": "https://www.istruzioneatprc.it/aoousprc16117-20260917/",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "RC",
+   "turno": null,
+   "data": "2026-11-04",
+   "url": "https://www.istruzioneatprc.it/aoousprc17153-20261006/",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "RC",
+   "turno": null,
+   "data": "2026-11-04",
+   "url": "https://www.istruzioneatprc.it/aoousprc17798-20261016/",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "RC",
+   "turno": null,
+   "data": "2026-11-04",
+   "url": "https://www.istruzioneatprc.it/aoousprc18242-20261023/",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "RC",
+   "turno": null,
+   "data": "2026-11-04",
+   "url": "https://www.istruzioneatprc.it/aoousprc18796-20261030/",
+   "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "GE",
@@ -248,20 +283,6 @@
    "data": "2026-10-26",
    "url": "https://cspace.spaggiari.eu//pub/GESR0002/GPS%202026-2028/TURNI%20GPS/XI%20TURNO/Bollettino_TotaleNomine_XI_TURNO.pdf",
    "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "IM",
-   "turno": 6,
-   "data": "2026-11-04",
-   "url": "https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps--as-2026-27--vi-turno",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "SV",
-   "turno": 1,
-   "data": "2026-11-04",
-   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-1",
-   "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "BG",
@@ -782,41 +803,6 @@
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
-   "provincia": "LU",
-   "turno": null,
-   "data": "2026-11-04",
-   "url": "https://ustlucca.it/personale-docente-nomine-gps-a-tempo-determinato-turno-1-a-s-2026-27-del-31-08-2026/",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "LU",
-   "turno": 2,
-   "data": "2026-11-04",
-   "url": "https://ustlucca.it/personale-docente-nomine-gps-a-tempo-determinato-turno-2-a-s-2026-27-del-10-09-2026/",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "LU",
-   "turno": 3,
-   "data": "2026-11-04",
-   "url": "https://ustlucca.it/personale-docente-nomine-gps-a-tempo-determinato-turno-3-a-s-2026-27-del-21-09-2026/",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "LU",
-   "turno": null,
-   "data": "2026-11-04",
-   "url": "https://ustlucca.it/personale-docente-nomine-gps-a-tempo-determinato-turno-5-a-s-2026-27-del-20-10-2026/",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "LU",
-   "turno": null,
-   "data": "2026-11-04",
-   "url": "https://ustlucca.it/personale-docente-nomine-gps-a-tempo-determinato-turno-6-a-s-2026-27-del-23-10-2026/",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
    "provincia": "PG",
    "turno": 6,
    "data": "2026-10-29",
@@ -987,6 +973,16 @@
  ],
  "turniMancanti": [
   {
+   "provincia": "VV",
+   "turno": 3,
+   "nota": "bollettino non trovato (si passa dal turno 2 al 5)"
+  },
+  {
+   "provincia": "VV",
+   "turno": 4,
+   "nota": "bollettino non trovato (si passa dal turno 2 al 5)"
+  },
+  {
    "provincia": "GE",
    "turno": 6,
    "nota": "bollettino non trovato (si passa dal turno 5 al 7)"
@@ -1112,6 +1108,11 @@
    "nota": "bollettino non trovato (si passa dal turno 4 al 8)"
   },
   {
+   "provincia": "LU",
+   "turno": 4,
+   "nota": "bollettino non trovato (si passa dal turno 3 al 5)"
+  },
+  {
    "provincia": "PT",
    "turno": 4,
    "nota": "bollettino non trovato (si passa dal turno 3 al 5)"
@@ -1188,6 +1189,13 @@
   }
  ],
  "decretiIgnorati": [
+  {
+   "provincia": "MO",
+   "turno": null,
+   "data": "2026-11-04",
+   "url": "https://www.icsassuolo1centroest.edu.it/wp-content/uploads/2026/11/annotazione_INTERPELLO-PRIMARIA-SOSTEGNO-DEROGHE-II-FASE.pdf",
+   "pagine": 1
+  },
   {
    "provincia": "MO",
    "turno": null,
@@ -1291,6 +1299,13 @@
    "turno": null,
    "data": "2026-11-04",
    "url": "https://www.istruzionepotenza.it/wp-content/uploads/2026/09/m_pi.AOOUSPPZ.REGISTRO-UFFICIALEU.0011335.22-09-2026.pdf",
+   "pagine": 3
+  },
+  {
+   "provincia": "VV",
+   "turno": null,
+   "data": "2026-11-04",
+   "url": "https://www.istruzione.calabria.it/vibovalentia/wp-content/uploads/2026/09/m_pi.AOOUSPVV.REGISTRO-UFFICIALEU.0007184.23-09-2026.pdf",
    "pagine": 3
   },
   {
