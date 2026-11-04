@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-04T13:29:54.622Z",
+ "aggiornato": "2026-11-04T23:07:01.461Z",
  "ocr": [],
  "zeroRighe": [
   {
@@ -467,6 +467,13 @@
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
+   "provincia": "PV",
+   "turno": null,
+   "data": "2026-11-04",
+   "url": "https://www.mim.gov.it/web/pavia/-/pubblicazione-esiti-individuazione-del-personale-docente-di-ogni-ordine-e-grado-ed-educativo-destinatario-di-contratto-a-tempo-determinato-per-l-an-19",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
    "provincia": "SO",
    "turno": 4,
    "data": "2026-11-04",
@@ -803,6 +810,13 @@
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
+   "provincia": "PO",
+   "turno": null,
+   "data": "2026-11-04",
+   "url": "https://www.ufficioscolasticoprovinciale.prato.it/wp-content/uploads/2026/11/Bollettino-totale-XIV-turno-di-nomina-a-tempo-determinato-da-GPS.pdf",
+   "nota": "formato non riconosciuto"
+  },
+  {
    "provincia": "PG",
    "turno": 6,
    "data": "2026-10-29",
@@ -960,6 +974,13 @@
    "provincia": "VI",
    "turno": null,
    "data": "2026-11-04",
+   "url": "https://vicenza.istruzioneveneto.gov.it/2026/11/04/docenti-individuati-quali-destinatari-per-lanno-scolastico-2026-2027-di-una-proposta-di-stipula-di-contratto-a-tempo-determinato-per-supplenza-turno-del-04-11-2026/",
+   "nota": "documento non leggibile"
+  },
+  {
+   "provincia": "VI",
+   "turno": null,
+   "data": "2026-11-04",
    "url": "https://facebook.com/sharer/sharer.php?u=https://www.orizzontescuola.it/supplenze-docenti-ecco-i-bollettini-nomine-al-31-agosto-o-30-giugno-2027-in-aggiornamento/",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
@@ -967,7 +988,7 @@
    "provincia": "VI",
    "turno": null,
    "data": "2026-11-04",
-   "url": "https://t.me/share/url?text=Supplenze docenti 2026/27: bollettini del 3 novembre [AGGIORNATO]&url=https://www.orizzontescuola.it/supplenze-docenti-ecco-i-bollettini-nomine-al-31-agosto-o-30-giugno-2027-in-aggiornamento/",
+   "url": "https://t.me/share/url?text=Supplenze docenti 2026/27: bollettini del 4 novembre [AGGIORNATO]&url=https://www.orizzontescuola.it/supplenze-docenti-ecco-i-bollettini-nomine-al-31-agosto-o-30-giugno-2027-in-aggiornamento/",
    "nota": "nessun PDF o foglio trovato nella pagina"
   }
  ],
@@ -986,6 +1007,16 @@
    "provincia": "GE",
    "turno": 6,
    "nota": "bollettino non trovato (si passa dal turno 5 al 7)"
+  },
+  {
+   "provincia": "BG",
+   "turno": 9,
+   "nota": "bollettino non trovato (si passa dal turno 8 al 11)"
+  },
+  {
+   "provincia": "BG",
+   "turno": 10,
+   "nota": "bollettino non trovato (si passa dal turno 8 al 11)"
   },
   {
    "provincia": "BS",
@@ -1081,6 +1112,16 @@
    "provincia": "OR",
    "turno": 3,
    "nota": "bollettino non trovato (si passa dal turno 2 al 4)"
+  },
+  {
+   "provincia": "OR",
+   "turno": 5,
+   "nota": "bollettino non trovato (si passa dal turno 4 al 7)"
+  },
+  {
+   "provincia": "OR",
+   "turno": 6,
+   "nota": "bollettino non trovato (si passa dal turno 4 al 7)"
   },
   {
    "provincia": "AR",
@@ -1454,7 +1495,7 @@
    "provincia": "GE",
    "turno": null,
    "data": "2026-11-04",
-   "url": "https://www.istruzionegenova.gov.it/pagine/xii-turno-gps---as-2026-2027",
+   "url": "https://www.istruzionegenova.gov.it/pagine/xvi-turno-gps---as-2026-2027",
    "altriLink": [
     "/pagine/decreto-di-nomina-i-fascia-sostegno-adaa-e-adee---genova",
     "/pagine/ix-turno-gps---solo-nomina-pppp",
