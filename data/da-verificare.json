@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-04T03:37:30.015Z",
+ "aggiornato": "2026-11-04T06:47:52.136Z",
  "ocr": [],
  "zeroRighe": [
   {
@@ -285,24 +285,10 @@
    "nota": "formato non riconosciuto"
   },
   {
-   "provincia": "IM",
-   "turno": 2,
-   "data": "2026-11-04",
-   "url": "https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps--as-2026-27--ii-turno",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
    "provincia": "SV",
    "turno": 1,
    "data": "2026-11-04",
    "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-1",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "SV",
-   "turno": 12,
-   "data": "2026-11-04",
-   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps----turno-12-1",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
@@ -853,66 +839,73 @@
   },
   {
    "provincia": "VE",
+   "turno": 1,
+   "data": "2026-08-31",
+   "url": "https://usrveneto.sharepoint.com/monitoraggi/",
+   "nota": "formato non riconosciuto"
+  },
+  {
+   "provincia": "VE",
    "turno": 2,
    "data": "2026-09-11",
-   "url": "https://venezia.istruzioneveneto.gov.it/20260911_34393/",
-   "nota": "nessun PDF o foglio trovato nella pagina"
+   "url": "https://usrveneto.sharepoint.com/monitoraggi/venezia/",
+   "nota": "formato non riconosciuto"
   },
   {
    "provincia": "VE",
    "turno": 3,
    "data": "2026-09-22",
-   "url": "https://venezia.istruzioneveneto.gov.it/20260922_34436/",
-   "nota": "nessun PDF o foglio trovato nella pagina"
+   "url": "https://usrveneto.sharepoint.com/ds/",
+   "nota": "formato non riconosciuto"
   },
   {
    "provincia": "VE",
    "turno": 5,
    "data": "2026-10-06",
-   "url": "https://venezia.istruzioneveneto.gov.it/20261006_34503/",
-   "nota": "nessun PDF o foglio trovato nella pagina"
+   "url": "https://usrveneto.sharepoint.com/personale/",
+   "nota": "formato non riconosciuto"
   },
   {
    "provincia": "VE",
    "turno": 6,
    "data": "2026-10-13",
    "url": "https://venezia.istruzioneveneto.gov.it/20261013_34527/",
-   "nota": "nessun PDF o foglio trovato nella pagina"
+   "nota": "documento non leggibile"
   },
   {
    "provincia": "VE",
    "turno": 19,
    "data": "2026-10-19",
    "url": "https://venezia.istruzioneveneto.gov.it/20261019_34540/",
-   "nota": "nessun PDF o foglio trovato nella pagina"
+   "nota": "documento non leggibile"
   },
   {
    "provincia": "VE",
    "turno": 7,
    "data": "2026-10-20",
    "url": "https://venezia.istruzioneveneto.gov.it/20261020_34550/",
-   "nota": "nessun PDF o foglio trovato nella pagina"
+   "nota": "documento non leggibile"
   },
   {
    "provincia": "VE",
    "turno": 8,
    "data": "2026-10-27",
    "url": "https://venezia.istruzioneveneto.gov.it/20261027_34565/",
-   "nota": "nessun PDF o foglio trovato nella pagina"
+   "nota": "documento non leggibile"
   },
   {
    "provincia": "VI",
    "turno": 1,
    "data": "2026-08-31",
-   "url": "https://vicenza.istruzioneveneto.gov.it/wp-content/uploads/2021/07/Guida_01-feed-reader-outlook.pdf",
+   "url": "https://usrveneto.sharepoint.com/",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "VI",
    "turno": 2,
    "data": "2026-09-10",
-   "url": "https://vicenza.istruzioneveneto.gov.it/2026/09/10/avviso-conferimento-incarichi-da-gps-ii-turno-di-nomina/",
-   "nota": "documento non leggibile"
+   "url": "https://vicenza.istruzioneveneto.gov.it/wp-content/uploads/2021/07/Guida_01-feed-reader-outlook.pdf",
+   "nota": "formato non riconosciuto"
   },
   {
    "provincia": "VI",
@@ -1000,56 +993,6 @@
    "provincia": "GE",
    "turno": 6,
    "nota": "bollettino non trovato (si passa dal turno 5 al 7)"
-  },
-  {
-   "provincia": "SV",
-   "turno": 2,
-   "nota": "bollettino non trovato (si passa dal turno 1 al 12)"
-  },
-  {
-   "provincia": "SV",
-   "turno": 3,
-   "nota": "bollettino non trovato (si passa dal turno 1 al 12)"
-  },
-  {
-   "provincia": "SV",
-   "turno": 4,
-   "nota": "bollettino non trovato (si passa dal turno 1 al 12)"
-  },
-  {
-   "provincia": "SV",
-   "turno": 5,
-   "nota": "bollettino non trovato (si passa dal turno 1 al 12)"
-  },
-  {
-   "provincia": "SV",
-   "turno": 6,
-   "nota": "bollettino non trovato (si passa dal turno 1 al 12)"
-  },
-  {
-   "provincia": "SV",
-   "turno": 7,
-   "nota": "bollettino non trovato (si passa dal turno 1 al 12)"
-  },
-  {
-   "provincia": "SV",
-   "turno": 8,
-   "nota": "bollettino non trovato (si passa dal turno 1 al 12)"
-  },
-  {
-   "provincia": "SV",
-   "turno": 9,
-   "nota": "bollettino non trovato (si passa dal turno 1 al 12)"
-  },
-  {
-   "provincia": "SV",
-   "turno": 10,
-   "nota": "bollettino non trovato (si passa dal turno 1 al 12)"
-  },
-  {
-   "provincia": "SV",
-   "turno": 11,
-   "nota": "bollettino non trovato (si passa dal turno 1 al 12)"
   },
   {
    "provincia": "BS",
@@ -1530,60 +1473,49 @@
    ]
   },
   {
-   "provincia": "VE",
-   "turno": 1,
-   "data": "2026-08-31",
-   "url": "https://venezia.istruzioneveneto.gov.it/20260831_34324/",
+   "provincia": "GE",
+   "turno": null,
+   "data": "2026-11-04",
+   "url": "https://www.istruzionegenova.gov.it/pagine/xiv-turno-gps---as-2026-2027",
    "altriLink": [
-    " GRADO E DEL PERSONALE EDUCATIVO – I TURNO DI NOMINE - https://venezia.istruzioneveneto.gov.it/20260831_34324/",
-    "https://venezia.istruzioneveneto.gov.it/20260831_34324/?download=34326"
+    "/pagine/decreto-di-nomina-i-fascia-sostegno-adaa-e-adee---genova",
+    "/pagine/ix-turno-gps---solo-nomina-pppp",
+    "/pagine/personale-educativo---eeee---ii-turno-di-nomina-gps",
+    "/pagine/xix-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xviii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xvii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xvi-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/-xv-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xiv-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xiii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xi-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/x-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/ix-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps"
+   ]
+  },
+  {
+   "provincia": "GE",
+   "turno": null,
+   "data": "2026-11-04",
+   "url": "https://www.istruzionegenova.gov.it/pagine/xvi-turno-gps---as-2026-2027",
+   "altriLink": [
+    "/pagine/decreto-di-nomina-i-fascia-sostegno-adaa-e-adee---genova",
+    "/pagine/ix-turno-gps---solo-nomina-pppp",
+    "/pagine/personale-educativo---eeee---ii-turno-di-nomina-gps",
+    "/pagine/xix-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xviii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xvii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xvi-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/-xv-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xiv-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xiii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xi-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/x-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/ix-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps"
    ]
   }
  ],
- "fasciaNonRiconosciuta": [
-  {
-   "provincia": "RA",
-   "turno": 8,
-   "data": "2026-10-08",
-   "url": "https://ra.istruzioneer.gov.it/wp-content/uploads/sites/7/2026/10/7232-26_all_b.pdf",
-   "righeSenzaFascia": 2,
-   "righeConFascia": 0,
-   "valori": {
-    "(vuota)": 2
-   }
-  },
-  {
-   "provincia": "RN",
-   "turno": 8,
-   "data": "2026-10-22",
-   "url": "https://rn.istruzioneer.gov.it/2026/10/22/turno-viii-nomine-a-tempo-determinato-da-gae-gps-a-s-2026-27-personale-docente/?download=21480",
-   "righeSenzaFascia": 3,
-   "righeConFascia": 0,
-   "valori": {
-    "(vuota)": 3
-   }
-  },
-  {
-   "provincia": "VV",
-   "turno": 2,
-   "data": "2026-09-22",
-   "url": "https://www.istruzione.calabria.it/vibovalentia/wp-content/uploads/2026/09/II-Bollettino.pdf",
-   "righeSenzaFascia": 25,
-   "righeConFascia": 0,
-   "valori": {
-    "(vuota)": 25
-   }
-  },
-  {
-   "provincia": "TV",
-   "turno": 1,
-   "data": "2026-08-28",
-   "url": "https://treviso.istruzioneveneto.gov.it/wp-content/uploads/2026/08/BOLLETTINO-GPS-TURNO-1.pdf",
-   "righeSenzaFascia": 1392,
-   "righeConFascia": 23,
-   "valori": {
-    "(vuota)": 1392
-   }
-  }
- ]
+ "fasciaNonRiconosciuta": []
 }
