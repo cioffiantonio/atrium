@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-05T13:41:35.254Z",
+ "aggiornato": "2026-11-05T23:34:55.414Z",
  "ocr": [],
  "zeroRighe": [
   {
@@ -307,9 +307,9 @@
   },
   {
    "provincia": "IM",
-   "turno": 8,
+   "turno": 6,
    "data": "2026-11-05",
-   "url": "https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps--as-2026-27--vii-turno",
+   "url": "https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps--as-2026-27--vi-turno",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
@@ -1141,6 +1141,16 @@
    "provincia": "SO",
    "turno": 7,
    "nota": "bollettino non trovato (si passa dal turno 4 al 8)"
+  },
+  {
+   "provincia": "SO",
+   "turno": 9,
+   "nota": "bollettino non trovato (si passa dal turno 8 al 11)"
+  },
+  {
+   "provincia": "SO",
+   "turno": 10,
+   "nota": "bollettino non trovato (si passa dal turno 8 al 11)"
   },
   {
    "provincia": "VA",
