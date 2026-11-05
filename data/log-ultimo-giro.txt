@@ -198,7 +198,7 @@ totale pagine da controllare: 20
     ok [altro]: calibrato=false righe GPS=0 scartate=0
   turni letti=12 non letti=0 -> provincia completa
 -- RE Reggio Emilia --
-link da Orizzonte Scuola: 15
+link da Orizzonte Scuola: 16
 pagine candidate dalla ricerca diretta: 0
 pagine candidate dalla ricerca "bollettino": 14
 pagine candidate dall'API WordPress: 22
@@ -278,6 +278,11 @@ totale pagine da controllare: 36
     fasce GPS: F1=0 F2=1
     classi GPS (classe:fascia=righe): A045:F2=1
     ok [turno]: calibrato=true righe GPS=1 scartate=0
+  scarico https://re.istruzioneer.gov.it/wp-content/uploads/sites/10/2026/11/Bollettino_TotaleNomine.pdf
+    dalla memoria: letto (righe GPS=1)
+    fasce GPS: F1=0 F2=1
+    classi GPS (classe:fascia=righe): A045:F2=1
+    ok [turno]: calibrato=true righe GPS=1 scartate=0
   anno scolastico precedente, salto: https://re.istruzioneer.gov.it/2021/11/15/nomine-a-tempo-determinato-gps-di-ogni-ordine-e-grado-bollettino-definitivo-tredicesima-fase/
   anno scolastico precedente, salto: https://re.istruzioneer.gov.it/2021/11/11/nomine-a-tempo-determinato-gps-di-ogni-ordine-e-grado-bollettino-definitivo-dodicesima-fase/
   anno scolastico precedente, salto: https://re.istruzioneer.gov.it/2021/11/08/nomine-a-tempo-determinato-gps-di-ogni-ordine-e-grado-bollettino-definitivo-undicesima-fase/
@@ -292,14 +297,9 @@ totale pagine da controllare: 36
   anno scolastico precedente, salto: https://re.istruzioneer.gov.it/2025/08/01/procedura-straordinaria-ex-art-5-d-l-44-2023-pubblicazione-esiti-nomine-a-s-2025-2026/
   anno scolastico precedente, salto: https://re.istruzioneer.gov.it/2024/08/22/procedura-straordinaria-ex-art-5-d-l-44-2023-pubblicazione-esiti-nomine-2/
   anno scolastico precedente, salto: https://re.istruzioneer.gov.it/2023/08/04/procedura-straordinaria-ex-art-5-d-l-44-2023-pubblicazione-esiti-nomine/
-  pagina senza allegato riconoscibile (70263 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (70278 caratteri); collegamenti a documenti: nessuno
      siti esterni nella pagina: gmpg.org(1), wp.me(1), educazionecivicare.altervista.org(1), www.garanteprivacy.it(1), istruzioneer.gov.it(1), archivi.istruzioneer.it(1)
   non sembra un bollettino, ignoro: https://re.istruzioneer.gov.it/2026/08/20/gps-cancellazione-domande-informatizzazione-nomine-supplenze-a-s-2026-2027/
-  scarico https://re.istruzioneer.gov.it/wp-content/uploads/sites/10/2026/11/Bollettino_TotaleNomine.pdf
-    dalla memoria: letto (righe GPS=1)
-    fasce GPS: F1=0 F2=1
-    classi GPS (classe:fascia=righe): A045:F2=1
-    ok [turno]: calibrato=true righe GPS=1 scartate=0
   scarico https://re.istruzioneer.gov.it/wp-content/uploads/sites/10/2026/10/Bollettino_TotaleNomine-6.pdf
     dalla memoria: letto (righe GPS=1)
     fasce GPS: F1=1 F2=0
@@ -1034,16 +1034,17 @@ ricerca diretta non riuscita: HTTP 403 su https://www.uspbenevento.it/?s=nomine+
       via diretto: errore HTTP 403 su https://www.uspbenevento.it/uat/wp-content/VARIE_SITO/PUBBLICAZIONE_SUPPLENZE/index.php
         diagnosi blocco: stato 403, server "aruba-proxy", titolo "Wait a moment...", 14674 caratteri
         browser: titolo pagina "Portale Bollettini Supplenze"
-      via browser: stato 200, 46507 caratteri -> OK
-piattaforma Benevento: 5 turni trovati (pagina di 46507 caratteri)
+      via browser: stato 200, 49334 caratteri -> OK
+piattaforma Benevento: 6 turni trovati (pagina di 49334 caratteri)
    - turno 1 | pagina: BLICAZIONE_SUPPLENZE/dettaglio_bollettino.php?file=Bollettino_TotaleNomine_1.csv | csv: E_SITO/PUBBLICAZIONE_SUPPLENZE/Bollettino_TotaleNomine_1.csv
    - turno 2 | pagina: BLICAZIONE_SUPPLENZE/dettaglio_bollettino.php?file=Bollettino_TotaleNomine_2.csv | csv: E_SITO/PUBBLICAZIONE_SUPPLENZE/Bollettino_TotaleNomine_2.csv
    - turno 3 | pagina: BLICAZIONE_SUPPLENZE/dettaglio_bollettino.php?file=Bollettino_TotaleNomine_3.csv | csv: E_SITO/PUBBLICAZIONE_SUPPLENZE/Bollettino_TotaleNomine_3.csv
    - turno 4 | pagina: BLICAZIONE_SUPPLENZE/dettaglio_bollettino.php?file=Bollettino_TotaleNomine_4.csv | csv: E_SITO/PUBBLICAZIONE_SUPPLENZE/Bollettino_TotaleNomine_4.csv
    - turno 5 | pagina: BLICAZIONE_SUPPLENZE/dettaglio_bollettino.php?file=Bollettino_TotaleNomine_5.csv | csv: E_SITO/PUBBLICAZIONE_SUPPLENZE/Bollettino_TotaleNomine_5.csv
+   - turno 6 | pagina: BLICAZIONE_SUPPLENZE/dettaglio_bollettino.php?file=Bollettino_TotaleNomine_6.csv | csv: E_SITO/PUBBLICAZIONE_SUPPLENZE/Bollettino_TotaleNomine_6.csv
 collegamenti dalla pagina elenco https://www.mim.gov.it/web/miur-usr-campania/uat-benevento : 0 (pagina di 70769 caratteri)
 pagine candidate dall'API WordPress: 0
-totale pagine da controllare: 5
+totale pagine da controllare: 6
   scarico https://www.uspbenevento.it/uat/wp-content/VARIE_SITO/PUBBLICAZIONE_SUPPLENZE/dettaglio_bollettino.php?file=Bollettino_TotaleNomine_1.csv
       via diretto: errore HTTP 403 su https://www.uspbenevento.it/uat/wp-content/VARIE_SITO/PUBBLICAZIONE_SUPPLENZE/dettaglio_
         diagnosi blocco: stato 403, server "aruba-proxy", titolo "Wait a moment...", 14674 caratteri
@@ -1086,7 +1087,7 @@ totale pagine da controllare: 5
     ok [turno]: calibrato=true righe GPS=13 scartate=0
   scarico https://www.uspbenevento.it/uat/wp-content/VARIE_SITO/PUBBLICAZIONE_SUPPLENZE/dettaglio_bollettino.php?file=Bollettino_TotaleNomine_5.csv
       via diretto: errore HTTP 403 su https://www.uspbenevento.it/uat/wp-content/VARIE_SITO/PUBBLICAZIONE_SUPPLENZE/dettaglio_
-        diagnosi blocco: stato 403, server "aruba-proxy", titolo "Wait a moment...", 14670 caratteri
+        diagnosi blocco: stato 403, server "aruba-proxy", titolo "Wait a moment...", 14674 caratteri
         browser: titolo pagina "Bollettino Supplenze - Turno 5"
       via browser: stato 200, 52756 caratteri -> OK
     pagina del turno 5: 52756 caratteri, tabelle/righe lette=14, data produzione 2026-10-19
@@ -1094,7 +1095,17 @@ totale pagine da controllare: 5
     fasce GPS: F1=12 F2=2
     classi GPS (classe:fascia=righe): A020:F2=1 A040:F2=1 A045:F1=1 ADAA:F1=3 ADEE:F1=3 ADMM:F1=1 ADSS:F1=1 AM48:F1=1 EEEE:F1=2
     ok [turno]: calibrato=true righe GPS=14 scartate=0
-  turni letti=5 non letti=0 -> provincia completa
+  scarico https://www.uspbenevento.it/uat/wp-content/VARIE_SITO/PUBBLICAZIONE_SUPPLENZE/dettaglio_bollettino.php?file=Bollettino_TotaleNomine_6.csv
+      via diretto: errore HTTP 403 su https://www.uspbenevento.it/uat/wp-content/VARIE_SITO/PUBBLICAZIONE_SUPPLENZE/dettaglio_
+        diagnosi blocco: stato 403, server "aruba-proxy", titolo "Wait a moment...", 14674 caratteri
+        browser: titolo pagina "Bollettino Supplenze - Turno 6"
+      via browser: stato 200, 68683 caratteri -> OK
+    pagina del turno 6: 68683 caratteri, tabelle/righe lette=22, data produzione 2026-11-05
+  data ricavata dalla data di produzione del bollettino: 2026-11-05
+    fasce GPS: F1=21 F2=1
+    classi GPS (classe:fascia=righe): A015:F1=1 A026:F1=1 A028:F1=1 A040:F2=1 A041:F1=1 ADEE:F1=2 ADMM:F1=2 ADSS:F1=2 AM12:F1=1 AO55:F1=1 B017:F1=2 EEEE:F1=7
+    ok [turno]: calibrato=true righe GPS=22 scartate=0
+  turni letti=6 non letti=0 -> provincia completa
 -- CE Caserta --
 link da Orizzonte Scuola: 6
 pagine candidate dalla ricerca diretta: 0
@@ -1228,7 +1239,7 @@ totale pagine da controllare: 20
   turni letti=4 non letti=0 -> provincia completa
 -- SA Salerno --
 link da Orizzonte Scuola: 0
-collegamenti dalla pagina elenco https://www.mim.gov.it/web/miur-usr-campania/uat-salerno : 19 (pagina di 226100 caratteri)
+collegamenti dalla pagina elenco https://www.mim.gov.it/web/miur-usr-campania/uat-salerno : 19 (pagina di 226109 caratteri)
    - Personale docente - Decreto pubblicazione 8° bollettino supplenze | .it/web/miur-usr-campania/-/personale-docente-decreto-pubblicazione-8-bollettino-supplenze
    - Personale docente - Decreto pubblicazione 7° Bollettino Supplenze | .it/web/miur-usr-campania/-/personale-docente-decreto-pubblicazione-7-bollettino-supplenze
    - Personale docente - Decreto rettifiche ADEE 6° Bollettino Supplenze | t/web/miur-usr-campania/-/personale-docente-decreto-rettifiche-adee-6-bollettino-supplenze
@@ -2240,8 +2251,8 @@ totale pagine da controllare: 9
     ok [turno]: calibrato=true righe GPS=1 scartate=0
   turni letti=5 non letti=0 -> provincia completa
 -- RC Reggio Calabria --
-link da Orizzonte Scuola: 11
-totale pagine da controllare: 11
+link da Orizzonte Scuola: 12
+totale pagine da controllare: 12
   nessun PDF o foglio trovato in https://www.istruzioneatprc.it/aoousprc14671-20260829/
   nessun PDF o foglio trovato in https://www.istruzioneatprc.it/aoousprc15453-20260908/
   nessun PDF o foglio trovato in https://www.istruzioneatprc.it/aoousprc15931-20260916/
@@ -2263,10 +2274,13 @@ totale pagine da controllare: 11
   pagina senza allegato riconoscibile (181252 caratteri); collegamenti a documenti: nessuno
      siti esterni nella pagina: www.istruzione.calabria.it(7), www.miur.gov.it(2)
   nessun PDF o foglio trovato in https://www.istruzioneatprc.it/aoousprc18796-20261030/
-  turni letti=0 non letti=5 -> da verificare
+  pagina senza allegato riconoscibile (180879 caratteri); collegamenti a documenti: nessuno
+     siti esterni nella pagina: www.istruzione.calabria.it(7), www.miur.gov.it(2)
+  nessun PDF o foglio trovato in https://www.istruzioneatprc.it/aoousprc19102-20261104/
+  turni letti=0 non letti=6 -> da verificare
 -- VV Vibo Valentia --
-link da Orizzonte Scuola: 10
-totale pagine da controllare: 10
+link da Orizzonte Scuola: 11
+totale pagine da controllare: 11
   scartati 1 decreti (non sono bollettini)
   scarico https://www.istruzione.calabria.it/vibovalentia/wp-content/uploads/2026/08/I-BOLLETTINO.pdf
     dalla memoria: letto (righe GPS=172)
@@ -2334,9 +2348,15 @@ totale pagine da controllare: 10
     fasce GPS: F1=1 F2=1
     classi GPS (classe:fascia=righe): AS2B:F1=1 B024:F2=1
     ok [turno]: calibrato=true righe GPS=2 scartate=0
+  scartati 1 decreti (non sono bollettini)
+  scarico https://www.istruzione.calabria.it/vibovalentia/wp-content/uploads/2026/10/Bollettino-VII.pdf
+  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-10-30
+    fasce GPS: F1=1 F2=1
+    classi GPS (classe:fascia=righe): B024:F2=1 EEEE:F1=1
+    ok [turno]: calibrato=true righe GPS=2 scartate=0
   TURNO MANCANTE: 3
   TURNO MANCANTE: 4
-  turni letti=4 non letti=2 -> da verificare
+  turni letti=5 non letti=2 -> da verificare
 -- GO Gorizia --
 link da Orizzonte Scuola: 5
 totale pagine da controllare: 5
@@ -2349,7 +2369,6 @@ totale pagine da controllare: 5
     dalla memoria: non letto (righe GPS=0)
   scarico https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/ufficio-territoriale-di-pordenone/allegati/Turno_4_-_allegato_21.pdf
     dalla memoria: letto (righe GPS=55)
-  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-09-09
     fasce GPS: F1=16 F2=39
     classi GPS (classe:fascia=righe): A008:F2=1 A011:F1=1 A011:F2=1 A016:F2=1 A026:F2=3 A028:F2=4 A037:F2=2 A041:F2=1 A051:F2=2 A054:F2=1 A065:F2=1 AAAA:F1=4 ADSS:F1=4 AM2B:F1=1 AM2B:F2=1 AM30:F1=1 AS12:F1=3 AS2B:F1=1 B003:F2=3 B006:F2=1 B014:F2=2 B015:F2=3 B016:F2=1 B017:F2=4 EEEE:F1=1 EEEE:F2=6 EEEM:F2=1
     ok [turno]: calibrato=true righe GPS=55 scartate=0
@@ -2375,8 +2394,8 @@ totale pagine da controllare: 5
     ok [turno]: calibrato=true righe GPS=0 scartate=0
   turni letti=4 non letti=1 -> da verificare
 -- PN Pordenone --
-link da Orizzonte Scuola: 10
-totale pagine da controllare: 10
+link da Orizzonte Scuola: 11
+totale pagine da controllare: 11
   scarico https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/ufficio-territoriale-di-pordenone/allegati/260828-allegato2_nomine.pdf
     dalla memoria: letto (righe GPS=498)
     fasce GPS: F1=346 F2=152
@@ -2398,7 +2417,6 @@ totale pagine da controllare: 10
     dalla memoria: non letto (righe GPS=0)
   scarico https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/ufficio-territoriale-di-pordenone/allegati/Turno_4_-_allegato_21.pdf
     dalla memoria: letto (righe GPS=55)
-  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-09-09
     fasce GPS: F1=16 F2=39
     classi GPS (classe:fascia=righe): A008:F2=1 A011:F1=1 A011:F2=1 A016:F2=1 A026:F2=3 A028:F2=4 A037:F2=2 A041:F2=1 A051:F2=2 A054:F2=1 A065:F2=1 AAAA:F1=4 ADSS:F1=4 AM2B:F1=1 AM2B:F2=1 AM30:F1=1 AS12:F1=3 AS2B:F1=1 B003:F2=3 B006:F2=1 B014:F2=2 B015:F2=3 B016:F2=1 B017:F2=4 EEEE:F1=1 EEEE:F2=6 EEEM:F2=1
     ok [turno]: calibrato=true righe GPS=55 scartate=0
@@ -2441,12 +2459,21 @@ totale pagine da controllare: 10
     dalla memoria: non letto (righe GPS=0)
   scarico https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/ufficio-territoriale-di-pordenone/allegati/Turno-10-Allegato-2.pdf
     dalla memoria: letto (righe GPS=3)
-  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-10-28
     fasce GPS: F1=2 F2=1
     classi GPS (classe:fascia=righe): A016:F2=1 ADSS:F1=2
     ok [turno]: calibrato=true righe GPS=3 scartate=0
+  scarico https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/ufficio-territoriale-di-pordenone/allegati/Turno-12-Allegato-1.pdf
+    OCR: nessuna pagina scansionata nel documento
+  scarico https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/ufficio-territoriale-di-pordenone/allegati/Turno-12-Allegato-2.pdf
+    OCR: nessuna pagina scansionata nel documento
+  scarico https://usrfvg.gov.it/pdflink/it/d6a236ad-4558-4628-b211-bcc7cff695b5/Conferimento-delle-nomine-a-tempo-determinato-PERSONALE-DOCENTE.-Turno-12..pdf
+    OCR: nessuna pagina scansionata nel documento
+  scarico https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/ufficio-territoriale-di-pordenone/allegati/m_pi.AOOUSPPN.REGISTRO-UFFICIALEU.0010633.04-11-2026.pdf
+    OCR: nessuna pagina scansionata nel documento
+    fasce GPS: F1=0 F2=0
+    ok [turno]: calibrato=false righe GPS=0 scartate=0
   turno 4 non trovato, ma ci sono bollettini senza numero nel periodo: non lo conto
-  turni letti=9 non letti=0 -> provincia completa
+  turni letti=9 non letti=1 -> da verificare
 -- TS Trieste --
 link da Orizzonte Scuola: 9
 totale pagine da controllare: 9
@@ -2491,7 +2518,6 @@ totale pagine da controllare: 9
   scartati 1 decreti (non sono bollettini)
   scarico https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/Direzione/Ufficio3/allegati-ufficio-3/2026/VII-bollettino-nomine-a-Tempo-Determinato.pdf
     dalla memoria: letto (righe GPS=3)
-  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-10-27
     fasce GPS: F1=2 F2=1
     classi GPS (classe:fascia=righe): AJ55:F1=1 AM12:F1=1 B016:F2=1
     ok [turno]: calibrato=true righe GPS=3 scartate=0
@@ -2503,10 +2529,11 @@ totale pagine da controllare: 9
     ok [turno]: calibrato=true righe GPS=2 scartate=0
   turni letti=7 non letti=0 -> provincia completa
 -- UD Udine --
-link da Orizzonte Scuola: 10
-totale pagine da controllare: 10
+link da Orizzonte Scuola: 11
+totale pagine da controllare: 11
   scarico https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/ufficio-territoriale-di-udine/allegati/2026-08-31_11078_AOOUSPUD_assunzioni-TD-docenti_Bollettino_TotaleNomine_definitivo.pdf
     dalla memoria: letto (righe GPS=932)
+  data ricavata dal nome del file: 2026-08-31
     fasce GPS: F1=676 F2=256
     classi GPS (classe:fascia=righe): A002:F2=1 A007:F1=1 A008:F1=1 A010:F2=3 A011:F1=10 A011:F2=4 A013:F1=2 A014:F1=1 A015:F1=1 A015:F2=1 A018:F1=5 A019:F1=7 A020:F1=1 A020:F2=8 A021:F1=3 A021:F2=2 A023:F1=4 A023:F2=4 A026:F1=3 A026:F2=8 A027:F1=7 A027:F2=4 A028:F1=16 A028:F2=2 A031:F1=1 A031:F2=1 A032:F1=1 A034:F1=2 A037:F1=2 A037:F2=5 A038:F2=1 A040:F1=1 A040:F2=5 A041:F1=7 A041:F2=5 A042:F2=1 A045:F1=9 A045:F2=2 A046:F1=15 A047:F1=4 A047:F2=1 A050:F1=13 A050:F2=1 A051:F1=1 A051:F2=1 A052:F2=1 A053:F1=1 A054:F1=2 A057:F2=2 A059:F2=1 A060:F1=5 A060:F2=3 A063:F2=1 A065:F1=1 AAAA:F1=54 AAAA:F2=3 AB55:F2=1 ADAA:F1=23 ADAA:F2=10 ADEE:F1=3 ADEE:F2=22 ADMM:F1=61 ADMM:F2=15 ADSS:F1=178 ADSS:F2=1 AI55:F2=1 AJ56:F1=1 AL55:F1=1 AM01:F1=4 AM01:F2=1 AM12:F1=26 AM2A:F1=3 AM2B:F1=7 AM2B:F2=5 AM2C:F1=1 AM2D:F1=5 AM2D:F2=8 AM30:F1=6 AM30:F2=3 AM48:F1=4 AM48:F2=3 AN55:F2=1 AS01:F1=1 AS01:F2=1 AS12:F1=11 AS2A:F1=1 AS2B:F1=15 AS2C:F1=2 AS2D:F1=10 AS2D:F2=1 AS48:F1=6 B003:F1=1 B003:F2=1 B007:F2=1 B010:F2=1 B011:F1=5 B011:F2=1 B012:F1=3 B012:F2=2 B014:F1=7 B014:F2=2 B015:F1=6 B015:F2=3 B016:F1=4 B016:F2=2 B017:F1=4 B017:F2=10 B018:F2=3 B019:F1=2 B020:F1=2 B020:F2=2 B021:F2=3 B022:F1=1 B023:F1=1 B026:F2=3 BA02:F2=1 BB02:F2=3 BD02:F1=1 EEEE:F1=80 EEEE:F2=13 EEEM:F2=28 EEHN:F1=6 EEIL:F1=1 PPPP:F1=2 PPPP:F2=33
     ok [turno]: calibrato=true righe GPS=932 scartate=0
@@ -2555,7 +2582,11 @@ totale pagine da controllare: 10
     fasce GPS: F1=0 F2=1
     classi GPS (classe:fascia=righe): B018:F2=1
     ok [turno]: calibrato=true righe GPS=1 scartate=0
-  turni letti=9 non letti=0 -> provincia completa
+  scarico https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/ufficio-territoriale-di-udine/allegati/2026-11-05_13800_AOOUSPUD_assunzioni-TD-docenti_Bollettino_TotaleNomine_definitivo.pdf
+    fasce GPS: F1=0 F2=1
+    classi GPS (classe:fascia=righe): A060:F2=1
+    ok [turno]: calibrato=true righe GPS=1 scartate=0
+  turni letti=10 non letti=0 -> provincia completa
 -- FR Frosinone --
 link da Orizzonte Scuola: 20
 totale pagine da controllare: 20
@@ -2686,8 +2717,8 @@ totale pagine da controllare: 20
     ok [rett]: calibrato=true righe GPS=0 scartate=3
   turni letti=15 non letti=0 -> provincia completa
 -- LT Latina --
-link da Orizzonte Scuola: 14
-totale pagine da controllare: 14
+link da Orizzonte Scuola: 15
+totale pagine da controllare: 15
   scartati 1 decreti (non sono bollettini)
   scarico https://www.usplatina.it/wp/wp-content/uploads/2026/08/GPS_TURNO-1_29.08.2026.pdf
     dalla memoria: letto (righe GPS=1440)
@@ -2758,11 +2789,21 @@ totale pagine da controllare: 14
     fasce GPS: F1=19 F2=8
     classi GPS (classe:fascia=righe): A011:F1=1 A028:F1=1 A041:F2=2 A061:F2=1 AAAA:F1=6 ADMM:F1=5 ADMM:F2=4 ADSS:F1=6 AS2A:F2=1
     ok [turno]: calibrato=true righe GPS=27 scartate=0
+  scartati 1 decreti (non sono bollettini)
+  scarico https://www.usplatina.it/wp/wp-content/uploads/2026/11/Allegato-Rettifiche-nomine-a-Tempo-Determinato-Turno-7-A.S.pdf
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+    OCR: nessuna pagina scansionata nel documento
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+    ok [rett]: calibrato=true righe GPS=0 scartate=4
   turno 4 non trovato, ma ci sono bollettini senza numero nel periodo: non lo conto
   turni letti=8 non letti=0 -> provincia completa
 -- RI Rieti --
-link da Orizzonte Scuola: 6
-totale pagine da controllare: 6
+link da Orizzonte Scuola: 7
+totale pagine da controllare: 7
   scartati 1 decreti (non sono bollettini)
   scarico https://www.usp-rieti.it/wp-content/uploads/2026/08/Bollettino-1-Totale-Nomine-privacy.xlsx
     dalla memoria: letto (righe GPS=340)
@@ -2799,7 +2840,12 @@ totale pagine da controllare: 6
     fasce GPS: F1=4 F2=2
     classi GPS (classe:fascia=righe): A023:F2=1 A034:F2=1 ADSS:F1=3 EEEE:F1=1
     ok [turno]: calibrato=true righe GPS=6 scartate=0
-  turni letti=6 non letti=0 -> provincia completa
+  scartati 1 decreti (non sono bollettini)
+  scarico https://www.usp-rieti.it/wp-content/uploads/2026/11/Bollettino-nomine-TD-privacy.pdf
+    fasce GPS: F1=1 F2=2
+    classi GPS (classe:fascia=righe): A011:F1=1 A034:F2=1 B016:F2=1
+    ok [turno]: calibrato=true righe GPS=3 scartate=0
+  turni letti=7 non letti=0 -> provincia completa
 -- RM Roma --
 link da Orizzonte Scuola: 18
 totale pagine da controllare: 18
@@ -2866,8 +2912,8 @@ totale pagine da controllare: 18
   riepilogo (specchietto), non è un bollettino: ignoro 026/11/specchietto-riassuntivo-viii-turno-di-nomina-t-d-a-s-2026-2027/
   turni letti=8 non letti=0 -> provincia completa
 -- VT Viterbo --
-link da Orizzonte Scuola: 9
-totale pagine da controllare: 3
+link da Orizzonte Scuola: 10
+totale pagine da controllare: 4
   errore su https://www.provveditoratostudiviterbo.it/DOCENTI/2026/m_pi.AOOUSPVT.REGISTRO%20UFFICIALE(U -> HTTP 404 su https://www.provveditoratostudiviterbo.it/DOCENTI/2026/m_pi.AOOUSPVT.REGISTRO%20UFFICIALE(U
   scarico https://www.provveditoratostudiviterbo.it/DOCENTI/2026/Bollettino_TotaleNomine_12_privacy.pdf
     dalla memoria: letto (righe GPS=5)
@@ -2881,7 +2927,9 @@ totale pagine da controllare: 3
     fasce GPS: F1=9 F2=0
     classi GPS (classe:fascia=righe): ADMM:F1=4 ADSS:F1=4 AS12:F1=1
     ok [turno]: calibrato=true righe GPS=9 scartate=0
-  turni letti=2 non letti=1 -> da verificare
+  stesso documento già trovato in questo giro, salto: https://www.provveditoratostudiviterbo.it/DOCENTI/2026/Bollettino_TotaleNomine_12_privacy.pdf
+  nessun PDF utilizzabile in https://www.provveditoratostudiviterbo.it/DOCENTI/2026/Bollettino_TotaleNomine_12_privacy.pdf
+  turni letti=2 non letti=2 -> da verificare
 -- GE Genova --
 link da Orizzonte Scuola: 15
 totale pagine da controllare: 15
@@ -2997,18 +3045,18 @@ totale pagine da controllare: 10
   errore su https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps-as-2026-27--v-turno -> HTTP 509 su https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps-as-2026-27--v-turno
   errore su https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps--as-2026-27--vi-turno -> HTTP 509 su https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps--as-2026-27--vi-turno
   errore su https://www.istruzioneimperia.gov.it/pagine/vii-turno-di-nomine-da-gps -> HTTP 509 su https://www.istruzioneimperia.gov.it/pagine/vii-turno-di-nomine-da-gps
-  errore su https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps--as-2026-27--vii-turno -> HTTP 509 su https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps--as-2026-27--vii-turno
+  pagina senza allegato riconoscibile (57328 caratteri); collegamenti a documenti: 
+     ~ /pvw2/app/default/tools.php?act=downloadFile&id=1653
+     ~ /pvw2/app/default/tools.php?act=downloadFile&id=1652
+     siti esterni nella pagina: web.spaggiari.eu(4), www.istruzioneliguria.gov.it(2), cspace.spaggiari.eu(1), scaling.spaggiari.eu(1), www.miur.gov.it(1)
+  nessun PDF o foglio trovato in https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps--as-2026-27--vii-turno
   errore su https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps--as-2026-27--ix-turno -> HTTP 509 su https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps--as-2026-27--ix-turno
   errore su https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps-as-2026-27--x-turno -> HTTP 509 su https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps-as-2026-27--x-turno
   turni letti=0 non letti=10 -> da verificare
 -- SP La Spezia --
 link da Orizzonte Scuola: 11
 totale pagine da controllare: 11
-  pagina senza allegato riconoscibile (110314 caratteri); collegamenti a documenti: 
-     ~ /pvw2/app/default/tools.php?act=downloadFile&id=1464
-     ~ /pvw2/app/default/tools.php?act=downloadFile&id=1463
-     siti esterni nella pagina: web.spaggiari.eu(4), www.istruzioneliguria.gov.it(1), cspace.spaggiari.eu(1), scaling.spaggiari.eu(1)
-  nessun PDF o foglio trovato in https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---i-turno-as-20262027
+  errore su https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---i-turno-as-20262027 -> HTTP 509 su https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---i-turno-as-20262027
   errore su https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---i-turno-as-20262027-1 -> HTTP 509 su https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---i-turno-as-20262027-1
   errore su https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---ii-turno-11092026 -> HTTP 509 su https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---ii-turno-11092026
   errore su https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---ii-turno-11092026-1 -> HTTP 509 su https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---ii-turno-11092026-1
@@ -3175,8 +3223,8 @@ totale pagine da controllare: 8
   TURNO MANCANTE: 6
   turni letti=6 non letti=2 -> da verificare
 -- CO Como --
-link da Orizzonte Scuola: 7
-totale pagine da controllare: 7
+link da Orizzonte Scuola: 9
+totale pagine da controllare: 9
   scarico https://www.mim.gov.it/documents/9150690/0/primo_bollettino_nomine.pdf/885721a2-ef93-60fb-d876-9032d83dc0b1?version=1.0&t=1788189586876
     dalla memoria: letto (righe GPS=784)
   data ricavata dal caricamento dell'allegato: 2026-08-31
@@ -3217,11 +3265,33 @@ totale pagine da controllare: 7
     fasce GPS: F1=5 F2=11
     classi GPS (classe:fascia=righe): A018:F1=1 A028:F2=3 A034:F2=2 A060:F2=1 ADSS:F1=4 AM12:F2=1 AS2B:F2=1 B012:F2=1 B017:F2=2
     ok [turno]: calibrato=true righe GPS=16 scartate=0
+  prova senza suffisso: omo/-/nomine-a-tempo-determinato-personale-docente-a-s-2026-27-sesto-scorrimento -> 2 allegati
+  scarico https://www.mim.gov.it/documents/9150690/0/m_pi.AOOUSPCO.REGISTRO+UFFICIALE%28U%29.0007135.28-10-2026.pdf/7b9ba359-b195-6c22-277a-8e0fe17bb730?version=1.0&t=1793187442566
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+    OCR: nessuna pagina scansionata nel documento
+Warning: TT: undefined function: 21
+  scarico https://www.mim.gov.it/documents/9150690/0/sesto_scorrimento_GPS.pdf/2cfe51b7-a3a2-8f64-83ee-273f374cd397?version=1.0&t=1793187519416
+  data ricavata dal caricamento dell'allegato: 2026-10-28
+    fasce GPS: F1=1 F2=9
+    classi GPS (classe:fascia=righe): A028:F2=2 A034:F2=1 ADSS:F1=1 AM12:F2=2 AS2B:F2=1 B012:F2=1 B017:F2=2
+    ok [turno]: calibrato=true righe GPS=10 scartate=0
+  prova senza suffisso: nomine-a-tempo-determinato-personale-docente-a-s-2026-27-settimo-scorrimento-gps -> 2 allegati
+  scarico https://www.mim.gov.it/documents/9150690/0/m_pi.AOOUSPCO.REGISTRO+UFFICIALE%28U%29.0007250.04-11-2026.pdf/08606635-de7c-a6e4-01f7-ade0c18f6dae?version=1.0&t=1793794427589
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+    OCR: nessuna pagina scansionata nel documento
+Warning: TT: undefined function: 21
+  scarico https://www.mim.gov.it/documents/9150690/0/settimo_scorrimento_GPS.pdf/1f3ffdda-eef9-d2e1-2b3c-2db6bd113d65?version=1.0&t=1793794514130
+  data ricavata dal caricamento dell'allegato: 2026-11-04
+    fasce GPS: F1=9 F2=7
+    classi GPS (classe:fascia=righe): A028:F2=1 A034:F2=1 ADAA:F2=1 ADSS:F1=9 AN55:F2=1 AS2B:F2=1 B017:F2=2
+    ok [turno]: calibrato=true righe GPS=16 scartate=0
   turno 3 non trovato, ma ci sono bollettini senza numero nel periodo: non lo conto
-  turni letti=5 non letti=0 -> provincia completa
+  turni letti=7 non letti=0 -> provincia completa
 -- CR Cremona --
-link da Orizzonte Scuola: 8
-totale pagine da controllare: 8
+link da Orizzonte Scuola: 9
+totale pagine da controllare: 9
   prova senza suffisso: v.it/web/cremona/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027 -> 2 allegati
   scartati 1 decreti (non sono bollettini)
   scarico https://www.mim.gov.it/documents/9081259/0/Bollettino+nomine+GPS_protocollo.pdf/1a66f550-a785-7b81-9dd2-8b201e82ec0a?version=1.0&t=1788012235484
@@ -3272,7 +3342,14 @@ totale pagine da controllare: 8
     fasce GPS: F1=0 F2=10
     classi GPS (classe:fascia=righe): A045:F2=1 ADSS:F2=7 AS2B:F2=1 B015:F2=1
     ok [turno]: calibrato=true righe GPS=10 scartate=0
-  turni letti=6 non letti=0 -> provincia completa
+  prova senza suffisso: -/nomine-a-tempo-determinato-personale-docente-a-s-2026-27-bollettino-28-10-2026 -> 2 allegati
+  scartati 1 decreti (non sono bollettini)
+  scarico https://www.mim.gov.it/documents/9081259/0/Bollettino+nomine+GPS+%E2%80%93+28.10.2026.pdf/f7f354e5-2bbc-c611-64ea-fec768721601?version=1.0&t=1793199910437
+  data ricavata dal caricamento dell'allegato: 2026-10-28
+    fasce GPS: F1=1 F2=6
+    classi GPS (classe:fascia=righe): A045:F2=1 ADSS:F1=1 ADSS:F2=3 AS2B:F2=1 B015:F2=1
+    ok [turno]: calibrato=true righe GPS=7 scartate=0
+  turni letti=7 non letti=0 -> provincia completa
 -- LC Lecco --
 link da Orizzonte Scuola: 17
 totale pagine da controllare: 17
@@ -3305,20 +3382,20 @@ totale pagine da controllare: 17
   prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-secondaria-di-primo-grado-secondo-scorrimento-e-di-secondo-grado-terzo-scorrimento-a-s-
         browser: titolo pagina "Reclutamento personale docente a tempo determinato di scuola secondaria di primo"
   prova con il browser: 0 allegati
-  pagina senza allegato riconoscibile (109020 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (108974 caratteri); collegamenti a documenti: nessuno
      siti esterni nella pagina: www.lombardia.istruzione.it(1)
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-secondaria-di-primo-grado-secondo-scorrimento-e-di-secondo-grado-terzo-scorrimento-a-s--1
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/lecco/-/titolo-rettifica-nomine-a-tempo-determinato-a-s-2026-27-personale-docente-di-scuola-dell-infanzia-
   prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-secondo-scorrimento-secondaria-di-primo-grado-terzo-scorrimento-e-di-seco
         browser: titolo pagina "Reclutamento personale docente a tempo determinato di scuola dell'infanzia SECON"
   prova con il browser: 0 allegati
-  pagina senza allegato riconoscibile (109207 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (109253 caratteri); collegamenti a documenti: nessuno
      siti esterni nella pagina: www.lombardia.istruzione.it(1)
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-secondo-scorrimento-secondaria-di-primo-grado-terzo-scorrimento-e-di-seco-1
   prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-terzo-scorrimento-secondaria-di-primo-grado-quarto-scorrimento-e-di-secon
         browser: titolo pagina "Reclutamento personale docente a tempo determinato di scuola dell'infanzia TERZO"
   prova con il browser: 0 allegati
-  pagina senza allegato riconoscibile (109202 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (109248 caratteri); collegamenti a documenti: nessuno
      siti esterni nella pagina: www.lombardia.istruzione.it(1)
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-terzo-scorrimento-secondaria-di-primo-grado-quarto-scorrimento-e-di-secon-1
   scarico https://www.mim.gov.it/documents/9081350/10317897/m_pi.AOOUSPLC.REGISTRO+UFFICIALE%28U%29.0005366.29-09-2026.pdf/2910f517-6ab6-0b91-2185-ecf1f5b2c53b?version=1.0&t=1790679220449
@@ -3347,13 +3424,13 @@ totale pagine da controllare: 17
   prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-settimo-scorrimento-e-di-scuola-secondaria-di-secondo-grado-nono-scorrime
         browser: titolo pagina "Reclutamento personale docente a tempo determinato di scuola dell'infanzia SETTI"
   prova con il browser: 0 allegati
-  pagina senza allegato riconoscibile (109052 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (109098 caratteri); collegamenti a documenti: nessuno
      siti esterni nella pagina: www.lombardia.istruzione.it(1)
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-settimo-scorrimento-e-di-scuola-secondaria-di-secondo-grado-nono-scorrime-1
   prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-e-secondaria-di-primo-grado-nono-scorrimento-nonche-di-scuola-secondaria-
         browser: titolo pagina "Reclutamento personale docente a tempo determinato di scuola dell'infanzia e sec"
   prova con il browser: 0 allegati
-  pagina senza allegato riconoscibile (109258 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (109212 caratteri); collegamenti a documenti: nessuno
      siti esterni nella pagina: www.lombardia.istruzione.it(1)
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-e-secondaria-di-primo-grado-nono-scorrimento-nonche-di-scuola-secondaria--1
   prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-e-secondaria-di-primo-grado-decimo-scorrimento-nonche-di-scuola-secondari
@@ -3388,14 +3465,14 @@ totale pagine da controllare: 17
   prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-undicesimo-scorrimento-secondaria-di-primo-e-di-secondo-grado-quattordice
         browser: titolo pagina "Reclutamento personale docente a tempo determinato di scuola dell'infanzia UNDIC"
   prova con il browser: 0 allegati
-  pagina senza allegato riconoscibile (109259 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (109305 caratteri); collegamenti a documenti: nessuno
      siti esterni nella pagina: www.lombardia.istruzione.it(1)
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-undicesimo-scorrimento-secondaria-di-primo-e-di-secondo-grado-quattordice-1
   TURNO MANCANTE: 3
   turni letti=6 non letti=11 -> da verificare
 -- LO Lodi --
-link da Orizzonte Scuola: 7
-totale pagine da controllare: 7
+link da Orizzonte Scuola: 8
+totale pagine da controllare: 8
   scartati 1 decreti (non sono bollettini)
   scarico https://www.mim.gov.it/documents/9081432/0/Bollettino+definitivo+%284%29.pdf/5e20ac93-6d93-e279-5e3f-4a071a4fe377?t=1788197318978
     dalla memoria: letto (righe GPS=661)
@@ -3405,12 +3482,12 @@ totale pagine da controllare: 7
     ok [turno]: calibrato=true righe GPS=661 scartate=0
         browser: titolo pagina "Individuazione dei destinatari della proposta di stipula di contratto a tempo de"
   prova con il browser: 0 allegati
-  pagina senza allegato riconoscibile (110254 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (110300 caratteri); collegamenti a documenti: nessuno
      siti esterni nella pagina: www.lombardia.istruzione.it(1)
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/lodi/-/individuazione-dei-destinatari-della-proposta-di-stipula-di-contratto-a-tempo-determinato-per-l-a-s-2026-2027-inseriti-nelle-graduatorie-provinciali-d
         browser: titolo pagina "Individuazione dei destinatari di contratti T.D. su posti comuni e di sostegno p"
   prova con il browser: 0 allegati
-  pagina senza allegato riconoscibile (109269 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (109315 caratteri); collegamenti a documenti: nessuno
      siti esterni nella pagina: www.lombardia.istruzione.it(1)
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/lodi/-/individuazione-dei-destinatari-di-contratti-t-d-su-posti-comuni-e-di-sostegno-per-l-a-s-2026-2027-terzo-algoritmo
         browser: titolo pagina "Individuazione dei destinatari di contratti T.D. su posti comuni e di sostegno p"
@@ -3420,7 +3497,7 @@ totale pagine da controllare: 7
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/lodi/-/individuazione-dei-destinatari-di-contratti-t-d-su-posti-comuni-e-di-sostegno-per-l-a-s-2026-2027-quarto-algoritmo
         browser: titolo pagina "Individuazione dei destinatari di contratti T.D. su posti comuni e di sostegno p"
   prova con il browser: 0 allegati
-  pagina senza allegato riconoscibile (109267 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (109313 caratteri); collegamenti a documenti: nessuno
      siti esterni nella pagina: www.lombardia.istruzione.it(1)
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/lodi/-/individuazione-dei-destinatari-di-contratti-t-d-su-posti-comuni-e-di-sostegno-per-l-a-s-2026-2027-quinto-algoritmo
   prova senza suffisso: i-di-contratti-t-d-su-posti-comuni-e-di-sostegno-per-l-a-s-2026-2027-6-algoritmo -> 2 allegati
@@ -3431,11 +3508,16 @@ totale pagine da controllare: 7
     fasce GPS: F1=1 F2=3
     classi GPS (classe:fascia=righe): A015:F2=1 A060:F2=1 ADSS:F1=1 EEEM:F2=1
     ok [turno]: calibrato=true righe GPS=4 scartate=0
+        browser: titolo pagina "Individuazione dei destinatari di contratti T.D. su posti comuni e di sostegno p"
+  prova con il browser: 0 allegati
+  pagina senza allegato riconoscibile (109301 caratteri); collegamenti a documenti: nessuno
+     siti esterni nella pagina: www.lombardia.istruzione.it(1)
+  nessun PDF o foglio trovato in https://www.mim.gov.it/web/lodi/-/individuazione-dei-destinatari-di-contratti-t-d-su-posti-comuni-e-di-sostegno-per-l-a-s-2026-2027-settimo-algoritmo
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/lodi/-/decreto-rettifica-parziale-nomine-2-algoritmo-1
-  turni letti=2 non letti=4 -> da verificare
+  turni letti=2 non letti=5 -> da verificare
 -- MN Mantova --
-link da Orizzonte Scuola: 9
-totale pagine da controllare: 9
+link da Orizzonte Scuola: 10
+totale pagine da controllare: 10
   prova senza suffisso: /mantova/-/nomine-a-tempo-determinato-da-gps-a-s-26-27-esito-conferimento-nomine -> 2 allegati
   scartati 1 decreti (non sono bollettini)
   scarico https://www.mim.gov.it/documents/9081578/0/Bollettino_TotaleNomine_.pdf/e009c544-f754-ed89-c1b0-5ed001a4475c?version=1.0&t=1788177128769
@@ -3500,8 +3582,15 @@ totale pagine da controllare: 9
     fasce GPS: F1=2 F2=4
     classi GPS (classe:fascia=righe): A050:F2=1 ADSS:F1=2 AM12:F2=1 AS12:F2=1 B011:F2=1
     ok [turno]: calibrato=true righe GPS=6 scartate=0
+  prova senza suffisso: ine-a-tempo-determinato-da-gps-a-s-26-27-esito-conferimento-nomine-ix-bollettino -> 2 allegati
+  scartati 1 decreti (non sono bollettini)
+  scarico https://www.mim.gov.it/documents/9081578/10330054/IX+Bollettino_TotaleNomine.pdf/33cc50c9-c6f6-decb-fd72-bd08ad505d69?t=1793815709534
+  data ricavata dal caricamento dell'allegato: 2026-11-04
+    fasce GPS: F1=13 F2=5
+    classi GPS (classe:fascia=righe): A026:F2=1 A050:F2=1 ADSS:F1=13 AM12:F2=1 B011:F2=1 B018:F2=1
+    ok [turno]: calibrato=true righe GPS=18 scartate=0
   ignorati 1 documenti non leggibili precedenti al primo bollettino letto (2026-09-09)
-  turni letti=7 non letti=0 -> provincia completa
+  turni letti=8 non letti=0 -> provincia completa
 -- MI Milano --
 link da Orizzonte Scuola: 5
 totale pagine da controllare: 5
@@ -3546,8 +3635,8 @@ totale pagine da controllare: 5
     ok [turno]: calibrato=true righe GPS=105 scartate=0
   turni letti=5 non letti=0 -> provincia completa
 -- MB Monza e Brianza --
-link da Orizzonte Scuola: 7
-totale pagine da controllare: 7
+link da Orizzonte Scuola: 8
+totale pagine da controllare: 8
   scarico https://www.mim.gov.it/documents/9081736/0/m_pi.AOOUSPMB.REGISTRO+UFFICIALE%28U%29.0015556.28-08-2026.pdf/ad5819a6-f528-8d1c-d096-48967ae40534?version=1.0&t=1787922047356
     dalla memoria: non letto (righe GPS=0)
   scarico https://www.mim.gov.it/documents/9081736/0/Bollettino_TotaleNomine+%284%29.pdf/2ea01f17-0315-d6b5-e103-70461e0d92cf?version=1.0&t=1787922047517
@@ -3559,7 +3648,7 @@ totale pagine da controllare: 7
   prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027
         browser: titolo pagina "Incarichi a tempo determinato personale docente - a.s. 2026/2027 - Incarichi a t"
   prova con il browser: 0 allegati
-  pagina senza allegato riconoscibile (121911 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (121865 caratteri); collegamenti a documenti: nessuno
      siti esterni nella pagina: www.lombardia.istruzione.it(1)
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-2
         browser: titolo pagina "Incarichi a tempo determinato personale docente - a.s. 2026/2027 - 3° scorriment"
@@ -3582,7 +3671,7 @@ totale pagine da controllare: 7
   prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027
         browser: titolo pagina "Incarichi a tempo determinato personale docente - a.s. 2026/2027 - Incarichi a t"
   prova con il browser: 0 allegati
-  pagina senza allegato riconoscibile (121860 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (121906 caratteri); collegamenti a documenti: nessuno
      siti esterni nella pagina: www.lombardia.istruzione.it(1)
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-8
   prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027
@@ -3591,20 +3680,31 @@ totale pagine da controllare: 7
   pagina senza allegato riconoscibile (121874 caratteri); collegamenti a documenti: nessuno
      siti esterni nella pagina: www.lombardia.istruzione.it(1)
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-10
-  turni letti=1 non letti=6 -> da verificare
+  scarico https://www.mim.gov.it/documents/9081736/10325740/m_pi.AOOUSPMB.REGISTRO+UFFICIALE%28U%29.0019563.29-10-2026.pdf/5fadb13f-55f1-a085-0139-f8ef43138ba1?version=1.0&t=1793281231377
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+    OCR: nessuna pagina scansionata nel documento
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+  data ricavata dal caricamento dell'allegato: 2026-10-29
+    fasce GPS: F1=0 F2=0
+    ok [turno]: calibrato=false righe GPS=0 scartate=0
+  turni letti=1 non letti=7 -> da verificare
 -- PV Pavia --
 link da Orizzonte Scuola: 9
 totale pagine da controllare: 8
   prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/pavia/-/pubblicazione-esiti-individuazione-del-personale-docente-di-ogni-ordine-e-grado-ed-educativo-destinatario-di-contratto-a-tempo-determinato-per-l-ann
         browser: titolo pagina "Pubblicazione esiti individuazione del personale docente di ogni ordine e grado "
   prova con il browser: 0 allegati
-  pagina senza allegato riconoscibile (107117 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (107163 caratteri); collegamenti a documenti: nessuno
      siti esterni nella pagina: www.lombardia.istruzione.it(1)
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/pavia/-/pubblicazione-esiti-individuazione-del-personale-docente-di-ogni-ordine-e-grado-ed-educativo-destinatario-di-contratto-a-tempo-determinato-per-l-ann-3
   prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/pavia/-/pubblicazione-esiti-individuazione-del-personale-docente-di-ogni-ordine-e-grado-ed-educativo-destinatario-di-contratto-a-tempo-determinato-per-l-ann
         browser: titolo pagina "Pubblicazione esiti individuazione del personale docente di ogni ordine e grado "
   prova con il browser: 0 allegati
-  pagina senza allegato riconoscibile (105768 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (105814 caratteri); collegamenti a documenti: nessuno
      siti esterni nella pagina: www.lombardia.istruzione.it(1)
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/pavia/-/pubblicazione-esiti-individuazione-del-personale-docente-di-ogni-ordine-e-grado-ed-educativo-destinatario-di-contratto-a-tempo-determinato-per-l-ann-5
   scarico https://www.mim.gov.it/documents/9081911/10331371/m_pi.AOOUSPPV.REGISTRO+UFFICIALE%28U%29.0007101.21-09-2026.pdf/c4cf7484-b984-6630-7ac5-39b028a6e711?version=1.0&t=1789989563571
@@ -3622,7 +3722,7 @@ totale pagine da controllare: 8
   prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/pavia/-/pubblicazione-esiti-individuazione-del-personale-docente-di-ogni-ordine-e-grado-ed-educativo-destinatario-di-contratto-a-tempo-determinato-per-l-an
         browser: titolo pagina "Pubblicazione esiti individuazione del personale docente di ogni ordine e grado "
   prova con il browser: 0 allegati
-  pagina senza allegato riconoscibile (105639 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (105593 caratteri); collegamenti a documenti: nessuno
      siti esterni nella pagina: www.lombardia.istruzione.it(1)
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/pavia/-/pubblicazione-esiti-individuazione-del-personale-docente-di-ogni-ordine-e-grado-ed-educativo-destinatario-di-contratto-a-tempo-determinato-per-l-an-15
   prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/pavia/-/pubblicazione-esiti-individuazione-del-personale-docente-di-ogni-ordine-e-grado-ed-educativo-destinatario-di-contratto-a-tempo-determinato-per-l-an
@@ -3642,16 +3742,16 @@ totale pagine da controllare: 8
   TURNO MANCANTE: 5
   turni letti=0 non letti=10 -> da verificare
 -- SO Sondrio --
-link da Orizzonte Scuola: 7
-totale pagine da controllare: 6
+link da Orizzonte Scuola: 8
+totale pagine da controllare: 7
         browser: titolo pagina "Conferimento nomine a tempo determinato da GAE e GPS - Conferimento nomine a tem"
   prova con il browser: 0 allegati
-  pagina senza allegato riconoscibile (131097 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (131051 caratteri); collegamenti a documenti: nessuno
      siti esterni nella pagina: www.lombardia.istruzione.it(1)
   non sembra un bollettino, ignoro: https://www.mim.gov.it/web/sondrio/-/conferimento-nomine-a-tempo-determinato-da-gae-e-gps
         browser: titolo pagina "Esito conferimento nomine a tempo determinato da GAE/GPS - Esito conferimento no"
   prova con il browser: 0 allegati
-  pagina senza allegato riconoscibile (131194 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (131148 caratteri); collegamenti a documenti: nessuno
      siti esterni nella pagina: www.lombardia.istruzione.it(1)
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/sondrio/-/esito-conferimento-nomine-a-tempo-determinato-da-gae-gps
   prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/sondrio/-/decreto-esiti-conferimento-nomine-a-tempo-determinato-gps-bollettino-5
@@ -3669,7 +3769,7 @@ totale pagine da controllare: 6
   prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/sondrio/-/eisto-conferimento-nomine-da-gae-gps-bollettino-n
         browser: titolo pagina "Esito conferimento nomine da GAE\GPS - Bollettino n. 8 - Esito conferimento nomi"
   prova con il browser: 0 allegati
-  pagina senza allegato riconoscibile (131108 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (131062 caratteri); collegamenti a documenti: nessuno
      siti esterni nella pagina: www.lombardia.istruzione.it(1)
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/sondrio/-/eisto-conferimento-nomine-da-gae-gps-bollettino-n-8
   prova senza suffisso: im.gov.it/web/sondrio/-/esito-conferimento-nomine-a-tempo-determinato-da-gae-gps -> 0 allegati
@@ -3678,10 +3778,16 @@ totale pagine da controllare: 6
   pagina senza allegato riconoscibile (131088 caratteri); collegamenti a documenti: nessuno
      siti esterni nella pagina: www.lombardia.istruzione.it(1)
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/sondrio/-/esito-conferimento-nomine-a-tempo-determinato-da-gae-gps-2
+  prova senza suffisso: im.gov.it/web/sondrio/-/esito-conferimento-nomine-a-tempo-determinato-da-gae-gps -> 0 allegati
+        browser: titolo pagina "Esito conferimento nomine a tempo determinato da GAE\GPS - Esito conferimento no"
+  prova con il browser: 0 allegati
+  pagina senza allegato riconoscibile (131024 caratteri); collegamenti a documenti: nessuno
+     siti esterni nella pagina: mim.gov.it(1), www.lombardia.istruzione.it(1)
+  nessun PDF o foglio trovato in https://www.mim.gov.it/web/sondrio/-/esito-conferimento-nomine-a-tempo-determinato-da-gae-gps-3
   TURNO MANCANTE: 5
   TURNO MANCANTE: 6
   TURNO MANCANTE: 7
-  turni letti=0 non letti=8 -> da verificare
+  turni letti=0 non letti=9 -> da verificare
 -- VA Varese --
 link da Orizzonte Scuola: 11
 totale pagine da controllare: 11
@@ -3729,7 +3835,7 @@ totale pagine da controllare: 11
     ok [turno]: calibrato=true righe GPS=19 scartate=0
         browser: titolo pagina "Bollettino nomine n. 7 relativo agli esiti della procedura di conferimento degli"
   prova con il browser: 0 allegati
-  pagina senza allegato riconoscibile (159232 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (159186 caratteri); collegamenti a documenti: nessuno
      siti esterni nella pagina: www.lombardia.istruzione.it(1)
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/varese/-/bollettino-nomine-n-7-relativo-agli-esiti-della-procedura-di-conferimento-degli-incarichi-a-tempo-determinato-da-gps-
   prova senza suffisso: lla-procedura-di-conferimento-degli-incarichi-a-tempo-determinato-a-s-2026-2027- -> 2 allegati
@@ -3742,9 +3848,9 @@ totale pagine da controllare: 11
   TURNO MANCANTE: 4
   turni letti=4 non letti=2 -> da verificare
 -- AN Ancona --
-link da Orizzonte Scuola: 11
-totale pagine da controllare: 11
-  pagina senza allegato riconoscibile (111946 caratteri); collegamenti a documenti: 
+link da Orizzonte Scuola: 12
+totale pagine da controllare: 12
+  pagina senza allegato riconoscibile (111825 caratteri); collegamenti a documenti: 
      ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/css/frontend.css?ver=1.3.1
      ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/includes/download.php?id=30418
      ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/includes/download.php?id=30413
@@ -3754,69 +3860,75 @@ totale pagine da controllare: 11
      ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/includes/download.php?id=30417
      siti esterni nella pagina: gmpg.org(1), www.istruzione-ancona.gov.it(1), www.mim.gov.it(1), cercalatuascuola.istruzione.it(1), scuolamia.pubblica.istruzione.it(1), archivio.pubblica.istruzione.it(1), www.istruzione.it(1)
   non sembra un bollettino, ignoro: https://www.istruzione-ancona.it/nomine-a-tempo-determinato-a-s-2026-2027/
-  pagina senza allegato riconoscibile (107912 caratteri); collegamenti a documenti: 
+  pagina senza allegato riconoscibile (107791 caratteri); collegamenti a documenti: 
      ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/css/frontend.css?ver=1.3.1
      ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/includes/download.php?id=30459
      ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/includes/download.php?id=30462
      siti esterni nella pagina: gmpg.org(1), www.istruzione-ancona.gov.it(1), www.mim.gov.it(1), cercalatuascuola.istruzione.it(1), scuolamia.pubblica.istruzione.it(1), archivio.pubblica.istruzione.it(1), www.istruzione.it(1)
   nessun PDF o foglio trovato in https://www.istruzione-ancona.it/nomine-a-tempo-determinato/
-  pagina senza allegato riconoscibile (107965 caratteri); collegamenti a documenti: 
+  pagina senza allegato riconoscibile (107844 caratteri); collegamenti a documenti: 
      ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/css/frontend.css?ver=1.3.1
      ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/includes/download.php?id=30541
      ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/includes/download.php?id=30542
      siti esterni nella pagina: gmpg.org(1), www.istruzione-ancona.gov.it(1), www.mim.gov.it(1), cercalatuascuola.istruzione.it(1), scuolamia.pubblica.istruzione.it(1), archivio.pubblica.istruzione.it(1), www.istruzione.it(1)
   nessun PDF o foglio trovato in https://www.istruzione-ancona.it/nomine-a-tempo-determinato-a-s-2026-27/
-  pagina senza allegato riconoscibile (109366 caratteri); collegamenti a documenti: 
+  pagina senza allegato riconoscibile (109245 caratteri); collegamenti a documenti: 
      ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/css/frontend.css?ver=1.3.1
      ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/includes/download.php?id=30569
      ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/includes/download.php?id=30570
      siti esterni nella pagina: gmpg.org(1), www.istruzione-ancona.gov.it(1), www.mim.gov.it(1), cercalatuascuola.istruzione.it(1), scuolamia.pubblica.istruzione.it(1), archivio.pubblica.istruzione.it(1), www.istruzione.it(1)
   nessun PDF o foglio trovato in https://www.istruzione-ancona.it/nomine-a-tempo-determinato-a-s-2026-2027-3/
-  pagina senza allegato riconoscibile (107908 caratteri); collegamenti a documenti: 
+  pagina senza allegato riconoscibile (107787 caratteri); collegamenti a documenti: 
      ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/css/frontend.css?ver=1.3.1
      ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/includes/download.php?id=30614
      ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/includes/download.php?id=30615
      siti esterni nella pagina: gmpg.org(1), www.istruzione-ancona.gov.it(1), www.mim.gov.it(1), cercalatuascuola.istruzione.it(1), scuolamia.pubblica.istruzione.it(1), archivio.pubblica.istruzione.it(1), www.istruzione.it(1)
   nessun PDF o foglio trovato in https://www.istruzione-ancona.it/nomine-a-tempo-determinato-2026-2027-per-ogni-ordine-e-grado/
-  pagina senza allegato riconoscibile (108426 caratteri); collegamenti a documenti: 
+  pagina senza allegato riconoscibile (108306 caratteri); collegamenti a documenti: 
      ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/css/frontend.css?ver=1.3.1
      ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/includes/download.php?id=30699
      ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/includes/download.php?id=30700
      siti esterni nella pagina: gmpg.org(1), www.istruzione-ancona.gov.it(1), www.mim.gov.it(1), cercalatuascuola.istruzione.it(1), scuolamia.pubblica.istruzione.it(1), archivio.pubblica.istruzione.it(1), www.istruzione.it(1)
   nessun PDF o foglio trovato in https://www.istruzione-ancona.it/nomine-a-tempo-determinato-a-s-2026-2027-4/
-  pagina senza allegato riconoscibile (107996 caratteri); collegamenti a documenti: 
+  pagina senza allegato riconoscibile (107875 caratteri); collegamenti a documenti: 
      ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/css/frontend.css?ver=1.3.1
      ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/includes/download.php?id=30732
      ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/includes/download.php?id=30731
      siti esterni nella pagina: gmpg.org(1), www.istruzione-ancona.gov.it(1), www.mim.gov.it(1), cercalatuascuola.istruzione.it(1), scuolamia.pubblica.istruzione.it(1), archivio.pubblica.istruzione.it(1), www.istruzione.it(1)
   nessun PDF o foglio trovato in https://www.istruzione-ancona.it/nomine-a-tempo-determinato-a-s-2026-2027-per-la-scuola-secondaria-di-secondo-grado/
-  pagina senza allegato riconoscibile (107656 caratteri); collegamenti a documenti: 
+  pagina senza allegato riconoscibile (107535 caratteri); collegamenti a documenti: 
      ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/css/frontend.css?ver=1.3.1
      ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/includes/download.php?id=30744
      ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/includes/download.php?id=30745
      siti esterni nella pagina: gmpg.org(1), www.istruzione-ancona.gov.it(1), www.mim.gov.it(1), cercalatuascuola.istruzione.it(1), scuolamia.pubblica.istruzione.it(1), archivio.pubblica.istruzione.it(1), www.istruzione.it(1)
   nessun PDF o foglio trovato in https://www.istruzione-ancona.it/nomine-a-tempo-determinato-a-s-2026-2027-per-le-scuola-scuola-secondaria/
-  pagina senza allegato riconoscibile (109466 caratteri); collegamenti a documenti: 
+  pagina senza allegato riconoscibile (109345 caratteri); collegamenti a documenti: 
      ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/css/frontend.css?ver=1.3.1
      ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/includes/download.php?id=30904
      ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/includes/download.php?id=30905
      siti esterni nella pagina: gmpg.org(1), www.istruzione-ancona.gov.it(1), www.mim.gov.it(1), cercalatuascuola.istruzione.it(1), scuolamia.pubblica.istruzione.it(1), archivio.pubblica.istruzione.it(1), www.istruzione.it(1)
   nessun PDF o foglio trovato in https://www.istruzione-ancona.it/docenti-di-ogni-ordine-e-grado-nomine-a-tempo-determinato-a-s-2026-2027/
-  pagina senza allegato riconoscibile (108627 caratteri); collegamenti a documenti: 
+  pagina senza allegato riconoscibile (108506 caratteri); collegamenti a documenti: 
      ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/css/frontend.css?ver=1.3.1
      ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/includes/download.php?id=30938
      ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/includes/download.php?id=30939
      siti esterni nella pagina: gmpg.org(1), www.istruzione-ancona.gov.it(1), www.mim.gov.it(1), cercalatuascuola.istruzione.it(1), scuolamia.pubblica.istruzione.it(1), archivio.pubblica.istruzione.it(1), www.istruzione.it(1)
   nessun PDF o foglio trovato in https://www.istruzione-ancona.it/personale-docente-nomine-a-tempo-determinato-45/
-  pagina senza allegato riconoscibile (108625 caratteri); collegamenti a documenti: 
+  pagina senza allegato riconoscibile (108504 caratteri); collegamenti a documenti: 
      ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/css/frontend.css?ver=1.3.1
      ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/includes/download.php?id=30967
      ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/includes/download.php?id=30968
      siti esterni nella pagina: gmpg.org(1), www.istruzione-ancona.gov.it(1), www.mim.gov.it(1), cercalatuascuola.istruzione.it(1), scuolamia.pubblica.istruzione.it(1), archivio.pubblica.istruzione.it(1), www.istruzione.it(1)
   nessun PDF o foglio trovato in https://www.istruzione-ancona.it/personale-docente-nomine-a-tempo-determinato-46/
+  pagina senza allegato riconoscibile (108258 caratteri); collegamenti a documenti: 
+     ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/css/frontend.css?ver=1.3.1
+     ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/includes/download.php?id=31069
+     ~ https://www.istruzione-ancona.it/2015/wp-content/plugins/download-attachments/includes/download.php?id=31068
+     siti esterni nella pagina: gmpg.org(1), www.istruzione-ancona.gov.it(1), www.mim.gov.it(1), cercalatuascuola.istruzione.it(1), scuolamia.pubblica.istruzione.it(1), archivio.pubblica.istruzione.it(1), www.istruzione.it(1)
+  nessun PDF o foglio trovato in https://www.istruzione-ancona.it/nomine-a-tempo-determinato-gps-personale-docente_-ust-ancona_a-s-26-27/
   TURNO MANCANTE: 5
   TURNO MANCANTE: 6
-  turni letti=0 non letti=12 -> da verificare
+  turni letti=0 non letti=13 -> da verificare
 -- AP Ascoli Piceno --
 link da Orizzonte Scuola: 16
 totale pagine da controllare: 16
@@ -4086,8 +4198,8 @@ totale pagine da controllare: 17
   TURNO MANCANTE: 4
   turni letti=2 non letti=9 -> da verificare
 -- CB Campobasso --
-link da Orizzonte Scuola: 6
-totale pagine da controllare: 6
+link da Orizzonte Scuola: 7
+totale pagine da controllare: 7
   scarico https://www.mim.gov.it/documents/10563525/0/m_pi.AOOUSPCB.REGISTRO+UFFICIALE%28U%29.0005614.28-08-2026.pdf/2eec5a13-3256-4dfd-8212-6b73bf5232c5?version=1.0&t=1787937299349
     dalla memoria: non letto (righe GPS=0)
   scarico https://www.mim.gov.it/documents/10563525/0/I+bollettino+-+Nomine+a+tempo+determinato+personale+docente+di+ogni+ordine+e+grado+e+personale+educativo+-+a.s.+2026_2027.pdf/bee53131-a595-b3b5-c031-cc180c9ac639?version=1.0&t=1787937458227
@@ -4100,7 +4212,7 @@ totale pagine da controllare: 6
   prova con il browser non riuscita: page.goto: Timeout 60000ms exceeded.
 Call log:
   - navigating to "https://www.mi
-  pagina senza allegato riconoscibile (80241 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (80561 caratteri); collegamenti a documenti: nessuno
      siti esterni nella pagina: cloud.pubblica.istruzione.it(15), form.agid.gov.it(1), www.istruzione.it(1)
      collegamento di condivisione (forma): cloud.pubblica.istruzione.it/urpbot/…/css/main.min.css ×1
      collegamento di condivisione (forma): cloud.pubblica.istruzione.it/urpbot/…/css/… ×1
@@ -4113,7 +4225,7 @@ Call log:
   prova con il browser non riuscita: page.goto: Timeout 60000ms exceeded.
 Call log:
   - navigating to "https://www.mi
-  pagina senza allegato riconoscibile (79856 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (80222 caratteri); collegamenti a documenti: nessuno
      siti esterni nella pagina: cloud.pubblica.istruzione.it(15), form.agid.gov.it(1), www.istruzione.it(1)
      collegamento di condivisione (forma): cloud.pubblica.istruzione.it/urpbot/…/css/main.min.css ×1
      collegamento di condivisione (forma): cloud.pubblica.istruzione.it/urpbot/…/css/… ×1
@@ -4137,7 +4249,7 @@ Call log:
   prova con il browser non riuscita: page.goto: Timeout 60000ms exceeded.
 Call log:
   - navigating to "https://www.mi
-  pagina senza allegato riconoscibile (79807 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (80173 caratteri); collegamenti a documenti: nessuno
      siti esterni nella pagina: cloud.pubblica.istruzione.it(15), form.agid.gov.it(1), www.istruzione.it(1)
      collegamento di condivisione (forma): cloud.pubblica.istruzione.it/urpbot/…/css/main.min.css ×1
      collegamento di condivisione (forma): cloud.pubblica.istruzione.it/urpbot/…/css/… ×1
@@ -4150,7 +4262,7 @@ Call log:
   prova con il browser non riuscita: page.goto: Timeout 60000ms exceeded.
 Call log:
   - navigating to "https://www.mi
-  pagina senza allegato riconoscibile (79808 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (80174 caratteri); collegamenti a documenti: nessuno
      siti esterni nella pagina: cloud.pubblica.istruzione.it(15), form.agid.gov.it(1), www.istruzione.it(1)
      collegamento di condivisione (forma): cloud.pubblica.istruzione.it/urpbot/…/css/main.min.css ×1
      collegamento di condivisione (forma): cloud.pubblica.istruzione.it/urpbot/…/css/… ×1
@@ -4159,14 +4271,27 @@ Call log:
      condivisione: cloud.pubblica.istruzione.it/urpbot/integrazioneChatbotURP/css/style_toscana.css
      condivisione: cloud.pubblica.istruzione.it/urpbot/integrazioneChatbotURP/images/favicon.ico
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/campobasso/-/conferimento-nomine-a-tempo-determinato-su-posti-curriculari-del-personale-docente-gps-a-s-2026-2027-scuola-infanzia-primaria-secondaria-di-i-e-di-i-3
-  turni letti=2 non letti=4 -> da verificare
--- IS Isernia --
-link da Orizzonte Scuola: 5
-totale pagine da controllare: 5
+  prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/campobasso/-/conferimento-nomine-a-tempo-determinato-su-posti-curriculari-e-di-sostegno-del-personale-docente-gps-a-s-2026-2027-scuola-primaria-secondaria-di-i-e
   prova con il browser non riuscita: page.goto: Timeout 60000ms exceeded.
 Call log:
   - navigating to "https://www.mi
-  pagina senza allegato riconoscibile (68398 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (80209 caratteri); collegamenti a documenti: nessuno
+     siti esterni nella pagina: cloud.pubblica.istruzione.it(15), form.agid.gov.it(1), www.istruzione.it(1)
+     collegamento di condivisione (forma): cloud.pubblica.istruzione.it/urpbot/…/css/main.min.css ×1
+     collegamento di condivisione (forma): cloud.pubblica.istruzione.it/urpbot/…/css/… ×1
+     collegamento di condivisione (forma): cloud.pubblica.istruzione.it/urpbot/…/images/favicon.ico ×1
+     condivisione: cloud.pubblica.istruzione.it/urpbot/integrazioneChatbotURP/css/main.min.css
+     condivisione: cloud.pubblica.istruzione.it/urpbot/integrazioneChatbotURP/css/style_toscana.css
+     condivisione: cloud.pubblica.istruzione.it/urpbot/integrazioneChatbotURP/images/favicon.ico
+  nessun PDF o foglio trovato in https://www.mim.gov.it/web/campobasso/-/conferimento-nomine-a-tempo-determinato-su-posti-curriculari-e-di-sostegno-del-personale-docente-gps-a-s-2026-2027-scuola-primaria-secondaria-di-i-e-1
+  turni letti=2 non letti=5 -> da verificare
+-- IS Isernia --
+link da Orizzonte Scuola: 6
+totale pagine da controllare: 6
+  prova con il browser non riuscita: page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.mi
+  pagina senza allegato riconoscibile (68444 caratteri); collegamenti a documenti: nessuno
      siti esterni nella pagina: cloud.pubblica.istruzione.it(15), form.agid.gov.it(1), www.istruzione.it(1)
      collegamento di condivisione (forma): cloud.pubblica.istruzione.it/urpbot/…/css/main.min.css ×1
      collegamento di condivisione (forma): cloud.pubblica.istruzione.it/urpbot/…/css/… ×1
@@ -4179,7 +4304,7 @@ Call log:
   prova con il browser non riuscita: page.goto: Timeout 60000ms exceeded.
 Call log:
   - navigating to "https://www.mi
-  pagina senza allegato riconoscibile (68423 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (68469 caratteri); collegamenti a documenti: nessuno
      siti esterni nella pagina: cloud.pubblica.istruzione.it(15), mim.gov.it(1), form.agid.gov.it(1), www.istruzione.it(1)
      collegamento di condivisione (forma): cloud.pubblica.istruzione.it/urpbot/…/css/main.min.css ×1
      collegamento di condivisione (forma): cloud.pubblica.istruzione.it/urpbot/…/css/… ×1
@@ -4207,10 +4332,18 @@ Call log:
   scarico https://www.mim.gov.it/documents/10591991/10597831/disponibilit%C3%A0+scuola.pdf/33cb14bd-90fd-99ec-f0f9-4e9e85b5979f?version=1.0&t=1791366478504
     dalla memoria: non letto (righe GPS=0)
   documento di tipo decreto, non è un bollettino: ignoro _.pdf/eca85bec-a68a-88b7-074a-0ea087bdbb92?version=1.0&t=1791366478803
-  turni letti=2 non letti=2 -> da verificare
+  scarico https://www.mim.gov.it/documents/10591991/10597831/disponibilit%C3%A0+scuole+%281%29.pdf/5bf66ed2-efb7-6a9b-8b29-c01b2bb52b8f?version=1.0&t=1793376546284
+    OCR: nessuna pagina scansionata nel documento
+  scarico https://www.mim.gov.it/documents/10591991/10597831/nomine+sesto+turno.pdf/46b99fb5-112c-a733-84e1-554f44ea4a98?version=1.0&t=1793376546174
+  data ricavata dal caricamento dell'allegato: 2026-10-30
+    fasce GPS: F1=27 F2=0
+    classi GPS (classe:fascia=righe): ADAA:F1=5 ADEE:F1=15 ADMM:F1=3 ADSS:F1=1 AM2A:F1=1 EEEE:F1=1 EEIL:F1=1
+    ok [turno]: calibrato=true righe GPS=27 scartate=0
+  TURNO MANCANTE: 5
+  turni letti=3 non letti=3 -> da verificare
 -- AL Alessandria --
-link da Orizzonte Scuola: 15
-totale pagine da controllare: 15
+link da Orizzonte Scuola: 16
+totale pagine da controllare: 16
   scartati 1 decreti (non sono bollettini)
   scarico https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/08/bollettinoDefinitivo_-GPS_1-TURNO.zip
     dalla memoria: letto (righe GPS=476)
@@ -4311,8 +4444,14 @@ totale pagine da controllare: 15
   data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-11-03
     fasce GPS: F1=0 F2=0
     ok [turno]: calibrato=true righe GPS=0 scartate=0
+  scartati 1 decreti (non sono bollettini)
+  scarico https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/11/Bollettino_TotaleNomine-1.xlsx
+  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-11-05
+    nessuna riga GPS, ma 1 righe di altri tipi (GUI/GAE): bollettino letto, senza nomine GPS
+    fasce GPS: F1=0 F2=0
+    ok [turno]: calibrato=true righe GPS=0 scartate=0
   TURNO MANCANTE: 2
-  turni letti=12 non letti=3 -> da verificare
+  turni letti=13 non letti=3 -> da verificare
 -- AT Asti --
 link da Orizzonte Scuola: 12
 totale pagine da controllare: 12
@@ -4395,8 +4534,8 @@ totale pagine da controllare: 12
   TURNO MANCANTE: 12
   turni letti=6 non letti=7 -> da verificare
 -- BI Biella --
-link da Orizzonte Scuola: 7
-totale pagine da controllare: 7
+link da Orizzonte Scuola: 8
+totale pagine da controllare: 8
   scarico https://www.istruzionepiemonte.it/biella/wp-content/uploads/sites/14/2026/08/Bollettino_TotaleNomine_1turno_28agosto2026.pdf
     dalla memoria: non letto (righe GPS=0)
   scarico https://www.istruzionepiemonte.it/biella/wp-content/uploads/sites/14/2026/08/Bollettino_TotaleNomine_1turno_28agosto2026.xlsx
@@ -4448,8 +4587,21 @@ totale pagine da controllare: 7
     fasce GPS: F1=0 F2=11
     classi GPS (classe:fascia=righe): A045:F2=1 ADMM:F2=1 ADSS:F2=9
     ok [turno]: calibrato=true righe GPS=11 scartate=0
+  scarico https://www.istruzionepiemonte.it/biella/wp-content/uploads/sites/14/2026/11/Bollettino_definitivo_TotaleNomine.pdf
+    OCR: nessuna pagina scansionata nel documento
+  scarico https://www.istruzionepiemonte.it/biella/wp-content/uploads/sites/14/2026/11/m_pi.AOOUSPBI.REGISTRO-UFFICIALEU.0001762.03-11-2026.pdf
+Warning: TT: undefined function: 32
+Warning: TT: undefined function: 32
+Warning: TT: undefined function: 32
+Warning: TT: undefined function: 32
+    OCR: nessuna pagina scansionata nel documento
+Warning: TT: undefined function: 32
+Warning: TT: undefined function: 32
+  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-11-03
+    fasce GPS: F1=0 F2=0
+    ok [turno]: calibrato=false righe GPS=0 scartate=0
   turno 4 non trovato, ma ci sono bollettini senza numero nel periodo: non lo conto
-  turni letti=4 non letti=3 -> da verificare
+  turni letti=4 non letti=4 -> da verificare
 -- CN Cuneo --
 link da Orizzonte Scuola: 12
 totale pagine da controllare: 12
@@ -4763,8 +4915,8 @@ totale pagine da controllare: 10
     ok [turno]: calibrato=true righe GPS=4 scartate=0
   turni letti=9 non letti=1 -> da verificare
 -- BA Bari --
-link da Orizzonte Scuola: 16
-totale pagine da controllare: 16
+link da Orizzonte Scuola: 17
+totale pagine da controllare: 17
   scarico https://www.uspbari.it/usp/wp-content/uploads/2026/08/Bollettino-Totale-Nomine-Turno-1_Firmato.pdf
     dalla memoria: letto (righe GPS=2214)
   data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-08-31
@@ -4818,6 +4970,11 @@ totale pagine da controllare: 16
     fasce GPS: F1=138 F2=10
     classi GPS (classe:fascia=righe): A027:F1=2 A034:F1=1 A040:F2=1 A046:F1=1 AAAA:F1=2 ADAA:F1=8 ADAA:F2=7 ADEE:F1=4 ADEE:F2=2 ADMM:F1=48 ADSS:F1=66 AM12:F1=2 AS12:F1=1 EEEE:F1=3
     ok [turno]: calibrato=true righe GPS=148 scartate=0
+  scarico https://www.uspbari.it/usp/wp-content/uploads/2026/11/Bollettino-nomine-turno-X.pdf
+  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-11-05
+    fasce GPS: F1=19 F2=3
+    classi GPS (classe:fascia=righe): A034:F1=1 A040:F2=1 A042:F2=1 A047:F1=1 A060:F1=1 AAAA:F1=1 ADEE:F1=1 ADMM:F1=5 ADSS:F1=3 AJ55:F1=1 AJ56:F1=1 AM12:F1=1 AM30:F1=1 AM56:F1=1 AP55:F2=1 EEEE:F1=1
+    ok [turno]: calibrato=true righe GPS=22 scartate=0
   scarico https://www.istruzionebat.it/wp-content/uploads/2026/09/Bollettino_TotaleNomine-Turno-1-BAT.pdf
     dalla memoria: letto (righe GPS=852)
     fasce GPS: F1=801 F2=51
@@ -4851,7 +5008,8 @@ totale pagine da controllare: 16
   scarico https://www.istruzionebat.it/wp-content/uploads/2026/10/NOTA-AOOUSPBAT-n.-0015609-del-13-10-2026.pdf
     dalla memoria: non letto (righe GPS=0)
     ok [rett]: calibrato=false righe GPS=0 scartate=0
-  turni letti=10 non letti=0 -> provincia completa
+  TURNO MANCANTE: 9
+  turni letti=11 non letti=1 -> da verificare
 -- BT Barletta-Andria-Trani --
 link da Orizzonte Scuola: 0
 totale pagine da controllare: 0
@@ -4935,8 +5093,8 @@ totale pagine da controllare: 15
     ok [turno]: calibrato=true righe GPS=4 scartate=0
   turni letti=7 non letti=1 -> da verificare
 -- FG Foggia --
-link da Orizzonte Scuola: 9
-totale pagine da controllare: 9
+link da Orizzonte Scuola: 10
+totale pagine da controllare: 10
   errore su https://www.ustfoggia.it/2026/08/31/conferimento-delle-supplenze-da-g-a-e-e-da-g-p-s-per-la-s-2026-2027-i-turno/ -> HTTP 404 su https://www.ustfoggia.it/2026/08/31/conferimento-delle-supplenze-da-g-a-e-e-da-g-p-s-per-la-s-2026-2027-i-turno/
   scarico https://www.ustfoggia.it/wp-content/uploads/2026/09/m_pi.AOOUSPFG.REGISTRO-UFFICIALEU.0019595.10-09-2026.pdf
     dalla memoria: non letto (righe GPS=0)
@@ -4978,6 +5136,9 @@ totale pagine da controllare: 9
     fasce GPS: F1=29 F2=3
     classi GPS (classe:fascia=righe): A028:F1=2 A045:F1=1 A052:F2=1 ADAA:F1=2 ADAA:F2=2 ADEE:F1=2 ADMM:F1=7 ADSS:F1=5 AJ55:F1=1 AM12:F1=2 AM2B:F1=1 AM55:F1=1 B012:F1=1 B017:F1=1 EEEE:F1=3
     ok [turno]: calibrato=true righe GPS=32 scartate=0
+  scarico https://www.ustfoggia.it/wp-content/uploads/2026/11/m_pi.AOOUSPFG.REGISTRO-UFFICIALEU.0024150.05-11-2026.pdf
+    OCR: nessuna pagina scansionata nel documento
+    ok [rett]: calibrato=false righe GPS=0 scartate=0
   turni letti=5 non letti=1 -> da verificare
 -- LE Lecce --
 link da Orizzonte Scuola: 6
@@ -5104,8 +5265,8 @@ totale pagine da controllare: 9
     ok [altro]: calibrato=true righe GPS=36 scartate=0
   turni letti=2 non letti=0 -> provincia completa
 -- NU Nuoro --
-link da Orizzonte Scuola: 11
-totale pagine da controllare: 11
+link da Orizzonte Scuola: 12
+totale pagine da controllare: 12
   scarico https://www.mim.gov.it/documents/8635161/10325141/turno+1_Bollettino_TotaleNomine_albo.xlsx/53259b4d-b757-e821-d839-482d2fa71bdf?version=1.0&t=1788185264776
     dalla memoria: letto (righe GPS=409)
   data ricavata dal caricamento dell'allegato: 2026-08-31
@@ -5166,7 +5327,13 @@ totale pagine da controllare: 11
     fasce GPS: F1=18 F2=13
     classi GPS (classe:fascia=righe): A028:F1=1 A028:F2=1 A045:F2=1 A046:F1=1 A047:F1=1 AAAA:F1=1 ADAA:F1=1 ADEE:F2=2 ADMM:F2=1 ADSS:F1=9 ADSS:F2=6 AM12:F1=1 AM2B:F2=2 EEEE:F1=3
     ok [turno]: calibrato=true righe GPS=31 scartate=0
-  turni letti=7 non letti=0 -> provincia completa
+  scarico https://www.mim.gov.it/documents/8635161/10325141/Bollettino_TotaleNomine+9+TURNO+04.11.2026_Albo.xlsx/a8b4f477-d099-abde-46df-dc06561b2eea?version=1.0&t=1793782104611
+  data ricavata dal caricamento dell'allegato: 2026-11-04
+    fasce GPS: F1=2 F2=3
+    classi GPS (classe:fascia=righe): A009:F2=1 A047:F2=1 AM12:F2=1 EEEE:F1=2
+    ok [turno]: calibrato=true righe GPS=5 scartate=0
+  TURNO MANCANTE: 8
+  turni letti=8 non letti=1 -> da verificare
 -- OR Oristano --
 link da Orizzonte Scuola: 12
 totale pagine da controllare: 11
@@ -5501,8 +5668,8 @@ totale pagine da controllare: 8
     ok [turno]: calibrato=true righe GPS=36 scartate=0
   turni letti=8 non letti=0 -> provincia completa
 -- EN Enna --
-link da Orizzonte Scuola: 8
-totale pagine da controllare: 8
+link da Orizzonte Scuola: 10
+totale pagine da controllare: 10
   scarico https://cl-en.usr.sicilia.it/download/2290/15461/15464/bollettino-totale-nomine-caltanissetta.zip
     zip di un altro anno scolastico, salto: t/download/2290/15461/15464/bollettino-totale-nomine-caltanissetta.zip
   scarico https://cl-en.usr.sicilia.it/download/2290/15461/15463/bollettino-totale-nomine-enna.zip
@@ -5572,10 +5739,37 @@ totale pagine da controllare: 8
   scarico https://cl-en.usr.sicilia.it/download/2474/16387-1/16396/disponibilita-scuole-en-7.zip
     zip di un altro anno scolastico, salto: r.sicilia.it/download/2474/16387-1/16396/disponibilita-scuole-en-7.zip
   documento di tipo decreto, non è un bollettino: ignoro /16398/m_pi-aoouspcl-en-registro-ufficialeu-0025041-23-10-2026-1-2.pdf
+  scarico https://cl-en.usr.sicilia.it/download/2485/16469/16471/bollettino_totalenominecl-6.zip
+    zip di un altro anno scolastico, salto: r.sicilia.it/download/2485/16469/16471/bollettino_totalenominecl-6.zip
+  scarico https://cl-en.usr.sicilia.it/download/2485/16469/16474/bollettino_totalenomineen-6.zip
+    zip di un altro anno scolastico, salto: r.sicilia.it/download/2485/16469/16474/bollettino_totalenomineen-6.zip
+  scarico https://cl-en.usr.sicilia.it/download/2485/16469/16475/m_pi-aoouspcl-en-registro-ufficialeu-0025641-30-10-2026.pdf
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+    OCR: nessuna pagina scansionata nel documento
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+  scarico https://cl-en.usr.sicilia.it/download/2485/16469/16472/disponibilita-scuole-cl-8.zip
+    zip di un altro anno scolastico, salto: usr.sicilia.it/download/2485/16469/16472/disponibilita-scuole-cl-8.zip
+  scarico https://cl-en.usr.sicilia.it/download/2485/16469/16473/disponibilita-scuole-en-8.zip
+    zip di un altro anno scolastico, salto: usr.sicilia.it/download/2485/16469/16473/disponibilita-scuole-en-8.zip
+  documento di tipo decreto, non è un bollettino: ignoro 6469/16475/m_pi-aoouspcl-en-registro-ufficialeu-0025641-30-10-2026.pdf
+  scarico https://cl-en.usr.sicilia.it/download/2489/16500/16502/m_pi-aoouspcl-en-registro-ufficialeu-0025754-02-11-2026.pdf
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+    OCR: nessuna pagina scansionata nel documento
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+  data ricavata dal nome del file: 2026-11-02
+    ok [rett]: calibrato=false righe GPS=0 scartate=0
   turni letti=0 non letti=0 -> da verificare
 -- ME Messina --
-link da Orizzonte Scuola: 11
-totale pagine da controllare: 11
+link da Orizzonte Scuola: 12
+totale pagine da controllare: 12
   scarico https://me.usr.sicilia.it/download/2507/24816/24818/bollettino-i-turno.pdf
     dalla memoria: letto (righe GPS=929)
   data ricavata dai metadati del PDF, data di creazione (meno sicura): 2026-08-31
@@ -5628,10 +5822,15 @@ totale pagine da controllare: 11
   scarico https://me.usr.sicilia.it/download/2720/28005/28008/aoouspme-registro-ufficiale-2026-0025909.pdf
     dalla memoria: non letto (righe GPS=0)
   documento di tipo decreto, non è un bollettino: ignoro download/2720/28005/28008/aoouspme-registro-ufficiale-2026-0025909.pdf
-  turni letti=2 non letti=3 -> da verificare
+  scarico https://me.usr.sicilia.it/download/2744/28145/28149/bollettino-vi-turno-di-nomine-2.pdf
+  data ricavata dai metadati del PDF, data di creazione (meno sicura): 2026-11-04
+    fasce GPS: F1=7 F2=2
+    classi GPS (classe:fascia=righe): AL56:F2=1 AM2B:F1=2 B020:F1=5 B020:F2=1
+    ok [turno]: calibrato=true righe GPS=9 scartate=15
+  turni letti=2 non letti=4 -> da verificare
 -- PA Palermo --
-link da Orizzonte Scuola: 6
-totale pagine da controllare: 6
+link da Orizzonte Scuola: 7
+totale pagine da controllare: 7
   pagina senza allegato riconoscibile (81095 caratteri); collegamenti a documenti: 
      ~ https://pa.usr.sicilia.it/wp-file-download-search/
      siti esterni nella pagina: purl.org(2), old.pa.usr.sicilia.it(2), maps.app.goo.gl(2), www.istruzione.it(1), t.me(1), www.linkedin.com(1), www.portaleargo.it(1), usr.sicilia.it(1)
@@ -5655,10 +5854,15 @@ totale pagine da controllare: 6
     fasce GPS: F1=29 F2=3
     classi GPS (classe:fascia=righe): A011:F1=1 A018:F1=2 ADAA:F2=1 ADEE:F1=5 ADEE:F2=1 ADMM:F1=9 ADSS:F1=2 AM12:F1=1 EEEE:F1=8 EEEM:F2=1 EEIL:F1=1
     ok [turno]: calibrato=true righe GPS=32 scartate=0
-  turni letti=1 non letti=3 -> da verificare
+  scarico https://pa.usr.sicilia.it/download/1096/10081/10082/allegato-i-bollettino-vi-turno-di-nomina-gae-e-gps-at-palermo.pdf
+  data ricavata dai metadati del PDF, data di creazione (meno sicura): 2026-10-28
+    fasce GPS: F1=117 F2=23
+    classi GPS (classe:fascia=righe): A021:F1=1 A027:F1=2 A028:F1=3 A042:F1=1 A045:F1=1 A046:F1=1 A051:F2=1 A060:F1=1 ADAA:F1=4 ADAA:F2=1 ADEE:F1=22 ADEE:F2=20 ADMM:F1=42 ADSS:F1=16 AM01:F1=1 AM12:F1=7 AM30:F1=1 AS01:F1=1 AS2A:F1=1 EEEE:F1=11 EEEM:F2=1 EEIL:F1=1
+    ok [turno]: calibrato=true righe GPS=140 scartate=0
+  turni letti=2 non letti=3 -> da verificare
 -- RG Ragusa --
-link da Orizzonte Scuola: 13
-totale pagine da controllare: 13
+link da Orizzonte Scuola: 14
+totale pagine da controllare: 14
   scarico https://rg.usr.sicilia.it/download/1607/10856/10858/i-bollettino-gps-i-e-ii-grado-del-31-08-2026.xlsx
     dalla memoria: letto (righe GPS=266)
   data ricavata dal nome del file: 2026-08-31
@@ -5732,6 +5936,17 @@ totale pagine da controllare: 13
     dalla memoria: non letto (righe GPS=0)
   data ricavata dal nome del file: 2026-10-29
     ok [rett]: calibrato=false righe GPS=0 scartate=0
+  scarico https://rg.usr.sicilia.it/download/1740/11557/11559/nomine-a-t-d-docenti-4-11-26.zip
+    zip di un altro anno scolastico, salto: .sicilia.it/download/1740/11557/11559/nomine-a-t-d-docenti-4-11-26.zip
+  scarico https://rg.usr.sicilia.it/download/1740/11557/11560/m_pi-aoousprg-registro-ufficialeu-0008767-04-11-2026.pdf
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+    OCR: nessuna pagina scansionata nel documento
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+  documento di tipo decreto, non è un bollettino: ignoro 0/11557/11560/m_pi-aoousprg-registro-ufficialeu-0008767-04-11-2026.pdf
   turni letti=2 non letti=0 -> provincia completa
 -- SR Siracusa --
 link da Orizzonte Scuola: 7
@@ -5778,8 +5993,8 @@ totale pagine da controllare: 7
     ok [turno]: calibrato=true righe GPS=15 scartate=0
   turni letti=5 non letti=0 -> provincia completa
 -- TP Trapani --
-link da Orizzonte Scuola: 13
-totale pagine da controllare: 13
+link da Orizzonte Scuola: 14
+totale pagine da controllare: 14
   scarico https://tp.usr.sicilia.it/download/2222/16540/16543/bollettino_totalenomine-privacy.pdf
     dalla memoria: letto (righe GPS=720)
   data ricavata dai metadati del PDF, data di creazione (meno sicura): 2026-08-31
@@ -5850,10 +6065,15 @@ totale pagine da controllare: 13
     dalla memoria: non letto (righe GPS=0)
   data ricavata dal nome del file: 2026-10-21
     ok [rett]: calibrato=false righe GPS=0 scartate=0
-  turni letti=4 non letti=0 -> provincia completa
+  scarico https://tp.usr.sicilia.it/download/3181/17700/17703/01-bollettino-5-privacy.pdf
+  data ricavata dai metadati del PDF, data di creazione (meno sicura): 2026-11-04
+    fasce GPS: F1=28 F2=1
+    classi GPS (classe:fascia=righe): A018:F1=1 A027:F1=1 A028:F1=1 A037:F2=1 A041:F1=1 A045:F1=1 ADAA:F1=1 ADEE:F1=3 ADMM:F1=8 ADSS:F1=3 AM12:F1=3 AM2A:F1=1 AS2A:F1=1 AS2B:F1=1 AS2C:F1=1 EEEE:F1=1
+    ok [turno]: calibrato=true righe GPS=29 scartate=0
+  turni letti=5 non letti=0 -> provincia completa
 -- AR Arezzo --
-link da Orizzonte Scuola: 8
-totale pagine da controllare: 8
+link da Orizzonte Scuola: 9
+totale pagine da controllare: 9
   scarico https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_1/Bollettino_1.xlsx
     dalla memoria: letto (righe GPS=672)
     fasce GPS: F1=542 F2=130
@@ -5900,11 +6120,18 @@ totale pagine da controllare: 8
     dalla memoria: non letto (righe GPS=0)
     fasce GPS: F1=0 F2=0
     ok [turno]: calibrato=true righe GPS=0 scartate=0
+  scarico https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_10/Bollettino_10_Supplenze_GPS.xlsx
+  scarico https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_10/m_pi.AOOUSPAR.REGISTRO_UFFICIALEU.0011180.02-11-2026.pdf
+    OCR: nessuna pagina scansionata nel documento
+  scarico https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_10/Disponibilit%C3%A0_10_bollettino.xlsx
+    nessuna riga GPS, ma 1 righe di altri tipi (GUI/GAE): bollettino letto, senza nomine GPS
+    fasce GPS: F1=0 F2=0
+    ok [turno]: calibrato=true righe GPS=0 scartate=0
   TURNO MANCANTE: 6
-  turni letti=6 non letti=3 -> da verificare
+  turni letti=7 non letti=3 -> da verificare
 -- FI Firenze --
-link da Orizzonte Scuola: 12
-totale pagine da controllare: 12
+link da Orizzonte Scuola: 13
+totale pagine da controllare: 13
   scarico https://www.ust.fi.it/wp-content/uploads/2026/08/Bollettino_TotaleNomine_T3_31_08_26.pdf
     dalla memoria: letto (righe GPS=1658)
   data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-08-31
@@ -5977,8 +6204,13 @@ totale pagine da controllare: 12
     fasce GPS: F1=0 F2=6
     classi GPS (classe:fascia=righe): A060:F2=1 AAAA:F2=1 B020:F2=1 EEEE:F2=2 PPPP:F2=1
     ok [turno]: calibrato=true righe GPS=6 scartate=0
+  scarico https://www.ust.fi.it/wp-content/uploads/2026/11/Bollettino_TotaleNomine_T17_05_11_26.pdf
+  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-11-05
+    fasce GPS: F1=3 F2=1
+    classi GPS (classe:fascia=righe): ADSS:F1=1 AM2B:F1=1 AS2D:F1=1 PPPP:F2=1
+    ok [turno]: calibrato=true righe GPS=4 scartate=0
   TURNO MANCANTE: 9
-  turni letti=12 non letti=1 -> da verificare
+  turni letti=13 non letti=1 -> da verificare
 -- GR Grosseto --
 link da Orizzonte Scuola: 8
 totale pagine da controllare: 8
@@ -6214,8 +6446,8 @@ totale pagine da controllare: 8
     ok [turno]: calibrato=true righe GPS=3 scartate=0
   turni letti=8 non letti=0 -> provincia completa
 -- PT Pistoia --
-link da Orizzonte Scuola: 10
-totale pagine da controllare: 10
+link da Orizzonte Scuola: 11
+totale pagine da controllare: 11
   scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/08/BOLLETTINO-DEFINITIVO-I-TURNO-GPS-31.08.26.xlsx
     dalla memoria: letto (righe GPS=657)
   data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-08-31
@@ -6278,11 +6510,17 @@ totale pagine da controllare: 10
   data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-10-26
     fasce GPS: F1=0 F2=0
     ok [turno]: calibrato=true righe GPS=0 scartate=0
+  scartati 1 decreti (non sono bollettini)
+  scarico https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/11/Bollettino_TotaleNomine-TURNO-XII.xlsx
+  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-11-03
+    fasce GPS: F1=1 F2=1
+    classi GPS (classe:fascia=righe): A028:F2=1 AM12:F1=1
+    ok [turno]: calibrato=true righe GPS=2 scartate=0
   TURNO MANCANTE: 4
-  turni letti=9 non letti=2 -> da verificare
+  turni letti=10 non letti=2 -> da verificare
 -- PO Prato --
-link da Orizzonte Scuola: 14
-totale pagine da controllare: 14
+link da Orizzonte Scuola: 15
+totale pagine da controllare: 15
   scarico https://www.ufficioscolasticoprovinciale.prato.it/wp-content/uploads/2026/08/Bollettino-totale-1-turno-di-nomina-da-GPS-a.s.-2026-27.pdf
     dalla memoria: letto (righe GPS=603)
   data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-08-31
@@ -6365,8 +6603,13 @@ totale pagine da controllare: 14
   data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-11-04
     fasce GPS: F1=0 F2=0
     ok [turno]: calibrato=false righe GPS=0 scartate=0
+  scarico https://www.ufficioscolasticoprovinciale.prato.it/wp-content/uploads/2026/11/bollettino-XV-turno-di-nomina-GPS-a.s.-2026-27.pdf
+  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-11-05
+    fasce GPS: F1=0 F2=1
+    classi GPS (classe:fascia=righe): AM30:F2=1
+    ok [turno]: calibrato=true righe GPS=1 scartate=0
   TURNO MANCANTE: 9
-  turni letti=10 non letti=3 -> da verificare
+  turni letti=11 non letti=3 -> da verificare
 -- SI Siena --
 link da Orizzonte Scuola: 16
 totale pagine da controllare: 16
@@ -6460,8 +6703,8 @@ link da Orizzonte Scuola: 0
 totale pagine da controllare: 0
   turni letti=0 non letti=0 -> da verificare
 -- PG Perugia --
-link da Orizzonte Scuola: 23
-totale pagine da controllare: 23
+link da Orizzonte Scuola: 24
+totale pagine da controllare: 24
   scarico https://istruzione.umbria.it/wp-content/uploads/2026/08/02-Bollettino_TotaleNomine-28.08.2026-pubblicazione.xlsx
     dalla memoria: letto (righe GPS=1425)
   data ricavata dal nome del file: 2026-08-28
@@ -6586,10 +6829,15 @@ totale pagine da controllare: 23
     fasce GPS: F1=3 F2=0
     classi GPS (classe:fascia=righe): A019:F1=1 AM12:F1=1 EEEE:F1=1
     ok [turno]: calibrato=true righe GPS=3 scartate=0
+  scarico https://istruzione.umbria.it/wp-content/uploads/2026/11/22-Bollettino_TotaleNomine-05.11.2026-pubblicazione.xlsx
+  data ricavata dal nome del file: 2026-11-05
+    fasce GPS: F1=1 F2=1
+    classi GPS (classe:fascia=righe): AJ56:F2=1 EEEE:F1=1
+    ok [turno]: calibrato=true righe GPS=2 scartate=0
   turno 3 non trovato, ma ci sono bollettini senza numero nel periodo: non lo conto
   turno 4 non trovato, ma ci sono bollettini senza numero nel periodo: non lo conto
   turno 5 non trovato, ma ci sono bollettini senza numero nel periodo: non lo conto
-  turni letti=15 non letti=1 -> da verificare
+  turni letti=16 non letti=1 -> da verificare
 -- TR Terni --
 link da Orizzonte Scuola: 13
 totale pagine da controllare: 13
@@ -6730,8 +6978,8 @@ totale pagine da controllare: 9
   TURNO MANCANTE: 8
   turni letti=9 non letti=1 -> da verificare
 -- PD Padova --
-link da Orizzonte Scuola: 14
-totale pagine da controllare: 14
+link da Orizzonte Scuola: 15
+totale pagine da controllare: 15
   scartati 1 decreti (non sono bollettini)
   scarico https://padova.istruzioneveneto.gov.it/wp-content/uploads/2026/08/Bollettino-I-turno-supplenze.pdf
     dalla memoria: non letto (righe GPS=0)
@@ -6845,9 +7093,20 @@ totale pagine da controllare: 14
     dalla memoria: non letto (righe GPS=0)
     fasce GPS: F1=0 F2=0
     ok [turno]: calibrato=true righe GPS=0 scartate=6
+  scarico https://padova.istruzioneveneto.gov.it/wp-content/uploads/2026/11/Bollettino-XVI-turno-4.11.2026.pdf
+    OCR: nessuna pagina scansionata nel documento
+  scarico https://padova.istruzioneveneto.gov.it/wp-content/uploads/2026/11/Decreto-approvazione-e-pubblicazione-Bollettino-XVI-Turno-supplenze-04.11.2026.pdf
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+    OCR: nessuna pagina scansionata nel documento
+Warning: TT: undefined function: 21
+  scarico https://padova.istruzioneveneto.gov.it/wp-content/uploads/2026/11/Quadro-generale-delle-disponibilita-XVI-turno.pdf
+    OCR: nessuna pagina scansionata nel documento
+    fasce GPS: F1=0 F2=0
+    ok [turno]: calibrato=true righe GPS=0 scartate=6
   ignorati 7 documenti non leggibili precedenti al primo bollettino letto (2026-10-12)
   TURNO MANCANTE: 6
-  turni letti=4 non letti=4 -> da verificare
+  turni letti=4 non letti=5 -> da verificare
 -- RO Rovigo --
 link da Orizzonte Scuola: 11
 totale pagine da controllare: 11
@@ -7148,19 +7407,19 @@ totale pagine da controllare: 16
   stesso documento già trovato in questo giro, salto: https://usrveneto.sharepoint.com/
   stesso documento già trovato in questo giro, salto: https://vicenza.istruzioneveneto.gov.it/wp-content/uploads/2021/07/Guida_01-feed-reader-outlook.pdf
   nessun PDF utilizzabile in https://vicenza.istruzioneveneto.gov.it/2026/11/04/docenti-individuati-quali-destinatari-per-lanno-scolastico-2026-2027-di-una-proposta-di-stipula-di-contratto-a-tempo-determinato-per-supplenza-turno-del-04-11-2026/
-  pagina senza allegato riconoscibile (363111 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (365153 caratteri); collegamenti a documenti: nessuno
      siti esterni nella pagina: l.facebook.com(9), static.xx.fbcdn.net(3), developers.facebook.com(1)
   nessun PDF o foglio trovato in https://facebook.com/sharer/sharer.php?u=https://www.orizzontescuola.it/supplenze-docenti-ecco-i-bollettini-nomine-al-31-agosto-o-30-giugno-2027-in-aggiornamento/
-  errore su whatsapp://send?text=Supplenze docenti 2026/27: bollettini del 4 novembre [AGGIORNATO]%20https://www.orizzontescuola.it/supplenze-docenti-ecco-i-bollettini-nomine-al-31-agosto-o-30-giugno-2027-in-aggiornamento/ -> fetch failed
-  pagina senza allegato riconoscibile (11350 caratteri); collegamenti a documenti: nessuno
+  errore su whatsapp://send?text=Supplenze docenti 2026/27: bollettini del 5 novembre [AGGIORNATO]%20https://www.orizzontescuola.it/supplenze-docenti-ecco-i-bollettini-nomine-al-31-agosto-o-30-giugno-2027-in-aggiornamento/ -> fetch failed
+  pagina senza allegato riconoscibile (11351 caratteri); collegamenti a documenti: nessuno
      siti esterni nella pagina: nessuno
-  nessun PDF o foglio trovato in https://t.me/share/url?text=Supplenze docenti 2026/27: bollettini del 4 novembre [AGGIORNATO]&url=https://www.orizzontescuola.it/supplenze-docenti-ecco-i-bollettini-nomine-al-31-agosto-o-30-giugno-2027-in-aggiornamento/
-  pagina senza allegato riconoscibile (2654178 caratteri); collegamenti a documenti: nessuno
+  nessun PDF o foglio trovato in https://t.me/share/url?text=Supplenze docenti 2026/27: bollettini del 5 novembre [AGGIORNATO]&url=https://www.orizzontescuola.it/supplenze-docenti-ecco-i-bollettini-nomine-al-31-agosto-o-30-giugno-2027-in-aggiornamento/
+  pagina senza allegato riconoscibile (2911195 caratteri); collegamenti a documenti: nessuno
      siti esterni nella pagina: encrypted-tbn3.gstatic.com(1), www.tiktok.com(1), www.orizzontescuola.it(1)
   non sembra un bollettino, ignoro: https://profile.google.com/cp/Cg0vZy8xMXZrejAweDg1
-  pagina senza allegato riconoscibile (82091 caratteri); collegamenti a documenti: nessuno
-     siti esterni nella pagina: profile.google.com(4), formazione.orizzontescuola.it(3), x.com(2), www.tiktok.com(2), whatsapp.com(2), plus.orizzontescuola.it(2), www.printfriendly.com(2), gmpg.org(1)
-  non sembra un bollettino, ignoro: https://www.orizzontescuola.it/educazione-civica-ricerca-senza-animali-attualita-e-prospettive-per-una-scienza-etica-ed-efficace-webinar-gratuito-con-lav/
+  pagina senza allegato riconoscibile (85979 caratteri); collegamenti a documenti: nessuno
+     siti esterni nella pagina: formazione.orizzontescuola.it(11), profile.google.com(4), x.com(2), www.tiktok.com(2), whatsapp.com(2), plus.orizzontescuola.it(2), www.printfriendly.com(2), gmpg.org(1)
+  non sembra un bollettino, ignoro: https://www.orizzontescuola.it/ata-terza-fascia-2027-ciad-resta-obbligatoria-e-025-punti-in-piu-con-le-certificazioni-eipass-preparati-in-anticipo/
   turni letti=0 non letti=14 -> da verificare
-RIEPILOGO DA VERIFICARE: letti con OCR=0 | zero righe=17 | non letti=125 | turni mancanti=47
+RIEPILOGO DA VERIFICARE: letti con OCR=0 | zero righe=17 | non letti=136 | turni mancanti=50
 Scritto /home/runner/work/atrium/atrium/data/bollettini.json

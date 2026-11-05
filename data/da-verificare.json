@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-05T03:54:46.592Z",
+ "aggiornato": "2026-11-05T13:41:35.254Z",
  "ocr": [],
  "zeroRighe": [
   {
@@ -208,6 +208,27 @@
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
+   "provincia": "RC",
+   "turno": null,
+   "data": "2026-11-05",
+   "url": "https://www.istruzioneatprc.it/aoousprc19102-20261104/",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "PN",
+   "turno": null,
+   "data": "2026-11-04",
+   "url": "https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/ufficio-territoriale-di-pordenone/allegati/Turno-12-Allegato-1.pdf",
+   "nota": "formato non riconosciuto"
+  },
+  {
+   "provincia": "VT",
+   "turno": null,
+   "data": "2026-11-05",
+   "url": "https://www.provveditoratostudiviterbo.it/DOCENTI/2026/Bollettino_TotaleNomine_12_privacy.pdf",
+   "nota": "documento non leggibile"
+  },
+  {
    "provincia": "GE",
    "turno": 1,
    "data": "2026-08-31",
@@ -285,10 +306,10 @@
    "nota": "formato non riconosciuto"
   },
   {
-   "provincia": "SP",
-   "turno": 1,
+   "provincia": "IM",
+   "turno": 8,
    "data": "2026-11-05",
-   "url": "https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---i-turno-as-20262027",
+   "url": "https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps--as-2026-27--vii-turno",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
@@ -397,6 +418,13 @@
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
+   "provincia": "LO",
+   "turno": null,
+   "data": "2026-11-05",
+   "url": "https://www.mim.gov.it/web/lodi/-/individuazione-dei-destinatari-di-contratti-t-d-su-posti-comuni-e-di-sostegno-per-l-a-s-2026-2027-settimo-algoritmo",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
    "provincia": "MB",
    "turno": 2,
    "data": "2026-11-05",
@@ -437,6 +465,13 @@
    "data": "2026-11-05",
    "url": "https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-10",
    "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "MB",
+   "turno": null,
+   "data": "2026-10-29",
+   "url": "https://www.mim.gov.it/documents/9081736/10325740/m_pi.AOOUSPMB.REGISTRO+UFFICIALE%28U%29.0019563.29-10-2026.pdf/5fadb13f-55f1-a085-0139-f8ef43138ba1?version=1.0&t=1793281231377",
+   "nota": "formato non riconosciuto"
   },
   {
    "provincia": "PV",
@@ -516,6 +551,13 @@
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
+   "provincia": "SO",
+   "turno": null,
+   "data": "2026-11-05",
+   "url": "https://www.mim.gov.it/web/sondrio/-/esito-conferimento-nomine-a-tempo-determinato-da-gae-gps-3",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
    "provincia": "VA",
    "turno": null,
    "data": "2026-11-05",
@@ -590,6 +632,13 @@
    "turno": null,
    "data": "2026-11-05",
    "url": "https://www.istruzione-ancona.it/personale-docente-nomine-a-tempo-determinato-46/",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "AN",
+   "turno": null,
+   "data": "2026-11-05",
+   "url": "https://www.istruzione-ancona.it/nomine-a-tempo-determinato-gps-personale-docente_-ust-ancona_a-s-26-27/",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
@@ -677,6 +726,13 @@
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
+   "provincia": "CB",
+   "turno": 7,
+   "data": "2026-11-05",
+   "url": "https://www.mim.gov.it/web/campobasso/-/conferimento-nomine-a-tempo-determinato-su-posti-curriculari-e-di-sostegno-del-personale-docente-gps-a-s-2026-2027-scuola-primaria-secondaria-di-i-e-1",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
    "provincia": "IS",
    "turno": 1,
    "data": "2026-11-05",
@@ -709,6 +765,13 @@
    "turno": 6,
    "data": "2026-09-28",
    "url": "https://www.istruzionepiemonte.it/biella/wp-content/uploads/sites/14/2026/09/Bollettino_TotaleNomine_6turno_28_09_26.pdf",
+   "nota": "formato non riconosciuto"
+  },
+  {
+   "provincia": "BI",
+   "turno": null,
+   "data": "2026-11-03",
+   "url": "https://www.istruzionepiemonte.it/biella/wp-content/uploads/sites/14/2026/11/Bollettino_definitivo_TotaleNomine.pdf",
    "nota": "formato non riconosciuto"
   },
   {
@@ -796,6 +859,13 @@
    "nota": "righe GPS non leggibili: 24"
   },
   {
+   "provincia": "ME",
+   "turno": 6,
+   "data": "2026-11-04",
+   "url": "https://me.usr.sicilia.it/download/2744/28145/28149/bollettino-vi-turno-di-nomine-2.pdf",
+   "nota": "righe GPS non leggibili: 15"
+  },
+  {
    "provincia": "PA",
    "turno": 2,
    "data": "2026-11-05",
@@ -849,6 +919,13 @@
    "turno": null,
    "data": "2026-10-30",
    "url": "https://padova.istruzioneveneto.gov.it/wp-content/uploads/2026/10/Bollettino-XV-turno-30.10.2026.pdf",
+   "nota": "righe GPS non leggibili: 6"
+  },
+  {
+   "provincia": "PD",
+   "turno": null,
+   "data": "2026-11-04",
+   "url": "https://padova.istruzioneveneto.gov.it/wp-content/uploads/2026/11/Bollettino-XVI-turno-4.11.2026.pdf",
    "nota": "righe GPS non leggibili: 6"
   },
   {
@@ -995,7 +1072,7 @@
    "provincia": "VI",
    "turno": null,
    "data": "2026-11-05",
-   "url": "https://t.me/share/url?text=Supplenze docenti 2026/27: bollettini del 4 novembre [AGGIORNATO]&url=https://www.orizzontescuola.it/supplenze-docenti-ecco-i-bollettini-nomine-al-31-agosto-o-30-giugno-2027-in-aggiornamento/",
+   "url": "https://t.me/share/url?text=Supplenze docenti 2026/27: bollettini del 5 novembre [AGGIORNATO]&url=https://www.orizzontescuola.it/supplenze-docenti-ecco-i-bollettini-nomine-al-31-agosto-o-30-giugno-2027-in-aggiornamento/",
    "nota": "nessun PDF o foglio trovato nella pagina"
   }
  ],
@@ -1101,6 +1178,11 @@
    "nota": "bollettino non trovato (si passa dal turno 3 al 5)"
   },
   {
+   "provincia": "IS",
+   "turno": 5,
+   "nota": "bollettino non trovato (si passa dal turno 4 al 6)"
+  },
+  {
    "provincia": "AL",
    "turno": 2,
    "nota": "bollettino non trovato (si passa dal turno 1 al 3)"
@@ -1114,6 +1196,16 @@
    "provincia": "AT",
    "turno": 12,
    "nota": "bollettino non trovato (si passa dal turno 11 al 13)"
+  },
+  {
+   "provincia": "BA",
+   "turno": 9,
+   "nota": "bollettino non trovato (si passa dal turno 8 al 10)"
+  },
+  {
+   "provincia": "NU",
+   "turno": 8,
+   "nota": "bollettino non trovato (si passa dal turno 7 al 9)"
   },
   {
    "provincia": "OR",
@@ -1448,6 +1540,13 @@
    "pagine": 10
   },
   {
+   "provincia": "EN",
+   "turno": 6,
+   "data": "2026-11-05",
+   "url": "https://cl-en.usr.sicilia.it/download/2485/16469/16475/m_pi-aoouspcl-en-registro-ufficialeu-0025641-30-10-2026.pdf",
+   "pagine": 10
+  },
+  {
    "provincia": "ME",
    "turno": 3,
    "data": "2026-11-05",
@@ -1488,6 +1587,13 @@
    "data": "2026-11-05",
    "url": "https://rg.usr.sicilia.it/download/1704/11351/11353/m_pi-aoousprg-registro-ufficialeu-0008182-19-10-2026.pdf",
    "pagine": 2
+  },
+  {
+   "provincia": "RG",
+   "turno": null,
+   "data": "2026-11-05",
+   "url": "https://rg.usr.sicilia.it/download/1740/11557/11560/m_pi-aoousprg-registro-ufficialeu-0008767-04-11-2026.pdf",
+   "pagine": 10
   },
   {
    "provincia": "GR",
