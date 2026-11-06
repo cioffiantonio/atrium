@@ -1,127 +1,7 @@
 {
- "aggiornato": "2026-11-06T03:59:00.961Z",
+ "aggiornato": "2026-11-06T11:37:28.538Z",
  "ocr": [],
- "zeroRighe": [
-  {
-   "provincia": "TE",
-   "turno": null,
-   "data": "2026-11-03",
-   "url": "https://www.csateramo.it/wpusp/wp-content/uploads/2026/11/Bollettino-DEFINITIVO.pdf",
-   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
-  },
-  {
-   "provincia": "GO",
-   "turno": null,
-   "data": "2026-10-15",
-   "url": "https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/ufficio-territoriale-di-gorizia/allegati/Bollettino_TotaleNomine-8.pdf",
-   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
-  },
-  {
-   "provincia": "LC",
-   "turno": null,
-   "data": "2026-10-27",
-   "url": "https://www.mim.gov.it/documents/9081350/10317897/bollettino+I+grado+27_10_2026.pdf/a5da4d8b-3cfc-0006-6a3a-90c5766c8889?version=1.0&t=1793099185153",
-   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
-  },
-  {
-   "provincia": "AL",
-   "turno": 13,
-   "data": "2026-10-23",
-   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/10/Bollettino_TotaleNomine-9.xlsx",
-   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
-  },
-  {
-   "provincia": "AL",
-   "turno": 15,
-   "data": "2026-11-03",
-   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/11/Bollettino_TotaleNomine.xlsx",
-   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
-  },
-  {
-   "provincia": "AT",
-   "turno": 7,
-   "data": "2026-09-29",
-   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/09/Bollettino_TotaleNomine-10.xlsx",
-   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
-  },
-  {
-   "provincia": "AT",
-   "turno": 9,
-   "data": "2026-10-13",
-   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/10/Definitivo_Bollettino_TotaleNomine.xlsx",
-   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
-  },
-  {
-   "provincia": "AT",
-   "turno": 10,
-   "data": "2026-10-15",
-   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/10/Bollettino_TotaleNomine-6.xlsx",
-   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
-  },
-  {
-   "provincia": "AT",
-   "turno": 11,
-   "data": "2026-10-27",
-   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/10/Definitivo_Bollettino_TotaleNomine-1.xlsx",
-   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
-  },
-  {
-   "provincia": "AT",
-   "turno": 13,
-   "data": "2026-11-03",
-   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/11/Definitivo_Bollettino_TotaleNomine.xlsx",
-   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
-  },
-  {
-   "provincia": "VC",
-   "turno": null,
-   "data": "2026-10-07",
-   "url": "https://www.istruzionepiemonte.it/vercelli/wp-content/uploads/sites/7/2026/10/bollettinoDefinitivo.pdf",
-   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
-  },
-  {
-   "provincia": "AR",
-   "turno": 8,
-   "data": "2026-10-20",
-   "url": "https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_8/Bollettino_8_Supplenze_GPS.xlsx",
-   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
-  },
-  {
-   "provincia": "AR",
-   "turno": 9,
-   "data": "2026-10-29",
-   "url": "https://www.arezzoistruzione.it/usparezzo/images/allegati/docenti/nomine/Nomine_TD/2026-27/Bollettino_9/Bollettino_9_Supplenze_GPS.xlsx",
-   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
-  },
-  {
-   "provincia": "GR",
-   "turno": null,
-   "data": "2026-10-22",
-   "url": "https://www.ufficioscolasticogrosseto.it/uff7/attachments/article/5648/BOLLETTINO_TOTALE_NOMINE IX TURNO GPS 2026-27.xlsx",
-   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
-  },
-  {
-   "provincia": "GR",
-   "turno": null,
-   "data": "2026-10-26",
-   "url": "https://www.ufficioscolasticogrosseto.it/uff7/attachments/article/5661/BOLLETTINO_TOTALE_NOMINE X TURNO GPS 2026-27.xlsx",
-   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
-  },
-  {
-   "provincia": "PT",
-   "turno": null,
-   "data": "2026-10-26",
-   "url": "https://www.ufficioscolasticoprovinciale.pistoia.it/wp-content/uploads/2026/10/Bollettino-Totale-nomine-XI-TURNO.xlsx",
-   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
-  },
-  {
-   "provincia": "PO",
-   "turno": null,
-   "data": "2026-10-29",
-   "url": "https://www.ufficioscolasticoprovinciale.prato.it/wp-content/uploads/2026/10/bollettino-XII-turno-di-nomina-GPS.pdf",
-   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
-  }
- ],
+ "zeroRighe": [],
  "nonLetti": [
   {
    "provincia": "FC",
@@ -310,13 +190,6 @@
    "turno": 1,
    "data": "2026-11-06",
    "url": "https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---i-turno-as-20262027",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "SV",
-   "turno": 4,
-   "data": "2026-11-06",
-   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-4",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
@@ -895,7 +768,7 @@
   },
   {
    "provincia": "PO",
-   "turno": null,
+   "turno": 14,
    "data": "2026-11-04",
    "url": "https://www.ufficioscolasticoprovinciale.prato.it/wp-content/uploads/2026/11/Bollettino-totale-XIV-turno-di-nomina-a-tempo-determinato-da-GPS.pdf",
    "nota": "formato non riconosciuto"
@@ -909,87 +782,31 @@
   },
   {
    "provincia": "PD",
-   "turno": null,
+   "turno": 11,
    "data": "2026-10-16",
    "url": "https://padova.istruzioneveneto.gov.it/wp-content/uploads/2026/10/Bollettino-XI-Turno-16-10-2026.pdf",
    "nota": "righe GPS non leggibili: 2"
   },
   {
    "provincia": "PD",
-   "turno": null,
+   "turno": 14,
    "data": "2026-10-27",
    "url": "https://padova.istruzioneveneto.gov.it/wp-content/uploads/2026/10/Bollettino-XIV-turno-27.10.2026.pdf",
    "nota": "righe GPS non leggibili: 1"
   },
   {
    "provincia": "PD",
-   "turno": null,
+   "turno": 15,
    "data": "2026-10-30",
    "url": "https://padova.istruzioneveneto.gov.it/wp-content/uploads/2026/10/Bollettino-XV-turno-30.10.2026.pdf",
    "nota": "righe GPS non leggibili: 6"
   },
   {
    "provincia": "PD",
-   "turno": null,
+   "turno": 16,
    "data": "2026-11-04",
    "url": "https://padova.istruzioneveneto.gov.it/wp-content/uploads/2026/11/Bollettino-XVI-turno-4.11.2026.pdf",
    "nota": "righe GPS non leggibili: 6"
-  },
-  {
-   "provincia": "VE",
-   "turno": 1,
-   "data": "2026-08-31",
-   "url": "https://usrveneto.sharepoint.com/monitoraggi/",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "VE",
-   "turno": 2,
-   "data": "2026-09-11",
-   "url": "https://usrveneto.sharepoint.com/monitoraggi/venezia/",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "VE",
-   "turno": 3,
-   "data": "2026-09-22",
-   "url": "https://usrveneto.sharepoint.com/ds/",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "VE",
-   "turno": 5,
-   "data": "2026-10-06",
-   "url": "https://usrveneto.sharepoint.com/personale/",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "VE",
-   "turno": 6,
-   "data": "2026-10-13",
-   "url": "https://venezia.istruzioneveneto.gov.it/20261013_34527/",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "VE",
-   "turno": 19,
-   "data": "2026-10-19",
-   "url": "https://venezia.istruzioneveneto.gov.it/20261019_34540/",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "VE",
-   "turno": 7,
-   "data": "2026-10-20",
-   "url": "https://venezia.istruzioneveneto.gov.it/20261020_34550/",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "VE",
-   "turno": 8,
-   "data": "2026-10-27",
-   "url": "https://venezia.istruzioneveneto.gov.it/20261027_34565/",
-   "nota": "documento non leggibile"
   },
   {
    "provincia": "VI",
@@ -1280,6 +1097,11 @@
    "nota": "bollettino non trovato (si passa dal turno 8 al 10)"
   },
   {
+   "provincia": "SI",
+   "turno": 11,
+   "nota": "bollettino non trovato (si passa dal turno 10 al 12)"
+  },
+  {
    "provincia": "BL",
    "turno": 8,
    "nota": "bollettino non trovato (si passa dal turno 7 al 9)"
@@ -1288,61 +1110,6 @@
    "provincia": "PD",
    "turno": 6,
    "nota": "bollettino non trovato (si passa dal turno 5 al 7)"
-  },
-  {
-   "provincia": "VE",
-   "turno": 4,
-   "nota": "bollettino non trovato (si passa dal turno 3 al 5)"
-  },
-  {
-   "provincia": "VE",
-   "turno": 9,
-   "nota": "bollettino non trovato (si passa dal turno 8 al 19)"
-  },
-  {
-   "provincia": "VE",
-   "turno": 10,
-   "nota": "bollettino non trovato (si passa dal turno 8 al 19)"
-  },
-  {
-   "provincia": "VE",
-   "turno": 11,
-   "nota": "bollettino non trovato (si passa dal turno 8 al 19)"
-  },
-  {
-   "provincia": "VE",
-   "turno": 12,
-   "nota": "bollettino non trovato (si passa dal turno 8 al 19)"
-  },
-  {
-   "provincia": "VE",
-   "turno": 13,
-   "nota": "bollettino non trovato (si passa dal turno 8 al 19)"
-  },
-  {
-   "provincia": "VE",
-   "turno": 14,
-   "nota": "bollettino non trovato (si passa dal turno 8 al 19)"
-  },
-  {
-   "provincia": "VE",
-   "turno": 15,
-   "nota": "bollettino non trovato (si passa dal turno 8 al 19)"
-  },
-  {
-   "provincia": "VE",
-   "turno": 16,
-   "nota": "bollettino non trovato (si passa dal turno 8 al 19)"
-  },
-  {
-   "provincia": "VE",
-   "turno": 17,
-   "nota": "bollettino non trovato (si passa dal turno 8 al 19)"
-  },
-  {
-   "provincia": "VE",
-   "turno": 18,
-   "nota": "bollettino non trovato (si passa dal turno 8 al 19)"
   }
  ],
  "decretiIgnorati": [
@@ -1623,9 +1390,53 @@
  "pagineSoloDecreti": [
   {
    "provincia": "GE",
-   "turno": null,
+   "turno": 12,
    "data": "2026-11-06",
    "url": "https://www.istruzionegenova.gov.it/pagine/xii-turno-gps---as-2026-2027",
+   "altriLink": [
+    "/pagine/decreto-di-nomina-i-fascia-sostegno-adaa-e-adee---genova",
+    "/pagine/ix-turno-gps---solo-nomina-pppp",
+    "/pagine/personale-educativo---eeee---ii-turno-di-nomina-gps",
+    "/pagine/xix-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xviii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xvii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xvi-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/-xv-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xiv-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xiii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xi-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/x-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/ix-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps"
+   ]
+  },
+  {
+   "provincia": "GE",
+   "turno": 14,
+   "data": "2026-11-06",
+   "url": "https://www.istruzionegenova.gov.it/pagine/xiv-turno-gps---as-2026-2027",
+   "altriLink": [
+    "/pagine/decreto-di-nomina-i-fascia-sostegno-adaa-e-adee---genova",
+    "/pagine/ix-turno-gps---solo-nomina-pppp",
+    "/pagine/personale-educativo---eeee---ii-turno-di-nomina-gps",
+    "/pagine/xix-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xviii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xvii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xvi-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/-xv-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xiv-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xiii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xi-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/x-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/ix-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps"
+   ]
+  },
+  {
+   "provincia": "GE",
+   "turno": 16,
+   "data": "2026-11-06",
+   "url": "https://www.istruzionegenova.gov.it/pagine/xvi-turno-gps---as-2026-2027",
    "altriLink": [
     "/pagine/decreto-di-nomina-i-fascia-sostegno-adaa-e-adee---genova",
     "/pagine/ix-turno-gps---solo-nomina-pppp",
