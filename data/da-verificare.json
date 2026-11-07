@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-07T03:20:00.838Z",
+ "aggiornato": "2026-11-07T10:03:55.194Z",
  "ocr": [],
  "zeroRighe": [],
  "nonLetti": [
@@ -817,80 +817,10 @@
   },
   {
    "provincia": "VI",
-   "turno": 1,
-   "data": "2026-08-31",
-   "url": "https://usrveneto.sharepoint.com/",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "VI",
    "turno": 2,
    "data": "2026-09-10",
-   "url": "https://vicenza.istruzioneveneto.gov.it/wp-content/uploads/2021/07/Guida_01-feed-reader-outlook.pdf",
+   "url": "https://usrveneto.sharepoint.com/",
    "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "VI",
-   "turno": 2,
-   "data": "2026-09-15",
-   "url": "https://vicenza.istruzioneveneto.gov.it/2026/09/15/anno-scolastico-2026-2027-nomine-a-tempo-determinato-per-supplenze-di-ogni-ordine-e-grado-turno-n-2-del-15-09-2026/",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "VI",
-   "turno": 3,
-   "data": "2026-09-24",
-   "url": "https://vicenza.istruzioneveneto.gov.it/2026/09/24/anno-scolastico-2026-2027-nomine-a-tempo-determinato-per-supplenze-di-ogni-ordine-e-grado-turno-n-3-del-24-09-2026/",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "VI",
-   "turno": 4,
-   "data": "2026-10-02",
-   "url": "https://vicenza.istruzioneveneto.gov.it/2026/10/02/docenti-individuati-quali-destinatari-per-lanno-scolastico-2026-2027-di-una-proposta-di-stipula-di-contratto-a-tempo-determinato-per-supplenza-turno-del-02-10-2026/",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "VI",
-   "turno": null,
-   "data": "2026-10-09",
-   "url": "https://vicenza.istruzioneveneto.gov.it/2026/10/09/docenti-individuati-quali-destinatari-per-lanno-scolastico-2026-2027-di-una-proposta-di-stipula-di-contratto-a-tempo-determinato-per-supplenza-turno-del-09-10-2026/",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "VI",
-   "turno": null,
-   "data": "2026-10-14",
-   "url": "https://vicenza.istruzioneveneto.gov.it/2026/10/14/docenti-individuati-quali-destinatari-per-lanno-scolastico-2026-2027-di-una-proposta-di-stipula-di-contratto-a-tempo-determinato-per-supplenza-turno-del-14-10-2026/",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "VI",
-   "turno": null,
-   "data": "2026-10-20",
-   "url": "https://vicenza.istruzioneveneto.gov.it/2026/10/20/docenti-individuati-quali-destinatari-per-lanno-scolastico-2026-2027-di-una-proposta-di-stipula-di-contratto-a-tempo-determinato-per-supplenza-turno-del-20-10-2026/",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "VI",
-   "turno": null,
-   "data": "2026-10-26",
-   "url": "https://vicenza.istruzioneveneto.gov.it/2026/10/26/docenti-individuati-quali-destinatari-per-lanno-scolastico-2026-2027-di-una-proposta-di-stipula-di-contratto-a-tempo-determinato-per-supplenza-turno-del-26-10-2026/",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "VI",
-   "turno": null,
-   "data": "2026-10-30",
-   "url": "https://vicenza.istruzioneveneto.gov.it/2026/10/30/docenti-individuati-quali-destinatari-per-lanno-scolastico-2026-2027-di-una-proposta-di-stipula-di-contratto-a-tempo-determinato-per-supplenza-turno-del-30-10-2026/",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "VI",
-   "turno": null,
-   "data": "2026-11-04",
-   "url": "https://vicenza.istruzioneveneto.gov.it/2026/11/04/docenti-individuati-quali-destinatari-per-lanno-scolastico-2026-2027-di-una-proposta-di-stipula-di-contratto-a-tempo-determinato-per-supplenza-turno-del-04-11-2026/",
-   "nota": "documento non leggibile"
   },
   {
    "provincia": "VI",
@@ -905,6 +835,20 @@
    "data": "2026-11-07",
    "url": "https://t.me/share/url?text=Supplenze docenti 2026/27: bollettini del 5 novembre [AGGIORNATO]&url=https://www.orizzontescuola.it/supplenze-docenti-ecco-i-bollettini-nomine-al-31-agosto-o-30-giugno-2027-in-aggiornamento/",
    "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "VI",
+   "turno": null,
+   "data": "2026-11-07",
+   "url": "https://vicenza.istruzioneveneto.gov.it/category/docenti-nomine-a-tempo-determinato/",
+   "nota": "documento non leggibile"
+  },
+  {
+   "provincia": "VI",
+   "turno": null,
+   "data": "2026-11-07",
+   "url": "https://vicenza.istruzioneveneto.gov.it/category/ata-nomine-a-tempo-determinato/",
+   "nota": "documento non leggibile"
   }
  ],
  "turniMancanti": [
