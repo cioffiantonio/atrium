@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-07T12:14:41.538Z",
+ "aggiornato": "2026-11-07T14:53:26.610Z",
  "ocr": [],
  "zeroRighe": [],
  "nonLetti": [
@@ -250,9 +250,9 @@
   },
   {
    "provincia": "SV",
-   "turno": 8,
+   "turno": 3,
    "data": "2026-11-07",
-   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-8--",
+   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-2-",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
@@ -505,83 +505,6 @@
    "turno": null,
    "data": "2026-11-07",
    "url": "https://www.mim.gov.it/web/varese/-/bollettino-nomine-n-7-relativo-agli-esiti-della-procedura-di-conferimento-degli-incarichi-a-tempo-determinato-da-gps-",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "AN",
-   "turno": null,
-   "data": "2026-11-07",
-   "url": "https://www.istruzione-ancona.it/nomine-a-tempo-determinato/",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "AN",
-   "turno": null,
-   "data": "2026-11-07",
-   "url": "https://www.istruzione-ancona.it/nomine-a-tempo-determinato-a-s-2026-27/",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "AN",
-   "turno": 4,
-   "data": "2026-11-07",
-   "url": "https://www.istruzione-ancona.it/nomine-a-tempo-determinato-a-s-2026-2027-3/",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "AN",
-   "turno": null,
-   "data": "2026-11-07",
-   "url": "https://www.istruzione-ancona.it/nomine-a-tempo-determinato-2026-2027-per-ogni-ordine-e-grado/",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "AN",
-   "turno": 7,
-   "data": "2026-11-07",
-   "url": "https://www.istruzione-ancona.it/nomine-a-tempo-determinato-a-s-2026-2027-4/",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "AN",
-   "turno": null,
-   "data": "2026-11-07",
-   "url": "https://www.istruzione-ancona.it/nomine-a-tempo-determinato-a-s-2026-2027-per-la-scuola-secondaria-di-secondo-grado/",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "AN",
-   "turno": null,
-   "data": "2026-11-07",
-   "url": "https://www.istruzione-ancona.it/nomine-a-tempo-determinato-a-s-2026-2027-per-le-scuola-scuola-secondaria/",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "AN",
-   "turno": null,
-   "data": "2026-11-07",
-   "url": "https://www.istruzione-ancona.it/docenti-di-ogni-ordine-e-grado-nomine-a-tempo-determinato-a-s-2026-2027/",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "AN",
-   "turno": null,
-   "data": "2026-11-07",
-   "url": "https://www.istruzione-ancona.it/personale-docente-nomine-a-tempo-determinato-45/",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "AN",
-   "turno": null,
-   "data": "2026-11-07",
-   "url": "https://www.istruzione-ancona.it/personale-docente-nomine-a-tempo-determinato-46/",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "AN",
-   "turno": null,
-   "data": "2026-11-07",
-   "url": "https://www.istruzione-ancona.it/nomine-a-tempo-determinato-gps-personale-docente_-ust-ancona_a-s-26-27/",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
@@ -954,31 +877,6 @@
    "nota": "bollettino non trovato (si passa dal turno 3 al 5)"
   },
   {
-   "provincia": "AN",
-   "turno": 5,
-   "nota": "bollettino non trovato (si passa dal turno 4 al 7)"
-  },
-  {
-   "provincia": "AN",
-   "turno": 6,
-   "nota": "bollettino non trovato (si passa dal turno 4 al 7)"
-  },
-  {
-   "provincia": "AP",
-   "turno": 4,
-   "nota": "bollettino non trovato (si passa dal turno 3 al 7)"
-  },
-  {
-   "provincia": "AP",
-   "turno": 5,
-   "nota": "bollettino non trovato (si passa dal turno 3 al 7)"
-  },
-  {
-   "provincia": "AP",
-   "turno": 6,
-   "nota": "bollettino non trovato (si passa dal turno 3 al 7)"
-  },
-  {
    "provincia": "PU",
    "turno": 4,
    "nota": "bollettino non trovato (si passa dal turno 3 al 5)"
@@ -1027,11 +925,6 @@
    "provincia": "OR",
    "turno": 6,
    "nota": "bollettino non trovato (si passa dal turno 4 al 7)"
-  },
-  {
-   "provincia": "AR",
-   "turno": 6,
-   "nota": "bollettino non trovato (si passa dal turno 5 al 7)"
   },
   {
    "provincia": "FI",
