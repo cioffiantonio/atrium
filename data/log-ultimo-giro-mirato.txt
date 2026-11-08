@@ -1,6 +1,311 @@
-GIRO MIRATO solo su: MB, LO, PV
+GIRO MIRATO solo su: MB, LO, PV, LC, SO
 Orizzonte Scuola: province trovate nella pagina -> 98
 Province CON link su Orizzonte Scuola: 98 | SENZA link: CH PE FM BT SU CL BZ TN AO
+-- LC Lecco --
+link da Orizzonte Scuola: 17
+totale pagine da controllare: 17
+  prova senza suffisso: .it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-a-s-2026-2027 -> 2 allegati
+  scarico https://www.mim.gov.it/documents/9081350/10317897/m_pi.AOOUSPLC.REGISTRO+UFFICIALE%28U%29.0004706.31-08-2026.pdf/d5ddd3f6-eb13-e5dd-f1d5-07eba6cb556e?version=1.0&t=1788199970096
+    dalla memoria: non letto (righe GPS=0)
+  scarico https://www.mim.gov.it/documents/9081350/10317897/Bollettivo+totale+nomine2627.pdf/cf3d1455-cd2f-30d1-8efa-98fddd85dc0d?version=1.0&t=1788199969554
+    dalla memoria: letto (righe GPS=544)
+  data ricavata dal caricamento dell'allegato: 2026-08-31
+    fasce GPS: F1=350 F2=194
+    classi GPS (classe:fascia=righe): A005:F2=1 A010:F2=1 A011:F1=3 A011:F2=5 A013:F1=2 A013:F2=1 A015:F1=1 A018:F1=3 A019:F1=1 A021:F2=2 A023:F1=3 A023:F2=5 A026:F1=1 A026:F2=5 A027:F1=3 A027:F2=3 A028:F1=9 A028:F2=13 A031:F2=1 A034:F1=1 A037:F1=1 A037:F2=2 A040:F1=1 A040:F2=2 A041:F2=3 A042:F1=1 A042:F2=4 A045:F1=4 A046:F1=2 A047:F1=2 A047:F2=2 A050:F1=7 A050:F2=2 A051:F2=3 A052:F2=1 A053:F1=1 A054:F1=1 A060:F2=5 A064:F1=1 AAAA:F1=8 AB55:F1=1 ADAA:F1=3 ADAA:F2=10 ADEE:F1=2 ADEE:F2=19 ADMM:F1=38 ADMM:F2=17 ADSS:F1=78 AI55:F1=1 AI56:F1=1 AJ55:F1=1 AJ56:F2=2 AK56:F1=2 AM01:F1=4 AM12:F1=26 AM12:F2=2 AM2A:F2=1 AM2B:F1=10 AM2B:F2=2 AM2C:F1=1 AM2D:F1=1 AM30:F1=5 AM30:F2=2 AM48:F1=6 AM56:F2=1 AN56:F1=1 AO55:F2=1 AS01:F1=1 AS12:F1=9 AS2A:F1=3 AS2A:F2=2 AS2B:F1=11 AS2B:F2=1 AS2C:F1=1 AS2D:F1=2 AS30:F1=1 AS48:F1=3 B003:F2=2 B011:F2=2 B012:F1=1 B012:F2=3 B014:F2=3 B015:F1=5 B015:F2=5 B016:F1=3 B016:F2=2 B017:F1=5 B017:F2=1 B021:F2=1 B023:F2=2 BB02:F2=1 EEEE:F1=68 EEEE:F2=29 EEEM:F2=22
+    ok [turno]: calibrato=true righe GPS=544 scartate=0
+  scarico https://www.mim.gov.it/documents/9081350/10317897/m_pi.AOOUSPLC.REGISTRO+UFFICIALE%28U%29.0005042.11-09-2026.pdf/122ec25c-4cda-db75-ee81-0c82b5836858?version=1.0&t=1789140009369
+    dalla memoria: non letto (righe GPS=0)
+  scarico https://www.mim.gov.it/documents/9081350/10317897/Bollettino_TotaleNomine+DEFINITIVO.pdf/8bb282cd-e187-431f-674c-1cfeb0fced3e?version=1.0&t=1789140009207
+    dalla memoria: letto (righe GPS=58)
+  data ricavata dal caricamento dell'allegato: 2026-09-11
+    fasce GPS: F1=23 F2=35
+    classi GPS (classe:fascia=righe): A013:F1=1 A018:F1=1 A028:F2=5 A045:F1=1 A047:F2=1 A050:F2=2 A060:F2=3 AAAA:F1=3 ADSS:F1=8 AM12:F1=3 AM12:F2=4 AM2B:F2=1 AM30:F2=3 AM48:F1=1 AS12:F1=2 AS12:F2=1 AS2A:F2=1 AS2D:F1=1 B003:F2=1 B011:F2=1 B012:F2=2 B015:F2=3 B016:F2=1 B020:F2=1 B021:F2=1 B023:F2=1 EEEE:F1=2 EEEM:F2=3
+    ok [turno]: calibrato=true righe GPS=58 scartate=0
+  prova senza suffisso: erminato-di-scuola-secondaria-di-secondo-grado-a-s-2026-2027-secondo-scorrimento -> 2 allegati
+  scarico https://www.mim.gov.it/documents/9081350/10317897/m_pi.AOOUSPLC.REGISTRO+UFFICIALE%28U%29.0005140.16-09-2026.pdf/756ecc82-169f-93fc-065e-a4d28df67ed2?version=1.0&t=1789552898041
+    dalla memoria: non letto (righe GPS=0)
+  scarico https://www.mim.gov.it/documents/9081350/10317897/Bollettino_totale_nomine+DEFINITIVO.pdf/f1bc8f2d-a19e-57ca-4394-35ba2d0053b5?version=1.0&t=1789552897886
+    dalla memoria: letto (righe GPS=16)
+  data ricavata dal caricamento dell'allegato: 2026-09-16
+    fasce GPS: F1=2 F2=14
+    classi GPS (classe:fascia=righe): A045:F2=1 A046:F1=1 A047:F2=1 A050:F2=1 ADSS:F1=1 ADSS:F2=1 AS12:F2=1 B003:F2=1 B011:F2=1 B012:F2=2 B015:F2=2 B016:F2=1 B020:F2=1 B021:F2=1
+    ok [turno]: calibrato=true righe GPS=16 scartate=0
+  prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-secondaria-di-primo-grado-secondo-scorrimento-e-di-secondo-grado-terzo-scorrimento-a-s-
+        browser: titolo pagina "Reclutamento personale docente a tempo determinato di scuola secondaria di primo"
+  prova con il browser: 0 allegati
+     diagnosi pagina: 177 link totali, 0 verso documenti/allegati
+     riquadri incorporati: 0
+     link a possibili pagine dei turni: 0
+     link ad atti/albo/scarica: 5
+       @ https://www.mim.gov.it/web/lecco/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_ | Aprile
+       @ https://www.mim.gov.it/web/lecco/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_ | Aprile
+       @ https://www.mim.gov.it/web/lecco/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_ | Aprile
+       @ https://www.mim.gov.it/web/lecco/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_ | Aprile
+       @ reclutamento-personale-docente-a-tempo-determinato-di-scuola-secondaria-di-primo-grado-secondo-scorrimento-e-di-secondo- | Pubblicazione Albo n. 101/2026
+        browser: titolo pagina "Reclutamento personale docente a tempo determinato di scuola secondaria di primo"
+     seguo "Pubblicazione Albo n. 101/2026" -> 2 allegati (-grado-secondo-scorrimento-e-di-secondo-grado-terzo-scorrimento-a-s-20)
+       + CIALE%28U%29.0005190.18-09-2026.pdf/077f938b-ab50-dc66-c2a4-31cb4aab7970?version=1.0&t=1789732660870 | 
+       + lettino_totalenomine_DEFINITIVO.pdf/046141fd-fa54-e60a-a4cd-90fa3539420f?version=1.0&t=1789732660728 | 
+     blocco anti-robot nel testo: false
+  scarico https://www.mim.gov.it/documents/9081350/10317897/m_pi.AOOUSPLC.REGISTRO+UFFICIALE%28U%29.0005190.18-09-2026.pdf/077f938b-ab50-dc66-c2a4-31cb4aab7970?version=1.0&t=1789732660870
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+    OCR: nessuna pagina scansionata nel documento
+Warning: TT: undefined function: 21
+  scarico https://www.mim.gov.it/documents/9081350/10317897/Bollettino_totalenomine_DEFINITIVO.pdf/046141fd-fa54-e60a-a4cd-90fa3539420f?version=1.0&t=1789732660728
+  data ricavata dal caricamento dell'allegato: 2026-09-18
+    fasce GPS: F1=1 F2=9
+    classi GPS (classe:fascia=righe): A028:F2=4 A060:F2=1 ADSS:F1=1 AS12:F2=1 B003:F2=1 B011:F2=1 B016:F2=1
+    ok [turno]: calibrato=true righe GPS=10 scartate=0
+  nessun PDF o foglio trovato in https://www.mim.gov.it/web/lecco/-/titolo-rettifica-nomine-a-tempo-determinato-a-s-2026-27-personale-docente-di-scuola-dell-infanzia-
+  prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-secondo-scorrimento-secondaria-di-primo-grado-terzo-scorrimento-e-di-seco
+        browser: titolo pagina "Reclutamento personale docente a tempo determinato di scuola dell'infanzia SECON"
+  prova con il browser: 0 allegati
+     diagnosi pagina: 177 link totali, 0 verso documenti/allegati
+     riquadri incorporati: 0
+     link a possibili pagine dei turni: 0
+     link ad atti/albo/scarica: 5
+       @ https://www.mim.gov.it/web/lecco/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_ | Aprile
+       @ https://www.mim.gov.it/web/lecco/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_ | Aprile
+       @ https://www.mim.gov.it/web/lecco/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_ | Aprile
+       @ https://www.mim.gov.it/web/lecco/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_ | Aprile
+       @ reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-secondo-scorrimento-secondaria-di-primo-grado | Pubblicazione Albo n. 103/2026
+        browser: titolo pagina "Reclutamento personale docente a tempo determinato di scuola dell'infanzia SECON"
+     seguo "Pubblicazione Albo n. 103/2026" -> 2 allegati (do-scorrimento-secondaria-di-primo-grado-terzo-scorrimento-e-di-second)
+       + CIALE%28U%29.0005249.22-09-2026.pdf/6b9accf3-7e96-095e-4bcd-e4b438790fd1?version=1.0&t=1790084770764 | 
+       + ettino_totale_nomine_DEFINITIVO.pdf/a71fc2ef-40d3-1b64-b3b8-a45ce74252d3?version=1.0&t=1790084770560 | 
+     blocco anti-robot nel testo: false
+  scarico https://www.mim.gov.it/documents/9081350/10317897/m_pi.AOOUSPLC.REGISTRO+UFFICIALE%28U%29.0005249.22-09-2026.pdf/6b9accf3-7e96-095e-4bcd-e4b438790fd1?version=1.0&t=1790084770764
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+    OCR: nessuna pagina scansionata nel documento
+Warning: TT: undefined function: 21
+  scarico https://www.mim.gov.it/documents/9081350/10317897/Bollettino_totale_nomine_DEFINITIVO.pdf/a71fc2ef-40d3-1b64-b3b8-a45ce74252d3?version=1.0&t=1790084770560
+  data ricavata dal caricamento dell'allegato: 2026-09-22
+    fasce GPS: F1=2 F2=9
+    classi GPS (classe:fascia=righe): A028:F2=3 AAAA:F1=2 ADAA:F2=1 AJ56:F2=1 AS12:F2=1 B011:F2=1 B012:F2=2
+    ok [turno]: calibrato=true righe GPS=11 scartate=0
+  prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-terzo-scorrimento-secondaria-di-primo-grado-quarto-scorrimento-e-di-secon
+        browser: titolo pagina "Reclutamento personale docente a tempo determinato di scuola dell'infanzia TERZO"
+  prova con il browser: 0 allegati
+     diagnosi pagina: 177 link totali, 0 verso documenti/allegati
+     riquadri incorporati: 0
+     link a possibili pagine dei turni: 0
+     link ad atti/albo/scarica: 5
+       @ https://www.mim.gov.it/web/lecco/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_ | Aprile
+       @ https://www.mim.gov.it/web/lecco/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_ | Aprile
+       @ https://www.mim.gov.it/web/lecco/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_ | Aprile
+       @ https://www.mim.gov.it/web/lecco/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_ | Aprile
+       @ reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-terzo-scorrimento-secondaria-di-primo-grado-q | Pubblicazione Albo n. 105/2026
+        browser: titolo pagina "Reclutamento personale docente a tempo determinato di scuola dell'infanzia TERZO"
+     seguo "Pubblicazione Albo n. 105/2026" -> 2 allegati (-scorrimento-secondaria-di-primo-grado-quarto-scorrimento-e-di-secondo)
+       + CIALE%28U%29.0005304.25-09-2026.pdf/89a92998-27f5-587d-d083-85c9128cf2a4?version=1.0&t=1790326749331 | 
+       + TotaleNomine+DEFINITIVO+%281%29.pdf/8a78e5bf-1afa-722f-c014-c70e9565367b?version=1.0&t=1790326749033 | 
+     blocco anti-robot nel testo: false
+  scarico https://www.mim.gov.it/documents/9081350/10317897/m_pi.AOOUSPLC.REGISTRO+UFFICIALE%28U%29.0005304.25-09-2026.pdf/89a92998-27f5-587d-d083-85c9128cf2a4?version=1.0&t=1790326749331
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+    OCR: nessuna pagina scansionata nel documento
+Warning: TT: undefined function: 21
+  scarico https://www.mim.gov.it/documents/9081350/10317897/Bollettino_TotaleNomine+DEFINITIVO+%281%29.pdf/8a78e5bf-1afa-722f-c014-c70e9565367b?version=1.0&t=1790326749033
+  data ricavata dal caricamento dell'allegato: 2026-09-25
+    fasce GPS: F1=1 F2=5
+    classi GPS (classe:fascia=righe): A028:F2=1 AAAA:F1=1 AS12:F2=1 B012:F2=2 B015:F2=1
+    ok [turno]: calibrato=true righe GPS=6 scartate=0
+  scarico https://www.mim.gov.it/documents/9081350/10317897/m_pi.AOOUSPLC.REGISTRO+UFFICIALE%28U%29.0005366.29-09-2026.pdf/2910f517-6ab6-0b91-2185-ecf1f5b2c53b?version=1.0&t=1790679220449
+    dalla memoria: non letto (righe GPS=0)
+  scarico https://www.mim.gov.it/documents/9081350/10317897/Bollettino_totalenomine_DEFINITIVO+%281%29.pdf/8cec0993-5e59-744b-6cdf-2563d307d540?version=1.0&t=1790679220211
+    dalla memoria: letto (righe GPS=3)
+  data ricavata dal caricamento dell'allegato: 2026-09-29
+    fasce GPS: F1=1 F2=2
+    classi GPS (classe:fascia=righe): A060:F2=1 AAAA:F1=1 AS12:F2=1
+    ok [turno]: calibrato=true righe GPS=3 scartate=0
+  prova senza suffisso: infanzia-quinto-scorrimento-e-di-secondo-grado-settimo-scorrimento-a-s-2026-2027 -> 2 allegati
+  scarico https://www.mim.gov.it/documents/9081350/10317897/m_pi.AOOUSPLC.REGISTRO+UFFICIALE%28U%29.0005475.02-10-2026.pdf/72bd96ee-46e7-8d24-27c6-984ab5b8fda3?version=1.0&t=1790951877929
+    dalla memoria: non letto (righe GPS=0)
+  scarico https://www.mim.gov.it/documents/9081350/10317897/bollettino+totale+nomine+a.s.26_27_AA_SS.pdf/d0c95c72-c4a4-9611-9cf5-cb49c83fb877?version=1.0&t=1790951877725
+    dalla memoria: letto (righe GPS=4)
+  data ricavata dal caricamento dell'allegato: 2026-10-02
+    fasce GPS: F1=3 F2=1
+    classi GPS (classe:fascia=righe): A054:F1=1 AAAA:F1=2 B015:F2=1
+    ok [turno]: calibrato=true righe GPS=4 scartate=0
+  prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-e-secondaria-di-primo-grado-sesto-scorrimento-e-di-scuola-secondaria-di-s
+        browser: titolo pagina "Reclutamento personale docente a tempo determinato di scuola dell'infanzia e sec"
+  prova con il browser: 0 allegati
+     diagnosi pagina: 177 link totali, 0 verso documenti/allegati
+     riquadri incorporati: 0
+     link a possibili pagine dei turni: 0
+     link ad atti/albo/scarica: 5
+       @ https://www.mim.gov.it/web/lecco/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_ | Aprile
+       @ https://www.mim.gov.it/web/lecco/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_ | Aprile
+       @ https://www.mim.gov.it/web/lecco/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_ | Aprile
+       @ https://www.mim.gov.it/web/lecco/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_ | Aprile
+       @ reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-e-secondaria-di-primo-grado-sesto-scorrimento | Pubblicazione Albo n. 114/2026
+        browser: titolo pagina "Reclutamento personale docente a tempo determinato di scuola dell'infanzia e sec"
+     seguo "Pubblicazione Albo n. 114/2026" -> 2 allegati (ondaria-di-primo-grado-sesto-scorrimento-e-di-scuola-secondaria-di-sec)
+       + CIALE%28U%29.0005544.06-10-2026.pdf/4fc192b5-0b12-105d-e8db-0e5a9e0557f4?version=1.0&t=1791283665459 | 
+       + lettino_Totalenomine_DEFINITIVO.pdf/a0a47351-b4c8-874e-9821-9c9ce0f909b2?version=1.0&t=1791283665274 | 
+     blocco anti-robot nel testo: false
+  scarico https://www.mim.gov.it/documents/9081350/10317897/m_pi.AOOUSPLC.REGISTRO+UFFICIALE%28U%29.0005544.06-10-2026.pdf/4fc192b5-0b12-105d-e8db-0e5a9e0557f4?version=1.0&t=1791283665459
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+    OCR: nessuna pagina scansionata nel documento
+Warning: TT: undefined function: 21
+  scarico https://www.mim.gov.it/documents/9081350/10317897/Bollettino_Totalenomine_DEFINITIVO.pdf/a0a47351-b4c8-874e-9821-9c9ce0f909b2?version=1.0&t=1791283665274
+  data ricavata dal caricamento dell'allegato: 2026-10-06
+    fasce GPS: F1=1 F2=3
+    classi GPS (classe:fascia=righe): A054:F2=1 AAAA:F1=1 AM30:F2=1 B015:F2=1
+    ok [turno]: calibrato=true righe GPS=4 scartate=0
+  prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-settimo-scorrimento-e-di-scuola-secondaria-di-secondo-grado-nono-scorrime
+        browser: titolo pagina "Reclutamento personale docente a tempo determinato di scuola dell'infanzia SETTI"
+  prova con il browser: 0 allegati
+     diagnosi pagina: 177 link totali, 0 verso documenti/allegati
+     riquadri incorporati: 0
+     link a possibili pagine dei turni: 0
+     link ad atti/albo/scarica: 5
+       @ https://www.mim.gov.it/web/lecco/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_ | Aprile
+       @ https://www.mim.gov.it/web/lecco/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_ | Aprile
+       @ https://www.mim.gov.it/web/lecco/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_ | Aprile
+       @ https://www.mim.gov.it/web/lecco/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_ | Aprile
+       @ reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-settimo-scorrimento-e-di-scuola-secondaria-di | Pubblicazione Albo n. 119/2026
+        browser: titolo pagina "Reclutamento personale docente a tempo determinato di scuola dell'infanzia SETTI"
+     seguo "Pubblicazione Albo n. 119/2026" -> 2 allegati (mo-scorrimento-e-di-scuola-secondaria-di-secondo-grado-nono-scorriment)
+       + CIALE%28U%29.0005626.09-10-2026.pdf/bfd69c16-a869-054b-070b-420c1e4ed300?version=1.0&t=1791543424478 | 
+       + totalenomine_DEFINITIVO+%282%29.pdf/ce74749d-aaf4-7f24-8912-024f9395e564?version=1.0&t=1791543424222 | 
+     blocco anti-robot nel testo: false
+  scarico https://www.mim.gov.it/documents/9081350/10317897/m_pi.AOOUSPLC.REGISTRO+UFFICIALE%28U%29.0005626.09-10-2026.pdf/bfd69c16-a869-054b-070b-420c1e4ed300?version=1.0&t=1791543424478
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+    OCR: nessuna pagina scansionata nel documento
+Warning: TT: undefined function: 21
+  scarico https://www.mim.gov.it/documents/9081350/10317897/Bollettino_totalenomine_DEFINITIVO+%282%29.pdf/ce74749d-aaf4-7f24-8912-024f9395e564?version=1.0&t=1791543424222
+  data ricavata dal caricamento dell'allegato: 2026-10-09
+    fasce GPS: F1=1 F2=2
+    classi GPS (classe:fascia=righe): A054:F2=1 AAAA:F1=1 B015:F2=1
+    ok [turno]: calibrato=true righe GPS=3 scartate=0
+  prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-e-secondaria-di-primo-grado-nono-scorrimento-nonche-di-scuola-secondaria-
+        browser: titolo pagina "Reclutamento personale docente a tempo determinato di scuola dell'infanzia e sec"
+  prova con il browser: 0 allegati
+     diagnosi pagina: 177 link totali, 0 verso documenti/allegati
+     riquadri incorporati: 0
+     link a possibili pagine dei turni: 0
+     link ad atti/albo/scarica: 5
+       @ https://www.mim.gov.it/web/lecco/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_ | Aprile
+       @ https://www.mim.gov.it/web/lecco/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_ | Aprile
+       @ https://www.mim.gov.it/web/lecco/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_ | Aprile
+       @ https://www.mim.gov.it/web/lecco/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_ | Aprile
+       @ reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-e-secondaria-di-primo-grado-nono-scorrimento- | Pubblicazione Albo n. 129/2026
+        browser: titolo pagina "Reclutamento personale docente a tempo determinato di scuola dell'infanzia e sec"
+     seguo "Pubblicazione Albo n. 129/2026" -> 2 allegati (ondaria-di-primo-grado-nono-scorrimento-nonche-di-scuola-secondaria-di)
+       + CIALE%28U%29.0005777.16-10-2026.pdf/89ee61d8-a9fe-3025-91d4-8924dce2146a?version=1.0&t=1792154486785 | 
+       + totalenomine_DEFINITIVO+%284%29.pdf/40b4da36-0c33-62f6-965a-8b898bcdcbca?version=1.0&t=1792154486667 | 
+     blocco anti-robot nel testo: false
+  scarico https://www.mim.gov.it/documents/9081350/10317897/m_pi.AOOUSPLC.REGISTRO+UFFICIALE%28U%29.0005777.16-10-2026.pdf/89ee61d8-a9fe-3025-91d4-8924dce2146a?version=1.0&t=1792154486785
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+    OCR: nessuna pagina scansionata nel documento
+Warning: TT: undefined function: 21
+  scarico https://www.mim.gov.it/documents/9081350/10317897/Bollettino_totalenomine_DEFINITIVO+%284%29.pdf/40b4da36-0c33-62f6-965a-8b898bcdcbca?version=1.0&t=1792154486667
+  data ricavata dal caricamento dell'allegato: 2026-10-16
+    fasce GPS: F1=1 F2=1
+    classi GPS (classe:fascia=righe): AAAA:F1=1 B015:F2=1
+    ok [turno]: calibrato=true righe GPS=2 scartate=0
+  prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-e-secondaria-di-primo-grado-decimo-scorrimento-nonche-di-scuola-secondari
+        browser: titolo pagina "Reclutamento personale docente a tempo determinato di scuola dell'infanzia e sec"
+  prova con il browser: 0 allegati
+     diagnosi pagina: 177 link totali, 0 verso documenti/allegati
+     riquadri incorporati: 0
+     link a possibili pagine dei turni: 0
+     link ad atti/albo/scarica: 5
+       @ https://www.mim.gov.it/web/lecco/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_ | Aprile
+       @ https://www.mim.gov.it/web/lecco/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_ | Aprile
+       @ https://www.mim.gov.it/web/lecco/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_ | Aprile
+       @ https://www.mim.gov.it/web/lecco/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_ | Aprile
+       @ reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-e-secondaria-di-primo-grado-decimo-scorriment | Pubblicazione Albo n. 130/2026
+        browser: titolo pagina "Reclutamento personale docente a tempo determinato di scuola dell'infanzia e sec"
+     seguo "Pubblicazione Albo n. 130/2026" -> 2 allegati (ondaria-di-primo-grado-decimo-scorrimento-nonche-di-scuola-secondaria-)
+       + totalenomine_DEFINITIVO+%285%29.pdf/9d92b720-297c-a58d-dabf-ab42de944d87?version=1.0&t=1792489873230 | 
+       + CIALE%28U%29.0005825.20-10-2026.pdf/e935eb5c-367b-e8a9-679a-e4d018ad1b73?version=1.0&t=1792489873420 | 
+     blocco anti-robot nel testo: false
+  scarico https://www.mim.gov.it/documents/9081350/10317897/Bollettino_totalenomine_DEFINITIVO+%285%29.pdf/9d92b720-297c-a58d-dabf-ab42de944d87?version=1.0&t=1792489873230
+  data ricavata dal caricamento dell'allegato: 2026-10-20
+    fasce GPS: F1=1 F2=1
+    classi GPS (classe:fascia=righe): AAAA:F1=1 B015:F2=1
+    ok [turno]: calibrato=true righe GPS=2 scartate=0
+  prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-secondaria-di-primo-grado-undicesimo-scorrimento-e-di-scuola-secondaria-di-secondo-grad
+        browser: titolo pagina "Reclutamento personale docente a tempo determinato di scuola secondaria di primo"
+  prova con il browser: 0 allegati
+     diagnosi pagina: 177 link totali, 0 verso documenti/allegati
+     riquadri incorporati: 0
+     link a possibili pagine dei turni: 1
+       > /web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-secondaria-di-primo-grado-undicesimo-scorrimento-e-di-sc | Pubblicazione Albo n. 132/2026
+     link ad atti/albo/scarica: 5
+       @ https://www.mim.gov.it/web/lecco/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_ | Aprile
+       @ https://www.mim.gov.it/web/lecco/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_ | Aprile
+       @ https://www.mim.gov.it/web/lecco/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_ | Aprile
+       @ https://www.mim.gov.it/web/lecco/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_ | Aprile
+       @ https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-secondaria-di-primo-grad | Pubblicazione Albo n. 132/2026
+        browser: titolo pagina "Reclutamento personale docente a tempo determinato di scuola secondaria di primo"
+     seguo "Pubblicazione Albo n. 132/2026" -> 2 allegati (-grado-undicesimo-scorrimento-e-di-scuola-secondaria-di-secondo-grado-)
+       + CIALE%28U%29.0005886.23-10-2026.pdf/80ef3b1a-c8b4-c0b0-ec7c-7e594d00dad2?version=1.0&t=1792751157468 | 
+       + totalenomine_DEFINITIVO+%286%29.pdf/3aad4243-7887-b2da-fee4-e664b849d151?version=1.0&t=1792751157319 | 
+     blocco anti-robot nel testo: false
+  scarico https://www.mim.gov.it/documents/9081350/10317897/m_pi.AOOUSPLC.REGISTRO+UFFICIALE%28U%29.0005886.23-10-2026.pdf/80ef3b1a-c8b4-c0b0-ec7c-7e594d00dad2?version=1.0&t=1792751157468
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+    OCR: nessuna pagina scansionata nel documento
+Warning: TT: undefined function: 21
+  scarico https://www.mim.gov.it/documents/9081350/10317897/Bollettino_totalenomine_DEFINITIVO+%286%29.pdf/3aad4243-7887-b2da-fee4-e664b849d151?version=1.0&t=1792751157319
+    OCR: nessuna pagina scansionata nel documento
+  documento di tipo decreto, non è un bollettino: ignoro 6.pdf/80ef3b1a-c8b4-c0b0-ec7c-7e594d00dad2?version=1.0&t=1792751157468
+  prova senza suffisso: rminato-di-scuola-secondaria-di-primo-grado-dodicesimo-scorrimento-a-s-2026-2027 -> 2 allegati
+  scarico https://www.mim.gov.it/documents/9081350/10317897/bollettino+I+grado+27_10_2026.pdf/a5da4d8b-3cfc-0006-6a3a-90c5766c8889?version=1.0&t=1793099185153
+    dalla memoria: non letto (righe GPS=0)
+  scarico https://www.mim.gov.it/documents/9081350/10317897/m_pi.AOOUSPLC.REGISTRO+UFFICIALE%28U%29.0005944.27-10-2026.pdf/0cc9150b-636c-3bf3-eaff-bd90fff39d52?version=1.0&t=1793099185313
+    dalla memoria: non letto (righe GPS=0)
+  data ricavata dal caricamento dell'allegato: 2026-10-27
+    nessuna riga GPS, ma 1 righe di altri tipi (GUI/GAE): bollettino letto, senza nomine GPS
+    fasce GPS: F1=0 F2=0
+    ok [turno]: calibrato=true righe GPS=0 scartate=0
+  prova senza suffisso: minato-di-scuola-secondaria-di-primo-grado-tredicesimo-scorrimento-a-s-2026-2027 -> 2 allegati
+  scarico https://www.mim.gov.it/documents/9081350/10317897/m_pi.AOOUSPLC.REGISTRO+UFFICIALE%28U%29.0006014.30-10-2026.pdf/6862c7da-7888-e0e8-f574-2c14923bd4cd?version=1.0&t=1793353011931
+    dalla memoria: non letto (righe GPS=0)
+  scarico https://www.mim.gov.it/documents/9081350/10317897/Bollettino+TotaleNomine_30.10.2026.pdf/c1d106df-cf33-e1e6-4f28-7e6c3ba924fd?version=1.0&t=1793353011791
+    dalla memoria: letto (righe GPS=1)
+  data ricavata dal caricamento dell'allegato: 2026-10-30
+    fasce GPS: F1=0 F2=1
+    classi GPS (classe:fascia=righe): AM12:F2=1
+    ok [turno]: calibrato=true righe GPS=1 scartate=0
+  prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-undicesimo-scorrimento-secondaria-di-primo-e-di-secondo-grado-quattordice
+        browser: titolo pagina "Reclutamento personale docente a tempo determinato di scuola dell'infanzia UNDIC"
+  prova con il browser: 0 allegati
+     diagnosi pagina: 178 link totali, 0 verso documenti/allegati
+     riquadri incorporati: 0
+     link a possibili pagine dei turni: 1
+       > /web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-undicesimo-scorrimento-secondaria-di-primo | Il documento è acquisito al n. Protocollo AOO USPL
+     link ad atti/albo/scarica: 5
+       @ https://www.mim.gov.it/web/lecco/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_ | Aprile
+       @ https://www.mim.gov.it/web/lecco/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_ | Aprile
+       @ https://www.mim.gov.it/web/lecco/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_ | Aprile
+       @ https://www.mim.gov.it/web/lecco/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_ | Aprile
+       @ https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-undicesimo | Pubblicazione Albo n. 137/2026
+        browser: titolo pagina "Reclutamento personale docente a tempo determinato di scuola dell'infanzia UNDIC"
+     seguo "Pubblicazione Albo n. 137/2026" -> 2 allegati (esimo-scorrimento-secondaria-di-primo-e-di-secondo-grado-quattordicesi)
+       + CIALE%28U%29.0006075.03-11-2026.pdf/58663d08-ae73-7776-66af-411acfc2b7df?version=1.0&t=1793715076371 | 
+       + totalenomine_DEFINITIVO+%287%29.pdf/8737b07a-38e4-c44e-0cdc-0c99ac27ce2b?version=1.0&t=1793715076226 | 
+     blocco anti-robot nel testo: false
+  scarico https://www.mim.gov.it/documents/9081350/10317897/m_pi.AOOUSPLC.REGISTRO+UFFICIALE%28U%29.0006075.03-11-2026.pdf/58663d08-ae73-7776-66af-411acfc2b7df?version=1.0&t=1793715076371
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+    OCR: nessuna pagina scansionata nel documento
+Warning: TT: undefined function: 21
+  scarico https://www.mim.gov.it/documents/9081350/10317897/Bollettino_totalenomine_DEFINITIVO+%287%29.pdf/8737b07a-38e4-c44e-0cdc-0c99ac27ce2b?version=1.0&t=1793715076226
+  data ricavata dal caricamento dell'allegato: 2026-11-03
+    fasce GPS: F1=2 F2=4
+    classi GPS (classe:fascia=righe): A011:F2=1 ADSS:F1=2 ADSS:F2=3
+    ok [turno]: calibrato=true righe GPS=6 scartate=0
+  turno 3 non trovato, ma ci sono bollettini senza numero nel periodo: non lo conto
+  turni letti=15 non letti=0 -> provincia completa
 -- LO Lodi --
 link da Orizzonte Scuola: 8
 totale pagine da controllare: 8
@@ -24,14 +329,21 @@ totale pagine da controllare: 8
        @ https://www.mim.gov.it/web/lodi/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_s | Aprile
        @ https://www.mim.gov.it/web/lodi/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_s | Aprile
        @ https://www.mim.gov.it/web/lodi/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_s | Aprile
+        browser: titolo pagina "Decreto pubblicazione elenco individuazione dei destinatari della proposta di st"
+     seguo "Pubblicato atto n. 76/2026" -> 2 allegati (ipula-di-contratto-a-tempo-determinato-per-l-a-s-2026-2027-inseriti--1)
+       + CRETI%28R%29.0000457.11-09-2026.pdf/f7853573-1c30-5c71-2318-289828e00d90?version=1.0&t=1789127258834 | 
+       + llettino+definitivo+2+algoritmo.pdf/4e09505f-f38a-69da-6ce8-f59d1bba5acf?version=1.0&t=1789127339949 | 
      blocco anti-robot nel testo: false
      testo: elle graduatorie Provinciali di Supplenza Lodi e provincia. Bollettino 2 - Individuazione dei destinatari della proposta di stipula di contratto a te
      testo: elle graduatorie Provinciali di Supplenza Lodi e provincia. Bollettino 2 - Lodi - MIM WebFontConfig = { custom : { families : [ "titillium_black", "t
      testo: elle graduatorie Provinciali di Supplenza Lodi e provincia. Bollettino 2 Individuazione dei destinatari della proposta di stipula di contratto a temp
      testo: elle graduatorie Provinciali di Supplenza Lodi e provincia. Bollettino 2 Venerdì, 11 settembre 2026 Pubblicato atto n. 76/2026 Data Scadenza: 30 sett
-  pagina senza allegato riconoscibile (110281 caratteri); collegamenti a documenti: nessuno
-     siti esterni nella pagina: www.lombardia.istruzione.it(1)
-  nessun PDF o foglio trovato in https://www.mim.gov.it/web/lodi/-/individuazione-dei-destinatari-della-proposta-di-stipula-di-contratto-a-tempo-determinato-per-l-a-s-2026-2027-inseriti-nelle-graduatorie-provinciali-d
+  scartati 1 decreti (non sono bollettini)
+  scarico https://www.mim.gov.it/documents/9081432/0/Bollettino+definitivo+2+algoritmo.pdf/4e09505f-f38a-69da-6ce8-f59d1bba5acf?version=1.0&t=1789127339949
+  data ricavata dal caricamento dell'allegato: 2026-09-11
+    fasce GPS: F1=24 F2=45
+    classi GPS (classe:fascia=righe): A011:F1=1 A015:F2=1 A020:F2=1 A021:F2=1 A028:F2=6 A031:F2=1 A045:F2=2 A046:F1=2 A046:F2=5 A047:F2=1 A050:F2=1 A060:F2=4 ADSS:F1=19 AM01:F2=1 AM12:F2=5 AM2B:F2=2 AM30:F2=1 AS12:F2=1 AS2B:F2=2 AS48:F1=1 AS48:F2=1 B003:F2=1 B011:F2=1 B012:F2=1 B015:F2=1 B016:F2=2 B017:F2=2 EEEE:F1=1 PPPP:F2=1
+    ok [turno]: calibrato=true righe GPS=69 scartate=0
         browser: titolo pagina "Individuazione dei destinatari di contratti T.D. su posti comuni e di sostegno p"
   prova con il browser: 0 allegati
      diagnosi pagina: 182 link totali, 0 verso documenti/allegati
@@ -45,10 +357,17 @@ totale pagine da controllare: 8
        @ https://www.mim.gov.it/web/lodi/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_s | Aprile
        @ https://www.mim.gov.it/web/lodi/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_s | Aprile
        @ https://www.mim.gov.it/web/lodi/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_s | Aprile
+        browser: titolo pagina "Decreto di pubblicazione dell'individuazione dei destinatari di contratti T.D. s"
+     seguo "Pubblicato atto n. 80/2026" -> 2 allegati (atti-t-d-su-posti-comuni-e-di-sostegno-per-l-a-s-2026-2027-3-algoritmo)
+       + CRETI%28R%29.0000476.25-09-2026.pdf/692d5f29-85f0-1ca0-bdc9-2a0e3b381e6e?version=1.0&t=1790333563775 | 
+       + llettino+definitivo_3+algoritmo.pdf/6943f8f5-a63a-e97a-5aef-e635ca42ed17?version=1.0&t=1790333681455 | 
      blocco anti-robot nel testo: false
-  pagina senza allegato riconoscibile (109296 caratteri); collegamenti a documenti: nessuno
-     siti esterni nella pagina: www.lombardia.istruzione.it(1)
-  nessun PDF o foglio trovato in https://www.mim.gov.it/web/lodi/-/individuazione-dei-destinatari-di-contratti-t-d-su-posti-comuni-e-di-sostegno-per-l-a-s-2026-2027-terzo-algoritmo
+  scartati 1 decreti (non sono bollettini)
+  scarico https://www.mim.gov.it/documents/9081432/0/Bollettino+definitivo_3+algoritmo.pdf/6943f8f5-a63a-e97a-5aef-e635ca42ed17?version=1.0&t=1790333681455
+  data ricavata dal caricamento dell'allegato: 2026-09-25
+    fasce GPS: F1=7 F2=20
+    classi GPS (classe:fascia=righe): A020:F2=1 A021:F2=1 A028:F2=4 A045:F2=1 A046:F2=1 A050:F2=1 A060:F2=1 ADSS:F1=6 AM12:F2=2 AM30:F2=1 AS12:F2=1 AS48:F1=1 B003:F2=1 B012:F2=1 B015:F2=1 B016:F2=1 B017:F2=1 EEEM:F2=1
+    ok [turno]: calibrato=true righe GPS=27 scartate=0
         browser: titolo pagina "Individuazione dei destinatari di contratti T.D. su posti comuni e di sostegno p"
   prova con il browser: 0 allegati
      diagnosi pagina: 182 link totali, 0 verso documenti/allegati
@@ -62,10 +381,17 @@ totale pagine da controllare: 8
        @ https://www.mim.gov.it/web/lodi/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_s | Aprile
        @ https://www.mim.gov.it/web/lodi/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_s | Aprile
        @ https://www.mim.gov.it/web/lodi/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_s | Aprile
+        browser: titolo pagina "Decreto di pubblicazione dell'individuazione dei destinatari di contratti T.D. s"
+     seguo "Pubblicato atto n. 83/2026" -> 2 allegati (atti-t-d-su-posti-comuni-e-di-sostegno-per-l-a-s-2026-2027-4-algoritmo)
+       + llettino+definitivo_4+algoritmo.pdf/f01c40be-7029-1914-7d27-d95267f49e29?version=1.0&t=1791543593162 | 
+       + CRETI%28R%29.0000503.09-10-2026.pdf/2ad445ac-d6ff-f4e7-26ca-f96cd4eb3489?version=1.0&t=1791543503512 | 
      blocco anti-robot nel testo: false
-  pagina senza allegato riconoscibile (109294 caratteri); collegamenti a documenti: nessuno
-     siti esterni nella pagina: www.lombardia.istruzione.it(1)
-  nessun PDF o foglio trovato in https://www.mim.gov.it/web/lodi/-/individuazione-dei-destinatari-di-contratti-t-d-su-posti-comuni-e-di-sostegno-per-l-a-s-2026-2027-quarto-algoritmo
+  scartati 1 decreti (non sono bollettini)
+  scarico https://www.mim.gov.it/documents/9081432/0/Bollettino+definitivo_4+algoritmo.pdf/f01c40be-7029-1914-7d27-d95267f49e29?version=1.0&t=1791543593162
+  data ricavata dal caricamento dell'allegato: 2026-10-09
+    fasce GPS: F1=15 F2=10
+    classi GPS (classe:fascia=righe): A028:F2=3 A045:F2=1 A047:F2=1 A050:F2=1 A060:F2=1 ADMM:F2=1 ADSS:F1=15 AM12:F2=1 EEEM:F2=1
+    ok [turno]: calibrato=true righe GPS=25 scartate=0
         browser: titolo pagina "Individuazione dei destinatari di contratti T.D. su posti comuni e di sostegno p"
   prova con il browser: 0 allegati
      diagnosi pagina: 182 link totali, 0 verso documenti/allegati
@@ -79,10 +405,17 @@ totale pagine da controllare: 8
        @ https://www.mim.gov.it/web/lodi/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_s | Aprile
        @ https://www.mim.gov.it/web/lodi/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_s | Aprile
        @ https://www.mim.gov.it/web/lodi/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_s | Aprile
+        browser: titolo pagina "Decreto di pubblicazione dell'individuazione dei destinatari di contratti T.D. s"
+     seguo "Pubblicato atto n. 85/2026" -> 2 allegati (atti-t-d-su-posti-comuni-e-di-sostegno-per-l-a-s-2026-2027-5-algoritmo)
+       + CRETI%28R%29.0000508.16-10-2026.pdf/86199df3-7c7e-5d7d-3e59-c29453e31d9b?version=1.0&t=1792141770867 | 
+       + /Allegato+bollettino+definitivo.pdf/f19b79cb-854e-b3cc-8073-9ad6c019ddd4?version=1.0&t=1792142070727 | 
      blocco anti-robot nel testo: false
-  pagina senza allegato riconoscibile (109340 caratteri); collegamenti a documenti: nessuno
-     siti esterni nella pagina: www.lombardia.istruzione.it(1)
-  nessun PDF o foglio trovato in https://www.mim.gov.it/web/lodi/-/individuazione-dei-destinatari-di-contratti-t-d-su-posti-comuni-e-di-sostegno-per-l-a-s-2026-2027-quinto-algoritmo
+  scartati 1 decreti (non sono bollettini)
+  scarico https://www.mim.gov.it/documents/9081432/0/Allegato+bollettino+definitivo.pdf/f19b79cb-854e-b3cc-8073-9ad6c019ddd4?version=1.0&t=1792142070727
+  data ricavata dal caricamento dell'allegato: 2026-10-16
+    fasce GPS: F1=2 F2=3
+    classi GPS (classe:fascia=righe): A050:F2=1 A060:F2=1 ADSS:F1=2 EEEM:F2=1
+    ok [turno]: calibrato=true righe GPS=5 scartate=0
   prova senza suffisso: i-di-contratti-t-d-su-posti-comuni-e-di-sostegno-per-l-a-s-2026-2027-6-algoritmo -> 2 allegati
   scartati 1 decreti (non sono bollettini)
   scarico https://www.mim.gov.it/documents/9081432/0/bollettino+.pdf/e5e0735e-a070-60c8-eed7-8bff53ed6b67?version=1.0&t=1792662881760
@@ -104,12 +437,19 @@ totale pagine da controllare: 8
        @ https://www.mim.gov.it/web/lodi/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_s | Aprile
        @ https://www.mim.gov.it/web/lodi/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_s | Aprile
        @ https://www.mim.gov.it/web/lodi/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_s | Aprile
+        browser: titolo pagina "Decreto di pubblicazione dell'individuazione dei destinatari di contratti T.D. s"
+     seguo "atto n. 89/2026" -> 2 allegati (atti-t-d-su-posti-comuni-e-di-sostegno-per-l-a-s-2026-2027-7-algoritmo)
+       + CRETI%28R%29.0000549.29-10-2026.pdf/bd302874-d30b-0708-3867-5aa5755d04bd?version=1.0&t=1793277833226 | 
+       + Allegato+-Bollettino+definitivo.pdf/f40eee79-1a0e-e770-f10d-5543249c3bb0?version=1.0&t=1793278066194 | 
      blocco anti-robot nel testo: false
-  pagina senza allegato riconoscibile (109282 caratteri); collegamenti a documenti: nessuno
-     siti esterni nella pagina: www.lombardia.istruzione.it(1)
-  nessun PDF o foglio trovato in https://www.mim.gov.it/web/lodi/-/individuazione-dei-destinatari-di-contratti-t-d-su-posti-comuni-e-di-sostegno-per-l-a-s-2026-2027-settimo-algoritmo
+  scartati 1 decreti (non sono bollettini)
+  scarico https://www.mim.gov.it/documents/9081432/0/Allegato+-Bollettino+definitivo.pdf/f40eee79-1a0e-e770-f10d-5543249c3bb0?version=1.0&t=1793278066194
+  data ricavata dal caricamento dell'allegato: 2026-10-29
+    fasce GPS: F1=1 F2=2
+    classi GPS (classe:fascia=righe): A060:F2=1 ADSS:F1=1 EEEM:F2=1
+    ok [turno]: calibrato=true righe GPS=3 scartate=0
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/lodi/-/decreto-rettifica-parziale-nomine-2-algoritmo-1
-  turni letti=2 non letti=5 -> da verificare
+  turni letti=7 non letti=0 -> provincia completa
 -- MB Monza e Brianza --
 link da Orizzonte Scuola: 8
 totale pagine da controllare: 8
@@ -134,10 +474,16 @@ totale pagine da controllare: 8
        @ https://www.mim.gov.it/web/monza-brianza/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycl | Aprile
        @ https://www.mim.gov.it/web/monza-brianza/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycl | Aprile
        @ https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-2-scorrimento | Pubblicazione Albo n. 107
+        browser: titolo pagina "Incarichi a tempo determinato personale docente - a.s. 2026/2027 - 2° scorriment"
+     seguo "Pubblicazione Albo n. 107" -> 2 allegati (ichi-a-tempo-determinato-personale-docente-a-s-2026-2027-2-scorrimento)
+       + lettino_TotaleNomine+-+2+%C2%B0+scorrimento.pdf/7af70742-d6be-5bfc-cefc-26d199583d2d?t=1789722781216 | Bollettino_TotaleNomine - 2 ° scorriment
+       + CIALE%28U%29.0017072.18-09-2026.pdf/6001e038-bca8-7752-c932-75de6089894b?version=1.0&t=1789722915033 | 
      blocco anti-robot nel testo: false
-  pagina senza allegato riconoscibile (121865 caratteri); collegamenti a documenti: nessuno
-     siti esterni nella pagina: www.lombardia.istruzione.it(1)
-  nessun PDF o foglio trovato in https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-2
+  scarico https://www.mim.gov.it/documents/9081736/0/Bollettino_TotaleNomine+-+2+%C2%B0+scorrimento.pdf/7af70742-d6be-5bfc-cefc-26d199583d2d?t=1789722781216
+  data ricavata dal caricamento dell'allegato: 2026-09-18
+    fasce GPS: F1=107 F2=87
+    classi GPS (classe:fascia=righe): A008:F1=1 A008:F2=1 A010:F1=1 A010:F2=1 A011:F1=4 A014:F2=1 A015:F2=2 A018:F1=1 A019:F1=1 A021:F2=2 A023:F2=1 A026:F2=5 A027:F2=3 A028:F1=3 A028:F2=4 A031:F2=1 A034:F1=1 A034:F2=2 A037:F2=2 A040:F2=1 A041:F2=3 A042:F2=1 A045:F2=2 A046:F1=4 A047:F1=1 A047:F2=1 A050:F1=4 A051:F2=1 A053:F2=1 A054:F1=1 A060:F2=4 AAAA:F1=15 AAAA:F2=1 AB56:F2=1 ADAA:F2=1 ADMM:F1=1 ADSS:F1=15 AM12:F1=8 AM2A:F2=3 AM2B:F1=5 AM2B:F2=2 AM2C:F1=1 AM2C:F2=1 AM30:F1=4 AM30:F2=1 AM48:F1=1 AM56:F1=1 AS01:F1=1 AS12:F1=3 AS23:F2=1 AS2A:F1=1 AS2C:F1=1 AS2C:F2=1 AS2D:F1=1 AS48:F1=1 B006:F2=1 B011:F2=2 B015:F2=1 B016:F1=2 B016:F2=1 B017:F2=1 B018:F2=1 B020:F1=1 B022:F2=1 EEEE:F1=23 EEEE:F2=24 EEEM:F2=4
+    ok [turno]: calibrato=true righe GPS=194 scartate=0
         browser: titolo pagina "Incarichi a tempo determinato personale docente - a.s. 2026/2027 - 3° scorriment"
   prova con il browser: 0 allegati
      diagnosi pagina: 77 link totali, 0 verso documenti/allegati
@@ -148,10 +494,18 @@ totale pagine da controllare: 8
      link ad atti/albo/scarica: 2
        @ https://www.mim.gov.it/web/monza-brianza/albo-atti-correnti/-/asset_publisher/KzN63xnnaupU/content/incarichi-a-tempo-det | Albo n.114 del 5/10/2026
        @ /web/monza-brianza/pubblicità-legale | Pubblicità Legale
+        browser: titolo pagina "Incarichi a tempo determinato personale docente - a.s. 2026/2027 - 3° scorriment"
+     seguo "Albo n.114 del 5/10/2026" -> 2 allegati (et_AssetPublisherPortlet_INSTANCE_KzN63xnnaupU_assetEntryId%3D11201441)
+       + CIALE%28U%29.0017951.02-10-2026.pdf/933210ba-80dc-954d-3dae-142dde64d403?version=1.0&t=1791180770811 | 
+       + e+-+3%C2%B0+scorrimento+%282%29.pdf/2ffcc47b-07f2-15af-04fb-c8991aed3a66?version=1.0&t=1791180771112 | 
      blocco anti-robot nel testo: false
-  pagina senza allegato riconoscibile (120396 caratteri); collegamenti a documenti: nessuno
-     siti esterni nella pagina: cercalatuascuola.istruzione.it(1), www.lombardia.istruzione.it(1)
-  nessun PDF o foglio trovato in https://www.mim.gov.it/web/monza-brianza/home/-/asset_publisher/ultimecomunicazioni/content/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-3-scorrimento-1?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_ultimecomunicazioni_redirect=https%3A%2F%2Fwww.mim.gov.it%2Fweb%2Fmonza-brianza%2Fhome%3Fp_p_id%3Dcom_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_ultimecomunicazioni%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_ultimecomunicazioni_cur%3D0%26p_r_p_resetCur%3Dfalse%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_ultimecomunicazioni_assetEntryId%3D11201465
+  scarico https://www.mim.gov.it/documents/9081736/0/m_pi.AOOUSPMB.REGISTRO+UFFICIALE%28U%29.0017951.02-10-2026.pdf/933210ba-80dc-954d-3dae-142dde64d403?version=1.0&t=1791180770811
+    OCR: nessuna pagina scansionata nel documento
+  scarico https://www.mim.gov.it/documents/9081736/0/Bollettino_TotaleNomine+-+3%C2%B0+scorrimento+%282%29.pdf/2ffcc47b-07f2-15af-04fb-c8991aed3a66?version=1.0&t=1791180771112
+  data ricavata dal caricamento dell'allegato: 2026-10-05
+    fasce GPS: F1=31 F2=30
+    classi GPS (classe:fascia=righe): A008:F2=1 A011:F1=1 A015:F2=1 A023:F2=1 A026:F2=3 A027:F2=1 A028:F2=4 A031:F2=1 A034:F2=2 A040:F2=1 A045:F1=1 A046:F1=1 AAAA:F1=8 AAAA:F2=1 ADSS:F1=4 AM12:F1=3 AM2B:F1=1 AM2B:F2=1 AM2C:F1=1 AM30:F2=1 AM56:F1=1 AS01:F1=1 AS12:F1=1 AS12:F2=1 AS23:F2=1 AS2B:F1=1 AS2D:F2=1 AS48:F1=1 B006:F2=1 B011:F2=2 B016:F2=1 B017:F2=1 B022:F2=1 EEEE:F1=6 EEEE:F2=1 EEEM:F2=2
+    ok [turno]: calibrato=true righe GPS=61 scartate=0
   prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027
         browser: titolo pagina "Incarichi a tempo determinato personale docente - a.s. 2026/2027 - Incarichi a t"
   prova con il browser: 0 allegati
@@ -165,10 +519,16 @@ totale pagine da controllare: 8
        @ https://www.mim.gov.it/web/monza-brianza/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycl | Aprile
        @ https://www.mim.gov.it/web/monza-brianza/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycl | Aprile
        @ https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-4-scorrimento | Pubblicazione Albo n. 116
+        browser: titolo pagina "Incarichi a tempo determinato personale docente - a.s. 2026/2027 - 4° scorriment"
+     seguo "Pubblicazione Albo n. 116" -> 2 allegati (ichi-a-tempo-determinato-personale-docente-a-s-2026-2027-4-scorrimento)
+       + s/9081736/0/Bollettino_TotaleNomine+%285%29.pdf/1762cfd8-712f-2c5c-d183-86d5549f6980?t=1791376653321 | Bollettino_Totale Nomine
+       + CIALE%28U%29.0018160.07-10-2026.pdf/e2dcfb5e-6192-bd67-3cf1-958b04149985?version=1.0&t=1791376878086 | 
      blocco anti-robot nel testo: false
-  pagina senza allegato riconoscibile (121861 caratteri); collegamenti a documenti: nessuno
-     siti esterni nella pagina: www.lombardia.istruzione.it(1)
-  nessun PDF o foglio trovato in https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-4
+  scarico https://www.mim.gov.it/documents/9081736/0/Bollettino_TotaleNomine+%285%29.pdf/1762cfd8-712f-2c5c-d183-86d5549f6980?t=1791376653321
+  data ricavata dal caricamento dell'allegato: 2026-10-07
+    fasce GPS: F1=11 F2=14
+    classi GPS (classe:fascia=righe): A008:F2=1 A023:F2=1 A026:F2=1 A028:F2=1 A031:F2=1 A034:F2=1 AAAA:F1=5 AAAA:F2=1 ADSS:F1=3 AM12:F1=2 AM2B:F2=2 AS2B:F2=1 B011:F2=1 B016:F2=1 B017:F2=1 EEEE:F1=1 EEEM:F2=1
+    ok [turno]: calibrato=true righe GPS=25 scartate=0
   prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027
         browser: titolo pagina "Incarichi a tempo determinato personale docente - a.s. 2026/2027 - Incarichi a t"
   prova con il browser: 0 allegati
@@ -182,10 +542,16 @@ totale pagine da controllare: 8
        @ https://www.mim.gov.it/web/monza-brianza/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycl | Aprile
        @ https://www.mim.gov.it/web/monza-brianza/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycl | Aprile
        @ https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-5-scorrimento | Pubblicazione Albo n. 119
+        browser: titolo pagina "Incarichi a tempo determinato personale docente - a.s. 2026/2027 - 5° scorriment"
+     seguo "Pubblicazione Albo n. 119" -> 2 allegati (ichi-a-tempo-determinato-personale-docente-a-s-2026-2027-5-scorrimento)
+       + Bollettino_TotaleNomine_5%C2%B0+Scorrimento.pdf/2de78d9a-745a-216f-9723-fbe04294c461?t=1792142018946 | Bollettino Totale Nomine 5° Scorrimento
+       + CIALE%28U%29.0018631.16-10-2026.pdf/cf0cf2dd-1618-a2e7-702f-fd8b313e0654?version=1.0&t=1792142289183 | 
      blocco anti-robot nel testo: false
-  pagina senza allegato riconoscibile (121905 caratteri); collegamenti a documenti: nessuno
-     siti esterni nella pagina: www.lombardia.istruzione.it(1)
-  nessun PDF o foglio trovato in https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-6
+  scarico https://www.mim.gov.it/documents/9081736/0/Bollettino_TotaleNomine_5%C2%B0+Scorrimento.pdf/2de78d9a-745a-216f-9723-fbe04294c461?t=1792142018946
+  data ricavata dal caricamento dell'allegato: 2026-10-16
+    fasce GPS: F1=12 F2=8
+    classi GPS (classe:fascia=righe): A023:F2=1 A031:F2=1 A034:F2=1 A061:F2=1 AAAA:F1=4 ADMM:F1=1 ADMM:F2=1 ADSS:F1=7 B011:F2=1 B017:F2=1 EEEM:F2=1
+    ok [turno]: calibrato=true righe GPS=20 scartate=0
   prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027
         browser: titolo pagina "Incarichi a tempo determinato personale docente - a.s. 2026/2027 - Incarichi a t"
   prova con il browser: 0 allegati
@@ -199,10 +565,16 @@ totale pagine da controllare: 8
        @ https://www.mim.gov.it/web/monza-brianza/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycl | Aprile
        @ https://www.mim.gov.it/web/monza-brianza/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycl | Aprile
        @ https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-6-scorrimento | Pubblicazione Albo n. 121
+        browser: titolo pagina "Incarichi a tempo determinato personale docente - a.s. 2026/2027 - 6° scorriment"
+     seguo "Pubblicazione Albo n. 121" -> 2 allegati (ichi-a-tempo-determinato-personale-docente-a-s-2026-2027-6-scorrimento)
+       + Bollettino_TotaleNomine_6%C2%B0+scorrimento.pdf/b9b5ba8a-bab5-c3a7-0578-4d518e04c176?t=1792665177151 | Bollettino_Totale Nomine_6° scorrimento
+       + CIALE%28U%29.0018949.22-10-2026.pdf/354d3255-5528-45ed-3a52-2d2dc067aae0?version=1.0&t=1792665603431 | 
      blocco anti-robot nel testo: false
-  pagina senza allegato riconoscibile (121860 caratteri); collegamenti a documenti: nessuno
-     siti esterni nella pagina: www.lombardia.istruzione.it(1)
-  nessun PDF o foglio trovato in https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-8
+  scarico https://www.mim.gov.it/documents/9081736/0/Bollettino_TotaleNomine_6%C2%B0+scorrimento.pdf/b9b5ba8a-bab5-c3a7-0578-4d518e04c176?t=1792665177151
+  data ricavata dal caricamento dell'allegato: 2026-10-22
+    fasce GPS: F1=6 F2=5
+    classi GPS (classe:fascia=righe): A031:F2=1 AAAA:F1=2 AAAA:F2=1 ADSS:F1=4 B011:F2=1 B017:F2=1 EEEM:F2=1
+    ok [turno]: calibrato=true righe GPS=11 scartate=0
   prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027
         browser: titolo pagina "Incarichi a tempo determinato personale docente - a.s. 2026/2027 - Incarichi a t"
   prova con il browser: 0 allegati
@@ -216,16 +588,22 @@ totale pagine da controllare: 8
        @ https://www.mim.gov.it/web/monza-brianza/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycl | Aprile
        @ https://www.mim.gov.it/web/monza-brianza/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycl | Aprile
        @ https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-7-scorrimento | Pubblicazione Albo n. 122
+        browser: titolo pagina "Incarichi a tempo determinato personale docente - a.s. 2026/2027 - 7° scorriment"
+     seguo "Pubblicazione Albo n. 122" -> 2 allegati (ichi-a-tempo-determinato-personale-docente-a-s-2026-2027-7-scorrimento)
+       + Bollettino_TotaleNomine_7%C2%B0+Scorrimento.pdf/76ea875a-f9e0-cb32-e78a-69575489c470?t=1793026657733 | Bollettino_Totale Nomine_7° Scorrimento
+       + CIALE%28U%29.0019210.26-10-2026.pdf/9223fefe-c81f-3dd8-8c1a-a9b434672247?version=1.0&t=1793026817804 | 
      blocco anti-robot nel testo: false
-  pagina senza allegato riconoscibile (121874 caratteri); collegamenti a documenti: nessuno
-     siti esterni nella pagina: www.lombardia.istruzione.it(1)
-  nessun PDF o foglio trovato in https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-10
+  scarico https://www.mim.gov.it/documents/9081736/0/Bollettino_TotaleNomine_7%C2%B0+Scorrimento.pdf/76ea875a-f9e0-cb32-e78a-69575489c470?t=1793026657733
+  data ricavata dal caricamento dell'allegato: 2026-10-26
+    fasce GPS: F1=2 F2=2
+    classi GPS (classe:fascia=righe): A031:F2=1 AAAA:F1=2 B011:F2=1
+    ok [turno]: calibrato=true righe GPS=4 scartate=0
   scarico https://www.mim.gov.it/documents/9081736/10325740/m_pi.AOOUSPMB.REGISTRO+UFFICIALE%28U%29.0019563.29-10-2026.pdf/5fadb13f-55f1-a085-0139-f8ef43138ba1?version=1.0&t=1793281231377
     dalla memoria: non letto (righe GPS=0)
   data ricavata dal caricamento dell'allegato: 2026-10-29
     fasce GPS: F1=0 F2=0
     ok [turno]: calibrato=false righe GPS=0 scartate=0
-  turni letti=1 non letti=7 -> da verificare
+  turni letti=7 non letti=1 -> da verificare
 -- PV Pavia --
 link da Orizzonte Scuola: 9
 totale pagine da controllare: 8
@@ -244,7 +622,7 @@ totale pagine da controllare: 8
      testo: scolastico 2026/27 nella provincia di Pavia - Pubblicazione esiti individuazione del personale docente di ogni ordine e grado ed educativo destin
      testo: cembre USR LOMBARDIA Pavia Home Comunicazioni Pubblicazione esiti individuazione del personale docente di ogni ordine e grado ed educativo destin
      testo: o scolastico 2026/27 nella provincia di Pavia Pubblicazione esiti individuazione del personale docente di ogni ordine e grado ed educativo destin
-  pagina senza allegato riconoscibile (107163 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (107117 caratteri); collegamenti a documenti: nessuno
      siti esterni nella pagina: www.lombardia.istruzione.it(1)
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/pavia/-/pubblicazione-esiti-individuazione-del-personale-docente-di-ogni-ordine-e-grado-ed-educativo-destinatario-di-contratto-a-tempo-determinato-per-l-ann-3
   prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/pavia/-/pubblicazione-esiti-individuazione-del-personale-docente-di-ogni-ordine-e-grado-ed-educativo-destinatario-di-contratto-a-tempo-determinato-per-l-ann
@@ -304,7 +682,7 @@ totale pagine da controllare: 8
      testo: scolastico 2026/27 nella provincia di Pavia - Pubblicazione esiti individuazione del personale docente di ogni ordine e grado ed educativo destin
      testo: cembre USR LOMBARDIA Pavia Home Comunicazioni Pubblicazione esiti individuazione del personale docente di ogni ordine e grado ed educativo destin
      testo: o scolastico 2026/27 nella provincia di Pavia Pubblicazione esiti individuazione del personale docente di ogni ordine e grado ed educativo destin
-  pagina senza allegato riconoscibile (105639 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (105593 caratteri); collegamenti a documenti: nessuno
      siti esterni nella pagina: www.lombardia.istruzione.it(1)
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/pavia/-/pubblicazione-esiti-individuazione-del-personale-docente-di-ogni-ordine-e-grado-ed-educativo-destinatario-di-contratto-a-tempo-determinato-per-l-an-15
   prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/pavia/-/pubblicazione-esiti-individuazione-del-personale-docente-di-ogni-ordine-e-grado-ed-educativo-destinatario-di-contratto-a-tempo-determinato-per-l-an
@@ -347,5 +725,201 @@ totale pagine da controllare: 8
   TURNO MANCANTE: 4
   TURNO MANCANTE: 5
   turni letti=0 non letti=10 -> da verificare
-RIEPILOGO DA VERIFICARE: letti con OCR=0 | zero righe=0 | non letti=108 | turni mancanti=36
+-- SO Sondrio --
+link da Orizzonte Scuola: 9
+totale pagine da controllare: 8
+        browser: titolo pagina "Conferimento nomine a tempo determinato da GAE e GPS - Conferimento nomine a tem"
+  prova con il browser: 0 allegati
+     diagnosi pagina: 244 link totali, 0 verso documenti/allegati
+     riquadri incorporati: 0
+     link a possibili pagine dei turni: 1
+       > /web/sondrio/-/esiti-conferimento-nomine-a-tempo-determinato-da-gae-e-gps | Pubblicazione Albo n. 90/2026
+     link ad atti/albo/scarica: 8
+       @ https://www.mim.gov.it/web/sondrio/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_ | Albo conciliazioni
+       @ https://www.mim.gov.it/web/sondrio/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_ | Aprile
+       @ https://www.mim.gov.it/web/sondrio/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_ | Aprile
+       @ https://www.mim.gov.it/web/sondrio/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_ | Aprile
+       @ https://www.mim.gov.it/web/sondrio/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_ | Aprile
+       @ https://www.mim.gov.it/web/sondrio/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_ | Aprile
+        browser: titolo pagina "Esiti conferimento nomine a tempo determinato da GAE e GPS - Esiti conferimento "
+     seguo "Pubblicazione Albo n. 90/2026" -> 2 allegati (b/sondrio/-/esiti-conferimento-nomine-a-tempo-determinato-da-gae-e-gps)
+       + 63/0/03+Bollettino_TotaleNomine.pdf/7ef0bc17-5a12-f0d4-4065-10f3f413d967?version=1.0&t=1788183794681 | 
+       + CRETI%28U%29.0000201.31-08-2026.pdf/75e55b0c-00ef-7a6b-3c7e-361f2a3f41af?version=1.0&t=1788183847850 | 
+     blocco anti-robot nel testo: false
+  scartati 1 decreti (non sono bollettini)
+  scarico https://www.mim.gov.it/documents/9081963/0/03+Bollettino_TotaleNomine.pdf/7ef0bc17-5a12-f0d4-4065-10f3f413d967?version=1.0&t=1788183794681
+Warning: TT: undefined function: 21
+  data ricavata dal caricamento dell'allegato: 2026-08-31
+    fasce GPS: F1=260 F2=140
+    classi GPS (classe:fascia=righe): A010:F1=2 A011:F1=3 A011:F2=2 A014:F1=1 A015:F1=1 A015:F2=1 A016:F2=2 A018:F1=4 A020:F2=1 A021:F1=1 A023:F2=2 A026:F1=1 A026:F2=5 A027:F2=4 A028:F1=4 A028:F2=4 A031:F2=2 A034:F2=1 A037:F1=1 A037:F2=6 A040:F2=3 A041:F1=1 A041:F2=4 A042:F1=1 A045:F1=5 A046:F1=5 A047:F1=1 A047:F2=1 A050:F1=1 A050:F2=2 A051:F2=2 A053:F2=1 A054:F2=1 A060:F2=4 A064:F1=1 AAAA:F1=27 AAAA:F2=3 AB55:F1=1 AB56:F2=1 ADAA:F2=2 ADEE:F2=10 ADMM:F1=25 ADMM:F2=7 ADSS:F1=72 AJ55:F2=1 AK55:F1=1 AM01:F1=2 AM01:F2=3 AM12:F1=16 AM2A:F1=1 AM2B:F1=3 AM2B:F2=5 AM2D:F1=1 AM2D:F2=3 AM30:F1=4 AM30:F2=2 AM48:F1=3 AM48:F2=1 AM55:F1=1 AM56:F2=1 AO55:F2=1 AS01:F2=1 AS12:F1=11 AS2A:F2=2 AS2B:F1=5 AS2B:F2=5 AS2C:F1=2 AS2C:F2=1 AS2D:F1=2 AS2D:F2=1 AS48:F1=4 AW55:F1=1 B011:F2=1 B012:F1=1 B014:F1=1 B014:F2=2 B015:F1=2 B015:F2=2 B016:F2=1 B017:F1=2 B017:F2=2 B019:F1=2 B020:F1=1 B021:F1=2 B023:F1=1 B026:F2=3 BD02:F1=1 BD02:F2=1 EEEE:F1=32 EEEE:F2=10 EEEM:F2=14 PPPP:F2=6
+    ok [turno]: calibrato=true righe GPS=400 scartate=0
+        browser: titolo pagina "Esito conferimento nomine a tempo determinato da GAE/GPS - Esito conferimento no"
+  prova con il browser: 0 allegati
+     diagnosi pagina: 244 link totali, 0 verso documenti/allegati
+     riquadri incorporati: 0
+     link a possibili pagine dei turni: 1
+       > /web/sondrio/-/esiti-conferimento-nomine-a-tempo-determinato-da-gae-e-gps-1 | Pubblicazione Albo n. 104/2026
+     link ad atti/albo/scarica: 8
+       @ https://www.mim.gov.it/web/sondrio/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_ | Albo conciliazioni
+       @ https://www.mim.gov.it/web/sondrio/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_ | Aprile
+       @ https://www.mim.gov.it/web/sondrio/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_ | Aprile
+       @ https://www.mim.gov.it/web/sondrio/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_ | Aprile
+       @ https://www.mim.gov.it/web/sondrio/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_ | Aprile
+       @ https://www.mim.gov.it/web/sondrio/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_ | Aprile
+        browser: titolo pagina "Esiti conferimento nomine a tempo determinato da GAE e GPS - Esiti conferimento "
+     seguo "Pubblicazione Albo n. 104/2026" -> 2 allegati (sondrio/-/esiti-conferimento-nomine-a-tempo-determinato-da-gae-e-gps-1)
+       + CRETI%28U%29.0000222.11-09-2026.pdf/1d64cbae-6793-0619-ff7c-6fa41a2b1028?version=1.0&t=1789111098301 | 
+       + 63/0/Bollettino_TotaleNomine_04.pdf/f7da00a7-fac3-ae09-db15-e6327c59a599?version=1.0&t=1789111004375 | 
+     blocco anti-robot nel testo: false
+     testo: Esito conferimento nomine a tempo determinato da GAE/GPS - Esito conferimento nomine a tempo determinato da GAE/GPS - Sondrio - MIM WebFontConf
+     testo: bre 2016 Settembre USR LOMBARDIA Sondrio Home Comunicazioni Esito conferimento nomine a tempo determinato da GAE/GPS Esito conferimento nomine a
+     testo:  tempo determinato da GAE/GPS Pubblicazione bollettino n. 4 Venerdì, 11 settembre 2026 Pubblicazione Albo n. 104/2026 Documento acqui
+  scartati 1 decreti (non sono bollettini)
+  scarico https://www.mim.gov.it/documents/9081963/0/Bollettino_TotaleNomine_04.pdf/f7da00a7-fac3-ae09-db15-e6327c59a599?version=1.0&t=1789111004375
+Warning: TT: undefined function: 21
+  data ricavata dal caricamento dell'allegato: 2026-09-11
+    fasce GPS: F1=12 F2=19
+    classi GPS (classe:fascia=righe): A011:F2=1 A018:F1=1 A028:F2=2 A034:F2=1 A037:F2=2 A045:F1=2 A050:F1=1 AAAA:F1=1 AAAA:F2=1 ADMM:F2=1 ADSS:F1=6 AM12:F2=2 AM30:F2=1 AM48:F1=1 AS2B:F2=1 B014:F2=1 B015:F2=2 B017:F2=1 B023:F2=1 B026:F2=2
+    ok [turno]: calibrato=true righe GPS=31 scartate=0
+  prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/sondrio/-/decreto-esiti-conferimento-nomine-a-tempo-determinato-gps-bollettino-5
+        browser: titolo pagina "Decreto Esiti conferimento nomine a tempo determinato GPS Bollettino 5 - Decreto"
+  prova con il browser: 0 allegati
+     diagnosi pagina: 244 link totali, 0 verso documenti/allegati
+     riquadri incorporati: 0
+     link a possibili pagine dei turni: 0
+     link ad atti/albo/scarica: 8
+       @ https://www.mim.gov.it/web/sondrio/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_ | Albo conciliazioni
+       @ https://www.mim.gov.it/web/sondrio/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_ | Aprile
+       @ https://www.mim.gov.it/web/sondrio/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_ | Aprile
+       @ https://www.mim.gov.it/web/sondrio/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_ | Aprile
+       @ https://www.mim.gov.it/web/sondrio/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_ | Aprile
+       @ https://www.mim.gov.it/web/sondrio/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_ | Aprile
+        browser: titolo pagina "Decreto Esiti conferimento nomine a tempo determinato GPS Bollettino 5 - Sondrio"
+     seguo "Pubblicazione Albo n. 112/2026" -> 2 allegati (et_AssetPublisherPortlet_INSTANCE_8PNg243c9BHQ_assetEntryId%3D11104011)
+       + 81963/0/bollettino+5+nomine+GPS.pdf/72a1e91a-18f1-8e14-5806-618e004728d9?version=1.0&t=1790084523417 | 
+       + CRETI%28U%29.0000236.22-09-2026.pdf/2bf19f40-2ccb-72dd-cdd3-086a2dfeab58?version=1.0&t=1790084464493 | 
+     blocco anti-robot nel testo: false
+     testo: Decreto Esiti conferimento nomine a tempo determinato GPS Bollettino 5 - Decreto Esiti conferimento nomine a tempo determinato GPS Bollettino 5 - S
+     testo:  Settembre USR LOMBARDIA Sondrio Home Comunicazioni Decreto Esiti conferimento nomine a tempo determinato GPS Bollettino 5 Decreto Esiti conferim
+     testo: ento nomine a tempo determinato GPS Bollettino 5 Martedì, 22 settembre 2026 Pubblicazione Albo n. 112/2026 Il documento è acq
+  scartati 1 decreti (non sono bollettini)
+  scarico https://www.mim.gov.it/documents/9081963/0/bollettino+5+nomine+GPS.pdf/72a1e91a-18f1-8e14-5806-618e004728d9?version=1.0&t=1790084523417
+  data ricavata dal caricamento dell'allegato: 2026-09-22
+    fasce GPS: F1=1 F2=4
+    classi GPS (classe:fascia=righe): A018:F1=1 A034:F2=1 A037:F2=1 A045:F2=1 B017:F2=1
+    ok [turno]: calibrato=true righe GPS=5 scartate=0
+  prova senza suffisso: im.gov.it/web/sondrio/-/esito-conferimento-nomine-a-tempo-determinato-da-gae-gps -> 0 allegati
+        browser: titolo pagina "Esito conferimento nomine a tempo determinato da GAE\GPS - Esito conferimento no"
+  prova con il browser: 0 allegati
+     diagnosi pagina: 244 link totali, 0 verso documenti/allegati
+     riquadri incorporati: 0
+     link a possibili pagine dei turni: 1
+       > http://mim.gov.it/web/sondrio/-/esito-conferimento-nomine-a-tempo-determinato-da-gae-gps-bollettino-n-6 | Pubblicazione Albo N. 116/2026
+     link ad atti/albo/scarica: 8
+       @ https://www.mim.gov.it/web/sondrio/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_ | Albo conciliazioni
+       @ https://www.mim.gov.it/web/sondrio/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_ | Aprile
+       @ https://www.mim.gov.it/web/sondrio/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_ | Aprile
+       @ https://www.mim.gov.it/web/sondrio/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_ | Aprile
+       @ https://www.mim.gov.it/web/sondrio/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_ | Aprile
+       @ https://www.mim.gov.it/web/sondrio/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_ | Aprile
+        browser: titolo pagina "Esito conferimento nomine a tempo determinato da GAE\GPS - Bollettino N. 6 - Esi"
+     seguo "Pubblicazione Albo N. 116/2026" -> 2 allegati (sito-conferimento-nomine-a-tempo-determinato-da-gae-gps-bollettino-n-6)
+       + CRETI%28U%29.0000245.02-10-2026.pdf/9b356efe-656a-de37-6668-efa15e06a467?version=1.0&t=1790950875314 | 
+       + cuments/9081963/0/Bollettino_N6.pdf/23aa7caf-f3d3-392b-72b4-faaf8ec7a79f?version=1.0&t=1790950940335 | 
+     blocco anti-robot nel testo: false
+     testo: Esito conferimento nomine a tempo determinato da GAE\GPS - Esito conferimento nomine a tempo determinato da GAE\GPS - Sondrio - MIM WebFontConf
+     testo: bre 2016 Settembre USR LOMBARDIA Sondrio Home Comunicazioni Esito conferimento nomine a tempo determinato da GAE\GPS Esito conferimento nomine a
+     testo:  tempo determinato da GAE\GPS Bollettino N. 6 Venerdì, 02 ottobre 2026 Pubblicazione Albo N. 116/2026 Dcuomento acquisi
+  scartati 1 decreti (non sono bollettini)
+  scarico https://www.mim.gov.it/documents/9081963/0/Bollettino_N6.pdf/23aa7caf-f3d3-392b-72b4-faaf8ec7a79f?version=1.0&t=1790950940335
+  data ricavata dal caricamento dell'allegato: 2026-10-02
+    fasce GPS: F1=1 F2=2
+    classi GPS (classe:fascia=righe): A037:F2=1 AS12:F1=1 B017:F2=1
+    ok [turno]: calibrato=true righe GPS=3 scartate=0
+  prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/sondrio/-/eisto-conferimento-nomine-da-gae-gps-bollettino-n
+        browser: titolo pagina "Esito conferimento nomine da GAE\GPS - Bollettino n. 8 - Esito conferimento nomi"
+  prova con il browser: 0 allegati
+     diagnosi pagina: 244 link totali, 0 verso documenti/allegati
+     riquadri incorporati: 0
+     link a possibili pagine dei turni: 1
+       > /web/sondrio/-/esito-conferimento-nomine-da-gae-gps-bolletino-n-8 | Documento acquisito a protocollo n. 270 del 16 ott
+     link ad atti/albo/scarica: 7
+       @ https://www.mim.gov.it/web/sondrio/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_ | Albo conciliazioni
+       @ https://www.mim.gov.it/web/sondrio/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_ | Aprile
+       @ https://www.mim.gov.it/web/sondrio/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_ | Aprile
+       @ https://www.mim.gov.it/web/sondrio/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_ | Aprile
+       @ https://www.mim.gov.it/web/sondrio/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_ | Aprile
+       @ https://www.mim.gov.it/web/sondrio/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_ | Aprile
+     blocco anti-robot nel testo: false
+     testo: Esito conferimento nomine da GAE\GPS - Bollettino n. 8 - Esito conferimento nomine da GAE\GPS - Bollettino n. 8 - Sondrio - MIM WebFontConfig
+     testo: bre 2016 Settembre USR LOMBARDIA Sondrio Home Comunicazioni Esito conferimento nomine da GAE\GPS - Bollettino n. 8 Esito conferimento nomine da 
+     testo: GAE\GPS - Bollettino n. 8 Venerdì, 16 ottobre 2026 Pubblicazione Albo n. 127 Documento acquisito a 
+  pagina senza allegato riconoscibile (131108 caratteri); collegamenti a documenti: nessuno
+     siti esterni nella pagina: www.lombardia.istruzione.it(1)
+  nessun PDF o foglio trovato in https://www.mim.gov.it/web/sondrio/-/eisto-conferimento-nomine-da-gae-gps-bollettino-n-8
+  prova senza suffisso: im.gov.it/web/sondrio/-/esito-conferimento-nomine-a-tempo-determinato-da-gae-gps -> 0 allegati
+        browser: titolo pagina "Esito conferimento nomine a tempo determinato da GAE\GPS - Esito conferimento no"
+  prova con il browser: 0 allegati
+     diagnosi pagina: 244 link totali, 0 verso documenti/allegati
+     riquadri incorporati: 0
+     link a possibili pagine dei turni: 1
+       > /web/sondrio/-/esito-conferimento-nomine-da-gae-gps-turno-di-nomina-n-9 | Pubblicazione Albo n. 130/2026
+     link ad atti/albo/scarica: 8
+       @ https://www.mim.gov.it/web/sondrio/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_ | Albo conciliazioni
+       @ https://www.mim.gov.it/web/sondrio/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_ | Aprile
+       @ https://www.mim.gov.it/web/sondrio/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_ | Aprile
+       @ https://www.mim.gov.it/web/sondrio/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_ | Aprile
+       @ https://www.mim.gov.it/web/sondrio/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_ | Aprile
+       @ https://www.mim.gov.it/web/sondrio/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_ | Aprile
+        browser: titolo pagina "Esito conferimento nomine da GAE\GPS - Turno di nomina n. 9 - Esito conferimento"
+     seguo "Pubblicazione Albo n. 130/2026" -> 2 allegati (web/sondrio/-/esito-conferimento-nomine-da-gae-gps-turno-di-nomina-n-9)
+       + CRETI%28U%29.0000282.23-10-2026.pdf/8b5a5d29-b26d-65fd-efbf-d1ae1d996d9c?version=1.0&t=1792749921362 | 
+       + cuments/9081963/0/Bollettino_n9.pdf/643181d8-01c6-9323-3cde-541781bdde0c?version=1.0&t=1792749962820 | 
+     blocco anti-robot nel testo: false
+     testo: Esito conferimento nomine a tempo determinato da GAE\GPS - Esito conferimento nomine a tempo determinato da GAE\GPS - Sondrio - MIM WebFontConf
+     testo: bre 2016 Settembre USR LOMBARDIA Sondrio Home Comunicazioni Esito conferimento nomine a tempo determinato da GAE\GPS Esito conferimento nomine a
+     testo:  tempo determinato da GAE\GPS Pubblicazione bollettino n. 9 Venerdì, 23 ottobre 2026 Pubblicazione Albo n. 130/2026 Documento acquisi
+  scartati 1 decreti (non sono bollettini)
+  scarico https://www.mim.gov.it/documents/9081963/0/Bollettino_n9.pdf/643181d8-01c6-9323-3cde-541781bdde0c?version=1.0&t=1792749962820
+  data ricavata dal caricamento dell'allegato: 2026-10-23
+    fasce GPS: F1=0 F2=1
+    classi GPS (classe:fascia=righe): B017:F2=1
+    ok [turno]: calibrato=true righe GPS=1 scartate=0
+  prova senza suffisso: im.gov.it/web/sondrio/-/esito-conferimento-nomine-a-tempo-determinato-da-gae-gps -> 0 allegati
+        browser: titolo pagina "Esito conferimento nomine a tempo determinato da GAE\GPS - Esito conferimento no"
+  prova con il browser: 0 allegati
+     diagnosi pagina: 244 link totali, 0 verso documenti/allegati
+     riquadri incorporati: 0
+     link a possibili pagine dei turni: 0
+     link ad atti/albo/scarica: 8
+       @ https://www.mim.gov.it/web/sondrio/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_ | Albo conciliazioni
+       @ https://www.mim.gov.it/web/sondrio/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_ | Aprile
+       @ https://www.mim.gov.it/web/sondrio/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_ | Aprile
+       @ https://www.mim.gov.it/web/sondrio/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_ | Aprile
+       @ https://www.mim.gov.it/web/sondrio/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_ | Aprile
+       @ https://www.mim.gov.it/web/sondrio/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_ | Aprile
+        browser: titolo pagina "Albo Pretorio - Sondrio - MIM"
+     seguo "Pubblicazione Albo n. 138/2" -> 0 allegati (//mim.gov.it/web/sondrio/albo-pretorio/-/asset_publisher/cY5vbTKeoWaZ/)
+     blocco anti-robot nel testo: false
+     testo: Esito conferimento nomine a tempo determinato da GAE\GPS - Esito conferimento nomine a tempo determinato da GAE\GPS - Sondrio - MIM WebFontConf
+     testo: bre 2016 Settembre USR LOMBARDIA Sondrio Home Comunicazioni Esito conferimento nomine a tempo determinato da GAE\GPS Esito conferimento nomine a
+     testo:  tempo determinato da GAE\GPS Pubblicazione bollettino N 10 Venerdì, 30 ottobre 2026 Pubblicazione Albo n. 138/2 026 Documento acquis
+  pagina senza allegato riconoscibile (131024 caratteri); collegamenti a documenti: nessuno
+     siti esterni nella pagina: mim.gov.it(1), www.lombardia.istruzione.it(1)
+  nessun PDF o foglio trovato in https://www.mim.gov.it/web/sondrio/-/esito-conferimento-nomine-a-tempo-determinato-da-gae-gps-3
+  prova senza suffisso: ww.mim.gov.it/web/sondrio/-/esito-conferimento-nomine-da-gae-gps-bollettino-n-11 -> 2 allegati
+  scartati 1 decreti (non sono bollettini)
+  scarico https://www.mim.gov.it/documents/9081963/0/Bollettino_n11.pdf/a7015a4e-3797-949a-e48b-ce3794fb4996?version=1.0&t=1793886195919
+    dalla memoria: letto (righe GPS=6)
+  data ricavata dal caricamento dell'allegato: 2026-11-05
+    fasce GPS: F1=4 F2=2
+    classi GPS (classe:fascia=righe): A018:F2=1 ADSS:F1=4 B017:F2=1
+    ok [turno]: calibrato=true righe GPS=6 scartate=0
+  TURNO MANCANTE: 5
+  TURNO MANCANTE: 6
+  TURNO MANCANTE: 7
+  TURNO MANCANTE: 9
+  TURNO MANCANTE: 10
+  turni letti=6 non letti=7 -> da verificare
+RIEPILOGO DA VERIFICARE: letti con OCR=0 | zero righe=0 | non letti=84 | turni mancanti=35
 Scritto /home/runner/work/atrium/atrium/data/bollettini.json
