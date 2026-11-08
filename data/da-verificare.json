@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-08T12:10:54.616Z",
+ "aggiornato": "2026-11-08T14:30:59.955Z",
  "ocr": [],
  "zeroRighe": [],
  "nonLetti": [
@@ -9,6 +9,34 @@
    "data": "2026-10-29",
    "url": "https://fc.istruzioneer.gov.it/wp-content/uploads/sites/4/2026/10/Bollettino-totale-nomine-del-29-ottobre-2026-signed.pdf",
    "nota": "righe GPS non leggibili: 1"
+  },
+  {
+   "provincia": "AV",
+   "turno": 1,
+   "data": "2026-11-08",
+   "url": "https://atavellino.it/graduatorie-provinciali-di-supplenza-primo-bollettino-nomine-a-tempo-determinato-2026-2027-ogni-ordine-e-grado-avellino-e-provincia/",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "AV",
+   "turno": 2,
+   "data": "2026-11-08",
+   "url": "https://atavellino.it/graduatorie-provinciali-di-supplenza-secondo-bollettino-nomine-a-tempo-determinato-2026-2027-ogni-ordine-e-grado-avellino-e-provincia/",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "AV",
+   "turno": null,
+   "data": "2026-11-08",
+   "url": "https://atavellino.it/graduatorie-provinciali-di-supplenza-terzo-bollettino-nomine-a-tempo-determinato-2026-2027-ogni-ordine-e-grado-avellino-e-provincia/",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "AV",
+   "turno": null,
+   "data": "2026-11-08",
+   "url": "https://atavellino.it/graduatorie-provinciali-di-supplenza-quarto-bollettino-nomine-a-tempo-determinato-2026-2027-ogni-ordine-e-grado-avellino-e-provincia/",
+   "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "MB",
@@ -257,16 +285,9 @@
   },
   {
    "provincia": "IM",
-   "turno": 6,
+   "turno": 8,
    "data": "2026-11-08",
-   "url": "https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps--as-2026-27--vi-turno",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "SP",
-   "turno": null,
-   "data": "2026-11-08",
-   "url": "https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---vii-turno-07102026-",
+   "url": "https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps--as-2026-27--vii-turno",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
@@ -522,6 +543,41 @@
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
+   "provincia": "LU",
+   "turno": null,
+   "data": "2026-11-08",
+   "url": "https://ustlucca.it/personale-docente-nomine-gps-a-tempo-determinato-turno-1-a-s-2026-27-del-31-08-2026/",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "LU",
+   "turno": 2,
+   "data": "2026-11-08",
+   "url": "https://ustlucca.it/personale-docente-nomine-gps-a-tempo-determinato-turno-2-a-s-2026-27-del-10-09-2026/",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "LU",
+   "turno": 3,
+   "data": "2026-11-08",
+   "url": "https://ustlucca.it/personale-docente-nomine-gps-a-tempo-determinato-turno-3-a-s-2026-27-del-21-09-2026/",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "LU",
+   "turno": null,
+   "data": "2026-11-08",
+   "url": "https://ustlucca.it/personale-docente-nomine-gps-a-tempo-determinato-turno-5-a-s-2026-27-del-20-10-2026/",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "LU",
+   "turno": null,
+   "data": "2026-11-08",
+   "url": "https://ustlucca.it/personale-docente-nomine-gps-a-tempo-determinato-turno-6-a-s-2026-27-del-23-10-2026/",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
    "provincia": "PO",
    "turno": 14,
    "data": "2026-11-04",
@@ -719,11 +775,6 @@
    "provincia": "LI",
    "turno": 7,
    "nota": "bollettino non trovato (si passa dal turno 4 al 8)"
-  },
-  {
-   "provincia": "LU",
-   "turno": 4,
-   "nota": "bollettino non trovato (si passa dal turno 3 al 5)"
   },
   {
    "provincia": "PT",
@@ -1088,50 +1139,6 @@
    "turno": 12,
    "data": "2026-11-08",
    "url": "https://www.istruzionegenova.gov.it/pagine/xii-turno-gps---as-2026-2027",
-   "altriLink": [
-    "/pagine/decreto-di-nomina-i-fascia-sostegno-adaa-e-adee---genova",
-    "/pagine/ix-turno-gps---solo-nomina-pppp",
-    "/pagine/personale-educativo---eeee---ii-turno-di-nomina-gps",
-    "/pagine/xix-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
-    "/pagine/xviii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
-    "/pagine/xvii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
-    "/pagine/xvi-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
-    "/pagine/-xv-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
-    "/pagine/xiv-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
-    "/pagine/xiii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
-    "/pagine/xii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
-    "/pagine/xi-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
-    "/pagine/x-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
-    "/pagine/ix-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps"
-   ]
-  },
-  {
-   "provincia": "GE",
-   "turno": 14,
-   "data": "2026-11-08",
-   "url": "https://www.istruzionegenova.gov.it/pagine/xiv-turno-gps---as-2026-2027",
-   "altriLink": [
-    "/pagine/decreto-di-nomina-i-fascia-sostegno-adaa-e-adee---genova",
-    "/pagine/ix-turno-gps---solo-nomina-pppp",
-    "/pagine/personale-educativo---eeee---ii-turno-di-nomina-gps",
-    "/pagine/xix-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
-    "/pagine/xviii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
-    "/pagine/xvii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
-    "/pagine/xvi-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
-    "/pagine/-xv-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
-    "/pagine/xiv-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
-    "/pagine/xiii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
-    "/pagine/xii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
-    "/pagine/xi-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
-    "/pagine/x-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
-    "/pagine/ix-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps"
-   ]
-  },
-  {
-   "provincia": "GE",
-   "turno": 15,
-   "data": "2026-11-08",
-   "url": "https://www.istruzionegenova.gov.it/pagine/xv-turno-gps---as-2026-2027",
    "altriLink": [
     "/pagine/decreto-di-nomina-i-fascia-sostegno-adaa-e-adee---genova",
     "/pagine/ix-turno-gps---solo-nomina-pppp",
