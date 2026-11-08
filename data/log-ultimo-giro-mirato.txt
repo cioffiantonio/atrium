@@ -1,134 +1,351 @@
-GIRO MIRATO solo su: VI
+GIRO MIRATO solo su: MB, LO, PV
 Orizzonte Scuola: province trovate nella pagina -> 98
 Province CON link su Orizzonte Scuola: 98 | SENZA link: CH PE FM BT SU CL BZ TN AO
--- VI Vicenza --
-link da Orizzonte Scuola: 17
-collegamenti dalla pagina elenco https://vicenza.istruzioneveneto.gov.it/category/docenti-nomine-a-tempo-determinato/ : 12 (pagina di 114871 caratteri)
-   - Docenti – posti disponibili per nomine | https://vicenza.istruzioneveneto.gov.it/category/docenti-posti-disponibili-per-nomine/
-   - Docenti – nomine a tempo determinato | https://vicenza.istruzioneveneto.gov.it/category/docenti-nomine-a-tempo-determinato/
-   - Ata – Posti disponibili per nomine | https://vicenza.istruzioneveneto.gov.it/category/ata-posti-disponibili-per-nomine/
-   - Ata – Nomine a tempo determinato | https://vicenza.istruzioneveneto.gov.it/category/ata-nomine-a-tempo-determinato/
-   -  | a-proposta-di-stipula-di-contratto-a-tempo-determinato-per-supplenza-turno-del-04-11-2026/
-   -  | a-proposta-di-stipula-di-contratto-a-tempo-determinato-per-supplenza-turno-del-30-10-2026/
-   -  | a-proposta-di-stipula-di-contratto-a-tempo-determinato-per-supplenza-turno-del-26-10-2026/
-   -  | a-proposta-di-stipula-di-contratto-a-tempo-determinato-per-supplenza-turno-del-20-10-2026/
-   -  | a-proposta-di-stipula-di-contratto-a-tempo-determinato-per-supplenza-turno-del-14-10-2026/
-   -  | a-proposta-di-stipula-di-contratto-a-tempo-determinato-per-supplenza-turno-del-09-10-2026/
-   -  | a-proposta-di-stipula-di-contratto-a-tempo-determinato-per-supplenza-turno-del-02-10-2026/
-   -  | -nomine-a-tempo-determinato-per-supplenze-di-ogni-ordine-e-grado-turno-n-3-del-24-09-2026/
-collegamenti dalla pagina elenco https://vicenza.istruzioneveneto.gov.it/category/docenti-nomine-a-tempo-determinato/page/2/ : 6 (pagina di 114179 caratteri)
-   - Docenti – posti disponibili per nomine | https://vicenza.istruzioneveneto.gov.it/category/docenti-posti-disponibili-per-nomine/
-   - Docenti – nomine a tempo determinato | https://vicenza.istruzioneveneto.gov.it/category/docenti-nomine-a-tempo-determinato/
-   - Ata – Posti disponibili per nomine | https://vicenza.istruzioneveneto.gov.it/category/ata-posti-disponibili-per-nomine/
-   - Ata – Nomine a tempo determinato | https://vicenza.istruzioneveneto.gov.it/category/ata-nomine-a-tempo-determinato/
-   -  | -nomine-a-tempo-determinato-per-supplenze-di-ogni-ordine-e-grado-turno-n-2-del-15-09-2026/
-   - Leggi di pi&ugrave; | -nomine-a-tempo-determinato-per-supplenze-di-ogni-ordine-e-grado-turno-n-1-del-31-08-2026/
-collegamenti dalla pagina elenco https://vicenza.istruzioneveneto.gov.it/category/docenti-nomine-a-tempo-determinato/page/3/ : 4 (pagina di 118693 caratteri)
-   - Docenti – posti disponibili per nomine | https://vicenza.istruzioneveneto.gov.it/category/docenti-posti-disponibili-per-nomine/
-   - Docenti – nomine a tempo determinato | https://vicenza.istruzioneveneto.gov.it/category/docenti-nomine-a-tempo-determinato/
-   - Ata – Posti disponibili per nomine | https://vicenza.istruzioneveneto.gov.it/category/ata-posti-disponibili-per-nomine/
-   - Ata – Nomine a tempo determinato | https://vicenza.istruzioneveneto.gov.it/category/ata-nomine-a-tempo-determinato/
-totale pagine da controllare: 20
-  seguo l'atto dell'albo: enza.istruzioneveneto.gov.it/pubblicita-legale/?action=visatto&id=1042
-  scartati 2 allegati generici (contatti, organigramma...)
+-- LO Lodi --
+link da Orizzonte Scuola: 8
+totale pagine da controllare: 8
   scartati 1 decreti (non sono bollettini)
-  scarico https://vicenza.istruzioneveneto.gov.it/wp-content/uploads/AllegatiAttiAlboPretorio/Bollettino_TotaleNomine_TURNO1_31-08-2026_compressed.pdf
-    fasce GPS: F1=1113 F2=369
-    classi GPS (classe:fascia=righe): A003:F2=1 A008:F2=2 A009:F1=2 A010:F2=1 A011:F1=13 A011:F2=2 A013:F1=4 A014:F1=2 A015:F1=4 A015:F2=3 A016:F2=1 A018:F1=4 A019:F1=8 A020:F1=2 A020:F2=3 A021:F1=5 A023:F1=3 A023:F2=3 A026:F1=15 A026:F2=16 A027:F1=11 A027:F2=4 A028:F1=16 A028:F2=2 A031:F1=1 A031:F2=3 A032:F2=1 A033:F2=1 A034:F1=6 A034:F2=2 A037:F1=2 A037:F2=1 A040:F1=1 A040:F2=5 A041:F1=3 A041:F2=20 A042:F1=4 A042:F2=10 A045:F1=16 A045:F2=1 A046:F1=25 A047:F1=3 A047:F2=2 A050:F1=15 A051:F1=4 A051:F2=11 A052:F2=2 A054:F1=6 A060:F1=9 A060:F2=4 A061:F1=1 A062:F1=1 A064:F1=1 A066:F2=1 AAAA:F1=18 AB55:F1=1 AB56:F1=2 AD55:F1=1 ADAA:F1=9 ADAA:F2=21 ADEE:F1=1 ADEE:F2=44 ADMM:F1=141 ADMM:F2=34 ADSS:F1=350 AE55:F1=1 AG56:F1=1 AH55:F2=1 AI56:F1=2 AJ55:F1=1 AJ56:F1=2 AL56:F1=1 AM01:F1=9 AM01:F2=1 AM12:F1=52 AM2A:F1=3 AM2B:F1=11 AM2B:F2=1 AM2C:F1=7 AM2C:F2=1 AM2D:F1=1 AM2D:F2=2 AM30:F1=11 AM48:F1=5 AM48:F2=1 AM56:F1=2 AN55:F1=1 AN56:F1=1 AS01:F1=3 AS01:F2=1 AS12:F1=31 AS2A:F1=4 AS2A:F2=2 AS2B:F1=22 AS2C:F1=12 AS2D:F1=4 AS2I:F1=2 AS48:F1=19 AS48:F2=1 AS55:F2=1 AW55:F1=1 AW55:F2=1 B003:F1=2 B003:F2=3 B006:F1=1 B011:F1=2 B011:F2=1 B012:F1=15 B012:F2=7 B014:F1=1 B014:F2=5 B015:F1=11 B015:F2=12 B016:F1=7 B016:F2=2 B017:F1=14 B017:F2=11 B018:F1=1 B018:F2=2 B019:F1=1 B020:F1=2 B020:F2=1 B021:F1=2 B022:F1=3 B023:F1=2 B026:F2=2 BB02:F2=1 BC02:F2=1 BD02:F1=1 EEEE:F1=123 EEEE:F2=46 EEEM:F1=2 EEEM:F2=51 EEHN:F1=1 EEIL:F1=3 PPPP:F2=10
-    ok [turno]: calibrato=true righe GPS=1482 scartate=0
-  scartati 1 allegati generici (contatti, organigramma...)
-  scarico https://usrveneto.sharepoint.com/
+  scarico https://www.mim.gov.it/documents/9081432/0/Bollettino+definitivo+%284%29.pdf/5e20ac93-6d93-e279-5e3f-4a071a4fe377?t=1788197318978
+    dalla memoria: letto (righe GPS=661)
+  data ricavata dal caricamento dell'allegato: 2026-08-31
+    fasce GPS: F1=430 F2=231
+    classi GPS (classe:fascia=righe): A008:F1=1 A009:F1=2 A011:F1=8 A013:F1=1 A015:F2=1 A018:F1=7 A019:F1=1 A020:F2=4 A021:F2=4 A023:F1=1 A023:F2=1 A026:F1=6 A026:F2=6 A027:F1=3 A027:F2=4 A028:F1=29 A028:F2=5 A031:F2=1 A034:F1=4 A034:F2=3 A037:F1=2 A037:F2=1 A040:F2=4 A041:F1=3 A041:F2=7 A042:F1=2 A042:F2=1 A045:F1=9 A045:F2=4 A046:F1=7 A046:F2=3 A047:F1=1 A047:F2=3 A050:F1=8 A050:F2=5 A051:F1=2 A051:F2=4 A052:F2=2 A054:F2=2 A060:F1=2 A060:F2=7 AAAA:F1=24 AAAA:F2=2 AC56:F1=1 ADAA:F1=1 ADAA:F2=4 ADEE:F2=20 ADMM:F1=32 ADMM:F2=10 ADSS:F1=73 AJ56:F2=1 AL56:F1=1 AM01:F1=3 AM01:F2=5 AM12:F1=49 AM12:F2=6 AM2A:F1=2 AM2A:F2=1 AM2B:F1=5 AM2B:F2=11 AM2C:F1=1 AM2C:F2=1 AM30:F1=4 AM30:F2=4 AM48:F1=9 AM48:F2=1 AM56:F2=1 AN56:F2=1 AS01:F1=1 AS01:F2=2 AS12:F1=34 AS12:F2=1 AS23:F2=1 AS2A:F1=3 AS2A:F2=5 AS2B:F1=10 AS2B:F2=8 AS2C:F1=4 AS2C:F2=2 AS2D:F1=1 AS2D:F2=2 AS30:F2=1 AS48:F1=14 B003:F2=3 B011:F1=1 B011:F2=1 B012:F1=2 B014:F1=1 B015:F2=3 B016:F1=4 B016:F2=2 B017:F1=1 B017:F2=5 B019:F2=1 B020:F1=3 B021:F1=2 B023:F1=1 BB02:F1=1 BB02:F2=1 BC02:F1=1 EEEE:F1=42 EEEE:F2=24 EEEM:F2=18 PPPP:F2=11
+    ok [turno]: calibrato=true righe GPS=661 scartate=0
+        browser: titolo pagina "Individuazione dei destinatari della proposta di stipula di contratto a tempo de"
+  prova con il browser: 0 allegati
+     diagnosi pagina: 182 link totali, 0 verso documenti/allegati
+     riquadri incorporati: 0
+     link a possibili pagine dei turni: 1
+       > /web/lodi/-/decreto-pubblicazione-elenco-individuazione-dei-destinatari-della-proposta-di-stipula-di-contratto-a-tempo-determinato | Pubblicato atto n. 76/2026
+     link ad atti/albo/scarica: 7
+       @ https://www.mim.gov.it/web/lodi/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_s | Aprile
+       @ https://www.mim.gov.it/web/lodi/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_s | Aprile
+       @ https://www.mim.gov.it/web/lodi/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_s | Aprile
+       @ https://www.mim.gov.it/web/lodi/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_s | Aprile
+       @ https://www.mim.gov.it/web/lodi/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_s | Aprile
+       @ https://www.mim.gov.it/web/lodi/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_s | Aprile
+     blocco anti-robot nel testo: false
+     testo: elle graduatorie Provinciali di Supplenza Lodi e provincia. Bollettino 2 - Individuazione dei destinatari della proposta di stipula di contratto a te
+     testo: elle graduatorie Provinciali di Supplenza Lodi e provincia. Bollettino 2 - Lodi - MIM WebFontConfig = { custom : { families : [ "titillium_black", "t
+     testo: elle graduatorie Provinciali di Supplenza Lodi e provincia. Bollettino 2 Individuazione dei destinatari della proposta di stipula di contratto a temp
+     testo: elle graduatorie Provinciali di Supplenza Lodi e provincia. Bollettino 2 Venerdì, 11 settembre 2026 Pubblicato atto n. 76/2026 Data Scadenza: 30 sett
+  pagina senza allegato riconoscibile (110281 caratteri); collegamenti a documenti: nessuno
+     siti esterni nella pagina: www.lombardia.istruzione.it(1)
+  nessun PDF o foglio trovato in https://www.mim.gov.it/web/lodi/-/individuazione-dei-destinatari-della-proposta-di-stipula-di-contratto-a-tempo-determinato-per-l-a-s-2026-2027-inseriti-nelle-graduatorie-provinciali-d
+        browser: titolo pagina "Individuazione dei destinatari di contratti T.D. su posti comuni e di sostegno p"
+  prova con il browser: 0 allegati
+     diagnosi pagina: 182 link totali, 0 verso documenti/allegati
+     riquadri incorporati: 0
+     link a possibili pagine dei turni: 1
+       > /web/lodi/-/decreto-di-pubblicazione-dell-individuazione-dei-destinatari-di-contratti-t-d-su-posti-comuni-e-di-sostegno-per-l-a-s- | Pubblicato atto n. 80/2026
+     link ad atti/albo/scarica: 7
+       @ https://www.mim.gov.it/web/lodi/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_s | Aprile
+       @ https://www.mim.gov.it/web/lodi/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_s | Aprile
+       @ https://www.mim.gov.it/web/lodi/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_s | Aprile
+       @ https://www.mim.gov.it/web/lodi/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_s | Aprile
+       @ https://www.mim.gov.it/web/lodi/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_s | Aprile
+       @ https://www.mim.gov.it/web/lodi/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_s | Aprile
+     blocco anti-robot nel testo: false
+  pagina senza allegato riconoscibile (109296 caratteri); collegamenti a documenti: nessuno
+     siti esterni nella pagina: www.lombardia.istruzione.it(1)
+  nessun PDF o foglio trovato in https://www.mim.gov.it/web/lodi/-/individuazione-dei-destinatari-di-contratti-t-d-su-posti-comuni-e-di-sostegno-per-l-a-s-2026-2027-terzo-algoritmo
+        browser: titolo pagina "Individuazione dei destinatari di contratti T.D. su posti comuni e di sostegno p"
+  prova con il browser: 0 allegati
+     diagnosi pagina: 182 link totali, 0 verso documenti/allegati
+     riquadri incorporati: 0
+     link a possibili pagine dei turni: 1
+       > /web/lodi/-/decreto-di-pubblicazione-dell-individuazione-dei-destinatari-di-contratti-t-d-su-posti-comuni-e-di-sostegno-per-l-a-s- | Pubblicato atto n. 83/2026
+     link ad atti/albo/scarica: 7
+       @ https://www.mim.gov.it/web/lodi/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_s | Aprile
+       @ https://www.mim.gov.it/web/lodi/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_s | Aprile
+       @ https://www.mim.gov.it/web/lodi/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_s | Aprile
+       @ https://www.mim.gov.it/web/lodi/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_s | Aprile
+       @ https://www.mim.gov.it/web/lodi/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_s | Aprile
+       @ https://www.mim.gov.it/web/lodi/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_s | Aprile
+     blocco anti-robot nel testo: false
+  pagina senza allegato riconoscibile (109294 caratteri); collegamenti a documenti: nessuno
+     siti esterni nella pagina: www.lombardia.istruzione.it(1)
+  nessun PDF o foglio trovato in https://www.mim.gov.it/web/lodi/-/individuazione-dei-destinatari-di-contratti-t-d-su-posti-comuni-e-di-sostegno-per-l-a-s-2026-2027-quarto-algoritmo
+        browser: titolo pagina "Individuazione dei destinatari di contratti T.D. su posti comuni e di sostegno p"
+  prova con il browser: 0 allegati
+     diagnosi pagina: 182 link totali, 0 verso documenti/allegati
+     riquadri incorporati: 0
+     link a possibili pagine dei turni: 1
+       > /web/lodi/-/decreto-di-pubblicazione-dell-individuazione-dei-destinatari-di-contratti-t-d-su-posti-comuni-e-di-sostegno-per-l-a-s- | Pubblicato atto n. 85/2026
+     link ad atti/albo/scarica: 7
+       @ https://www.mim.gov.it/web/lodi/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_s | Aprile
+       @ https://www.mim.gov.it/web/lodi/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_s | Aprile
+       @ https://www.mim.gov.it/web/lodi/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_s | Aprile
+       @ https://www.mim.gov.it/web/lodi/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_s | Aprile
+       @ https://www.mim.gov.it/web/lodi/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_s | Aprile
+       @ https://www.mim.gov.it/web/lodi/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_s | Aprile
+     blocco anti-robot nel testo: false
+  pagina senza allegato riconoscibile (109340 caratteri); collegamenti a documenti: nessuno
+     siti esterni nella pagina: www.lombardia.istruzione.it(1)
+  nessun PDF o foglio trovato in https://www.mim.gov.it/web/lodi/-/individuazione-dei-destinatari-di-contratti-t-d-su-posti-comuni-e-di-sostegno-per-l-a-s-2026-2027-quinto-algoritmo
+  prova senza suffisso: i-di-contratti-t-d-su-posti-comuni-e-di-sostegno-per-l-a-s-2026-2027-6-algoritmo -> 2 allegati
+  scartati 1 decreti (non sono bollettini)
+  scarico https://www.mim.gov.it/documents/9081432/0/bollettino+.pdf/e5e0735e-a070-60c8-eed7-8bff53ed6b67?version=1.0&t=1792662881760
+    dalla memoria: letto (righe GPS=4)
+  data ricavata dal caricamento dell'allegato: 2026-10-22
+    fasce GPS: F1=1 F2=3
+    classi GPS (classe:fascia=righe): A015:F2=1 A060:F2=1 ADSS:F1=1 EEEM:F2=1
+    ok [turno]: calibrato=true righe GPS=4 scartate=0
+        browser: titolo pagina "Individuazione dei destinatari di contratti T.D. su posti comuni e di sostegno p"
+  prova con il browser: 0 allegati
+     diagnosi pagina: 182 link totali, 0 verso documenti/allegati
+     riquadri incorporati: 0
+     link a possibili pagine dei turni: 1
+       > /web/lodi/-/decreto-di-pubblicazione-dell-individuazione-dei-destinatari-di-contratti-t-d-su-posti-comuni-e-di-sostegno-per-l-a-s- | atto n. 89/2026
+     link ad atti/albo/scarica: 7
+       @ https://www.mim.gov.it/web/lodi/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_s | Aprile
+       @ https://www.mim.gov.it/web/lodi/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_s | Aprile
+       @ https://www.mim.gov.it/web/lodi/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_s | Aprile
+       @ https://www.mim.gov.it/web/lodi/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_s | Aprile
+       @ https://www.mim.gov.it/web/lodi/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_s | Aprile
+       @ https://www.mim.gov.it/web/lodi/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_s | Aprile
+     blocco anti-robot nel testo: false
+  pagina senza allegato riconoscibile (109282 caratteri); collegamenti a documenti: nessuno
+     siti esterni nella pagina: www.lombardia.istruzione.it(1)
+  nessun PDF o foglio trovato in https://www.mim.gov.it/web/lodi/-/individuazione-dei-destinatari-di-contratti-t-d-su-posti-comuni-e-di-sostegno-per-l-a-s-2026-2027-settimo-algoritmo
+  nessun PDF o foglio trovato in https://www.mim.gov.it/web/lodi/-/decreto-rettifica-parziale-nomine-2-algoritmo-1
+  turni letti=2 non letti=5 -> da verificare
+-- MB Monza e Brianza --
+link da Orizzonte Scuola: 8
+totale pagine da controllare: 8
+  scarico https://www.mim.gov.it/documents/9081736/0/m_pi.AOOUSPMB.REGISTRO+UFFICIALE%28U%29.0015556.28-08-2026.pdf/ad5819a6-f528-8d1c-d096-48967ae40534?version=1.0&t=1787922047356
     dalla memoria: non letto (righe GPS=0)
+  scarico https://www.mim.gov.it/documents/9081736/0/Bollettino_TotaleNomine+%284%29.pdf/2ea01f17-0315-d6b5-e103-70461e0d92cf?version=1.0&t=1787922047517
+    dalla memoria: letto (righe GPS=1311)
+  data ricavata dal caricamento dell'allegato: 2026-08-28
+    fasce GPS: F1=990 F2=321
+    classi GPS (classe:fascia=righe): A007:F1=1 A008:F1=2 A008:F2=1 A009:F1=4 A010:F1=3 A011:F1=11 A014:F1=1 A014:F2=1 A015:F2=2 A016:F2=2 A018:F1=6 A019:F1=9 A020:F1=1 A020:F2=5 A021:F1=5 A021:F2=3 A023:F1=2 A023:F2=4 A026:F1=7 A026:F2=8 A027:F1=12 A027:F2=3 A028:F1=28 A028:F2=7 A031:F1=1 A031:F2=1 A034:F1=5 A034:F2=3 A036:F2=1 A037:F1=3 A037:F2=7 A040:F1=1 A040:F2=10 A041:F1=7 A041:F2=18 A042:F1=3 A042:F2=5 A044:F2=1 A045:F1=12 A045:F2=1 A046:F1=12 A047:F1=3 A047:F2=1 A050:F1=13 A051:F2=6 A053:F1=1 A054:F1=4 A057:F1=1 A059:F2=1 A060:F1=9 A060:F2=5 A061:F1=2 A063:F1=1 A064:F1=1 AAAA:F1=31 AB55:F2=1 AC56:F1=1 ADAA:F1=16 ADAA:F2=21 ADEE:F1=2 ADEE:F2=67 ADMM:F1=180 ADMM:F2=42 ADSS:F1=222 AF55:F1=1 AH55:F2=1 AI55:F1=1 AJ56:F1=1 AK56:F1=1 AM01:F1=12 AM12:F1=55 AM2A:F1=7 AM2A:F2=4 AM2B:F1=27 AM2B:F2=5 AM2C:F1=8 AM2C:F2=1 AM2D:F2=2 AM30:F1=13 AM30:F2=1 AM48:F1=12 AM56:F1=1 AO55:F1=1 AS01:F1=7 AS01:F2=2 AS12:F1=24 AS23:F2=3 AS2A:F1=1 AS2B:F1=22 AS2B:F2=3 AS2C:F1=6 AS2D:F1=1 AS2D:F2=3 AS2E:F2=1 AS48:F1=10 AS55:F1=1 B003:F1=1 B003:F2=2 B006:F1=3 B006:F2=1 B011:F1=2 B011:F2=2 B012:F1=6 B014:F1=4 B015:F1=5 B015:F2=3 B016:F1=8 B016:F2=3 B017:F1=4 B017:F2=3 B018:F2=1 B019:F1=1 B020:F1=1 B020:F2=1 B021:F1=1 B022:F2=1 BA02:F2=1 EEEE:F1=117 EEEE:F2=7 EEEM:F2=43 EEHN:F1=2
+    ok [turno]: calibrato=true righe GPS=1311 scartate=0
+  prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027
+        browser: titolo pagina "Incarichi a tempo determinato personale docente - a.s. 2026/2027 - Incarichi a t"
+  prova con il browser: 0 allegati
+     diagnosi pagina: 213 link totali, 0 verso documenti/allegati
+     riquadri incorporati: 0
+     link a possibili pagine dei turni: 1
+       > /web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-2-scorrimento | Pubblicazione Albo n. 107
+     link ad atti/albo/scarica: 5
+       @ https://www.mim.gov.it/web/monza-brianza/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycl | Aprile
+       @ https://www.mim.gov.it/web/monza-brianza/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycl | Aprile
+       @ https://www.mim.gov.it/web/monza-brianza/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycl | Aprile
+       @ https://www.mim.gov.it/web/monza-brianza/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycl | Aprile
+       @ https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-2-scorrimento | Pubblicazione Albo n. 107
+     blocco anti-robot nel testo: false
+  pagina senza allegato riconoscibile (121865 caratteri); collegamenti a documenti: nessuno
+     siti esterni nella pagina: www.lombardia.istruzione.it(1)
+  nessun PDF o foglio trovato in https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-2
+        browser: titolo pagina "Incarichi a tempo determinato personale docente - a.s. 2026/2027 - 3° scorriment"
+  prova con il browser: 0 allegati
+     diagnosi pagina: 77 link totali, 0 verso documenti/allegati
+     riquadri incorporati: 0
+     link a possibili pagine dei turni: 2
+       > /web/monza-brianza/-/disponibilita-per-nomine-a-tempo-determinato-personale-docente-a-s-2026-27-infanzia-primaria-secondaria-i-e-i | Disponibilità per nomine a tempo determinato perso
+       > /web/monza-brianza/-/disponibilita-per-nomine-a-tempo-determinato-personale-docente-a-s-2026-27-infanzia-primaria-secondaria-i-e-i | Disponibilità per nomine a tempo determinato perso
+     link ad atti/albo/scarica: 2
+       @ https://www.mim.gov.it/web/monza-brianza/albo-atti-correnti/-/asset_publisher/KzN63xnnaupU/content/incarichi-a-tempo-det | Albo n.114 del 5/10/2026
+       @ /web/monza-brianza/pubblicità-legale | Pubblicità Legale
+     blocco anti-robot nel testo: false
+  pagina senza allegato riconoscibile (120396 caratteri); collegamenti a documenti: nessuno
+     siti esterni nella pagina: cercalatuascuola.istruzione.it(1), www.lombardia.istruzione.it(1)
+  nessun PDF o foglio trovato in https://www.mim.gov.it/web/monza-brianza/home/-/asset_publisher/ultimecomunicazioni/content/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-3-scorrimento-1?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_ultimecomunicazioni_redirect=https%3A%2F%2Fwww.mim.gov.it%2Fweb%2Fmonza-brianza%2Fhome%3Fp_p_id%3Dcom_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_ultimecomunicazioni%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_ultimecomunicazioni_cur%3D0%26p_r_p_resetCur%3Dfalse%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_ultimecomunicazioni_assetEntryId%3D11201465
+  prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027
+        browser: titolo pagina "Incarichi a tempo determinato personale docente - a.s. 2026/2027 - Incarichi a t"
+  prova con il browser: 0 allegati
+     diagnosi pagina: 213 link totali, 0 verso documenti/allegati
+     riquadri incorporati: 0
+     link a possibili pagine dei turni: 1
+       > /web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-4-scorrimento | Pubblicazione Albo n. 116
+     link ad atti/albo/scarica: 5
+       @ https://www.mim.gov.it/web/monza-brianza/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycl | Aprile
+       @ https://www.mim.gov.it/web/monza-brianza/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycl | Aprile
+       @ https://www.mim.gov.it/web/monza-brianza/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycl | Aprile
+       @ https://www.mim.gov.it/web/monza-brianza/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycl | Aprile
+       @ https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-4-scorrimento | Pubblicazione Albo n. 116
+     blocco anti-robot nel testo: false
+  pagina senza allegato riconoscibile (121861 caratteri); collegamenti a documenti: nessuno
+     siti esterni nella pagina: www.lombardia.istruzione.it(1)
+  nessun PDF o foglio trovato in https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-4
+  prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027
+        browser: titolo pagina "Incarichi a tempo determinato personale docente - a.s. 2026/2027 - Incarichi a t"
+  prova con il browser: 0 allegati
+     diagnosi pagina: 213 link totali, 0 verso documenti/allegati
+     riquadri incorporati: 0
+     link a possibili pagine dei turni: 1
+       > /web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-5-scorrimento | Pubblicazione Albo n. 119
+     link ad atti/albo/scarica: 5
+       @ https://www.mim.gov.it/web/monza-brianza/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycl | Aprile
+       @ https://www.mim.gov.it/web/monza-brianza/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycl | Aprile
+       @ https://www.mim.gov.it/web/monza-brianza/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycl | Aprile
+       @ https://www.mim.gov.it/web/monza-brianza/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycl | Aprile
+       @ https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-5-scorrimento | Pubblicazione Albo n. 119
+     blocco anti-robot nel testo: false
+  pagina senza allegato riconoscibile (121905 caratteri); collegamenti a documenti: nessuno
+     siti esterni nella pagina: www.lombardia.istruzione.it(1)
+  nessun PDF o foglio trovato in https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-6
+  prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027
+        browser: titolo pagina "Incarichi a tempo determinato personale docente - a.s. 2026/2027 - Incarichi a t"
+  prova con il browser: 0 allegati
+     diagnosi pagina: 213 link totali, 0 verso documenti/allegati
+     riquadri incorporati: 0
+     link a possibili pagine dei turni: 1
+       > /web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-6-scorrimento | Pubblicazione Albo n. 121
+     link ad atti/albo/scarica: 5
+       @ https://www.mim.gov.it/web/monza-brianza/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycl | Aprile
+       @ https://www.mim.gov.it/web/monza-brianza/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycl | Aprile
+       @ https://www.mim.gov.it/web/monza-brianza/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycl | Aprile
+       @ https://www.mim.gov.it/web/monza-brianza/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycl | Aprile
+       @ https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-6-scorrimento | Pubblicazione Albo n. 121
+     blocco anti-robot nel testo: false
+  pagina senza allegato riconoscibile (121860 caratteri); collegamenti a documenti: nessuno
+     siti esterni nella pagina: www.lombardia.istruzione.it(1)
+  nessun PDF o foglio trovato in https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-8
+  prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027
+        browser: titolo pagina "Incarichi a tempo determinato personale docente - a.s. 2026/2027 - Incarichi a t"
+  prova con il browser: 0 allegati
+     diagnosi pagina: 213 link totali, 0 verso documenti/allegati
+     riquadri incorporati: 0
+     link a possibili pagine dei turni: 1
+       > /web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-7-scorrimento | Pubblicazione Albo n. 122
+     link ad atti/albo/scarica: 5
+       @ https://www.mim.gov.it/web/monza-brianza/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycl | Aprile
+       @ https://www.mim.gov.it/web/monza-brianza/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycl | Aprile
+       @ https://www.mim.gov.it/web/monza-brianza/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycl | Aprile
+       @ https://www.mim.gov.it/web/monza-brianza/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycl | Aprile
+       @ https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-7-scorrimento | Pubblicazione Albo n. 122
+     blocco anti-robot nel testo: false
+  pagina senza allegato riconoscibile (121874 caratteri); collegamenti a documenti: nessuno
+     siti esterni nella pagina: www.lombardia.istruzione.it(1)
+  nessun PDF o foglio trovato in https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-10
+  scarico https://www.mim.gov.it/documents/9081736/10325740/m_pi.AOOUSPMB.REGISTRO+UFFICIALE%28U%29.0019563.29-10-2026.pdf/5fadb13f-55f1-a085-0139-f8ef43138ba1?version=1.0&t=1793281231377
+    dalla memoria: non letto (righe GPS=0)
+  data ricavata dal caricamento dell'allegato: 2026-10-29
     fasce GPS: F1=0 F2=0
     ok [turno]: calibrato=false righe GPS=0 scartate=0
-  seguo l'atto dell'albo: enza.istruzioneveneto.gov.it/pubblicita-legale/?action=visatto&id=1051
-  scartati 2 allegati generici (contatti, organigramma...)
-  scartati 1 decreti (non sono bollettini)
-  scarico https://vicenza.istruzioneveneto.gov.it/wp-content/uploads/AllegatiAttiAlboPretorio/Bollettino_TotaleNomine_TURNO2_15-09-2026.pdf
-    fasce GPS: F1=60 F2=65
-    classi GPS (classe:fascia=righe): A010:F2=1 A011:F1=2 A018:F1=1 A019:F1=2 A020:F2=1 A021:F1=1 A023:F2=1 A026:F2=2 A028:F1=2 A028:F2=4 A032:F2=1 A034:F1=1 A041:F2=3 A045:F1=2 A045:F2=2 A047:F2=1 A050:F1=1 A051:F2=1 A061:F2=1 A064:F2=1 AAAA:F1=8 ADAA:F2=2 ADMM:F2=2 ADSS:F1=18 AM01:F1=2 AM01:F2=1 AM12:F1=2 AM2B:F1=1 AM2B:F2=1 AM2C:F2=1 AM30:F1=1 AM30:F2=1 AS12:F1=3 AS2A:F2=1 AS2B:F1=1 AS2D:F2=1 AS48:F1=3 AS48:F2=2 B003:F2=1 B012:F2=1 B014:F2=2 B015:F2=8 B016:F1=1 B017:F2=4 B018:F2=1 B020:F2=1 B021:F1=1 EEEE:F1=7 EEEE:F2=3 EEEM:F2=10 PPPP:F2=3
-    ok [turno]: calibrato=true righe GPS=125 scartate=0
-  seguo l'atto dell'albo: enza.istruzioneveneto.gov.it/pubblicita-legale/?action=visatto&id=1055
-  scartati 2 allegati generici (contatti, organigramma...)
-  scartati 1 decreti (non sono bollettini)
-  scarico https://vicenza.istruzioneveneto.gov.it/wp-content/uploads/AllegatiAttiAlboPretorio/Bollettino_TotaleNomine_DEF_24-09-2026.pdf
-    fasce GPS: F1=17 F2=20
-    classi GPS (classe:fascia=righe): A010:F2=1 A018:F2=1 A019:F1=1 A026:F2=1 A028:F2=2 A046:F1=2 A047:F2=1 A051:F2=1 A060:F2=1 AAAA:F1=4 AB56:F1=1 ADMM:F2=1 ADSS:F1=3 AM01:F1=1 AM12:F1=2 AM2B:F2=1 AM2C:F1=1 AM2C:F2=1 AS2A:F2=1 B003:F2=1 B015:F2=2 B017:F2=3 B018:F2=1 EEEE:F1=2 EEEM:F2=1
-    ok [turno]: calibrato=true righe GPS=37 scartate=0
-  seguo l'atto dell'albo: enza.istruzioneveneto.gov.it/pubblicita-legale/?action=visatto&id=1060
-  scartati 2 allegati generici (contatti, organigramma...)
-  scartati 1 decreti (non sono bollettini)
-  scarico https://vicenza.istruzioneveneto.gov.it/wp-content/uploads/AllegatiAttiAlboPretorio/Bollettino_TotaleNomine_Turno-4-del-2-ottobre-2026.pdf
-    fasce GPS: F1=9 F2=13
-    classi GPS (classe:fascia=righe): A010:F2=1 A018:F2=1 A026:F2=1 A028:F2=2 A046:F1=1 A047:F2=1 A051:F2=1 AAAA:F1=4 ADSS:F1=1 AM12:F1=1 AM2B:F2=1 AM2C:F1=1 AM2C:F2=1 B012:F2=1 B015:F2=1 B017:F2=1 EEEE:F1=1 EEEM:F2=1
-    ok [turno]: calibrato=true righe GPS=22 scartate=0
-  seguo l'atto dell'albo: enza.istruzioneveneto.gov.it/pubblicita-legale/?action=visatto&id=1062
-  scartati 2 allegati generici (contatti, organigramma...)
-  scartati 1 decreti (non sono bollettini)
-  scarico https://vicenza.istruzioneveneto.gov.it/wp-content/uploads/AllegatiAttiAlboPretorio/BollettinoNomine_TURNO-5_09-10-2026.pdf
-    fasce GPS: F1=6 F2=9
-    classi GPS (classe:fascia=righe): A018:F2=1 A026:F2=1 A028:F2=2 A046:F1=1 A047:F2=1 A051:F2=1 AAAA:F1=2 AAAA:F2=1 AB56:F2=1 ADAA:F1=1 AM2C:F1=1 EEEE:F1=1 EEEM:F2=1
-    ok [turno]: calibrato=true righe GPS=15 scartate=0
-  seguo l'atto dell'albo: enza.istruzioneveneto.gov.it/pubblicita-legale/?action=visatto&id=1065
-  scartati 2 allegati generici (contatti, organigramma...)
-  scartati 1 decreti (non sono bollettini)
-  scarico https://vicenza.istruzioneveneto.gov.it/wp-content/uploads/AllegatiAttiAlboPretorio/Bollettino_TotaleNomine_Turno6_14-10-2026.pdf
-    fasce GPS: F1=4 F2=2
-    classi GPS (classe:fascia=righe): A028:F2=1 A046:F1=1 A051:F2=1 AAAA:F1=2 EEEE:F1=1
-    ok [turno]: calibrato=true righe GPS=6 scartate=0
-  seguo l'atto dell'albo: enza.istruzioneveneto.gov.it/pubblicita-legale/?action=visatto&id=1067
-  scartati 2 allegati generici (contatti, organigramma...)
-  scartati 1 decreti (non sono bollettini)
-  scarico https://vicenza.istruzioneveneto.gov.it/wp-content/uploads/AllegatiAttiAlboPretorio/BollettinoNomine_TURNO7_20-10-2026.pdf
-    fasce GPS: F1=2 F2=0
-    classi GPS (classe:fascia=righe): A046:F1=1 EEEE:F1=1
-    ok [turno]: calibrato=true righe GPS=2 scartate=0
-  seguo l'atto dell'albo: enza.istruzioneveneto.gov.it/pubblicita-legale/?action=visatto&id=1069
-  scartati 2 allegati generici (contatti, organigramma...)
-  scartati 1 decreti (non sono bollettini)
-  scarico https://vicenza.istruzioneveneto.gov.it/wp-content/uploads/AllegatiAttiAlboPretorio/BollettinoNomine_TURNO8_26-10-2026.pdf
-    fasce GPS: F1=31 F2=14
-    classi GPS (classe:fascia=righe): A046:F1=1 ADAA:F2=13 ADMM:F1=1 ADMM:F2=1 ADSS:F1=28 EEEE:F1=1
-    ok [turno]: calibrato=true righe GPS=45 scartate=0
-  seguo l'atto dell'albo: enza.istruzioneveneto.gov.it/pubblicita-legale/?action=visatto&id=1070
-  scartati 2 allegati generici (contatti, organigramma...)
-  scartati 1 decreti (non sono bollettini)
-  scarico https://vicenza.istruzioneveneto.gov.it/wp-content/uploads/AllegatiAttiAlboPretorio/BollettinoNomine_Turno9_30-10-2026.pdf
-    fasce GPS: F1=4 F2=1
-    classi GPS (classe:fascia=righe): ADMM:F1=1 ADSS:F1=3 EEEE:F2=1
-    ok [turno]: calibrato=true righe GPS=5 scartate=0
-  seguo l'atto dell'albo: enza.istruzioneveneto.gov.it/pubblicita-legale/?action=visatto&id=1072
-  scartati 2 allegati generici (contatti, organigramma...)
-  scartati 1 decreti (non sono bollettini)
-  scarico https://vicenza.istruzioneveneto.gov.it/wp-content/uploads/AllegatiAttiAlboPretorio/BollettinoNomine_TURNO10_04-11-2026.pdf
-    fasce GPS: F1=2 F2=1
-    classi GPS (classe:fascia=righe): ADSS:F1=2 AW55:F2=1
-    ok [turno]: calibrato=true righe GPS=3 scartate=0
-  pagina senza allegato riconoscibile (363593 caratteri); collegamenti a documenti: nessuno
-     siti esterni nella pagina: l.facebook.com(9), static.xx.fbcdn.net(3), developers.facebook.com(1)
-  nessun PDF o foglio trovato in https://facebook.com/sharer/sharer.php?u=https://www.orizzontescuola.it/supplenze-docenti-ecco-i-bollettini-nomine-al-31-agosto-o-30-giugno-2027-in-aggiornamento/
-  errore su whatsapp://send?text=Supplenze docenti 2026/27: bollettini del 5 novembre [AGGIORNATO]%20https://www.orizzontescuola.it/supplenze-docenti-ecco-i-bollettini-nomine-al-31-agosto-o-30-giugno-2027-in-aggiornamento/ -> fetch failed
-  pagina senza allegato riconoscibile (11350 caratteri); collegamenti a documenti: nessuno
-     siti esterni nella pagina: nessuno
-  nessun PDF o foglio trovato in https://t.me/share/url?text=Supplenze docenti 2026/27: bollettini del 5 novembre [AGGIORNATO]&url=https://www.orizzontescuola.it/supplenze-docenti-ecco-i-bollettini-nomine-al-31-agosto-o-30-giugno-2027-in-aggiornamento/
-  pagina senza allegato riconoscibile (2919046 caratteri); collegamenti a documenti: nessuno
-     siti esterni nella pagina: encrypted-tbn3.gstatic.com(1), www.tiktok.com(1), www.orizzontescuola.it(1)
-  non sembra un bollettino, ignoro: https://profile.google.com/cp/Cg0vZy8xMXZrejAweDg1
-  pagina senza allegato riconoscibile (78486 caratteri); collegamenti a documenti: nessuno
-     siti esterni nella pagina: profile.google.com(4), x.com(2), www.tiktok.com(2), whatsapp.com(2), plus.orizzontescuola.it(2), formazione.orizzontescuola.it(2), www.printfriendly.com(2), gmpg.org(1)
-  non sembra un bollettino, ignoro: https://www.orizzontescuola.it/concorso-dirigenti-il-ministero-prepara-il-nuovo-bando-gioca-danticipo-preparati/
-  scartati 1 allegati generici (contatti, organigramma...)
-  stesso documento già trovato in questo giro, salto: https://usrveneto.sharepoint.com/
-  nessun PDF utilizzabile in https://vicenza.istruzioneveneto.gov.it/category/docenti-posti-disponibili-per-nomine/
-  scartati 1 allegati generici (contatti, organigramma...)
-  stesso documento già trovato in questo giro, salto: https://usrveneto.sharepoint.com/
-  nessun PDF utilizzabile in https://vicenza.istruzioneveneto.gov.it/category/docenti-nomine-a-tempo-determinato/
-  scartati 1 allegati generici (contatti, organigramma...)
-  stesso documento già trovato in questo giro, salto: https://usrveneto.sharepoint.com/
-  nessun PDF utilizzabile in https://vicenza.istruzioneveneto.gov.it/category/ata-posti-disponibili-per-nomine/
-  scartati 1 allegati generici (contatti, organigramma...)
-  stesso documento già trovato in questo giro, salto: https://usrveneto.sharepoint.com/
-  nessun PDF utilizzabile in https://vicenza.istruzioneveneto.gov.it/category/ata-nomine-a-tempo-determinato/
-  turni letti=10 non letti=6 -> da verificare
-RIEPILOGO DA VERIFICARE: letti con OCR=0 | zero righe=0 | non letti=121 | turni mancanti=42
+  turni letti=1 non letti=7 -> da verificare
+-- PV Pavia --
+link da Orizzonte Scuola: 9
+totale pagine da controllare: 8
+  prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/pavia/-/pubblicazione-esiti-individuazione-del-personale-docente-di-ogni-ordine-e-grado-ed-educativo-destinatario-di-contratto-a-tempo-determinato-per-l-ann
+        browser: titolo pagina "Pubblicazione esiti individuazione del personale docente di ogni ordine e grado "
+  prova con il browser: 0 allegati
+     diagnosi pagina: 166 link totali, 0 verso documenti/allegati
+     riquadri incorporati: 0
+     link a possibili pagine dei turni: 0
+     link ad atti/albo/scarica: 3
+       @ https://www.mim.gov.it/web/pavia/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_ | Aprile
+       @ https://www.mim.gov.it/web/pavia/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_ | Aprile
+       @ https://www.mim.gov.it/web/pavia/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_ | Aprile
+     blocco anti-robot nel testo: false
+     testo: Pubblicazione esiti individuazione del personale docente di ogni ordine e grado ed educativo destin
+     testo: scolastico 2026/27 nella provincia di Pavia - Pubblicazione esiti individuazione del personale docente di ogni ordine e grado ed educativo destin
+     testo: cembre USR LOMBARDIA Pavia Home Comunicazioni Pubblicazione esiti individuazione del personale docente di ogni ordine e grado ed educativo destin
+     testo: o scolastico 2026/27 nella provincia di Pavia Pubblicazione esiti individuazione del personale docente di ogni ordine e grado ed educativo destin
+  pagina senza allegato riconoscibile (107163 caratteri); collegamenti a documenti: nessuno
+     siti esterni nella pagina: www.lombardia.istruzione.it(1)
+  nessun PDF o foglio trovato in https://www.mim.gov.it/web/pavia/-/pubblicazione-esiti-individuazione-del-personale-docente-di-ogni-ordine-e-grado-ed-educativo-destinatario-di-contratto-a-tempo-determinato-per-l-ann-3
+  prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/pavia/-/pubblicazione-esiti-individuazione-del-personale-docente-di-ogni-ordine-e-grado-ed-educativo-destinatario-di-contratto-a-tempo-determinato-per-l-ann
+        browser: titolo pagina "Pubblicazione esiti individuazione del personale docente di ogni ordine e grado "
+  prova con il browser: 0 allegati
+     diagnosi pagina: 166 link totali, 0 verso documenti/allegati
+     riquadri incorporati: 0
+     link a possibili pagine dei turni: 0
+     link ad atti/albo/scarica: 3
+       @ https://www.mim.gov.it/web/pavia/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_ | Aprile
+       @ https://www.mim.gov.it/web/pavia/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_ | Aprile
+       @ https://www.mim.gov.it/web/pavia/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_ | Aprile
+     blocco anti-robot nel testo: false
+     testo: Pubblicazione esiti individuazione del personale docente di ogni ordine e grado ed educativo destin
+     testo: lla provincia di Pavia – 2° turno di nomina - Pubblicazione esiti individuazione del personale docente di ogni ordine e grado ed educativo destin
+     testo: cembre USR LOMBARDIA Pavia Home Comunicazioni Pubblicazione esiti individuazione del personale docente di ogni ordine e grado ed educativo destin
+     testo: nella provincia di Pavia – 2° turno di nomina Pubblicazione esiti individuazione del personale docente di ogni ordine e grado ed educativo destin
+  pagina senza allegato riconoscibile (105768 caratteri); collegamenti a documenti: nessuno
+     siti esterni nella pagina: www.lombardia.istruzione.it(1)
+  nessun PDF o foglio trovato in https://www.mim.gov.it/web/pavia/-/pubblicazione-esiti-individuazione-del-personale-docente-di-ogni-ordine-e-grado-ed-educativo-destinatario-di-contratto-a-tempo-determinato-per-l-ann-5
+  scarico https://www.mim.gov.it/documents/9081911/10331371/m_pi.AOOUSPPV.REGISTRO+UFFICIALE%28U%29.0007101.21-09-2026.pdf/c4cf7484-b984-6630-7ac5-39b028a6e711?version=1.0&t=1789989563571
+    dalla memoria: non letto (righe GPS=0)
+  scarico https://www.mim.gov.it/documents/9081911/10331371/IIGR+disponibilit%C3%A0+residue+dopo+nomine+18_09_2026.pdf/efce48dc-fc67-d8f5-5752-35c9de4e974f?version=1.0&t=1789989612048
+    dalla memoria: non letto (righe GPS=0)
+  documento di tipo decreto, non è un bollettino: ignoro 6.pdf/c4cf7484-b984-6630-7ac5-39b028a6e711?version=1.0&t=1789989563571
+  errore su https://www.mim.gov.it/web/usr-lombardia/-/pubblicazione-esiti-individuazione-del-personale-docente-di-ogni-ordine-e-grado-ed-educativo-destinatario-di-contratto-a-tempo-determinato-per-l-anno- -> HTTP 404 su https://www.mim.gov.it/web/usr-lombardia/-/pubblicazione-esiti-individuazione-del-personale-docente-di-ogni-ordine-e-grado-ed-educativo-destinatario-di-contratto-a-tempo-determinato-per-l-anno-
+  prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/pavia/-/pubblicazione-esiti-individuazione-del-personale-docente-di-ogni-ordine-e-grado-ed-educativo-destinatario-di-contratto-a-tempo-determinato-per-l-an
+        browser: titolo pagina "Pubblicazione esiti individuazione del personale docente di ogni ordine e grado "
+  prova con il browser: 0 allegati
+     diagnosi pagina: 166 link totali, 0 verso documenti/allegati
+     riquadri incorporati: 0
+     link a possibili pagine dei turni: 0
+     link ad atti/albo/scarica: 3
+       @ https://www.mim.gov.it/web/pavia/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_ | Aprile
+       @ https://www.mim.gov.it/web/pavia/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_ | Aprile
+       @ https://www.mim.gov.it/web/pavia/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_ | Aprile
+     blocco anti-robot nel testo: false
+     testo: Pubblicazione esiti individuazione del personale docente di ogni ordine e grado ed educativo destin
+     testo: lla provincia di Pavia – 6° turno di nomina - Pubblicazione esiti individuazione del personale docente di ogni ordine e grado ed educativo destin
+     testo: cembre USR LOMBARDIA Pavia Home Comunicazioni Pubblicazione esiti individuazione del personale docente di ogni ordine e grado ed educativo destin
+     testo: nella provincia di Pavia – 6° turno di nomina Pubblicazione esiti individuazione del personale docente di ogni ordine e grado ed educativo destin
+  pagina senza allegato riconoscibile (105917 caratteri); collegamenti a documenti: nessuno
+     siti esterni nella pagina: www.lombardia.istruzione.it(1)
+  nessun PDF o foglio trovato in https://www.mim.gov.it/web/pavia/-/pubblicazione-esiti-individuazione-del-personale-docente-di-ogni-ordine-e-grado-ed-educativo-destinatario-di-contratto-a-tempo-determinato-per-l-an-13
+  prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/pavia/-/pubblicazione-esiti-individuazione-del-personale-docente-di-ogni-ordine-e-grado-ed-educativo-destinatario-di-contratto-a-tempo-determinato-per-l-an
+        browser: titolo pagina "Pubblicazione esiti individuazione del personale docente di ogni ordine e grado "
+  prova con il browser: 0 allegati
+     diagnosi pagina: 166 link totali, 0 verso documenti/allegati
+     riquadri incorporati: 0
+     link a possibili pagine dei turni: 0
+     link ad atti/albo/scarica: 3
+       @ https://www.mim.gov.it/web/pavia/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_ | Aprile
+       @ https://www.mim.gov.it/web/pavia/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_ | Aprile
+       @ https://www.mim.gov.it/web/pavia/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_ | Aprile
+     blocco anti-robot nel testo: false
+     testo: Pubblicazione esiti individuazione del personale docente di ogni ordine e grado ed educativo destin
+     testo: scolastico 2026/27 nella provincia di Pavia - Pubblicazione esiti individuazione del personale docente di ogni ordine e grado ed educativo destin
+     testo: cembre USR LOMBARDIA Pavia Home Comunicazioni Pubblicazione esiti individuazione del personale docente di ogni ordine e grado ed educativo destin
+     testo: o scolastico 2026/27 nella provincia di Pavia Pubblicazione esiti individuazione del personale docente di ogni ordine e grado ed educativo destin
+  pagina senza allegato riconoscibile (105639 caratteri); collegamenti a documenti: nessuno
+     siti esterni nella pagina: www.lombardia.istruzione.it(1)
+  nessun PDF o foglio trovato in https://www.mim.gov.it/web/pavia/-/pubblicazione-esiti-individuazione-del-personale-docente-di-ogni-ordine-e-grado-ed-educativo-destinatario-di-contratto-a-tempo-determinato-per-l-an-15
+  prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/pavia/-/pubblicazione-esiti-individuazione-del-personale-docente-di-ogni-ordine-e-grado-ed-educativo-destinatario-di-contratto-a-tempo-determinato-per-l-an
+        browser: titolo pagina "Pubblicazione esiti individuazione del personale docente di ogni ordine e grado "
+  prova con il browser: 0 allegati
+     diagnosi pagina: 166 link totali, 0 verso documenti/allegati
+     riquadri incorporati: 0
+     link a possibili pagine dei turni: 0
+     link ad atti/albo/scarica: 3
+       @ https://www.mim.gov.it/web/pavia/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_ | Aprile
+       @ https://www.mim.gov.it/web/pavia/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_ | Aprile
+       @ https://www.mim.gov.it/web/pavia/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_ | Aprile
+     blocco anti-robot nel testo: false
+     testo: Pubblicazione esiti individuazione del personale docente di ogni ordine e grado ed educativo destin
+     testo: scolastico 2026/27 nella provincia di Pavia - Pubblicazione esiti individuazione del personale docente di ogni ordine e grado ed educativo destin
+     testo: cembre USR LOMBARDIA Pavia Home Comunicazioni Pubblicazione esiti individuazione del personale docente di ogni ordine e grado ed educativo destin
+     testo: o scolastico 2026/27 nella provincia di Pavia Pubblicazione esiti individuazione del personale docente di ogni ordine e grado ed educativo destin
+  pagina senza allegato riconoscibile (105038 caratteri); collegamenti a documenti: nessuno
+     siti esterni nella pagina: www.lombardia.istruzione.it(1)
+  nessun PDF o foglio trovato in https://www.mim.gov.it/web/pavia/-/pubblicazione-esiti-individuazione-del-personale-docente-di-ogni-ordine-e-grado-ed-educativo-destinatario-di-contratto-a-tempo-determinato-per-l-an-17
+  prova senza suffisso non riuscita: HTTP 404 su https://www.mim.gov.it/web/pavia/-/pubblicazione-esiti-individuazione-del-personale-docente-di-ogni-ordine-e-grado-ed-educativo-destinatario-di-contratto-a-tempo-determinato-per-l-an
+        browser: titolo pagina "Pubblicazione esiti individuazione del personale docente di ogni ordine e grado "
+  prova con il browser: 0 allegati
+     diagnosi pagina: 166 link totali, 0 verso documenti/allegati
+     riquadri incorporati: 0
+     link a possibili pagine dei turni: 0
+     link ad atti/albo/scarica: 3
+       @ https://www.mim.gov.it/web/pavia/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_ | Aprile
+       @ https://www.mim.gov.it/web/pavia/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_ | Aprile
+       @ https://www.mim.gov.it/web/pavia/comunicazioni?p_p_id=1_WAR_miurmulticategoriesnavigator100SNAPSHOT&p_p_lifecycle=1&p_p_ | Aprile
+     blocco anti-robot nel testo: false
+     testo: Pubblicazione esiti individuazione del personale docente di ogni ordine e grado ed educativo destin
+     testo: scolastico 2026/27 nella provincia di Pavia - Pubblicazione esiti individuazione del personale docente di ogni ordine e grado ed educativo destin
+     testo: cembre USR LOMBARDIA Pavia Home Comunicazioni Pubblicazione esiti individuazione del personale docente di ogni ordine e grado ed educativo destin
+     testo: o scolastico 2026/27 nella provincia di Pavia Pubblicazione esiti individuazione del personale docente di ogni ordine e grado ed educativo destin
+  pagina senza allegato riconoscibile (105041 caratteri); collegamenti a documenti: nessuno
+     siti esterni nella pagina: www.lombardia.istruzione.it(1)
+  nessun PDF o foglio trovato in https://www.mim.gov.it/web/pavia/-/pubblicazione-esiti-individuazione-del-personale-docente-di-ogni-ordine-e-grado-ed-educativo-destinatario-di-contratto-a-tempo-determinato-per-l-an-19
+  TURNO MANCANTE: 3
+  TURNO MANCANTE: 4
+  TURNO MANCANTE: 5
+  turni letti=0 non letti=10 -> da verificare
+RIEPILOGO DA VERIFICARE: letti con OCR=0 | zero righe=0 | non letti=108 | turni mancanti=36
 Scritto /home/runner/work/atrium/atrium/data/bollettini.json

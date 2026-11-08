@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-08T02:50:51.318Z",
+ "aggiornato": "2026-11-08T04:57:16.562Z",
  "ocr": [],
  "zeroRighe": [],
  "nonLetti": [
@@ -295,132 +295,6 @@
    "turno": null,
    "data": "2026-11-08",
    "url": "https://www.mim.gov.it/web/lecco/-/reclutamento-personale-docente-a-tempo-determinato-di-scuola-dell-infanzia-undicesimo-scorrimento-secondaria-di-primo-e-di-secondo-grado-quattordice-1",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "LO",
-   "turno": 2,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/lodi/-/individuazione-dei-destinatari-della-proposta-di-stipula-di-contratto-a-tempo-determinato-per-l-a-s-2026-2027-inseriti-nelle-graduatorie-provinciali-d",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "LO",
-   "turno": 3,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/lodi/-/individuazione-dei-destinatari-di-contratti-t-d-su-posti-comuni-e-di-sostegno-per-l-a-s-2026-2027-terzo-algoritmo",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "LO",
-   "turno": 4,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/lodi/-/individuazione-dei-destinatari-di-contratti-t-d-su-posti-comuni-e-di-sostegno-per-l-a-s-2026-2027-quarto-algoritmo",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "LO",
-   "turno": null,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/lodi/-/individuazione-dei-destinatari-di-contratti-t-d-su-posti-comuni-e-di-sostegno-per-l-a-s-2026-2027-quinto-algoritmo",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "LO",
-   "turno": null,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/lodi/-/individuazione-dei-destinatari-di-contratti-t-d-su-posti-comuni-e-di-sostegno-per-l-a-s-2026-2027-settimo-algoritmo",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "MB",
-   "turno": 2,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-2",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "MB",
-   "turno": 3,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/monza-brianza/home/-/asset_publisher/ultimecomunicazioni/content/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-3-scorrimento-1?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_ultimecomunicazioni_redirect=https%3A%2F%2Fwww.mim.gov.it%2Fweb%2Fmonza-brianza%2Fhome%3Fp_p_id%3Dcom_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_ultimecomunicazioni%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_ultimecomunicazioni_cur%3D0%26p_r_p_resetCur%3Dfalse%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_ultimecomunicazioni_assetEntryId%3D11201465",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "MB",
-   "turno": null,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-4",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "MB",
-   "turno": null,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-6",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "MB",
-   "turno": null,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-8",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "MB",
-   "turno": null,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-10",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "MB",
-   "turno": null,
-   "data": "2026-10-29",
-   "url": "https://www.mim.gov.it/documents/9081736/10325740/m_pi.AOOUSPMB.REGISTRO+UFFICIALE%28U%29.0019563.29-10-2026.pdf/5fadb13f-55f1-a085-0139-f8ef43138ba1?version=1.0&t=1793281231377",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "PV",
-   "turno": null,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/pavia/-/pubblicazione-esiti-individuazione-del-personale-docente-di-ogni-ordine-e-grado-ed-educativo-destinatario-di-contratto-a-tempo-determinato-per-l-ann-3",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "PV",
-   "turno": 2,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/pavia/-/pubblicazione-esiti-individuazione-del-personale-docente-di-ogni-ordine-e-grado-ed-educativo-destinatario-di-contratto-a-tempo-determinato-per-l-ann-5",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "PV",
-   "turno": 6,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/pavia/-/pubblicazione-esiti-individuazione-del-personale-docente-di-ogni-ordine-e-grado-ed-educativo-destinatario-di-contratto-a-tempo-determinato-per-l-an-13",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "PV",
-   "turno": null,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/pavia/-/pubblicazione-esiti-individuazione-del-personale-docente-di-ogni-ordine-e-grado-ed-educativo-destinatario-di-contratto-a-tempo-determinato-per-l-an-15",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "PV",
-   "turno": null,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/pavia/-/pubblicazione-esiti-individuazione-del-personale-docente-di-ogni-ordine-e-grado-ed-educativo-destinatario-di-contratto-a-tempo-determinato-per-l-an-17",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "PV",
-   "turno": null,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/pavia/-/pubblicazione-esiti-individuazione-del-personale-docente-di-ogni-ordine-e-grado-ed-educativo-destinatario-di-contratto-a-tempo-determinato-per-l-an-19",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
@@ -758,6 +632,132 @@
    "data": "2026-11-04",
    "url": "https://padova.istruzioneveneto.gov.it/wp-content/uploads/2026/11/Bollettino-XVI-turno-4.11.2026.pdf",
    "nota": "righe GPS non leggibili: 6"
+  },
+  {
+   "provincia": "LO",
+   "turno": 2,
+   "data": "2026-11-08",
+   "url": "https://www.mim.gov.it/web/lodi/-/individuazione-dei-destinatari-della-proposta-di-stipula-di-contratto-a-tempo-determinato-per-l-a-s-2026-2027-inseriti-nelle-graduatorie-provinciali-d",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "LO",
+   "turno": 3,
+   "data": "2026-11-08",
+   "url": "https://www.mim.gov.it/web/lodi/-/individuazione-dei-destinatari-di-contratti-t-d-su-posti-comuni-e-di-sostegno-per-l-a-s-2026-2027-terzo-algoritmo",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "LO",
+   "turno": 4,
+   "data": "2026-11-08",
+   "url": "https://www.mim.gov.it/web/lodi/-/individuazione-dei-destinatari-di-contratti-t-d-su-posti-comuni-e-di-sostegno-per-l-a-s-2026-2027-quarto-algoritmo",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "LO",
+   "turno": null,
+   "data": "2026-11-08",
+   "url": "https://www.mim.gov.it/web/lodi/-/individuazione-dei-destinatari-di-contratti-t-d-su-posti-comuni-e-di-sostegno-per-l-a-s-2026-2027-quinto-algoritmo",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "LO",
+   "turno": null,
+   "data": "2026-11-08",
+   "url": "https://www.mim.gov.it/web/lodi/-/individuazione-dei-destinatari-di-contratti-t-d-su-posti-comuni-e-di-sostegno-per-l-a-s-2026-2027-settimo-algoritmo",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "MB",
+   "turno": 2,
+   "data": "2026-11-08",
+   "url": "https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-2",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "MB",
+   "turno": 3,
+   "data": "2026-11-08",
+   "url": "https://www.mim.gov.it/web/monza-brianza/home/-/asset_publisher/ultimecomunicazioni/content/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-3-scorrimento-1?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_ultimecomunicazioni_redirect=https%3A%2F%2Fwww.mim.gov.it%2Fweb%2Fmonza-brianza%2Fhome%3Fp_p_id%3Dcom_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_ultimecomunicazioni%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_ultimecomunicazioni_cur%3D0%26p_r_p_resetCur%3Dfalse%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_ultimecomunicazioni_assetEntryId%3D11201465",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "MB",
+   "turno": null,
+   "data": "2026-11-08",
+   "url": "https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-4",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "MB",
+   "turno": null,
+   "data": "2026-11-08",
+   "url": "https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-6",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "MB",
+   "turno": null,
+   "data": "2026-11-08",
+   "url": "https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-8",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "MB",
+   "turno": null,
+   "data": "2026-11-08",
+   "url": "https://www.mim.gov.it/web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-10",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "MB",
+   "turno": null,
+   "data": "2026-10-29",
+   "url": "https://www.mim.gov.it/documents/9081736/10325740/m_pi.AOOUSPMB.REGISTRO+UFFICIALE%28U%29.0019563.29-10-2026.pdf/5fadb13f-55f1-a085-0139-f8ef43138ba1?version=1.0&t=1793281231377",
+   "nota": "formato non riconosciuto"
+  },
+  {
+   "provincia": "PV",
+   "turno": null,
+   "data": "2026-11-08",
+   "url": "https://www.mim.gov.it/web/pavia/-/pubblicazione-esiti-individuazione-del-personale-docente-di-ogni-ordine-e-grado-ed-educativo-destinatario-di-contratto-a-tempo-determinato-per-l-ann-3",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "PV",
+   "turno": 2,
+   "data": "2026-11-08",
+   "url": "https://www.mim.gov.it/web/pavia/-/pubblicazione-esiti-individuazione-del-personale-docente-di-ogni-ordine-e-grado-ed-educativo-destinatario-di-contratto-a-tempo-determinato-per-l-ann-5",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "PV",
+   "turno": 6,
+   "data": "2026-11-08",
+   "url": "https://www.mim.gov.it/web/pavia/-/pubblicazione-esiti-individuazione-del-personale-docente-di-ogni-ordine-e-grado-ed-educativo-destinatario-di-contratto-a-tempo-determinato-per-l-an-13",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "PV",
+   "turno": null,
+   "data": "2026-11-08",
+   "url": "https://www.mim.gov.it/web/pavia/-/pubblicazione-esiti-individuazione-del-personale-docente-di-ogni-ordine-e-grado-ed-educativo-destinatario-di-contratto-a-tempo-determinato-per-l-an-15",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "PV",
+   "turno": null,
+   "data": "2026-11-08",
+   "url": "https://www.mim.gov.it/web/pavia/-/pubblicazione-esiti-individuazione-del-personale-docente-di-ogni-ordine-e-grado-ed-educativo-destinatario-di-contratto-a-tempo-determinato-per-l-an-17",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "PV",
+   "turno": null,
+   "data": "2026-11-08",
+   "url": "https://www.mim.gov.it/web/pavia/-/pubblicazione-esiti-individuazione-del-personale-docente-di-ogni-ordine-e-grado-ed-educativo-destinatario-di-contratto-a-tempo-determinato-per-l-an-19",
+   "nota": "nessun PDF o foglio trovato nella pagina"
   }
  ],
  "turniMancanti": [
@@ -795,21 +795,6 @@
    "provincia": "LC",
    "turno": 3,
    "nota": "bollettino non trovato (si passa dal turno 2 al 4)"
-  },
-  {
-   "provincia": "PV",
-   "turno": 3,
-   "nota": "bollettino non trovato (si passa dal turno 2 al 6)"
-  },
-  {
-   "provincia": "PV",
-   "turno": 4,
-   "nota": "bollettino non trovato (si passa dal turno 2 al 6)"
-  },
-  {
-   "provincia": "PV",
-   "turno": 5,
-   "nota": "bollettino non trovato (si passa dal turno 2 al 6)"
   },
   {
    "provincia": "SO",
@@ -940,6 +925,21 @@
    "provincia": "PD",
    "turno": 6,
    "nota": "bollettino non trovato (si passa dal turno 5 al 7)"
+  },
+  {
+   "provincia": "PV",
+   "turno": 3,
+   "nota": "bollettino non trovato (si passa dal turno 2 al 6)"
+  },
+  {
+   "provincia": "PV",
+   "turno": 4,
+   "nota": "bollettino non trovato (si passa dal turno 2 al 6)"
+  },
+  {
+   "provincia": "PV",
+   "turno": 5,
+   "nota": "bollettino non trovato (si passa dal turno 2 al 6)"
   }
  ],
  "decretiIgnorati": [
@@ -1068,13 +1068,6 @@
    "data": "2026-11-08",
    "url": "https://www.istruzione.calabria.it/vibovalentia/wp-content/uploads/2026/09/m_pi.AOOUSPVV.REGISTRO-UFFICIALEU.0007184.23-09-2026.pdf",
    "pagine": 3
-  },
-  {
-   "provincia": "PV",
-   "turno": 3,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/documents/9081911/10331371/m_pi.AOOUSPPV.REGISTRO+UFFICIALE%28U%29.0007101.21-09-2026.pdf/c4cf7484-b984-6630-7ac5-39b028a6e711?version=1.0&t=1789989563571",
-   "pagine": 1
   },
   {
    "provincia": "VA",
@@ -1222,6 +1215,13 @@
    "data": "2026-09-09",
    "url": "https://www.ufficioscolasticogrosseto.it/uff7/attachments/article/5252/m_pi.AOOUSPGR.REGISTRO UFFICIALE(U).0006084.09-09-2026.pdf",
    "pagine": 4
+  },
+  {
+   "provincia": "PV",
+   "turno": 3,
+   "data": "2026-11-08",
+   "url": "https://www.mim.gov.it/documents/9081911/10331371/m_pi.AOOUSPPV.REGISTRO+UFFICIALE%28U%29.0007101.21-09-2026.pdf/c4cf7484-b984-6630-7ac5-39b028a6e711?version=1.0&t=1789989563571",
+   "pagine": 1
   }
  ],
  "pagineSoloDecreti": [
