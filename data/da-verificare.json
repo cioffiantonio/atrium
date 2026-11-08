@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-08T21:50:54.238Z",
+ "aggiornato": "2026-11-08T22:48:25.899Z",
  "ocr": [],
  "zeroRighe": [],
  "nonLetti": [
@@ -229,35 +229,35 @@
   },
   {
    "provincia": "RC",
-   "turno": null,
+   "turno": 3,
    "data": "2026-11-08",
    "url": "https://www.istruzioneatprc.it/aoousprc17153-20261006/",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "RC",
-   "turno": null,
+   "turno": 4,
    "data": "2026-11-08",
    "url": "https://www.istruzioneatprc.it/aoousprc17798-20261016/",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "RC",
-   "turno": null,
+   "turno": 5,
    "data": "2026-11-08",
    "url": "https://www.istruzioneatprc.it/aoousprc18242-20261023/",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "RC",
-   "turno": null,
+   "turno": 6,
    "data": "2026-11-08",
    "url": "https://www.istruzioneatprc.it/aoousprc18796-20261030/",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "RC",
-   "turno": null,
+   "turno": 7,
    "data": "2026-11-08",
    "url": "https://www.istruzioneatprc.it/aoousprc19102-20261104/",
    "nota": "nessun PDF o foglio trovato nella pagina"
@@ -345,6 +345,13 @@
    "data": "2026-10-26",
    "url": "https://cspace.spaggiari.eu//pub/GESR0002/GPS%202026-2028/TURNI%20GPS/XI%20TURNO/Bollettino_TotaleNomine_XI_TURNO.pdf",
    "nota": "formato non riconosciuto"
+  },
+  {
+   "provincia": "IM",
+   "turno": 10,
+   "data": "2026-11-08",
+   "url": "https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps-as-2026-27--x-turno",
+   "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "BI",
@@ -531,19 +538,104 @@
  ],
  "turniMancanti": [
   {
-   "provincia": "BO",
+   "provincia": "CR",
    "turno": 6,
-   "nota": "bollettino non trovato (si passa dal turno 5 al 7)"
+   "nota": "bollettino non trovato (si passa dal turno 5 al 9)"
   },
   {
-   "provincia": "SO",
-   "turno": 9,
-   "nota": "bollettino non trovato (si passa dal turno 8 al 11)"
+   "provincia": "CR",
+   "turno": 7,
+   "nota": "bollettino non trovato (si passa dal turno 5 al 9)"
   },
   {
-   "provincia": "SO",
+   "provincia": "CR",
+   "turno": 8,
+   "nota": "bollettino non trovato (si passa dal turno 5 al 9)"
+  },
+  {
+   "provincia": "CR",
    "turno": 10,
-   "nota": "bollettino non trovato (si passa dal turno 8 al 11)"
+   "nota": "bollettino non trovato (si passa dal turno 9 al 15)"
+  },
+  {
+   "provincia": "CR",
+   "turno": 11,
+   "nota": "bollettino non trovato (si passa dal turno 9 al 15)"
+  },
+  {
+   "provincia": "CR",
+   "turno": 12,
+   "nota": "bollettino non trovato (si passa dal turno 9 al 15)"
+  },
+  {
+   "provincia": "CR",
+   "turno": 13,
+   "nota": "bollettino non trovato (si passa dal turno 9 al 15)"
+  },
+  {
+   "provincia": "CR",
+   "turno": 14,
+   "nota": "bollettino non trovato (si passa dal turno 9 al 15)"
+  },
+  {
+   "provincia": "CR",
+   "turno": 16,
+   "nota": "bollettino non trovato (si passa dal turno 15 al 28)"
+  },
+  {
+   "provincia": "CR",
+   "turno": 17,
+   "nota": "bollettino non trovato (si passa dal turno 15 al 28)"
+  },
+  {
+   "provincia": "CR",
+   "turno": 18,
+   "nota": "bollettino non trovato (si passa dal turno 15 al 28)"
+  },
+  {
+   "provincia": "CR",
+   "turno": 19,
+   "nota": "bollettino non trovato (si passa dal turno 15 al 28)"
+  },
+  {
+   "provincia": "CR",
+   "turno": 20,
+   "nota": "bollettino non trovato (si passa dal turno 15 al 28)"
+  },
+  {
+   "provincia": "CR",
+   "turno": 21,
+   "nota": "bollettino non trovato (si passa dal turno 15 al 28)"
+  },
+  {
+   "provincia": "CR",
+   "turno": 22,
+   "nota": "bollettino non trovato (si passa dal turno 15 al 28)"
+  },
+  {
+   "provincia": "CR",
+   "turno": 23,
+   "nota": "bollettino non trovato (si passa dal turno 15 al 28)"
+  },
+  {
+   "provincia": "CR",
+   "turno": 24,
+   "nota": "bollettino non trovato (si passa dal turno 15 al 28)"
+  },
+  {
+   "provincia": "CR",
+   "turno": 25,
+   "nota": "bollettino non trovato (si passa dal turno 15 al 28)"
+  },
+  {
+   "provincia": "CR",
+   "turno": 26,
+   "nota": "bollettino non trovato (si passa dal turno 15 al 28)"
+  },
+  {
+   "provincia": "CR",
+   "turno": 27,
+   "nota": "bollettino non trovato (si passa dal turno 15 al 28)"
   },
   {
    "provincia": "VA",
@@ -703,13 +795,6 @@
    "turno": 1,
    "data": "2026-08-31",
    "url": "https://bo.istruzioneer.gov.it/2026/08/31/nomine-a-t-d-docenti-ogni-ordine-e-grado-da-gps-1-turno-a-s-2026-27/?download=37637",
-   "pagine": 3
-  },
-  {
-   "provincia": "BO",
-   "turno": 6,
-   "data": "2026-09-28",
-   "url": "https://bo.istruzioneer.gov.it/2026/09/28/nomine-a-t-d-docenti-ogni-ordine-e-grado-da-gps-6-turno-a-s-2026-27/?download=38118",
    "pagine": 3
   },
   {
@@ -1001,7 +1086,7 @@
   },
   {
    "provincia": "SO",
-   "turno": null,
+   "turno": 6,
    "data": "2026-11-08",
    "url": "https://www.mim.gov.it/documents/9081963/0/Dotazione_Organico_Sostegno_2026_27.pdf/83485ad1-5220-3861-31b0-ef5f6ef3423b?version=1.0&t=1791456502648",
    "pagine": 4
@@ -1331,9 +1416,9 @@
   },
   {
    "provincia": "GE",
-   "turno": null,
+   "turno": 12,
    "data": "2026-11-08",
-   "url": "https://www.istruzionegenova.gov.it/pagine/xviii-turno-gps---as-2026-2027",
+   "url": "https://www.istruzionegenova.gov.it/pagine/xii-turno-gps---as-2026-2027",
    "altriLink": [
     "/pagine/decreto-di-nomina-i-fascia-sostegno-adaa-e-adee---genova",
     "/pagine/ix-turno-gps---solo-nomina-pppp",
