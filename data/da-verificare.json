@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-08T09:46:34.402Z",
+ "aggiornato": "2026-11-08T10:47:43.210Z",
  "ocr": [],
  "zeroRighe": [],
  "nonLetti": [
@@ -529,10 +529,31 @@
    "nota": "righe GPS non leggibili: 6"
   },
   {
+   "provincia": "SO",
+   "turno": 8,
+   "data": "2026-11-08",
+   "url": "https://www.mim.gov.it/web/sondrio/-/eisto-conferimento-nomine-da-gae-gps-bollettino-n-8",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "SO",
+   "turno": null,
+   "data": "2026-11-08",
+   "url": "https://www.mim.gov.it/web/sondrio/-/esito-conferimento-nomine-a-tempo-determinato-da-gae-gps-3",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
    "provincia": "MB",
    "turno": null,
    "data": "2026-10-29",
    "url": "https://www.mim.gov.it/documents/9081736/10325740/m_pi.AOOUSPMB.REGISTRO+UFFICIALE%28U%29.0019563.29-10-2026.pdf/5fadb13f-55f1-a085-0139-f8ef43138ba1?version=1.0&t=1793281231377",
+   "nota": "formato non riconosciuto"
+  },
+  {
+   "provincia": "MB",
+   "turno": null,
+   "data": "2026-08-28",
+   "url": "https://www.mim.gov.it/documents/9081736/0/Esiti+operazioni+di+nomina+a+tempo+determinato+del+personale+ATA+inserito+nella+Graduatorie+Provinciali+permanenti+a.s++2026_2027+-ELENCHI.zip/d89df972-5de1-7e2e-1534-21259b98230d?version=1.0&t=1787937524158",
    "nota": "formato non riconosciuto"
   },
   {
@@ -575,20 +596,6 @@
    "turno": null,
    "data": "2026-11-08",
    "url": "https://www.mim.gov.it/web/pavia/-/pubblicazione-esiti-individuazione-del-personale-docente-di-ogni-ordine-e-grado-ed-educativo-destinatario-di-contratto-a-tempo-determinato-per-l-an-19",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "SO",
-   "turno": 8,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/sondrio/-/eisto-conferimento-nomine-da-gae-gps-bollettino-n-8",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "SO",
-   "turno": null,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/sondrio/-/esito-conferimento-nomine-a-tempo-determinato-da-gae-gps-3",
    "nota": "nessun PDF o foglio trovato nella pagina"
   }
  ],
@@ -729,21 +736,6 @@
    "nota": "bollettino non trovato (si passa dal turno 5 al 7)"
   },
   {
-   "provincia": "PV",
-   "turno": 3,
-   "nota": "bollettino non trovato (si passa dal turno 2 al 6)"
-  },
-  {
-   "provincia": "PV",
-   "turno": 4,
-   "nota": "bollettino non trovato (si passa dal turno 2 al 6)"
-  },
-  {
-   "provincia": "PV",
-   "turno": 5,
-   "nota": "bollettino non trovato (si passa dal turno 2 al 6)"
-  },
-  {
    "provincia": "SO",
    "turno": 5,
    "nota": "bollettino non trovato (si passa dal turno 4 al 8)"
@@ -767,6 +759,31 @@
    "provincia": "SO",
    "turno": 10,
    "nota": "bollettino non trovato (si passa dal turno 8 al 11)"
+  },
+  {
+   "provincia": "PV",
+   "turno": 3,
+   "nota": "bollettino non trovato (si passa dal turno 2 al 6)"
+  },
+  {
+   "provincia": "PV",
+   "turno": 4,
+   "nota": "bollettino non trovato (si passa dal turno 2 al 6)"
+  },
+  {
+   "provincia": "PV",
+   "turno": 5,
+   "nota": "bollettino non trovato (si passa dal turno 2 al 6)"
+  },
+  {
+   "provincia": "PV",
+   "turno": 7,
+   "nota": "bollettino non trovato (si passa dal turno 6 al 9)"
+  },
+  {
+   "provincia": "PV",
+   "turno": 8,
+   "nota": "bollettino non trovato (si passa dal turno 6 al 9)"
   }
  ],
  "decretiIgnorati": [
@@ -1049,6 +1066,34 @@
    "data": "2026-11-08",
    "url": "https://www.mim.gov.it/documents/9081350/10317897/m_pi.AOOUSPLC.REGISTRO+UFFICIALE%28U%29.0005886.23-10-2026.pdf/80ef3b1a-c8b4-c0b0-ec7c-7e594d00dad2?version=1.0&t=1792751157468",
    "pagine": 2
+  },
+  {
+   "provincia": "MB",
+   "turno": null,
+   "data": "2026-11-08",
+   "url": "https://www.mim.gov.it/documents/9081736/0/m_pi.AOOUSPMB.REGISTRO+UFFICIALE%28I%29.0008922.19-05-2026.pdf/f9dc7ab4-048e-429b-08b1-40c0f75de36a?t=1779198886243",
+   "pagine": 2
+  },
+  {
+   "provincia": "MB",
+   "turno": null,
+   "data": "2026-11-08",
+   "url": "https://www.mim.gov.it/documents/9081736/10325736/m_pi.AOOUSPMB.REGISTRO+UFFICIALE%28U%29.0006062.01-04-2026.pdf/7ee8f427-f6f4-879d-640d-3a7d0a3cb8c8?version=1.0&t=1775048508120",
+   "pagine": 2
+  },
+  {
+   "provincia": "MB",
+   "turno": 4,
+   "data": "2026-11-08",
+   "url": "https://www.mim.gov.it/documents/9081736/9563646/m_pi.AOOUSPMB.REGISTRO+UFFICIALE%28U%29.0021114.22-12-2025.pdf/8c4384b3-2d2a-1ce5-1915-b12a2613007f?version=1.0&t=1766399348147",
+   "pagine": 3
+  },
+  {
+   "provincia": "MB",
+   "turno": null,
+   "data": "2026-11-08",
+   "url": "https://www.mim.gov.it/documents/9081736/0/m_pi.AOOUSPMB.REGISTRO+UFFICIALE%28U%29.0015531.15-09-2025.pdf/d07b8855-01e2-cd53-42b1-aecc2c2d3c71?version=1.0&t=1757950096320",
+   "pagine": 1
   },
   {
    "provincia": "PV",
