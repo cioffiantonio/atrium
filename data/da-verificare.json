@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-08T15:50:22.517Z",
+ "aggiornato": "2026-11-08T16:58:14.381Z",
  "ocr": [],
  "zeroRighe": [],
  "nonLetti": [
@@ -75,20 +75,6 @@
   },
   {
    "provincia": "BG",
-   "turno": 3,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/bergamo/-/nomine-a-tempo-determinato-da-gae-e-gps-a-s-2026-27-bollettino-n-3",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "BG",
-   "turno": 11,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/bergamo/-/nomine-a-tempo-determinato-da-gps-a-s-2026-27-bollettino-n-11",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "BG",
    "turno": 10,
    "data": "2026-10-27",
    "url": "https://www.mim.gov.it/documents/9081047/10244551/Bollettino+n.+10.pdf/5a8bfb65-8e8c-ea00-60e4-a6191724eabf?version=1.0&t=1793109395758",
@@ -96,45 +82,10 @@
   },
   {
    "provincia": "BG",
-   "turno": 8,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/bergamo/-/nomine-a-tempo-determinato-da-gps-a-s-2026-27-bollettino-n-8",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "BG",
-   "turno": 7,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/bergamo/-/nomine-a-tempo-determinato-da-gps-a-s-2026-27-bollettino-n-7",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "BG",
-   "turno": 6,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/bergamo/-/nomine-a-tempo-determinato-da-gps-a-s-2026-27-bollettino-n-6",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "BG",
-   "turno": 5,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/bergamo/-/nomine-a-tempo-determinato-da-gae-e-gps-a-s-2026-27-bollettino-n-5",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "BG",
    "turno": null,
    "data": "2026-09-14",
    "url": "https://www.mim.gov.it/documents/9081047/10244551/GRADUATORIA+SECONDO++INTERPELLO+DSGA+2026-27..pdf/6fda053d-ae26-af9c-bd4c-cfb1f4bb4915?version=1.0&t=1789378364020",
    "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "BG",
-   "turno": 4,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/bergamo/-/nomine-a-tempo-determinato-da-gae-e-gps-a-s-2026-27-bollettino-n-4",
-   "nota": "documento non leggibile"
   },
   {
    "provincia": "BG",
@@ -184,41 +135,6 @@
    "data": "2026-09-09",
    "url": "https://www.mim.gov.it/documents/9081166/10322629/m_pi.AOOUSPBS.REGISTRO+UFFICIALE%28U%29.0013652.09-09-2026.pdf/d6e1e60c-708f-2256-c834-8e6519b3da73?version=1.0&t=1788970300083",
    "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "CO",
-   "turno": null,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/como/-/nomine-a-tempo-determinato-personale-docente-a-s-2026-27-quinto-scorrimento",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "CO",
-   "turno": null,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/como/-/nomine-a-tempo-determinato-personale-docente-a-s-2026-27-quarto-scorrimento",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "CO",
-   "turno": null,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/como/-/nomine-a-tempo-determinato-personale-docente-a-s-2026-27-terzo-scorrimento",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "CO",
-   "turno": 2,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/como/-/secondo-bollettino-incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "CO",
-   "turno": null,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/como/-/nomine-a-tempo-determinato-gae-gps-precisazioni",
-   "nota": "documento non leggibile"
   },
   {
    "provincia": "CO",
@@ -272,65 +188,9 @@
   {
    "provincia": "CR",
    "turno": null,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/cremona/-/nomine-a-tempo-determinato-personale-docente-a-s-2026-27-bollettino-5-11-2026",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "CR",
-   "turno": null,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/cremona/-/nomine-a-tempo-determinato-personale-docente-a-s-2026-27-bollettino-28-10-2026",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "CR",
-   "turno": null,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/cremona/-/nomine-a-tempo-determinato-personale-docente-a-s-2026-27-bollettino-15-10-2026",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "CR",
-   "turno": null,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/cremona/-/nomine-a-tempo-determinato-personale-docente-a-s-2026-27-bollettino-9-10-2026",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "CR",
-   "turno": null,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/cremona/-/nomine-a-tempo-determinato-personale-docente-a-s-2026-27-bollettino-5-10-2026",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "CR",
-   "turno": null,
    "data": "2026-10-02",
    "url": "https://www.mim.gov.it/documents/9081259/0/m_pi.AOOUSPCR.REGISTRO+UFFICIALE%28U%29.0005703.01-10-2026.pdf/9ee87971-b7af-f8c4-e70c-ad436cb4880b?version=1.0&t=1790957310388",
    "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "CR",
-   "turno": null,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/cremona/-/nomine-a-tempo-determinato-personale-docente-a-s-2026-27-bollettino-25-09-2026",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "CR",
-   "turno": null,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/cremona/-/nomine-a-tempo-determinato-personale-docente-a-s-2026-27-bollettino-11-09-2026",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "LO",
-   "turno": null,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/lodi/-/decreto-pubblicazione-elenco-individuazione-dei-destinatari-della-proposta-di-stipula-di-contratto-a-tempo-determinato-per-l-a-s-2026-2027-inseriti--1",
-   "nota": "documento non leggibile"
   },
   {
    "provincia": "MN",
@@ -341,73 +201,10 @@
   },
   {
    "provincia": "MN",
-   "turno": 9,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/mantova/-/nomine-a-tempo-determinato-da-gps-a-s-26-27-esito-conferimento-nomine-ix-bollettino",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "MN",
-   "turno": 8,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/mantova/-/nomine-a-tempo-determinato-da-gps-a-s-26-27-esito-conferimento-nomine-viii-bollettino",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "MN",
-   "turno": 7,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/mantova/-/esito-conferimento-nomine-a-tempo-determinato-da-gps-a-s-26-27-i-e-ii-fascia-vii-bollettino",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "MN",
-   "turno": 6,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/mantova/-/nomine-a-tempo-determinato-da-gps-a-s-26-27-esito-conferimento-nomine-vi-bollettino",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "MN",
-   "turno": 5,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/mantova/-/nomine-a-tempo-determinato-da-gps-a-s-26-27-esito-conferimento-nomine-v-bollettino",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "MN",
-   "turno": 4,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/mantova/-/nomine-a-tempo-determinato-da-gps-a-s-26-27-esito-conferimento-nomine-iv-bollettino",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "MN",
-   "turno": 3,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/mantova/-/nomine-a-tempo-determinato-da-gps-a-s-26-27-esito-conferimento-nomine-iii-bollettino",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "MN",
    "turno": null,
    "data": "2026-09-16",
    "url": "https://www.mim.gov.it/documents/9081578/0/elenco+disponibilit%C3%A0++residue+processo+di+nomina+del+09.09.2026.pdf/8a8a0562-c9ba-e76c-96ba-6329c3ed2e04?version=1.0&t=1789563760907",
    "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "MN",
-   "turno": 2,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/mantova/-/nomine-a-tempo-determinato-da-gps-a-s-26-27-esito-conferimento-nomine-ii-bollettino",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "MN",
-   "turno": null,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/mantova/-/nomine-a-tempo-determinato-da-gps-a-s-26-27-esito-conferimento-nomine",
-   "nota": "documento non leggibile"
   },
   {
    "provincia": "MN",
@@ -418,31 +215,10 @@
   },
   {
    "provincia": "MI",
-   "turno": 5,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/milano/-/pubblicazione-v-bollettino-nomine-gps-personale-docente-ogni-ordine-e-grado-e-personale-educativo-a-s-2026-27-",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "MI",
-   "turno": 4,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/milano/-/pubblicazione-iv-bollettino-nomine-gps-personale-docente-ogni-ordine-e-grado-e-personale-educativo-a-s-2026-27",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "MI",
    "turno": null,
    "data": "2026-09-21",
    "url": "https://www.mim.gov.it/documents/9081610/10328297/Avviso+Reclami+Secondo+Bollettino+Nomine+GPS.pdf/3c56d33f-c2eb-69df-9a59-11e3a8aad194?t=1790023588454",
    "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "MI",
-   "turno": null,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/milano/-/bollettino-nomine-gps-n-1-del-31-08-2026-attribuzione-incarichi-a-tempo-determinato-del-personale-docente-a-s-2026-27",
-   "nota": "documento non leggibile"
   },
   {
    "provincia": "SO",
@@ -457,48 +233,6 @@
    "data": "2026-11-08",
    "url": "https://www.mim.gov.it/web/sondrio/-/esito-conferimento-nomine-a-tempo-determinato-da-gae-gps-3",
    "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "SO",
-   "turno": 11,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/sondrio/-/esito-conferimento-nomine-da-gae-gps-bollettino-n-11",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "SO",
-   "turno": null,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/sondrio/-/esito-conferimento-nomine-da-gae-gps-turno-di-nomina-n-9",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "SO",
-   "turno": 6,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/sondrio/-/esito-conferimento-nomine-a-tempo-determinato-da-gae-gps-bollettino-n-6",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "SO",
-   "turno": null,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/sondrio/albo-pretorio/-/asset_publisher/cY5vbTKeoWaZ/content/decreto-esiti-conferimento-nomine-a-tempo-determinato-gps-bollettino-5?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_cY5vbTKeoWaZ_redirect=https%3A%2F%2Fwww.mim.gov.it%2Fweb%2Fsondrio%2Falbo-pretorio%3Fp_p_id%3Dcom_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_cY5vbTKeoWaZ%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_cY5vbTKeoWaZ_cur%3D0%26p_r_p_resetCur%3Dfalse%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_cY5vbTKeoWaZ_assetEntryId%3D11104011",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "SO",
-   "turno": null,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/sondrio/-/esiti-conferimento-nomine-a-tempo-determinato-da-gae-e-gps-1",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "SO",
-   "turno": null,
-   "data": "2026-11-08",
-   "url": "https://www.mim.gov.it/web/sondrio/-/esiti-conferimento-nomine-a-tempo-determinato-da-gae-e-gps",
-   "nota": "documento non leggibile"
   },
   {
    "provincia": "SO",
@@ -683,13 +417,6 @@
    "nota": "formato non riconosciuto"
   },
   {
-   "provincia": "VT",
-   "turno": null,
-   "data": "2026-11-08",
-   "url": "https://www.provveditoratostudiviterbo.it/DOCENTI/2026/Bollettino_TotaleNomine_12_privacy.pdf",
-   "nota": "documento non leggibile"
-  },
-  {
    "provincia": "GE",
    "turno": 1,
    "data": "2026-08-31",
@@ -767,6 +494,13 @@
    "nota": "formato non riconosciuto"
   },
   {
+   "provincia": "SP",
+   "turno": 1,
+   "data": "2026-11-08",
+   "url": "https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---i-turno-as-20262027",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
    "provincia": "SV",
    "turno": 1,
    "data": "2026-11-08",
@@ -774,60 +508,11 @@
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
-   "provincia": "PU",
-   "turno": 5,
-   "data": "2026-09-21",
-   "url": "https://www.usppesarourbino.it/2026/09/21/personale-docente-di-ogni-ordine-e-grado-ed-educativo-contratti-a-tempo-determinato-a-s-2026-27/",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "PU",
-   "turno": 6,
-   "data": "2026-09-23",
-   "url": "https://www.usppesarourbino.it/2026/09/23/personale-docente-di-ogni-ordine-e-grado-ed-educativo-contratti-a-tempo-determinato-a-s-2026-27/",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "PU",
-   "turno": 7,
-   "data": "2026-09-28",
-   "url": "https://www.usppesarourbino.it/2026/09/28/personale-docente-di-ogni-ordine-e-grado-ed-educativo-contratti-a-tempo-determinato-a-s-2026-27/",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "PU",
-   "turno": null,
-   "data": "2026-09-30",
-   "url": "https://www.usppesarourbino.it/2026/09/30/personale-docente-di-ogni-ordine-e-grado-ed-educativo-contratti-a-tempo-determinato-a-s-2026-27/",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "PU",
-   "turno": null,
-   "data": "2026-10-09",
-   "url": "https://www.usppesarourbino.it/2026/10/09/personale-docente-di-ogni-ordine-e-grado-ed-educativo-contratti-a-tempo-determinato-a-s-2026-27/",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "PU",
-   "turno": null,
-   "data": "2026-10-19",
-   "url": "https://www.usppesarourbino.it/2026/10/19/personale-docente-di-ogni-ordine-e-grado-ed-educativo-contratti-a-tempo-determinato-a-s-2026-27/",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "PU",
-   "turno": null,
-   "data": "2026-10-22",
-   "url": "https://www.usppesarourbino.it/2026/10/22/personale-docente-di-ogni-ordine-e-grado-ed-educativo-contratti-a-tempo-determinato-a-s-2026-27/",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "PU",
-   "turno": null,
-   "data": "2026-11-03",
-   "url": "https://www.usppesarourbino.it/2026/11/03/personale-docente-di-ogni-ordine-e-grado-ed-educativo-contratti-a-tempo-determinato-a-s-2026-27/",
-   "nota": "documento non leggibile"
+   "provincia": "SV",
+   "turno": 10,
+   "data": "2026-11-08",
+   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-9-1",
+   "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "BI",
@@ -1025,11 +710,6 @@
   },
   {
    "provincia": "SO",
-   "turno": 5,
-   "nota": "bollettino non trovato (si passa dal turno 4 al 6)"
-  },
-  {
-   "provincia": "SO",
    "turno": 9,
    "nota": "bollettino non trovato (si passa dal turno 8 al 11)"
   },
@@ -1069,9 +749,44 @@
    "nota": "bollettino non trovato (si passa dal turno 5 al 7)"
   },
   {
-   "provincia": "PU",
+   "provincia": "SV",
+   "turno": 2,
+   "nota": "bollettino non trovato (si passa dal turno 1 al 10)"
+  },
+  {
+   "provincia": "SV",
+   "turno": 3,
+   "nota": "bollettino non trovato (si passa dal turno 1 al 10)"
+  },
+  {
+   "provincia": "SV",
    "turno": 4,
-   "nota": "bollettino non trovato (si passa dal turno 3 al 5)"
+   "nota": "bollettino non trovato (si passa dal turno 1 al 10)"
+  },
+  {
+   "provincia": "SV",
+   "turno": 5,
+   "nota": "bollettino non trovato (si passa dal turno 1 al 10)"
+  },
+  {
+   "provincia": "SV",
+   "turno": 6,
+   "nota": "bollettino non trovato (si passa dal turno 1 al 10)"
+  },
+  {
+   "provincia": "SV",
+   "turno": 7,
+   "nota": "bollettino non trovato (si passa dal turno 1 al 10)"
+  },
+  {
+   "provincia": "SV",
+   "turno": 8,
+   "nota": "bollettino non trovato (si passa dal turno 1 al 10)"
+  },
+  {
+   "provincia": "SV",
+   "turno": 9,
+   "nota": "bollettino non trovato (si passa dal turno 1 al 10)"
   },
   {
    "provincia": "AL",
@@ -2112,6 +1827,28 @@
     "icatrice-del-concorso-per-soli-titoli-per-l-inserimento-e-l-aggiornamento-della-graduatoria-permanente-provinc",
     "icatrice-del-concorso-per-soli-titoli-per-l-inserimento-e-l-aggiornamento-della-graduatoria-permanente-provinc",
     "icatrice-del-concorso-per-soli-titoli-per-l-inserimento-e-l-aggiornamento-della-graduatoria-permanente-provinc"
+   ]
+  },
+  {
+   "provincia": "GE",
+   "turno": 12,
+   "data": "2026-11-08",
+   "url": "https://www.istruzionegenova.gov.it/pagine/xii-turno-gps---as-2026-2027",
+   "altriLink": [
+    "/pagine/decreto-di-nomina-i-fascia-sostegno-adaa-e-adee---genova",
+    "/pagine/ix-turno-gps---solo-nomina-pppp",
+    "/pagine/personale-educativo---eeee---ii-turno-di-nomina-gps",
+    "/pagine/xix-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xviii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xvii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xvi-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/-xv-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xiv-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xiii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xi-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/x-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/ix-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps"
    ]
   },
   {
