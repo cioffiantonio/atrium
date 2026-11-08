@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-08T18:36:34.713Z",
+ "aggiornato": "2026-11-08T21:50:54.238Z",
  "ocr": [],
  "zeroRighe": [],
  "nonLetti": [
@@ -347,48 +347,6 @@
    "nota": "formato non riconosciuto"
   },
   {
-   "provincia": "IM",
-   "turno": 1,
-   "data": "2026-11-08",
-   "url": "https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps--as-2026-27--i-turno",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "IM",
-   "turno": 9,
-   "data": "2026-11-08",
-   "url": "https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps--as-2026-27--ix-turno",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "SP",
-   "turno": 4,
-   "data": "2026-11-08",
-   "url": "https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---iii-turno-15092026--1",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "SV",
-   "turno": 2,
-   "data": "2026-11-08",
-   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-1-2",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "SV",
-   "turno": 4,
-   "data": "2026-11-08",
-   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-4",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "SV",
-   "turno": 11,
-   "data": "2026-11-08",
-   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps----turno-11",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
    "provincia": "BI",
    "turno": null,
    "data": "2026-09-22",
@@ -573,6 +531,11 @@
  ],
  "turniMancanti": [
   {
+   "provincia": "BO",
+   "turno": 6,
+   "nota": "bollettino non trovato (si passa dal turno 5 al 7)"
+  },
+  {
    "provincia": "SO",
    "turno": 9,
    "nota": "bollettino non trovato (si passa dal turno 8 al 11)"
@@ -611,76 +574,6 @@
    "provincia": "GE",
    "turno": 6,
    "nota": "bollettino non trovato (si passa dal turno 5 al 7)"
-  },
-  {
-   "provincia": "IM",
-   "turno": 2,
-   "nota": "bollettino non trovato (si passa dal turno 1 al 9)"
-  },
-  {
-   "provincia": "IM",
-   "turno": 3,
-   "nota": "bollettino non trovato (si passa dal turno 1 al 9)"
-  },
-  {
-   "provincia": "IM",
-   "turno": 4,
-   "nota": "bollettino non trovato (si passa dal turno 1 al 9)"
-  },
-  {
-   "provincia": "IM",
-   "turno": 5,
-   "nota": "bollettino non trovato (si passa dal turno 1 al 9)"
-  },
-  {
-   "provincia": "IM",
-   "turno": 6,
-   "nota": "bollettino non trovato (si passa dal turno 1 al 9)"
-  },
-  {
-   "provincia": "IM",
-   "turno": 7,
-   "nota": "bollettino non trovato (si passa dal turno 1 al 9)"
-  },
-  {
-   "provincia": "IM",
-   "turno": 8,
-   "nota": "bollettino non trovato (si passa dal turno 1 al 9)"
-  },
-  {
-   "provincia": "SV",
-   "turno": 3,
-   "nota": "bollettino non trovato (si passa dal turno 2 al 4)"
-  },
-  {
-   "provincia": "SV",
-   "turno": 5,
-   "nota": "bollettino non trovato (si passa dal turno 4 al 11)"
-  },
-  {
-   "provincia": "SV",
-   "turno": 6,
-   "nota": "bollettino non trovato (si passa dal turno 4 al 11)"
-  },
-  {
-   "provincia": "SV",
-   "turno": 7,
-   "nota": "bollettino non trovato (si passa dal turno 4 al 11)"
-  },
-  {
-   "provincia": "SV",
-   "turno": 8,
-   "nota": "bollettino non trovato (si passa dal turno 4 al 11)"
-  },
-  {
-   "provincia": "SV",
-   "turno": 9,
-   "nota": "bollettino non trovato (si passa dal turno 4 al 11)"
-  },
-  {
-   "provincia": "SV",
-   "turno": 10,
-   "nota": "bollettino non trovato (si passa dal turno 4 al 11)"
   },
   {
    "provincia": "AL",
@@ -810,6 +703,13 @@
    "turno": 1,
    "data": "2026-08-31",
    "url": "https://bo.istruzioneer.gov.it/2026/08/31/nomine-a-t-d-docenti-ogni-ordine-e-grado-da-gps-1-turno-a-s-2026-27/?download=37637",
+   "pagine": 3
+  },
+  {
+   "provincia": "BO",
+   "turno": 6,
+   "data": "2026-09-28",
+   "url": "https://bo.istruzioneer.gov.it/2026/09/28/nomine-a-t-d-docenti-ogni-ordine-e-grado-da-gps-6-turno-a-s-2026-27/?download=38118",
    "pagine": 3
   },
   {
@@ -1431,9 +1331,9 @@
   },
   {
    "provincia": "GE",
-   "turno": 12,
+   "turno": null,
    "data": "2026-11-08",
-   "url": "https://www.istruzionegenova.gov.it/pagine/xii-turno-gps---as-2026-2027",
+   "url": "https://www.istruzionegenova.gov.it/pagine/xviii-turno-gps---as-2026-2027",
    "altriLink": [
     "/pagine/decreto-di-nomina-i-fascia-sostegno-adaa-e-adee---genova",
     "/pagine/ix-turno-gps---solo-nomina-pppp",
