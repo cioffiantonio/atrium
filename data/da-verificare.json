@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-09T03:17:54.760Z",
+ "aggiornato": "2026-11-09T06:23:59.162Z",
  "ocr": [],
  "zeroRighe": [],
  "nonLetti": [
@@ -347,10 +347,17 @@
    "nota": "formato non riconosciuto"
   },
   {
-   "provincia": "SV",
-   "turno": 1,
+   "provincia": "IM",
+   "turno": 10,
    "data": "2026-11-09",
-   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-1",
+   "url": "https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps-as-2026-27--x-turno",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "SV",
+   "turno": 6,
+   "data": "2026-11-09",
+   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-5-1",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
@@ -537,106 +544,6 @@
   }
  ],
  "turniMancanti": [
-  {
-   "provincia": "CR",
-   "turno": 6,
-   "nota": "bollettino non trovato (si passa dal turno 5 al 9)"
-  },
-  {
-   "provincia": "CR",
-   "turno": 7,
-   "nota": "bollettino non trovato (si passa dal turno 5 al 9)"
-  },
-  {
-   "provincia": "CR",
-   "turno": 8,
-   "nota": "bollettino non trovato (si passa dal turno 5 al 9)"
-  },
-  {
-   "provincia": "CR",
-   "turno": 10,
-   "nota": "bollettino non trovato (si passa dal turno 9 al 15)"
-  },
-  {
-   "provincia": "CR",
-   "turno": 11,
-   "nota": "bollettino non trovato (si passa dal turno 9 al 15)"
-  },
-  {
-   "provincia": "CR",
-   "turno": 12,
-   "nota": "bollettino non trovato (si passa dal turno 9 al 15)"
-  },
-  {
-   "provincia": "CR",
-   "turno": 13,
-   "nota": "bollettino non trovato (si passa dal turno 9 al 15)"
-  },
-  {
-   "provincia": "CR",
-   "turno": 14,
-   "nota": "bollettino non trovato (si passa dal turno 9 al 15)"
-  },
-  {
-   "provincia": "CR",
-   "turno": 16,
-   "nota": "bollettino non trovato (si passa dal turno 15 al 28)"
-  },
-  {
-   "provincia": "CR",
-   "turno": 17,
-   "nota": "bollettino non trovato (si passa dal turno 15 al 28)"
-  },
-  {
-   "provincia": "CR",
-   "turno": 18,
-   "nota": "bollettino non trovato (si passa dal turno 15 al 28)"
-  },
-  {
-   "provincia": "CR",
-   "turno": 19,
-   "nota": "bollettino non trovato (si passa dal turno 15 al 28)"
-  },
-  {
-   "provincia": "CR",
-   "turno": 20,
-   "nota": "bollettino non trovato (si passa dal turno 15 al 28)"
-  },
-  {
-   "provincia": "CR",
-   "turno": 21,
-   "nota": "bollettino non trovato (si passa dal turno 15 al 28)"
-  },
-  {
-   "provincia": "CR",
-   "turno": 22,
-   "nota": "bollettino non trovato (si passa dal turno 15 al 28)"
-  },
-  {
-   "provincia": "CR",
-   "turno": 23,
-   "nota": "bollettino non trovato (si passa dal turno 15 al 28)"
-  },
-  {
-   "provincia": "CR",
-   "turno": 24,
-   "nota": "bollettino non trovato (si passa dal turno 15 al 28)"
-  },
-  {
-   "provincia": "CR",
-   "turno": 25,
-   "nota": "bollettino non trovato (si passa dal turno 15 al 28)"
-  },
-  {
-   "provincia": "CR",
-   "turno": 26,
-   "nota": "bollettino non trovato (si passa dal turno 15 al 28)"
-  },
-  {
-   "provincia": "CR",
-   "turno": 27,
-   "nota": "bollettino non trovato (si passa dal turno 15 al 28)"
-  },
   {
    "provincia": "VA",
    "turno": 4,
@@ -1411,9 +1318,9 @@
   },
   {
    "provincia": "GE",
-   "turno": null,
+   "turno": 12,
    "data": "2026-11-09",
-   "url": "https://www.istruzionegenova.gov.it/pagine/xviii-turno-gps---as-2026-2027",
+   "url": "https://www.istruzionegenova.gov.it/pagine/xii-turno-gps---as-2026-2027",
    "altriLink": [
     "/pagine/decreto-di-nomina-i-fascia-sostegno-adaa-e-adee---genova",
     "/pagine/ix-turno-gps---solo-nomina-pppp",
