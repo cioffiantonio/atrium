@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-09T07:56:54.202Z",
+ "aggiornato": "2026-11-09T12:00:15.029Z",
  "ocr": [],
  "zeroRighe": [],
  "nonLetti": [
@@ -347,10 +347,17 @@
    "nota": "formato non riconosciuto"
   },
   {
-   "provincia": "SP",
-   "turno": 3,
+   "provincia": "IM",
+   "turno": 1,
    "data": "2026-11-09",
-   "url": "https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---ii-turno-11092026-1",
+   "url": "https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps--as-2026-27--i-turno",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "SP",
+   "turno": null,
+   "data": "2026-11-09",
+   "url": "https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---ix-turno-13102026",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
