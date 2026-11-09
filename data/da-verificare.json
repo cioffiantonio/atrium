@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-09T12:00:15.029Z",
+ "aggiornato": "2026-11-09T14:32:57.377Z",
  "ocr": [],
  "zeroRighe": [],
  "nonLetti": [
@@ -9,6 +9,13 @@
    "data": "2026-10-29",
    "url": "https://fc.istruzioneer.gov.it/wp-content/uploads/sites/4/2026/10/Bollettino-totale-nomine-del-29-ottobre-2026-signed.pdf",
    "nota": "righe GPS non leggibili: 1"
+  },
+  {
+   "provincia": "RA",
+   "turno": null,
+   "data": "2026-11-09",
+   "url": "https://ra.istruzioneer.gov.it/wp-content/uploads/sites/7/2026/11/BROCHURE-2026-2027-FASE3-Ravenna3.pdf",
+   "nota": "formato non riconosciuto"
   },
   {
    "provincia": "MB",
@@ -347,17 +354,17 @@
    "nota": "formato non riconosciuto"
   },
   {
-   "provincia": "IM",
+   "provincia": "SP",
    "turno": 1,
    "data": "2026-11-09",
-   "url": "https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps--as-2026-27--i-turno",
+   "url": "https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---i-turno-as-20262027",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
-   "provincia": "SP",
-   "turno": null,
+   "provincia": "SV",
+   "turno": 11,
    "data": "2026-11-09",
-   "url": "https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---ix-turno-13102026",
+   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps----turno-11",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
