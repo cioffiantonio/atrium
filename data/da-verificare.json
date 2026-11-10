@@ -1,14 +1,21 @@
 {
- "aggiornato": "2026-11-10T01:11:53.910Z",
+ "aggiornato": "2026-11-10T07:32:44.731Z",
  "ocr": [],
  "zeroRighe": [],
  "nonLetti": [
   {
-   "provincia": "FC",
+   "provincia": "VI",
    "turno": null,
-   "data": "2026-10-29",
-   "url": "https://fc.istruzioneer.gov.it/wp-content/uploads/sites/4/2026/10/Bollettino-totale-nomine-del-29-ottobre-2026-signed.pdf",
-   "nota": "righe GPS non leggibili: 1"
+   "data": "2026-10-09",
+   "url": "https://vicenza.istruzioneveneto.gov.it/wp-content/uploads/AllegatiAttiAlboPretorio/BollettinoNomine_TURNO-5_09-10-2026.pdf",
+   "nota": "righe GPS non leggibili: 14"
+  },
+  {
+   "provincia": "VI",
+   "turno": null,
+   "data": "2026-10-26",
+   "url": "https://vicenza.istruzioneveneto.gov.it/wp-content/uploads/AllegatiAttiAlboPretorio/BollettinoNomine_TURNO8_26-10-2026.pdf",
+   "nota": "righe GPS non leggibili: 33"
   },
   {
    "provincia": "MB",
@@ -60,13 +67,6 @@
    "nota": "formato non riconosciuto"
   },
   {
-   "provincia": "BG",
-   "turno": 10,
-   "data": "2026-10-27",
-   "url": "https://www.mim.gov.it/documents/9081047/10244551/Bollettino+n.+10.pdf/5a8bfb65-8e8c-ea00-60e4-a6191724eabf?version=1.0&t=1793109395758",
-   "nota": "formato non riconosciuto"
-  },
-  {
    "provincia": "BS",
    "turno": null,
    "data": "2026-09-21",
@@ -85,13 +85,6 @@
    "turno": null,
    "data": "2026-09-09",
    "url": "https://www.mim.gov.it/documents/9081166/10322629/m_pi.AOOUSPBS.REGISTRO+UFFICIALE%28U%29.0013652.09-09-2026.pdf/d6e1e60c-708f-2256-c834-8e6519b3da73?version=1.0&t=1788970300083",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "MN",
-   "turno": null,
-   "data": "2026-08-31",
-   "url": "https://www.mim.gov.it/documents/9081578/0/Bollettino_TotaleNomine_.pdf/e009c544-f754-ed89-c1b0-5ed001a4475c?version=1.0&t=1788177128769",
    "nota": "formato non riconosciuto"
   },
   {
@@ -242,13 +235,6 @@
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
-   "provincia": "PN",
-   "turno": null,
-   "data": "2026-11-04",
-   "url": "https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/ufficio-territoriale-di-pordenone/allegati/Turno-12-Allegato-1.pdf",
-   "nota": "formato non riconosciuto"
-  },
-  {
    "provincia": "GE",
    "turno": 1,
    "data": "2026-08-31",
@@ -326,25 +312,11 @@
    "nota": "formato non riconosciuto"
   },
   {
-   "provincia": "IM",
+   "provincia": "SV",
    "turno": 1,
    "data": "2026-11-10",
-   "url": "https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps--as-2026-27--i-turno",
+   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-1",
    "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "CN",
-   "turno": null,
-   "data": "2026-09-11",
-   "url": "https://www.istruzionepiemonte.it/cuneo/wp-content/uploads/sites/5/2026/09/BollettinoDefinitivo_Fase-7_per-sito.pdf",
-   "nota": "righe GPS non leggibili: 1"
-  },
-  {
-   "provincia": "TO",
-   "turno": null,
-   "data": "2026-10-23",
-   "url": "https://www.istruzionepiemonte.it/torino/wp-content/uploads/sites/15/2026/10/VIII-turno-informatizzato-di-nomina-delle-supplenze.zip",
-   "nota": "formato non riconosciuto"
   },
   {
    "provincia": "BR",
@@ -427,11 +399,6 @@
    "provincia": "IS",
    "turno": 2,
    "nota": "bollettino non trovato (si passa dal turno 1 al 3)"
-  },
-  {
-   "provincia": "IS",
-   "turno": 5,
-   "nota": "bollettino non trovato (si passa dal turno 4 al 6)"
   },
   {
    "provincia": "VV",
@@ -829,13 +796,6 @@
    "provincia": "LC",
    "turno": null,
    "data": "2026-11-10",
-   "url": "https://www.mim.gov.it/documents/9081350/10317897/m_pi.AOOUSPLC.REGISTRO+UFFICIALE%28U%29.0005886.23-10-2026.pdf/80ef3b1a-c8b4-c0b0-ec7c-7e594d00dad2?version=1.0&t=1792751157468",
-   "pagine": 2
-  },
-  {
-   "provincia": "LC",
-   "turno": null,
-   "data": "2026-11-10",
    "url": "https://www.mim.gov.it/documents/9081350/9239343/m_pi.AOOUSPLC.REGISTRO+UFFICIALE%28U%29.0006725.25-11-2025.pdf/7da00e31-8096-c4d8-cfdf-04ef80620379?version=1.0&t=1764085980857",
    "pagine": 2
   },
@@ -921,13 +881,6 @@
    "turno": 2,
    "data": "2026-11-10",
    "url": "https://www.mim.gov.it/documents/10591991/0/nota+di+pubblicazione+secondo+turno+incarichi+TD_.pdf/4f29df3e-4ccd-0b3d-c3b0-9fa2ced233fe?version=1.0&t=1788946893455",
-   "pagine": 4
-  },
-  {
-   "provincia": "IS",
-   "turno": 5,
-   "data": "2026-11-10",
-   "url": "https://www.mim.gov.it/documents/10591991/10597831/nota+di+pubblicazione+quinto+turno+incarichi+TD_.pdf/eca85bec-a68a-88b7-074a-0ea087bdbb92?version=1.0&t=1791366478803",
    "pagine": 4
   },
   {
@@ -1174,6 +1127,72 @@
     "ov&#x2e;it&#x2f;web&#x2f;sondrio&#x2f;-&#x2f;decreto-nomina-commissione-per-bando-legge-107-2015-a-s-2026-2027",
     "ov&#x2e;it&#x2f;web&#x2f;sondrio&#x2f;-&#x2f;decreto-nomina-commissione-per-bando-legge-107-2015-a-s-2026-2027",
     "it&#x2f;en&#x2f;web&#x2f;sondrio&#x2f;-&#x2f;decreto-nomina-commissione-per-bando-legge-107-2015-a-s-2026-2027"
+   ]
+  },
+  {
+   "provincia": "GE",
+   "turno": 12,
+   "data": "2026-11-10",
+   "url": "https://www.istruzionegenova.gov.it/pagine/xii-turno-gps---as-2026-2027",
+   "altriLink": [
+    "/pagine/decreto-di-nomina-i-fascia-sostegno-adaa-e-adee---genova",
+    "/pagine/ix-turno-gps---solo-nomina-pppp",
+    "/pagine/personale-educativo---eeee---ii-turno-di-nomina-gps",
+    "/pagine/xix-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xviii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xvii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xvi-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/-xv-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xiv-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xiii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xi-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/x-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/ix-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps"
+   ]
+  },
+  {
+   "provincia": "GE",
+   "turno": 14,
+   "data": "2026-11-10",
+   "url": "https://www.istruzionegenova.gov.it/pagine/xiv-turno-gps---as-2026-2027",
+   "altriLink": [
+    "/pagine/decreto-di-nomina-i-fascia-sostegno-adaa-e-adee---genova",
+    "/pagine/ix-turno-gps---solo-nomina-pppp",
+    "/pagine/personale-educativo---eeee---ii-turno-di-nomina-gps",
+    "/pagine/xix-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xviii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xvii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xvi-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/-xv-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xiv-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xiii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xi-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/x-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/ix-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps"
+   ]
+  },
+  {
+   "provincia": "GE",
+   "turno": 17,
+   "data": "2026-11-10",
+   "url": "https://www.istruzionegenova.gov.it/pagine/xvii-turno-gps---as-2026-2027",
+   "altriLink": [
+    "/pagine/decreto-di-nomina-i-fascia-sostegno-adaa-e-adee---genova",
+    "/pagine/ix-turno-gps---solo-nomina-pppp",
+    "/pagine/personale-educativo---eeee---ii-turno-di-nomina-gps",
+    "/pagine/xix-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xviii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xvii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xvi-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/-xv-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xiv-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xiii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xi-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/x-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/ix-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps"
    ]
   }
  ],
