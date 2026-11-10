@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-10T13:58:02.668Z",
+ "aggiornato": "2026-11-10T22:39:29.710Z",
  "ocr": [],
  "zeroRighe": [],
  "nonLetti": [
@@ -144,24 +144,59 @@
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
+   "provincia": "NU",
+   "turno": null,
+   "data": "2026-10-30",
+   "url": "https://www.mim.gov.it/documents/8635161/10428184/Bollettino_TotaleNomine_Turno+8_ALBO.xlsx/43216a3d-2938-ac91-a66f-dad8edfa8100?version=1.0&t=1793349698407",
+   "nota": "documento non leggibile"
+  },
+  {
+   "provincia": "OR",
+   "turno": null,
+   "data": "2026-09-28",
+   "url": "https://www.mim.gov.it/documents/8609379/10333596/III+TURNO.zip/7b722eb7-5b6b-cf88-77c0-57cff166b1d0?version=1.0&t=1790604150967",
+   "nota": "documento non leggibile"
+  },
+  {
+   "provincia": "OR",
+   "turno": null,
+   "data": "2026-10-20",
+   "url": "https://www.mim.gov.it/documents/8609379/10333596/V+TURNO.zip/14709f07-9481-287c-53fd-43b07fb57e85?version=1.0&t=1792494238912",
+   "nota": "documento non leggibile"
+  },
+  {
+   "provincia": "OR",
+   "turno": null,
+   "data": "2026-10-23",
+   "url": "https://www.mim.gov.it/documents/8609379/10038516/VI+TURNO.zip/72345e0e-b598-3298-1ddd-e130e4d44f80?version=1.0&t=1792764121397",
+   "nota": "documento non leggibile"
+  },
+  {
    "provincia": "VE",
-   "turno": 9,
-   "data": "2026-11-04",
+   "turno": 10,
+   "data": "2026-11-10",
    "url": "https://usrveneto.sharepoint.com/monitoraggi/",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "VE",
    "turno": 9,
-   "data": "2026-11-03",
+   "data": "2026-11-04",
    "url": "https://usrveneto.sharepoint.com/monitoraggi/venezia/",
+   "nota": "formato non riconosciuto"
+  },
+  {
+   "provincia": "VE",
+   "turno": 9,
+   "data": "2026-11-03",
+   "url": "https://usrveneto.sharepoint.com/ds/",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "VE",
    "turno": 8,
    "data": "2026-10-27",
-   "url": "https://usrveneto.sharepoint.com/ds/",
+   "url": "https://usrveneto.sharepoint.com/personale/",
    "nota": "formato non riconosciuto"
   },
   {
@@ -312,10 +347,10 @@
    "nota": "formato non riconosciuto"
   },
   {
-   "provincia": "SP",
-   "turno": 5,
+   "provincia": "SV",
+   "turno": 8,
    "data": "2026-11-10",
-   "url": "https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---iv-turno-18092026--",
+   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-8--",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
@@ -401,14 +436,24 @@
    "nota": "bollettino non trovato (si passa dal turno 1 al 3)"
   },
   {
-   "provincia": "VV",
-   "turno": 3,
-   "nota": "bollettino non trovato (si passa dal turno 2 al 5)"
+   "provincia": "NU",
+   "turno": 8,
+   "nota": "bollettino non trovato (si passa dal turno 7 al 9)"
   },
   {
-   "provincia": "VV",
-   "turno": 4,
-   "nota": "bollettino non trovato (si passa dal turno 2 al 5)"
+   "provincia": "OR",
+   "turno": 3,
+   "nota": "bollettino non trovato (si passa dal turno 2 al 4)"
+  },
+  {
+   "provincia": "OR",
+   "turno": 5,
+   "nota": "bollettino non trovato (si passa dal turno 4 al 7)"
+  },
+  {
+   "provincia": "OR",
+   "turno": 6,
+   "nota": "bollettino non trovato (si passa dal turno 4 al 7)"
   },
   {
    "provincia": "GE",
@@ -431,69 +476,9 @@
    "nota": "bollettino non trovato (si passa dal turno 11 al 13)"
   },
   {
-   "provincia": "BA",
-   "turno": 9,
-   "nota": "bollettino non trovato (si passa dal turno 8 al 10)"
-  },
-  {
-   "provincia": "NU",
-   "turno": 8,
-   "nota": "bollettino non trovato (si passa dal turno 7 al 9)"
-  },
-  {
-   "provincia": "OR",
-   "turno": 3,
-   "nota": "bollettino non trovato (si passa dal turno 2 al 4)"
-  },
-  {
-   "provincia": "OR",
-   "turno": 5,
-   "nota": "bollettino non trovato (si passa dal turno 4 al 7)"
-  },
-  {
-   "provincia": "OR",
-   "turno": 6,
-   "nota": "bollettino non trovato (si passa dal turno 4 al 7)"
-  },
-  {
-   "provincia": "AR",
-   "turno": 6,
-   "nota": "bollettino non trovato (si passa dal turno 5 al 7)"
-  },
-  {
-   "provincia": "FI",
-   "turno": 9,
-   "nota": "bollettino non trovato (si passa dal turno 8 al 10)"
-  },
-  {
-   "provincia": "LI",
-   "turno": 5,
-   "nota": "bollettino non trovato (si passa dal turno 4 al 8)"
-  },
-  {
-   "provincia": "LI",
-   "turno": 6,
-   "nota": "bollettino non trovato (si passa dal turno 4 al 8)"
-  },
-  {
-   "provincia": "LI",
-   "turno": 7,
-   "nota": "bollettino non trovato (si passa dal turno 4 al 8)"
-  },
-  {
-   "provincia": "LU",
-   "turno": 4,
-   "nota": "bollettino non trovato (si passa dal turno 3 al 5)"
-  },
-  {
    "provincia": "PO",
    "turno": 9,
    "nota": "bollettino non trovato (si passa dal turno 8 al 10)"
-  },
-  {
-   "provincia": "SI",
-   "turno": 11,
-   "nota": "bollettino non trovato (si passa dal turno 10 al 12)"
   },
   {
    "provincia": "PD",
@@ -667,6 +652,13 @@
    "data": "2026-11-10",
    "url": "https://www.mim.gov.it/documents/9081911/9569371/giudizio+finale.pdf/68b80423-834c-7ae8-d353-233622496e26?version=1.0&t=1761910202596",
    "pagine": 1
+  },
+  {
+   "provincia": "BS",
+   "turno": null,
+   "data": "2026-11-10",
+   "url": "https://www.mim.gov.it/documents/9081166/10322629/m_pi.AOOUSPBS.REGISTRO+UFFICIALE%28U%29.0016823.10-11-2026.pdf/fcedc460-af14-c2cc-0b93-4d7d4ed5a5c1?version=1.0&t=1794320831419",
+   "pagine": 3
   },
   {
    "provincia": "BS",
@@ -886,34 +878,6 @@
    "pagine": 4
   },
   {
-   "provincia": "TE",
-   "turno": null,
-   "data": "2026-10-29",
-   "url": "https://www.csateramo.it/wpusp/wp-content/uploads/2026/10/Dispositivo-pubblicazione-esiti-turno-INS-n.-8-del-29.10.2026.pdf",
-   "pagine": 3
-  },
-  {
-   "provincia": "PZ",
-   "turno": null,
-   "data": "2026-11-10",
-   "url": "https://www.istruzionepotenza.it/wp-content/uploads/2026/09/m_pi.AOOUSPPZ.REGISTRO-UFFICIALEU.0011335.22-09-2026.pdf",
-   "pagine": 3
-  },
-  {
-   "provincia": "VV",
-   "turno": null,
-   "data": "2026-11-10",
-   "url": "https://www.istruzione.calabria.it/vibovalentia/wp-content/uploads/2026/09/m_pi.AOOUSPVV.REGISTRO-UFFICIALEU.0007184.23-09-2026.pdf",
-   "pagine": 3
-  },
-  {
-   "provincia": "CN",
-   "turno": null,
-   "data": "2026-11-10",
-   "url": "https://www.istruzionepiemonte.it/cuneo/wp-content/uploads/sites/5/2026/09/AVVISO-Nomine-GPS-FASE-8.pdf",
-   "pagine": 2
-  },
-  {
    "provincia": "OR",
    "turno": 3,
    "data": "2026-11-10",
@@ -933,6 +897,41 @@
    "data": "2026-11-10",
    "url": "https://www.mim.gov.it/documents/8609379/10038516/m_pi.AOOUSPOR.REGISTRO+UFFICIALE%28U%29.0006604.23-10-2026.pdf/2db2a181-f00f-912f-d8f5-ddc5592f20af?version=1.0&t=1792764095271",
    "pagine": 6
+  },
+  {
+   "provincia": "VV",
+   "turno": null,
+   "data": "2026-11-10",
+   "url": "https://www.istruzione.calabria.it/vibovalentia/wp-content/uploads/2026/09/m_pi.AOOUSPVV.REGISTRO-UFFICIALEU.0007184.23-09-2026.pdf",
+   "pagine": 3
+  },
+  {
+   "provincia": "TE",
+   "turno": null,
+   "data": "2026-10-29",
+   "url": "https://www.csateramo.it/wpusp/wp-content/uploads/2026/10/Dispositivo-pubblicazione-esiti-turno-INS-n.-8-del-29.10.2026.pdf",
+   "pagine": 3
+  },
+  {
+   "provincia": "PZ",
+   "turno": null,
+   "data": "2026-11-10",
+   "url": "https://www.istruzionepotenza.it/wp-content/uploads/2026/09/m_pi.AOOUSPPZ.REGISTRO-UFFICIALEU.0011335.22-09-2026.pdf",
+   "pagine": 3
+  },
+  {
+   "provincia": "CN",
+   "turno": null,
+   "data": "2026-11-10",
+   "url": "https://www.istruzionepiemonte.it/cuneo/wp-content/uploads/sites/5/2026/09/AVVISO-Nomine-GPS-FASE-8.pdf",
+   "pagine": 2
+  },
+  {
+   "provincia": "TA",
+   "turno": null,
+   "data": "2026-09-16",
+   "url": "https://www.usptaranto.it/wp-content/uploads/2026/09/m_pi.AOOUSPTA.REGISTRO-UFFICIALEU.0019836.16-09-2026.pdf",
+   "pagine": 2
   },
   {
    "provincia": "EN",
@@ -1126,9 +1125,9 @@
   },
   {
    "provincia": "GE",
-   "turno": 12,
+   "turno": null,
    "data": "2026-11-10",
-   "url": "https://www.istruzionegenova.gov.it/pagine/xii-turno-gps---as-2026-2027",
+   "url": "https://www.istruzionegenova.gov.it/pagine/xviii-turno-gps---as-2026-2027",
    "altriLink": [
     "/pagine/decreto-di-nomina-i-fascia-sostegno-adaa-e-adee---genova",
     "/pagine/ix-turno-gps---solo-nomina-pppp",
