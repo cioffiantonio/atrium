@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-10T07:32:44.731Z",
+ "aggiornato": "2026-11-10T11:12:11.488Z",
  "ocr": [],
  "zeroRighe": [],
  "nonLetti": [
@@ -312,6 +312,13 @@
    "nota": "formato non riconosciuto"
   },
   {
+   "provincia": "IM",
+   "turno": 8,
+   "data": "2026-11-10",
+   "url": "https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps--as-2026-27--vii-turno",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
    "provincia": "SV",
    "turno": 1,
    "data": "2026-11-10",
@@ -380,13 +387,6 @@
    "data": "2026-11-10",
    "url": "https://pa.usr.sicilia.it/supplenze-docenti-da-gae-e-gps-a-s-2026-27-individuazione-e-assegnazione-delle-sedi-iv-turno/",
    "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "PO",
-   "turno": 14,
-   "data": "2026-11-04",
-   "url": "https://www.ufficioscolasticoprovinciale.prato.it/wp-content/uploads/2026/11/Bollettino-totale-XIV-turno-di-nomina-a-tempo-determinato-da-GPS.pdf",
-   "nota": "formato non riconosciuto"
   }
  ],
  "turniMancanti": [
@@ -484,16 +484,6 @@
    "provincia": "LU",
    "turno": 4,
    "nota": "bollettino non trovato (si passa dal turno 3 al 5)"
-  },
-  {
-   "provincia": "PT",
-   "turno": 4,
-   "nota": "bollettino non trovato (si passa dal turno 3 al 5)"
-  },
-  {
-   "provincia": "PO",
-   "turno": 9,
-   "nota": "bollettino non trovato (si passa dal turno 8 al 10)"
   },
   {
    "provincia": "SI",
@@ -1134,50 +1124,6 @@
    "turno": 12,
    "data": "2026-11-10",
    "url": "https://www.istruzionegenova.gov.it/pagine/xii-turno-gps---as-2026-2027",
-   "altriLink": [
-    "/pagine/decreto-di-nomina-i-fascia-sostegno-adaa-e-adee---genova",
-    "/pagine/ix-turno-gps---solo-nomina-pppp",
-    "/pagine/personale-educativo---eeee---ii-turno-di-nomina-gps",
-    "/pagine/xix-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
-    "/pagine/xviii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
-    "/pagine/xvii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
-    "/pagine/xvi-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
-    "/pagine/-xv-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
-    "/pagine/xiv-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
-    "/pagine/xiii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
-    "/pagine/xii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
-    "/pagine/xi-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
-    "/pagine/x-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
-    "/pagine/ix-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps"
-   ]
-  },
-  {
-   "provincia": "GE",
-   "turno": 14,
-   "data": "2026-11-10",
-   "url": "https://www.istruzionegenova.gov.it/pagine/xiv-turno-gps---as-2026-2027",
-   "altriLink": [
-    "/pagine/decreto-di-nomina-i-fascia-sostegno-adaa-e-adee---genova",
-    "/pagine/ix-turno-gps---solo-nomina-pppp",
-    "/pagine/personale-educativo---eeee---ii-turno-di-nomina-gps",
-    "/pagine/xix-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
-    "/pagine/xviii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
-    "/pagine/xvii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
-    "/pagine/xvi-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
-    "/pagine/-xv-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
-    "/pagine/xiv-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
-    "/pagine/xiii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
-    "/pagine/xii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
-    "/pagine/xi-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
-    "/pagine/x-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
-    "/pagine/ix-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps"
-   ]
-  },
-  {
-   "provincia": "GE",
-   "turno": 17,
-   "data": "2026-11-10",
-   "url": "https://www.istruzionegenova.gov.it/pagine/xvii-turno-gps---as-2026-2027",
    "altriLink": [
     "/pagine/decreto-di-nomina-i-fascia-sostegno-adaa-e-adee---genova",
     "/pagine/ix-turno-gps---solo-nomina-pppp",
