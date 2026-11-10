@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-10T11:12:11.488Z",
+ "aggiornato": "2026-11-10T13:58:02.668Z",
  "ocr": [],
  "zeroRighe": [],
  "nonLetti": [
@@ -312,17 +312,10 @@
    "nota": "formato non riconosciuto"
   },
   {
-   "provincia": "IM",
-   "turno": 8,
+   "provincia": "SP",
+   "turno": 5,
    "data": "2026-11-10",
-   "url": "https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps--as-2026-27--vii-turno",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "SV",
-   "turno": 1,
-   "data": "2026-11-10",
-   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-1",
+   "url": "https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---iv-turno-18092026--",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
@@ -387,6 +380,13 @@
    "data": "2026-11-10",
    "url": "https://pa.usr.sicilia.it/supplenze-docenti-da-gae-e-gps-a-s-2026-27-individuazione-e-assegnazione-delle-sedi-iv-turno/",
    "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "PO",
+   "turno": 14,
+   "data": "2026-11-04",
+   "url": "https://www.ufficioscolasticoprovinciale.prato.it/wp-content/uploads/2026/11/Bollettino-totale-XIV-turno-di-nomina-a-tempo-determinato-da-GPS.pdf",
+   "nota": "formato non riconosciuto"
   }
  ],
  "turniMancanti": [
@@ -486,6 +486,11 @@
    "nota": "bollettino non trovato (si passa dal turno 3 al 5)"
   },
   {
+   "provincia": "PO",
+   "turno": 9,
+   "nota": "bollettino non trovato (si passa dal turno 8 al 10)"
+  },
+  {
    "provincia": "SI",
    "turno": 11,
    "nota": "bollettino non trovato (si passa dal turno 10 al 12)"
@@ -502,6 +507,13 @@
   }
  ],
  "decretiIgnorati": [
+  {
+   "provincia": "MO",
+   "turno": null,
+   "data": "2026-11-10",
+   "url": "http://mo.istruzioneer.gov.it/wp-content/uploads/sites/6/2026/11/All.1-Modello-dichiarazione-possesso-requisiti-DPR-445_2000.pdf",
+   "pagine": 1
+  },
   {
    "provincia": "MO",
    "turno": null,
@@ -899,13 +911,6 @@
    "turno": null,
    "data": "2026-11-10",
    "url": "https://www.istruzionepiemonte.it/cuneo/wp-content/uploads/sites/5/2026/09/AVVISO-Nomine-GPS-FASE-8.pdf",
-   "pagine": 2
-  },
-  {
-   "provincia": "TA",
-   "turno": null,
-   "data": "2026-09-16",
-   "url": "https://www.usptaranto.it/wp-content/uploads/2026/09/m_pi.AOOUSPTA.REGISTRO-UFFICIALEU.0019836.16-09-2026.pdf",
    "pagine": 2
   },
   {
