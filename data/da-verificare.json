@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-11T03:12:51.549Z",
+ "aggiornato": "2026-11-11T07:44:49.860Z",
  "ocr": [],
  "zeroRighe": [],
  "nonLetti": [
@@ -16,6 +16,62 @@
    "data": "2026-10-26",
    "url": "https://vicenza.istruzioneveneto.gov.it/wp-content/uploads/AllegatiAttiAlboPretorio/BollettinoNomine_TURNO8_26-10-2026.pdf",
    "nota": "righe GPS non leggibili: 33"
+  },
+  {
+   "provincia": "VI",
+   "turno": null,
+   "data": "2026-11-10",
+   "url": "https://vicenza.istruzioneveneto.gov.it/wp-content/uploads/2026/11/ReportDettDispScuola_turno_11-002.pdf",
+   "nota": "formato non riconosciuto"
+  },
+  {
+   "provincia": "VI",
+   "turno": null,
+   "data": "2026-11-04",
+   "url": "https://vicenza.istruzioneveneto.gov.it/wp-content/uploads/2026/11/ReportDettDispScuola_turno_10.pdf",
+   "nota": "formato non riconosciuto"
+  },
+  {
+   "provincia": "VI",
+   "turno": null,
+   "data": "2026-10-30",
+   "url": "https://vicenza.istruzioneveneto.gov.it/wp-content/uploads/2026/10/ReportDettDispScuola_turno_9.pdf",
+   "nota": "formato non riconosciuto"
+  },
+  {
+   "provincia": "VI",
+   "turno": null,
+   "data": "2026-10-26",
+   "url": "https://vicenza.istruzioneveneto.gov.it/wp-content/uploads/2026/10/ReportDettDispScuola_turno_8.pdf",
+   "nota": "formato non riconosciuto"
+  },
+  {
+   "provincia": "VI",
+   "turno": null,
+   "data": "2026-10-20",
+   "url": "https://vicenza.istruzioneveneto.gov.it/wp-content/uploads/2026/10/ReportDettDispScuola_turno_7_1.pdf",
+   "nota": "formato non riconosciuto"
+  },
+  {
+   "provincia": "VI",
+   "turno": 6,
+   "data": "2026-10-14",
+   "url": "https://vicenza.istruzioneveneto.gov.it/wp-content/uploads/2026/10/ReportDettDispScuola_turno6_signed.pdf",
+   "nota": "formato non riconosciuto"
+  },
+  {
+   "provincia": "VI",
+   "turno": 5,
+   "data": "2026-10-09",
+   "url": "https://vicenza.istruzioneveneto.gov.it/wp-content/uploads/2026/10/ReportDettDispScuola_turno5_signed.pdf",
+   "nota": "formato non riconosciuto"
+  },
+  {
+   "provincia": "VI",
+   "turno": 4,
+   "data": "2026-10-02",
+   "url": "https://vicenza.istruzioneveneto.gov.it/wp-content/uploads/2026/10/ReportDettDispScuola_turno4.pdf",
+   "nota": "formato non riconosciuto"
   },
   {
    "provincia": "MB",
@@ -144,32 +200,151 @@
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
-   "provincia": "NU",
-   "turno": null,
-   "data": "2026-10-30",
-   "url": "https://www.mim.gov.it/documents/8635161/10428184/Bollettino_TotaleNomine_Turno+8_ALBO.xlsx/43216a3d-2938-ac91-a66f-dad8edfa8100?version=1.0&t=1793349698407",
-   "nota": "documento non leggibile"
+   "provincia": "PD",
+   "turno": 1,
+   "data": "2026-08-28",
+   "url": "https://padova.istruzioneveneto.gov.it/wp-content/uploads/2026/08/Bollettino-I-turno-supplenze.pdf",
+   "nota": "righe GPS non leggibili: 1146"
   },
   {
-   "provincia": "OR",
-   "turno": null,
-   "data": "2026-09-28",
-   "url": "https://www.mim.gov.it/documents/8609379/10333596/III+TURNO.zip/7b722eb7-5b6b-cf88-77c0-57cff166b1d0?version=1.0&t=1790604150967",
-   "nota": "documento non leggibile"
+   "provincia": "PD",
+   "turno": 2,
+   "data": "2026-09-11",
+   "url": "https://padova.istruzioneveneto.gov.it/wp-content/uploads/2026/09/Bollettino-supplenze-II-Turno-11-09-2026-1.pdf",
+   "nota": "formato non riconosciuto"
   },
   {
-   "provincia": "OR",
+   "provincia": "PD",
    "turno": null,
-   "data": "2026-10-20",
-   "url": "https://www.mim.gov.it/documents/8609379/10333596/V+TURNO.zip/14709f07-9481-287c-53fd-43b07fb57e85?version=1.0&t=1792494238912",
-   "nota": "documento non leggibile"
+   "data": "2026-09-11",
+   "url": "https://padova.istruzioneveneto.gov.it/wp-content/uploads/2026/09/Bollettino-supplenze-II-Turno-11-09-2026.pdf",
+   "nota": "formato non riconosciuto"
   },
   {
-   "provincia": "OR",
+   "provincia": "PD",
    "turno": null,
-   "data": "2026-10-23",
-   "url": "https://www.mim.gov.it/documents/8609379/10038516/VI+TURNO.zip/72345e0e-b598-3298-1ddd-e130e4d44f80?version=1.0&t=1792764121397",
-   "nota": "documento non leggibile"
+   "data": "2026-09-07",
+   "url": "https://padova.istruzioneveneto.gov.it/wp-content/uploads/2026/09/I-grado-Restituzione-aggregazioni-dopo-I-turno.pdf",
+   "nota": "formato non riconosciuto"
+  },
+  {
+   "provincia": "PD",
+   "turno": null,
+   "data": "2026-08-28",
+   "url": "https://padova.istruzioneveneto.gov.it/wp-content/uploads/2026/08/Disponibiita-PRIMARIA-I-turno-di-nomina-28-08-2026.pdf",
+   "nota": "formato non riconosciuto"
+  },
+  {
+   "provincia": "PD",
+   "turno": null,
+   "data": "2026-08-28",
+   "url": "https://padova.istruzioneveneto.gov.it/wp-content/uploads/2026/08/Disponibiita-INFANZIA-I-turno-di-nomina-28-08-2026.pdf",
+   "nota": "formato non riconosciuto"
+  },
+  {
+   "provincia": "PO",
+   "turno": 14,
+   "data": "2026-11-04",
+   "url": "https://www.ufficioscolasticoprovinciale.prato.it/wp-content/uploads/2026/11/Bollettino-totale-XIV-turno-di-nomina-a-tempo-determinato-da-GPS.pdf",
+   "nota": "formato non riconosciuto"
+  },
+  {
+   "provincia": "PO",
+   "turno": null,
+   "data": "2026-10-02",
+   "url": "https://www.ufficioscolasticoprovinciale.prato.it/wp-content/uploads/2026/10/Restituzione-dopo-VII-turno-di-nomina-GPS.pdf",
+   "nota": "formato non riconosciuto"
+  },
+  {
+   "provincia": "AL",
+   "turno": null,
+   "data": "2026-11-11",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/08/bollettinoDefinitivo_-GPS_1-TURNO.zip",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "AL",
+   "turno": null,
+   "data": "2026-09-03",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/09/AT-esiti-nomine-II-turno-as-2026-27-03.09.2026.xlsx",
+   "nota": "formato non riconosciuto"
+  },
+  {
+   "provincia": "AL",
+   "turno": null,
+   "data": "2026-09-03",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/09/AA-esiti-nomine-II-turno-as-2026-27-03.09.2026.xlsx",
+   "nota": "formato non riconosciuto"
+  },
+  {
+   "provincia": "AL",
+   "turno": null,
+   "data": "2026-09-04",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/09/liberatoria-profili-AT-e-AA-nomine-a-TD-as-2026-27-signed-1.pdf",
+   "nota": "formato non riconosciuto"
+  },
+  {
+   "provincia": "AL",
+   "turno": null,
+   "data": "2026-09-04",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/09/liberatoria-profili-AT-e-AA-nomine-a-TD-as-2026-27-signed.pdf",
+   "nota": "formato non riconosciuto"
+  },
+  {
+   "provincia": "AL",
+   "turno": null,
+   "data": "2026-09-01",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/09/AL_ChiarimentiNomineGPS-as26_27-signed-1.pdf",
+   "nota": "formato non riconosciuto"
+  },
+  {
+   "provincia": "AT",
+   "turno": null,
+   "data": "2026-11-11",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/08/bollettinoDefinitivo_-GPS_1-TURNO.zip",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "AT",
+   "turno": null,
+   "data": "2026-09-03",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/09/AT-esiti-nomine-II-turno-as-2026-27-03.09.2026.xlsx",
+   "nota": "formato non riconosciuto"
+  },
+  {
+   "provincia": "AT",
+   "turno": null,
+   "data": "2026-09-03",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/09/AA-esiti-nomine-II-turno-as-2026-27-03.09.2026.xlsx",
+   "nota": "formato non riconosciuto"
+  },
+  {
+   "provincia": "AT",
+   "turno": null,
+   "data": "2026-09-04",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/09/liberatoria-profili-AT-e-AA-nomine-a-TD-as-2026-27-signed-1.pdf",
+   "nota": "formato non riconosciuto"
+  },
+  {
+   "provincia": "AT",
+   "turno": null,
+   "data": "2026-09-04",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/09/liberatoria-profili-AT-e-AA-nomine-a-TD-as-2026-27-signed.pdf",
+   "nota": "formato non riconosciuto"
+  },
+  {
+   "provincia": "AT",
+   "turno": null,
+   "data": "2026-09-01",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/09/AL_ChiarimentiNomineGPS-as26_27-signed-1.pdf",
+   "nota": "formato non riconosciuto"
+  },
+  {
+   "provincia": "AT",
+   "turno": null,
+   "data": "2026-09-01",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/09/AL_ChiarimentiNomineGPS-as26_27-signed.pdf",
+   "nota": "formato non riconosciuto"
   },
   {
    "provincia": "VE",
@@ -348,9 +523,16 @@
   },
   {
    "provincia": "SP",
-   "turno": null,
+   "turno": 1,
    "data": "2026-11-11",
-   "url": "https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---ix-turno-13102026",
+   "url": "https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---i-turno-as-20262027",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "SV",
+   "turno": 2,
+   "data": "2026-11-11",
+   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-1-2",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
@@ -417,10 +599,10 @@
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
-   "provincia": "PO",
-   "turno": 14,
-   "data": "2026-11-04",
-   "url": "https://www.ufficioscolasticoprovinciale.prato.it/wp-content/uploads/2026/11/Bollettino-totale-XIV-turno-di-nomina-a-tempo-determinato-da-GPS.pdf",
+   "provincia": "RG",
+   "turno": null,
+   "data": "2026-11-11",
+   "url": "https://rg.usr.sicilia.it/download/1704/11351/11354/documenti.zip",
    "nota": "formato non riconosciuto"
   }
  ],
@@ -436,52 +618,17 @@
    "nota": "bollettino non trovato (si passa dal turno 1 al 3)"
   },
   {
-   "provincia": "NU",
-   "turno": 8,
-   "nota": "bollettino non trovato (si passa dal turno 7 al 9)"
+   "provincia": "SI",
+   "turno": 2,
+   "nota": "bollettino non trovato (si passa dal turno 1 al 4)"
   },
   {
-   "provincia": "OR",
+   "provincia": "SI",
    "turno": 3,
-   "nota": "bollettino non trovato (si passa dal turno 2 al 4)"
-  },
-  {
-   "provincia": "OR",
-   "turno": 5,
-   "nota": "bollettino non trovato (si passa dal turno 4 al 7)"
-  },
-  {
-   "provincia": "OR",
-   "turno": 6,
-   "nota": "bollettino non trovato (si passa dal turno 4 al 7)"
+   "nota": "bollettino non trovato (si passa dal turno 1 al 4)"
   },
   {
    "provincia": "GE",
-   "turno": 6,
-   "nota": "bollettino non trovato (si passa dal turno 5 al 7)"
-  },
-  {
-   "provincia": "AL",
-   "turno": 2,
-   "nota": "bollettino non trovato (si passa dal turno 1 al 3)"
-  },
-  {
-   "provincia": "AT",
-   "turno": 2,
-   "nota": "bollettino non trovato (si passa dal turno 1 al 3)"
-  },
-  {
-   "provincia": "AT",
-   "turno": 12,
-   "nota": "bollettino non trovato (si passa dal turno 11 al 13)"
-  },
-  {
-   "provincia": "PO",
-   "turno": 9,
-   "nota": "bollettino non trovato (si passa dal turno 8 al 10)"
-  },
-  {
-   "provincia": "PD",
    "turno": 6,
    "nota": "bollettino non trovato (si passa dal turno 5 al 7)"
   },
@@ -561,6 +708,20 @@
    "data": "2026-11-11",
    "url": "https://www.mim.gov.it/documents/7673905/7821594/m_pi.AOODRCA.REGISTRO+UFFICIALE%28U%29.0083021.31-10-2025.pdf/53b3e618-77a1-0148-0b80-12afaa019635?t=1761907834845",
    "pagine": 2
+  },
+  {
+   "provincia": "VI",
+   "turno": null,
+   "data": "2026-09-04",
+   "url": "https://vicenza.istruzioneveneto.gov.it/wp-content/uploads/2026/09/ESITI-NOMINE-CS-m_pi.AOOUSPVI.REGISTRO-UFFICIALEU.0013107.04-09-2026.pdf",
+   "pagine": 1
+  },
+  {
+   "provincia": "VI",
+   "turno": null,
+   "data": "2026-11-11",
+   "url": "https://vicenza.istruzioneveneto.gov.it/wp-content/uploads/2022/05/21-GAE-EL.-SOSTEGNO-PROVV.-NOMINE-TEMPO-DETERMINATO-SCUOLA-SEC.-II-GRADO-PRIVACY.pdf",
+   "pagine": 3
   },
   {
    "provincia": "MB",
@@ -878,27 +1039,6 @@
    "pagine": 4
   },
   {
-   "provincia": "OR",
-   "turno": 3,
-   "data": "2026-11-11",
-   "url": "https://www.mim.gov.it/documents/8609379/10333596/III+TURNO+-+DECRETO+CONFERIMENTO+NOMINE+A+TEMPO+DETERMINATO_Firmato.pdf/1a773049-9e8a-b34b-3b4b-24724e0bc8f6?version=1.0&t=1790604151321",
-   "pagine": 6
-  },
-  {
-   "provincia": "OR",
-   "turno": 5,
-   "data": "2026-11-11",
-   "url": "https://www.mim.gov.it/documents/8609379/10333596/m_pi.AOOUSPOR.REGISTRO+UFFICIALE%28U%29.0006490.20-10-2026.pdf/b5017809-0eaa-71bb-771a-44b53c47b74b?version=1.0&t=1792494239126",
-   "pagine": 6
-  },
-  {
-   "provincia": "OR",
-   "turno": 6,
-   "data": "2026-11-11",
-   "url": "https://www.mim.gov.it/documents/8609379/10038516/m_pi.AOOUSPOR.REGISTRO+UFFICIALE%28U%29.0006604.23-10-2026.pdf/2db2a181-f00f-912f-d8f5-ddc5592f20af?version=1.0&t=1792764095271",
-   "pagine": 6
-  },
-  {
    "provincia": "VV",
    "turno": null,
    "data": "2026-11-11",
@@ -934,55 +1074,6 @@
    "pagine": 2
   },
   {
-   "provincia": "EN",
-   "turno": 1,
-   "data": "2026-11-11",
-   "url": "https://cl-en.usr.sicilia.it/download/2290/15461/15465/m_pi-aoouspcl-en-registro-ufficialeu-0019730-31-08-2026.pdf",
-   "pagine": 8
-  },
-  {
-   "provincia": "EN",
-   "turno": 2,
-   "data": "2026-11-11",
-   "url": "https://cl-en.usr.sicilia.it/download/2353/15778/15784/m_pi-aoouspcl-en-registro-ufficialeu-0021277-11-09-2026.pdf",
-   "pagine": 10
-  },
-  {
-   "provincia": "EN",
-   "turno": 3,
-   "data": "2026-11-11",
-   "url": "https://cl-en.usr.sicilia.it/download/2400/16008/16014/m_pi-aoouspcl-en-registro-ufficialeu-0022432-23-09-2026.pdf",
-   "pagine": 10
-  },
-  {
-   "provincia": "EN",
-   "turno": 4,
-   "data": "2026-11-11",
-   "url": "https://cl-en.usr.sicilia.it/download/2436/16180/16182/m_pi-aoouspcl-en-registro-ufficialeu-0023238-02-10-2026-1.pdf",
-   "pagine": 10
-  },
-  {
-   "provincia": "EN",
-   "turno": 5,
-   "data": "2026-11-11",
-   "url": "https://cl-en.usr.sicilia.it/download/2474/16387-1/16398/m_pi-aoouspcl-en-registro-ufficialeu-0025041-23-10-2026-1-2.pdf",
-   "pagine": 10
-  },
-  {
-   "provincia": "EN",
-   "turno": 6,
-   "data": "2026-11-11",
-   "url": "https://cl-en.usr.sicilia.it/download/2485/16469/16475/m_pi-aoouspcl-en-registro-ufficialeu-0025641-30-10-2026.pdf",
-   "pagine": 10
-  },
-  {
-   "provincia": "EN",
-   "turno": 7,
-   "data": "2026-11-11",
-   "url": "https://cl-en.usr.sicilia.it/download/2501/16559/16565/m_pi-aoouspcl-en-registro-ufficialeu-0026259-09-11-2026.pdf",
-   "pagine": 10
-  },
-  {
    "provincia": "ME",
    "turno": 3,
    "data": "2026-11-11",
@@ -994,41 +1085,6 @@
    "turno": 5,
    "data": "2026-11-11",
    "url": "https://me.usr.sicilia.it/download/2720/28005/28008/aoouspme-registro-ufficiale-2026-0025909.pdf",
-   "pagine": 10
-  },
-  {
-   "provincia": "RG",
-   "turno": 3,
-   "data": "2026-11-11",
-   "url": "https://rg.usr.sicilia.it/download/1648/11063/11066/m_pi-aoousprg-registro-ufficialeu-0007042-18-09-2026.pdf",
-   "pagine": 8
-  },
-  {
-   "provincia": "RG",
-   "turno": 4,
-   "data": "2026-11-11",
-   "url": "https://rg.usr.sicilia.it/download/1682/11231/11234/m_pi-aoousprg-registro-ufficialeu-0007651-02-10-2026.pdf",
-   "pagine": 8
-  },
-  {
-   "provincia": "RG",
-   "turno": null,
-   "data": "2026-11-11",
-   "url": "https://rg.usr.sicilia.it/download/1698/11302-1/11304/m_pi-aoousprg-registro-ufficialeu-0007971-12-10-2026.pdf",
-   "pagine": 8
-  },
-  {
-   "provincia": "RG",
-   "turno": null,
-   "data": "2026-11-11",
-   "url": "https://rg.usr.sicilia.it/download/1704/11351/11353/m_pi-aoousprg-registro-ufficialeu-0008182-19-10-2026.pdf",
-   "pagine": 2
-  },
-  {
-   "provincia": "RG",
-   "turno": null,
-   "data": "2026-11-11",
-   "url": "https://rg.usr.sicilia.it/download/1740/11557/11560/m_pi-aoousprg-registro-ufficialeu-0008767-04-11-2026.pdf",
    "pagine": 10
   },
   {
