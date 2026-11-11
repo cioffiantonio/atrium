@@ -1,7 +1,225 @@
 {
- "aggiornato": "2026-11-11T07:44:49.860Z",
+ "aggiornato": "2026-11-11T13:42:41.684Z",
  "ocr": [],
- "zeroRighe": [],
+ "zeroRighe": [
+  {
+   "provincia": "AL",
+   "turno": null,
+   "data": "2026-11-06",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/11/Definitivo_Bollettino_TotaleNomine-1.xlsx",
+   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
+  },
+  {
+   "provincia": "AL",
+   "turno": null,
+   "data": "2026-11-03",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/11/Definitivo_Bollettino_TotaleNomine.xlsx",
+   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
+  },
+  {
+   "provincia": "AL",
+   "turno": null,
+   "data": "2026-10-29",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/10/Bollettino_TotaleNomine-10.xlsx",
+   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
+  },
+  {
+   "provincia": "AL",
+   "turno": null,
+   "data": "2026-10-27",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/10/Definitivo_Bollettino_TotaleNomine-1.xlsx",
+   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
+  },
+  {
+   "provincia": "AL",
+   "turno": null,
+   "data": "2026-10-15",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/10/Bollettino_TotaleNomine-6.xlsx",
+   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
+  },
+  {
+   "provincia": "AL",
+   "turno": null,
+   "data": "2026-10-13",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/10/Definitivo_Bollettino_TotaleNomine.xlsx",
+   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
+  },
+  {
+   "provincia": "AL",
+   "turno": null,
+   "data": "2026-10-13",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/10/Bollettino_TotaleNomine-5.xlsx",
+   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
+  },
+  {
+   "provincia": "AL",
+   "turno": null,
+   "data": "2026-10-09",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/10/Bollettino_TotaleNomine-3.xlsx",
+   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
+  },
+  {
+   "provincia": "AL",
+   "turno": null,
+   "data": "2026-09-29",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/09/Bollettino_TotaleNomine-10.xlsx",
+   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
+  },
+  {
+   "provincia": "AL",
+   "turno": null,
+   "data": "2026-09-25",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/09/Bollettino_TotaleNomine-9.xlsx",
+   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
+  },
+  {
+   "provincia": "AL",
+   "turno": null,
+   "data": "2026-09-22",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/09/Bollettino_TotaleNomine-6.xlsx",
+   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
+  },
+  {
+   "provincia": "AL",
+   "turno": null,
+   "data": "2026-09-22",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/09/Bollettino_TotaleNomine-5.xlsx",
+   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
+  },
+  {
+   "provincia": "AL",
+   "turno": null,
+   "data": "2026-09-16",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/09/Bollettino_TotaleNomine-3.xlsx",
+   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
+  },
+  {
+   "provincia": "AL",
+   "turno": null,
+   "data": "2026-09-11",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/09/Bollettino_TotaleNomine-2.xlsx",
+   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
+  },
+  {
+   "provincia": "AL",
+   "turno": null,
+   "data": "2026-09-09",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/09/Bollettino_TotaleNomine.xlsx",
+   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
+  },
+  {
+   "provincia": "AL",
+   "turno": null,
+   "data": "2026-08-28",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/08/Bollettino_TotaleNomine-2.xlsx",
+   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
+  },
+  {
+   "provincia": "AT",
+   "turno": 3,
+   "data": "2026-09-11",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/09/Bollettino_TotaleNomine-2.xlsx",
+   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
+  },
+  {
+   "provincia": "AT",
+   "turno": 4,
+   "data": "2026-09-16",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/09/Bollettino_TotaleNomine-3.xlsx",
+   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
+  },
+  {
+   "provincia": "AT",
+   "turno": 5,
+   "data": "2026-09-22",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/09/Bollettino_TotaleNomine-5.xlsx",
+   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
+  },
+  {
+   "provincia": "AT",
+   "turno": 6,
+   "data": "2026-09-25",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/09/Bollettino_TotaleNomine-9.xlsx",
+   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
+  },
+  {
+   "provincia": "AT",
+   "turno": 7,
+   "data": "2026-09-29",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/09/Bollettino_TotaleNomine-10.xlsx",
+   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
+  },
+  {
+   "provincia": "AT",
+   "turno": 8,
+   "data": "2026-10-09",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/10/Bollettino_TotaleNomine-3.xlsx",
+   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
+  },
+  {
+   "provincia": "AT",
+   "turno": 9,
+   "data": "2026-10-13",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/10/Definitivo_Bollettino_TotaleNomine.xlsx",
+   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
+  },
+  {
+   "provincia": "AT",
+   "turno": 10,
+   "data": "2026-10-15",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/10/Bollettino_TotaleNomine-6.xlsx",
+   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
+  },
+  {
+   "provincia": "AT",
+   "turno": 11,
+   "data": "2026-10-27",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/10/Definitivo_Bollettino_TotaleNomine-1.xlsx",
+   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
+  },
+  {
+   "provincia": "AT",
+   "turno": 13,
+   "data": "2026-11-03",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/11/Definitivo_Bollettino_TotaleNomine.xlsx",
+   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
+  },
+  {
+   "provincia": "AT",
+   "turno": 14,
+   "data": "2026-11-06",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/11/Definitivo_Bollettino_TotaleNomine-1.xlsx",
+   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
+  },
+  {
+   "provincia": "AT",
+   "turno": null,
+   "data": "2026-09-09",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/09/Bollettino_TotaleNomine.xlsx",
+   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
+  },
+  {
+   "provincia": "AT",
+   "turno": null,
+   "data": "2026-10-29",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/10/Bollettino_TotaleNomine-10.xlsx",
+   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
+  },
+  {
+   "provincia": "AT",
+   "turno": null,
+   "data": "2026-10-13",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/10/Bollettino_TotaleNomine-5.xlsx",
+   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
+  },
+  {
+   "provincia": "AT",
+   "turno": null,
+   "data": "2026-09-22",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/09/Bollettino_TotaleNomine-6.xlsx",
+   "nota": "nessuna riga GPS: se quel giorno non ci sono state nomine GPS, confermalo nel file manuale con soglie vuote"
+  }
+ ],
  "nonLetti": [
   {
    "provincia": "VI",
@@ -305,48 +523,6 @@
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
-   "provincia": "AT",
-   "turno": null,
-   "data": "2026-09-03",
-   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/09/AT-esiti-nomine-II-turno-as-2026-27-03.09.2026.xlsx",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "AT",
-   "turno": null,
-   "data": "2026-09-03",
-   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/09/AA-esiti-nomine-II-turno-as-2026-27-03.09.2026.xlsx",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "AT",
-   "turno": null,
-   "data": "2026-09-04",
-   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/09/liberatoria-profili-AT-e-AA-nomine-a-TD-as-2026-27-signed-1.pdf",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "AT",
-   "turno": null,
-   "data": "2026-09-04",
-   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/09/liberatoria-profili-AT-e-AA-nomine-a-TD-as-2026-27-signed.pdf",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "AT",
-   "turno": null,
-   "data": "2026-09-01",
-   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/09/AL_ChiarimentiNomineGPS-as26_27-signed-1.pdf",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "AT",
-   "turno": null,
-   "data": "2026-09-01",
-   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/09/AL_ChiarimentiNomineGPS-as26_27-signed.pdf",
-   "nota": "formato non riconosciuto"
-  },
-  {
    "provincia": "VE",
    "turno": 10,
    "data": "2026-11-10",
@@ -529,20 +705,6 @@
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
-   "provincia": "SV",
-   "turno": 2,
-   "data": "2026-11-11",
-   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-1-2",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "BR",
-   "turno": 2,
-   "data": "2026-09-15",
-   "url": "https://www.istruzionebrindisi.it/secondo-turno-supplenze-da-gps-posti-comuni-e-di-sostegno-tutti-gli-ordini-e-gradi-di-scuola-della-provincia-di-brindisi-a-s-2026-2027/?download=53564",
-   "nota": "formato non riconosciuto"
-  },
-  {
    "provincia": "LE",
    "turno": 1,
    "data": "2026-11-11",
@@ -618,19 +780,44 @@
    "nota": "bollettino non trovato (si passa dal turno 1 al 3)"
   },
   {
-   "provincia": "SI",
-   "turno": 2,
-   "nota": "bollettino non trovato (si passa dal turno 1 al 4)"
-  },
-  {
-   "provincia": "SI",
-   "turno": 3,
-   "nota": "bollettino non trovato (si passa dal turno 1 al 4)"
-  },
-  {
    "provincia": "GE",
    "turno": 6,
    "nota": "bollettino non trovato (si passa dal turno 5 al 7)"
+  },
+  {
+   "provincia": "BR",
+   "turno": 2,
+   "nota": "bollettino non trovato (si passa dal turno 1 al 9)"
+  },
+  {
+   "provincia": "BR",
+   "turno": 3,
+   "nota": "bollettino non trovato (si passa dal turno 1 al 9)"
+  },
+  {
+   "provincia": "BR",
+   "turno": 4,
+   "nota": "bollettino non trovato (si passa dal turno 1 al 9)"
+  },
+  {
+   "provincia": "BR",
+   "turno": 5,
+   "nota": "bollettino non trovato (si passa dal turno 1 al 9)"
+  },
+  {
+   "provincia": "BR",
+   "turno": 6,
+   "nota": "bollettino non trovato (si passa dal turno 1 al 9)"
+  },
+  {
+   "provincia": "BR",
+   "turno": 7,
+   "nota": "bollettino non trovato (si passa dal turno 1 al 9)"
+  },
+  {
+   "provincia": "BR",
+   "turno": 8,
+   "nota": "bollettino non trovato (si passa dal turno 1 al 9)"
   },
   {
    "provincia": "RO",
@@ -1181,9 +1368,53 @@
   },
   {
    "provincia": "GE",
+   "turno": 12,
+   "data": "2026-11-11",
+   "url": "https://www.istruzionegenova.gov.it/pagine/xii-turno-gps---as-2026-2027",
+   "altriLink": [
+    "/pagine/decreto-di-nomina-i-fascia-sostegno-adaa-e-adee---genova",
+    "/pagine/ix-turno-gps---solo-nomina-pppp",
+    "/pagine/personale-educativo---eeee---ii-turno-di-nomina-gps",
+    "/pagine/xix-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xviii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xvii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xvi-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/-xv-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xiv-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xiii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xi-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/x-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/ix-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps"
+   ]
+  },
+  {
+   "provincia": "GE",
    "turno": 14,
    "data": "2026-11-11",
    "url": "https://www.istruzionegenova.gov.it/pagine/xiv-turno-gps---as-2026-2027",
+   "altriLink": [
+    "/pagine/decreto-di-nomina-i-fascia-sostegno-adaa-e-adee---genova",
+    "/pagine/ix-turno-gps---solo-nomina-pppp",
+    "/pagine/personale-educativo---eeee---ii-turno-di-nomina-gps",
+    "/pagine/xix-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xviii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xvii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xvi-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/-xv-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xiv-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xiii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xi-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/x-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/ix-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps"
+   ]
+  },
+  {
+   "provincia": "GE",
+   "turno": 15,
+   "data": "2026-11-11",
+   "url": "https://www.istruzionegenova.gov.it/pagine/xv-turno-gps---as-2026-2027",
    "altriLink": [
     "/pagine/decreto-di-nomina-i-fascia-sostegno-adaa-e-adee---genova",
     "/pagine/ix-turno-gps---solo-nomina-pppp",
