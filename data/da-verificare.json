@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-12T14:20:44.014Z",
+ "aggiornato": "2026-11-12T22:20:36.152Z",
  "ocr": [],
  "zeroRighe": [],
  "nonLetti": [
@@ -16,6 +16,13 @@
    "data": "2026-10-26",
    "url": "https://vicenza.istruzioneveneto.gov.it/wp-content/uploads/AllegatiAttiAlboPretorio/BollettinoNomine_TURNO8_26-10-2026.pdf",
    "nota": "righe GPS non leggibili: 33"
+  },
+  {
+   "provincia": "VI",
+   "turno": 12,
+   "data": "2026-11-12",
+   "url": "https://vicenza.istruzioneveneto.gov.it/wp-content/uploads/2026/11/ReportDettDispScuola_turno12.pdf",
+   "nota": "formato non riconosciuto"
   },
   {
    "provincia": "VI",
@@ -431,6 +438,13 @@
    "nota": "formato non riconosciuto"
   },
   {
+   "provincia": "SP",
+   "turno": 5,
+   "data": "2026-11-12",
+   "url": "https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---iv-turno-18092026--",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
    "provincia": "BR",
    "turno": 2,
    "data": "2026-09-15",
@@ -511,6 +525,11 @@
    "provincia": "IS",
    "turno": 2,
    "nota": "bollettino non trovato (si passa dal turno 1 al 3)"
+  },
+  {
+   "provincia": "KR",
+   "turno": 5,
+   "nota": "bollettino non trovato (si passa dal turno 4 al 6)"
   },
   {
    "provincia": "GE",
@@ -959,13 +978,6 @@
    "pagine": 3
   },
   {
-   "provincia": "KR",
-   "turno": null,
-   "data": "2026-10-26",
-   "url": "https://www.istruzione.calabria.it/crotone/wp-content/uploads/2026/10/integrazione-al-quarto-turno-di-nomine-a-tempo-determinato-personale-docente-a.s.-2026-2027U.0005587.26-10-2026.pdf",
-   "pagine": 3
-  },
-  {
    "provincia": "CN",
    "turno": null,
    "data": "2026-11-12",
@@ -1087,9 +1099,9 @@
   },
   {
    "provincia": "GE",
-   "turno": 19,
+   "turno": 14,
    "data": "2026-11-12",
-   "url": "https://www.istruzionegenova.gov.it/pagine/xix-turno-gps---as-2026-2027",
+   "url": "https://www.istruzionegenova.gov.it/pagine/xiv-turno-gps---as-2026-2027",
    "altriLink": [
     "/pagine/decreto-di-nomina-i-fascia-sostegno-adaa-e-adee---genova",
     "/pagine/ix-turno-gps---solo-nomina-pppp",
