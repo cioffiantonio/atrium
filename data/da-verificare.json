@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-12T07:59:04.587Z",
+ "aggiornato": "2026-11-12T11:37:03.856Z",
  "ocr": [],
  "zeroRighe": [],
  "nonLetti": [
@@ -431,17 +431,10 @@
    "nota": "formato non riconosciuto"
   },
   {
-   "provincia": "IM",
-   "turno": 1,
+   "provincia": "SP",
+   "turno": 4,
    "data": "2026-11-12",
-   "url": "https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps--as-2026-27--i-turno",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "SV",
-   "turno": 1,
-   "data": "2026-11-12",
-   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-1",
+   "url": "https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---iii-turno-15092026--1",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
@@ -525,6 +518,21 @@
    "provincia": "IS",
    "turno": 2,
    "nota": "bollettino non trovato (si passa dal turno 1 al 3)"
+  },
+  {
+   "provincia": "SI",
+   "turno": 2,
+   "nota": "bollettino non trovato (si passa dal turno 1 al 3)"
+  },
+  {
+   "provincia": "SI",
+   "turno": 4,
+   "nota": "bollettino non trovato (si passa dal turno 3 al 5)"
+  },
+  {
+   "provincia": "KR",
+   "turno": 5,
+   "nota": "bollettino non trovato (si passa dal turno 4 al 6)"
   },
   {
    "provincia": "GE",
@@ -973,11 +981,11 @@
    "pagine": 3
   },
   {
-   "provincia": "KR",
+   "provincia": "CN",
    "turno": null,
-   "data": "2026-10-26",
-   "url": "https://www.istruzione.calabria.it/crotone/wp-content/uploads/2026/10/integrazione-al-quarto-turno-di-nomine-a-tempo-determinato-personale-docente-a.s.-2026-2027U.0005587.26-10-2026.pdf",
-   "pagine": 3
+   "data": "2026-11-12",
+   "url": "https://www.istruzionepiemonte.it/cuneo/wp-content/uploads/sites/5/2026/09/AVVISO-Nomine-GPS-FASE-8.pdf",
+   "pagine": 2
   },
   {
    "provincia": "TA",
@@ -1090,6 +1098,28 @@
     "ov&#x2e;it&#x2f;web&#x2f;sondrio&#x2f;-&#x2f;decreto-nomina-commissione-per-bando-legge-107-2015-a-s-2026-2027",
     "ov&#x2e;it&#x2f;web&#x2f;sondrio&#x2f;-&#x2f;decreto-nomina-commissione-per-bando-legge-107-2015-a-s-2026-2027",
     "it&#x2f;en&#x2f;web&#x2f;sondrio&#x2f;-&#x2f;decreto-nomina-commissione-per-bando-legge-107-2015-a-s-2026-2027"
+   ]
+  },
+  {
+   "provincia": "GE",
+   "turno": 16,
+   "data": "2026-11-12",
+   "url": "https://www.istruzionegenova.gov.it/pagine/xvi-turno-gps---as-2026-2027",
+   "altriLink": [
+    "/pagine/decreto-di-nomina-i-fascia-sostegno-adaa-e-adee---genova",
+    "/pagine/ix-turno-gps---solo-nomina-pppp",
+    "/pagine/personale-educativo---eeee---ii-turno-di-nomina-gps",
+    "/pagine/xix-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xviii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xvii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xvi-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/-xv-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xiv-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xiii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xii-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/xi-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/x-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps",
+    "/pagine/ix-turno---decreto-di-pubblicazione-degli-elenchi-dei-destinatari-degli-incarichi-a-td-da-gps"
    ]
   }
  ],
