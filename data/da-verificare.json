@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-13T03:56:39.335Z",
+ "aggiornato": "2026-11-13T12:26:07.142Z",
  "ocr": [],
  "zeroRighe": [],
  "nonLetti": [
@@ -116,6 +116,13 @@
    "nota": "formato non riconosciuto"
   },
   {
+   "provincia": "MB",
+   "turno": null,
+   "data": "2026-11-09",
+   "url": "https://www.mim.gov.it/documents/9081736/10325740/m_pi.AOOUSPMB.REGISTRO+UFFICIALE%28U%29.0020338.09-11-2026.pdf/09cd06f6-34a3-6c1f-24e2-5edab93f317c?version=1.0&t=1794235553414",
+   "nota": "formato non riconosciuto"
+  },
+  {
    "provincia": "PV",
    "turno": null,
    "data": "2026-10-29",
@@ -132,21 +139,21 @@
   {
    "provincia": "BS",
    "turno": null,
-   "data": "2026-09-21",
+   "data": "2026-09-18",
    "url": "https://www.mim.gov.it/documents/9081166/9232380/m_pi.AOOUSPBS.REGISTRO+UFFICIALE%28U%29.0014251.21-09-2026.pdf/098ecb18-afb2-d77f-92fa-f50f968a3d9a?version=1.0&t=1789995562595",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "BS",
    "turno": null,
-   "data": "2026-09-11",
+   "data": "2026-09-08",
    "url": "https://www.mim.gov.it/documents/9081166/10322629/m_pi.AOOUSPBS.REGISTRO+UFFICIALE%28U%29.0013762.11-09-2026.pdf/9da8f434-058f-6384-68a7-4284b3e9fb4a?version=1.0&t=1789124880477",
    "nota": "formato non riconosciuto"
   },
   {
    "provincia": "BS",
    "turno": null,
-   "data": "2026-09-09",
+   "data": "2026-09-08",
    "url": "https://www.mim.gov.it/documents/9081166/10322629/m_pi.AOOUSPBS.REGISTRO+UFFICIALE%28U%29.0013652.09-09-2026.pdf/d6e1e60c-708f-2256-c834-8e6519b3da73?version=1.0&t=1788970300083",
    "nota": "formato non riconosciuto"
   },
@@ -156,13 +163,6 @@
    "data": "2026-09-21",
    "url": "https://www.mim.gov.it/documents/9081610/10328297/Avviso+Reclami+Secondo+Bollettino+Nomine+GPS.pdf/3c56d33f-c2eb-69df-9a59-11e3a8aad194?t=1790023588454",
    "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "SO",
-   "turno": 8,
-   "data": "2026-11-13",
-   "url": "https://www.mim.gov.it/web/sondrio/-/eisto-conferimento-nomine-da-gae-gps-bollettino-n-8",
-   "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "SO",
@@ -180,6 +180,13 @@
   },
   {
    "provincia": "CB",
+   "turno": null,
+   "data": "2026-09-01",
+   "url": "https://www.mim.gov.it/documents/10563525/0/m_pi.AOOUSPCB.REGISTRO+UFFICIALE%28U%29.0005844.01-09-2026.pdf/14d36db2-77e9-bd4e-07d8-2b8861723ab7?version=1.0&t=1788264685320",
+   "nota": "formato non riconosciuto"
+  },
+  {
+   "provincia": "CB",
    "turno": 3,
    "data": "2026-11-13",
    "url": "https://www.mim.gov.it/web/campobasso/-/conferimento-nomine-a-tempo-determinato-su-posti-curriculari-e-di-sostegno-del-personale-docente-da-gps-a-s-2026-2027-primaria-secondaria-di-ii-grad-1",
@@ -193,24 +200,17 @@
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
-   "provincia": "CB",
-   "turno": 7,
-   "data": "2026-11-13",
-   "url": "https://www.mim.gov.it/web/campobasso/-/conferimento-nomine-a-tempo-determinato-su-posti-curriculari-e-di-sostegno-del-personale-docente-gps-a-s-2026-2027-scuola-primaria-secondaria-di-i-e-1",
-   "nota": "nessun PDF o foglio trovato nella pagina"
+   "provincia": "IS",
+   "turno": 6,
+   "data": "2026-10-30",
+   "url": "https://www.mim.gov.it/documents/10591991/10597831/disponibilit%C3%A0+scuole+%281%29.pdf/5bf66ed2-efb7-6a9b-8b29-c01b2bb52b8f?version=1.0&t=1793376546284",
+   "nota": "formato non riconosciuto"
   },
   {
    "provincia": "IS",
    "turno": 1,
    "data": "2026-11-13",
    "url": "https://www.mim.gov.it/web/isernia/-/conferimento-nomine-a-tempo-determinato-su-posti-curriculari-e-posti-di-sostegno-del-personale-docente-da-gae-e-da-gps-a-s-2026-2027-scuola-dell-infan",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "IS",
-   "turno": 7,
-   "data": "2026-11-13",
-   "url": "https://www.mim.gov.it/web/isernia/-/bollettimo-settimo-turno-di-nomine-a-s-2026-2027",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
@@ -292,29 +292,22 @@
   },
   {
    "provincia": "CZ",
-   "turno": 1,
-   "data": "2026-11-13",
-   "url": "https://www.istruzione.calabria.it/catanzaro/m_pi-aoouspcz-registro-ufficialeu-0008935-31-08-2026/",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "CZ",
    "turno": 2,
-   "data": "2026-11-13",
+   "data": "2026-09-11",
    "url": "https://www.istruzione.calabria.it/catanzaro/m_pi-aoouspcz-registro-ufficialeu-0009525-11-09-2026/",
    "nota": "documento non leggibile"
   },
   {
    "provincia": "CZ",
    "turno": 4,
-   "data": "2026-11-13",
+   "data": "2026-10-07",
    "url": "https://www.istruzione.calabria.it/catanzaro/m_pi-aoouspcz-registro-ufficialeu-0010555-07-10-2026/",
    "nota": "documento non leggibile"
   },
   {
    "provincia": "CZ",
    "turno": 8,
-   "data": "2026-11-13",
+   "data": "2026-11-06",
    "url": "https://www.istruzione.calabria.it/catanzaro/m_pi-aoouspcz-registro-ufficialeu-0011819-06-11-2026/",
    "nota": "documento non leggibile"
   },
@@ -438,25 +431,11 @@
    "nota": "formato non riconosciuto"
   },
   {
-   "provincia": "SV",
-   "turno": 9,
-   "data": "2026-11-13",
-   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-9",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
    "provincia": "BR",
    "turno": 2,
    "data": "2026-09-15",
    "url": "https://www.istruzionebrindisi.it/secondo-turno-supplenze-da-gps-posti-comuni-e-di-sostegno-tutti-gli-ordini-e-gradi-di-scuola-della-provincia-di-brindisi-a-s-2026-2027/?download=53564",
    "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "LE",
-   "turno": 1,
-   "data": "2026-11-13",
-   "url": "https://www.ustlecce.it/index.php/personale-docente/file/3620-nomine-a-tempo-determinato-del-personale-docente-per-l-anno-scolastico-2026-27-fase-1-scuola-infanzia-primaria-secondaria-di-primo-e-secondo-grado",
-   "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "LE",
@@ -473,17 +452,10 @@
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
-   "provincia": "AG",
-   "turno": 3,
+   "provincia": "LE",
+   "turno": 1,
    "data": "2026-11-13",
-   "url": "https://ag.usr.sicilia.it/decreto-revoca-nomina-a-t-d-su-cdc-a060-conferita-con-provvedimento-terzo-turno-di-nomine-gps/",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "AG",
-   "turno": 4,
-   "data": "2026-11-13",
-   "url": "https://ag.usr.sicilia.it/decreto-revoca-nomina-a-t-d-per-la-cdc-admm-conferita-con-provvedimento-quarto-turno-di-nomine-gps/",
+   "url": "https://www.ustlecce.it/index.php/personale-docente/file/3620-nomine-a-tempo-determinato-del-personale-docente-per-l-anno-scolastico-2026-27-fase-1-scuola-infanzia-primaria-secondaria-di-primo-e-secondo-grado",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
@@ -527,14 +499,34 @@
    "nota": "bollettino non trovato (si passa dal turno 1 al 3)"
   },
   {
-   "provincia": "KR",
-   "turno": 5,
-   "nota": "bollettino non trovato (si passa dal turno 4 al 6)"
+   "provincia": "AL",
+   "turno": 16,
+   "nota": "bollettino non trovato (si passa dal turno 15 al 17)"
   },
   {
    "provincia": "GE",
    "turno": 6,
    "nota": "bollettino non trovato (si passa dal turno 5 al 7)"
+  },
+  {
+   "provincia": "AP",
+   "turno": 4,
+   "nota": "bollettino non trovato (si passa dal turno 3 al 7)"
+  },
+  {
+   "provincia": "AP",
+   "turno": 5,
+   "nota": "bollettino non trovato (si passa dal turno 3 al 7)"
+  },
+  {
+   "provincia": "AP",
+   "turno": 6,
+   "nota": "bollettino non trovato (si passa dal turno 3 al 7)"
+  },
+  {
+   "provincia": "ME",
+   "turno": 4,
+   "nota": "bollettino non trovato (si passa dal turno 3 al 5)"
   },
   {
    "provincia": "RO",
@@ -834,13 +826,6 @@
    "provincia": "CO",
    "turno": null,
    "data": "2026-11-13",
-   "url": "https://www.mim.gov.it/documents/9150690/0/C04+-+m_pi.AOOUSPCO.REGISTRO+UFFICIALE%28U%29.0006570.29-09-2026.pdf/e9621c00-fd1d-51ee-78d3-77d3343c2da8?version=1.0&t=1790679495882",
-   "pagine": 2
-  },
-  {
-   "provincia": "CO",
-   "turno": null,
-   "data": "2026-11-13",
    "url": "https://www.mim.gov.it/documents/9150690/0/m_pi.AOOUSPCO.REGISTRO+UFFICIALE%28U%29.0003653.12-06-2026.pdf/ca2c428d-b2fe-6691-ecae-b773a4b9f5dc?version=1.0&t=1781255616328",
    "pagine": 2
   },
@@ -870,13 +855,6 @@
    "turno": null,
    "data": "2026-11-13",
    "url": "https://www.mim.gov.it/documents/9150690/0/m_pi.AOOUSPCO.REGISTRO+UFFICIALE%28U%29.0006563.21-11-2025.pdf/3a52e18a-86ac-c86e-c372-f2d346c3c610?version=1.0&t=1763726194866",
-   "pagine": 2
-  },
-  {
-   "provincia": "LC",
-   "turno": null,
-   "data": "2026-11-13",
-   "url": "https://www.mim.gov.it/documents/9081350/9239343/m_pi.AOOUSPLC.REGISTRO+UFFICIALE%28U%29.0006725.25-11-2025.pdf/7da00e31-8096-c4d8-cfdf-04ef80620379?version=1.0&t=1764085980857",
    "pagine": 2
   },
   {
@@ -945,7 +923,7 @@
   {
    "provincia": "VA",
    "turno": null,
-   "data": "2026-11-13",
+   "data": "2026-09-16",
    "url": "https://www.mim.gov.it/documents/9082015/0/m_pi.AOOUSPVA.REGISTRO+UFFICIALE%28U%29.0014943.16-09-2026.pdf/7366bb0b-a53a-a8ae-c4fe-7d85be25d112?t=1789588152889",
    "pagine": 4
   },
@@ -955,13 +933,6 @@
    "data": "2026-11-13",
    "url": "https://www.mim.gov.it/documents/10591991/0/nota+di+pubblicazione+secondo+turno+incarichi+TD_.pdf/4f29df3e-4ccd-0b3d-c3b0-9fa2ced233fe?version=1.0&t=1788946893455",
    "pagine": 4
-  },
-  {
-   "provincia": "VV",
-   "turno": null,
-   "data": "2026-11-13",
-   "url": "https://www.istruzione.calabria.it/vibovalentia/wp-content/uploads/2026/09/m_pi.AOOUSPVV.REGISTRO-UFFICIALEU.0007184.23-09-2026.pdf",
-   "pagine": 3
   },
   {
    "provincia": "TE",
@@ -978,25 +949,18 @@
    "pagine": 3
   },
   {
+   "provincia": "KR",
+   "turno": null,
+   "data": "2026-10-26",
+   "url": "https://www.istruzione.calabria.it/crotone/wp-content/uploads/2026/10/integrazione-al-quarto-turno-di-nomine-a-tempo-determinato-personale-docente-a.s.-2026-2027U.0005587.26-10-2026.pdf",
+   "pagine": 3
+  },
+  {
    "provincia": "CN",
    "turno": null,
    "data": "2026-11-13",
    "url": "https://www.istruzionepiemonte.it/cuneo/wp-content/uploads/sites/5/2026/09/AVVISO-Nomine-GPS-FASE-8.pdf",
    "pagine": 2
-  },
-  {
-   "provincia": "TA",
-   "turno": null,
-   "data": "2026-09-16",
-   "url": "https://www.usptaranto.it/wp-content/uploads/2026/09/m_pi.AOOUSPTA.REGISTRO-UFFICIALEU.0019836.16-09-2026.pdf",
-   "pagine": 2
-  },
-  {
-   "provincia": "ME",
-   "turno": 3,
-   "data": "2026-11-13",
-   "url": "https://me.usr.sicilia.it/download/2589/25263/25265/aoouspme-registro-ufficiale-2026-0022869.pdf",
-   "pagine": 5
   },
   {
    "provincia": "ME",
@@ -1016,13 +980,6 @@
  "pagineSoloDecreti": [
   {
    "provincia": "BG",
-   "turno": null,
-   "data": "2026-11-13",
-   "url": "https://www.mim.gov.it/web/bergamo/-/decreto-di-scioglimento-con-esito-positivo-della-riserva-per-riconoscimento-titolo-estero-e-inserimento-a-pieno-titolo-nelle-graduatorie-provinciali-8",
-   "altriLink": []
-  },
-  {
-   "provincia": "BG",
    "turno": 8,
    "data": "2026-11-13",
    "url": "https://www.mim.gov.it/web/bergamo/-/reclutamento-turno-8-assegnazione-sede-classe-di-concorso-a012-a-s-2026-2027",
@@ -1032,8 +989,25 @@
    "provincia": "BG",
    "turno": null,
    "data": "2026-11-13",
-   "url": "https://www.mim.gov.it/web/bergamo/-/decreto-di-scioglimento-con-esito-positivo-della-riserva-per-riconoscimento-titolo-estero-e-inserimento-a-pieno-titolo-nelle-graduatorie-provinciali-6",
-   "altriLink": []
+   "url": "https://www.mim.gov.it/web/bergamo/-/art-1-comma-65-della-legge-n-107-2015-decreto-nomina-commissione-a-s-2026-2027",
+   "altriLink": [
+    "2f;web&#x2f;bergamo&#x2f;-&#x2f;art-1-comma-65-della-legge-n-107-2015-decreto-nomina-commissione-a-s-2026-2027",
+    "2f;web&#x2f;bergamo&#x2f;-&#x2f;art-1-comma-65-della-legge-n-107-2015-decreto-nomina-commissione-a-s-2026-2027",
+    "2f;web&#x2f;bergamo&#x2f;-&#x2f;art-1-comma-65-della-legge-n-107-2015-decreto-nomina-commissione-a-s-2026-2027",
+    "2f;web&#x2f;bergamo&#x2f;-&#x2f;art-1-comma-65-della-legge-n-107-2015-decreto-nomina-commissione-a-s-2026-2027"
+   ]
+  },
+  {
+   "provincia": "BG",
+   "turno": null,
+   "data": "2026-11-13",
+   "url": "https://www.mim.gov.it/web/bergamo/-/nomina-commissione-giudicatrice-concorsi-per-titoli-di-cui-al-d-l-vo-297-94-1",
+   "altriLink": [
+    "x2f;web&#x2f;bergamo&#x2f;-&#x2f;nomina-commissione-giudicatrice-concorsi-per-titoli-di-cui-al-d-l-vo-297-94-1",
+    "x2f;web&#x2f;bergamo&#x2f;-&#x2f;nomina-commissione-giudicatrice-concorsi-per-titoli-di-cui-al-d-l-vo-297-94-1",
+    "x2f;web&#x2f;bergamo&#x2f;-&#x2f;nomina-commissione-giudicatrice-concorsi-per-titoli-di-cui-al-d-l-vo-297-94-1",
+    "x2f;web&#x2f;bergamo&#x2f;-&#x2f;nomina-commissione-giudicatrice-concorsi-per-titoli-di-cui-al-d-l-vo-297-94-1"
+   ]
   },
   {
    "provincia": "LO",
@@ -1077,18 +1051,6 @@
    "provincia": "SO",
    "turno": null,
    "data": "2026-11-13",
-   "url": "https://www.mim.gov.it/web/sondrio/albo-pretorio/-/asset_publisher/cY5vbTKeoWaZ/content/decreto-di-nomina-scuola-polo-provinciale-per-la-gestione-dei-fondi-per-le-attivita-motorie-e-dei-ngdg-triennio-2026-29?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_cY5vbTKeoWaZ_redirect=https%3A%2F%2Fwww.mim.gov.it%2Fweb%2Fsondrio%2Falbo-pretorio%3Fp_p_id%3Dcom_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_cY5vbTKeoWaZ%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_cY5vbTKeoWaZ_cur%3D0%26p_r_p_resetCur%3Dfalse%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_cY5vbTKeoWaZ_assetEntryId%3D11242849",
-   "altriLink": [
-    "i-nomina-scuola-polo-provinciale-per-la-gestione-dei-fondi-per-le-attivita-motorie-e-dei-ngdg-triennio-2026-29",
-    "i-nomina-scuola-polo-provinciale-per-la-gestione-dei-fondi-per-le-attivita-motorie-e-dei-ngdg-triennio-2026-29",
-    "i-nomina-scuola-polo-provinciale-per-la-gestione-dei-fondi-per-le-attivita-motorie-e-dei-ngdg-triennio-2026-29",
-    "i-nomina-scuola-polo-provinciale-per-la-gestione-dei-fondi-per-le-attivita-motorie-e-dei-ngdg-triennio-2026-29"
-   ]
-  },
-  {
-   "provincia": "SO",
-   "turno": null,
-   "data": "2026-11-13",
    "url": "https://www.mim.gov.it/web/sondrio/-/decreto-nomina-commissione-per-bando-legge-107-2015-a-s-2026-2027",
    "altriLink": [
     "ov&#x2e;it&#x2f;web&#x2f;sondrio&#x2f;-&#x2f;decreto-nomina-commissione-per-bando-legge-107-2015-a-s-2026-2027",
@@ -1099,9 +1061,9 @@
   },
   {
    "provincia": "GE",
-   "turno": 16,
+   "turno": 19,
    "data": "2026-11-13",
-   "url": "https://www.istruzionegenova.gov.it/pagine/xvi-turno-gps---as-2026-2027",
+   "url": "https://www.istruzionegenova.gov.it/pagine/xix-turno-gps---as-2026-2027",
    "altriLink": [
     "/pagine/decreto-di-nomina-i-fascia-sostegno-adaa-e-adee---genova",
     "/pagine/ix-turno-gps---solo-nomina-pppp",
