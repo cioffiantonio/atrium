@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-13T12:26:07.142Z",
+ "aggiornato": "2026-11-13T13:37:20.841Z",
  "ocr": [],
  "zeroRighe": [],
  "nonLetti": [
@@ -270,6 +270,167 @@
    "nota": "formato non riconosciuto"
   },
   {
+   "provincia": "AL",
+   "turno": null,
+   "data": "2026-11-13",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/11/Definitivo_Bollettino_TotaleNomine-1.xlsx",
+   "nota": "documento non leggibile"
+  },
+  {
+   "provincia": "AL",
+   "turno": null,
+   "data": "2026-11-13",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/11/Definitivo_Bollettino_TotaleNomine.xlsx",
+   "nota": "documento non leggibile"
+  },
+  {
+   "provincia": "AL",
+   "turno": null,
+   "data": "2026-11-13",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/10/Bollettino_TotaleNomine-10.xlsx",
+   "nota": "documento non leggibile"
+  },
+  {
+   "provincia": "AL",
+   "turno": null,
+   "data": "2026-11-13",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/10/Definitivo_Bollettino_TotaleNomine-1.xlsx",
+   "nota": "documento non leggibile"
+  },
+  {
+   "provincia": "AL",
+   "turno": null,
+   "data": "2026-11-13",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/10/Bollettino_TotaleNomine-6.xlsx",
+   "nota": "documento non leggibile"
+  },
+  {
+   "provincia": "AL",
+   "turno": null,
+   "data": "2026-11-13",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/10/Definitivo_Bollettino_TotaleNomine.xlsx",
+   "nota": "documento non leggibile"
+  },
+  {
+   "provincia": "AL",
+   "turno": null,
+   "data": "2026-11-13",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/10/Bollettino_TotaleNomine-5.xlsx",
+   "nota": "documento non leggibile"
+  },
+  {
+   "provincia": "AL",
+   "turno": null,
+   "data": "2026-11-13",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/10/Bollettino_TotaleNomine-3.xlsx",
+   "nota": "documento non leggibile"
+  },
+  {
+   "provincia": "AL",
+   "turno": null,
+   "data": "2026-11-13",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/09/Bollettino_TotaleNomine-10.xlsx",
+   "nota": "documento non leggibile"
+  },
+  {
+   "provincia": "AL",
+   "turno": null,
+   "data": "2026-11-13",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/09/Bollettino_TotaleNomine-9.xlsx",
+   "nota": "documento non leggibile"
+  },
+  {
+   "provincia": "AL",
+   "turno": null,
+   "data": "2026-11-13",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/09/Bollettino_TotaleNomine-6.xlsx",
+   "nota": "documento non leggibile"
+  },
+  {
+   "provincia": "AL",
+   "turno": null,
+   "data": "2026-11-13",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/09/Bollettino_TotaleNomine-5.xlsx",
+   "nota": "documento non leggibile"
+  },
+  {
+   "provincia": "AL",
+   "turno": null,
+   "data": "2026-11-13",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/09/Bollettino_TotaleNomine-3.xlsx",
+   "nota": "documento non leggibile"
+  },
+  {
+   "provincia": "AL",
+   "turno": null,
+   "data": "2026-11-13",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/09/Bollettino_TotaleNomine-2.xlsx",
+   "nota": "documento non leggibile"
+  },
+  {
+   "provincia": "AL",
+   "turno": null,
+   "data": "2026-11-13",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/09/Bollettino_TotaleNomine.xlsx",
+   "nota": "documento non leggibile"
+  },
+  {
+   "provincia": "AL",
+   "turno": null,
+   "data": "2026-11-13",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/08/bollettinoDefinitivo_-GPS_1-TURNO.zip",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "AL",
+   "turno": null,
+   "data": "2026-11-13",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/08/Bollettino_TotaleNomine-2.xlsx",
+   "nota": "documento non leggibile"
+  },
+  {
+   "provincia": "AL",
+   "turno": null,
+   "data": "2026-11-13",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/08/Bollettino_TotaleNomine-1.xlsx",
+   "nota": "documento non leggibile"
+  },
+  {
+   "provincia": "AL",
+   "turno": null,
+   "data": "2026-09-03",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/09/AT-esiti-nomine-II-turno-as-2026-27-03.09.2026.xlsx",
+   "nota": "formato non riconosciuto"
+  },
+  {
+   "provincia": "AL",
+   "turno": null,
+   "data": "2026-09-03",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/09/AA-esiti-nomine-II-turno-as-2026-27-03.09.2026.xlsx",
+   "nota": "formato non riconosciuto"
+  },
+  {
+   "provincia": "AL",
+   "turno": null,
+   "data": "2026-09-04",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/09/liberatoria-profili-AT-e-AA-nomine-a-TD-as-2026-27-signed-1.pdf",
+   "nota": "formato non riconosciuto"
+  },
+  {
+   "provincia": "AL",
+   "turno": null,
+   "data": "2026-09-04",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/09/liberatoria-profili-AT-e-AA-nomine-a-TD-as-2026-27-signed.pdf",
+   "nota": "formato non riconosciuto"
+  },
+  {
+   "provincia": "AL",
+   "turno": null,
+   "data": "2026-09-01",
+   "url": "https://www.istruzionepiemonte.it/alessandria-asti/wp-content/uploads/sites/3/2026/09/AL_ChiarimentiNomineGPS-as26_27-signed-1.pdf",
+   "nota": "formato non riconosciuto"
+  },
+  {
    "provincia": "VE",
    "turno": 10,
    "data": "2026-11-10",
@@ -431,6 +592,20 @@
    "nota": "formato non riconosciuto"
   },
   {
+   "provincia": "SV",
+   "turno": 1,
+   "data": "2026-11-13",
+   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-1",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "AP",
+   "turno": null,
+   "data": "2026-08-28",
+   "url": "https://www.uspascolipiceno.it/wordpress/wp-content/uploads/2026/08/SUPPLENZE-personale-ATA_AA_AT-operazioni-nomine-del-28.08.2026_Firmato.pdf",
+   "nota": "formato non riconosciuto"
+  },
+  {
    "provincia": "BR",
    "turno": 2,
    "data": "2026-09-15",
@@ -504,24 +679,14 @@
    "nota": "bollettino non trovato (si passa dal turno 15 al 17)"
   },
   {
+   "provincia": "KR",
+   "turno": 5,
+   "nota": "bollettino non trovato (si passa dal turno 4 al 6)"
+  },
+  {
    "provincia": "GE",
    "turno": 6,
    "nota": "bollettino non trovato (si passa dal turno 5 al 7)"
-  },
-  {
-   "provincia": "AP",
-   "turno": 4,
-   "nota": "bollettino non trovato (si passa dal turno 3 al 7)"
-  },
-  {
-   "provincia": "AP",
-   "turno": 5,
-   "nota": "bollettino non trovato (si passa dal turno 3 al 7)"
-  },
-  {
-   "provincia": "AP",
-   "turno": 6,
-   "nota": "bollettino non trovato (si passa dal turno 3 al 7)"
   },
   {
    "provincia": "ME",
@@ -896,6 +1061,13 @@
    "provincia": "VA",
    "turno": null,
    "data": "2026-11-13",
+   "url": "https://www.mim.gov.it/documents/9082015/0/m_pi.AOOUSPVA.REGISTRO+UFFICIALE%28U%29.0018286.13-11-2026.pdf/f86e8391-a5e4-e215-f916-63de584faac6?t=1794575335135",
+   "pagine": 5
+  },
+  {
+   "provincia": "VA",
+   "turno": null,
+   "data": "2026-11-13",
    "url": "https://www.mim.gov.it/documents/9082015/0/m_pi.AOOUSPVA.REGISTRO+UFFICIALE%28U%29.0017368.30-10-2026.pdf/494be07a-7422-982e-973e-3953b78138f6?t=1793372663450",
    "pagine": 5
   },
@@ -946,13 +1118,6 @@
    "turno": null,
    "data": "2026-11-13",
    "url": "https://www.istruzionepotenza.it/wp-content/uploads/2026/09/m_pi.AOOUSPPZ.REGISTRO-UFFICIALEU.0011335.22-09-2026.pdf",
-   "pagine": 3
-  },
-  {
-   "provincia": "KR",
-   "turno": null,
-   "data": "2026-10-26",
-   "url": "https://www.istruzione.calabria.it/crotone/wp-content/uploads/2026/10/integrazione-al-quarto-turno-di-nomine-a-tempo-determinato-personale-docente-a.s.-2026-2027U.0005587.26-10-2026.pdf",
    "pagine": 3
   },
   {
@@ -1061,9 +1226,9 @@
   },
   {
    "provincia": "GE",
-   "turno": 19,
+   "turno": null,
    "data": "2026-11-13",
-   "url": "https://www.istruzionegenova.gov.it/pagine/xix-turno-gps---as-2026-2027",
+   "url": "https://www.istruzionegenova.gov.it/pagine/xviii-turno-gps---as-2026-2027",
    "altriLink": [
     "/pagine/decreto-di-nomina-i-fascia-sostegno-adaa-e-adee---genova",
     "/pagine/ix-turno-gps---solo-nomina-pppp",
