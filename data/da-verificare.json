@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-14T12:43:29.461Z",
+ "aggiornato": "2026-11-14T21:55:44.383Z",
  "ocr": [],
  "zeroRighe": [],
  "nonLetti": [
@@ -439,16 +439,9 @@
   },
   {
    "provincia": "SP",
-   "turno": 1,
-   "data": "2026-11-14",
-   "url": "https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---i-turno-as-20262027",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "SV",
-   "turno": 7,
-   "data": "2026-11-14",
-   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-6-",
+   "turno": null,
+   "data": "2026-10-07",
+   "url": "https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---vii-turno-07102026-",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
@@ -530,6 +523,11 @@
    "provincia": "AL",
    "turno": 16,
    "nota": "bollettino non trovato (si passa dal turno 15 al 17)"
+  },
+  {
+   "provincia": "KR",
+   "turno": 5,
+   "nota": "bollettino non trovato (si passa dal turno 4 al 6)"
   },
   {
    "provincia": "GE",
@@ -969,13 +967,6 @@
    "pagine": 3
   },
   {
-   "provincia": "KR",
-   "turno": null,
-   "data": "2026-10-26",
-   "url": "https://www.istruzione.calabria.it/crotone/wp-content/uploads/2026/10/integrazione-al-quarto-turno-di-nomine-a-tempo-determinato-personale-docente-a.s.-2026-2027U.0005587.26-10-2026.pdf",
-   "pagine": 3
-  },
-  {
    "provincia": "CN",
    "turno": null,
    "data": "2026-11-14",
@@ -1083,7 +1074,7 @@
    "provincia": "GE",
    "turno": null,
    "data": "2026-11-14",
-   "url": "https://www.istruzionegenova.gov.it/pagine/xviii-turno-gps---as-2026-2027",
+   "url": "https://www.istruzionegenova.gov.it/pagine/xxii-turno-gps---as-2026-2027",
    "altriLink": [
     "/pagine/decreto-di-nomina-i-fascia-sostegno-adaa-e-adee---genova",
     "/pagine/ix-turno-gps---solo-nomina-pppp",
