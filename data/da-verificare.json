@@ -1,8 +1,36 @@
 {
- "aggiornato": "2026-11-15T13:42:54.708Z",
+ "aggiornato": "2026-11-15T20:04:12.401Z",
  "ocr": [],
  "zeroRighe": [],
  "nonLetti": [
+  {
+   "provincia": "AV",
+   "turno": null,
+   "data": "2026-11-15",
+   "url": "https://atavellino.it/graduatorie-provinciali-di-supplenza-terzo-bollettino-nomine-a-tempo-determinato-2026-2027-ogni-ordine-e-grado-avellino-e-provincia/",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "AV",
+   "turno": null,
+   "data": "2026-11-15",
+   "url": "https://atavellino.it/graduatorie-provinciali-di-supplenza-quarto-bollettino-nomine-a-tempo-determinato-2026-2027-ogni-ordine-e-grado-avellino-e-provincia/",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "AV",
+   "turno": 1,
+   "data": "2026-11-15",
+   "url": "https://atavellino.it/graduatorie-provinciali-di-supplenza-primo-bollettino-nomine-a-tempo-determinato-2026-2027-ogni-ordine-e-grado-avellino-e-provincia/",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "AV",
+   "turno": 2,
+   "data": "2026-11-15",
+   "url": "https://atavellino.it/graduatorie-provinciali-di-supplenza-secondo-bollettino-nomine-a-tempo-determinato-2026-2027-ogni-ordine-e-grado-avellino-e-provincia/",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
   {
    "provincia": "VI",
    "turno": null,
@@ -214,6 +242,27 @@
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
+   "provincia": "LU",
+   "turno": null,
+   "data": "2026-10-20",
+   "url": "https://ustlucca.it/personale-docente-nomine-gps-a-tempo-determinato-turno-5-a-s-2026-27-del-20-10-2026/",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "LU",
+   "turno": null,
+   "data": "2026-10-23",
+   "url": "https://ustlucca.it/personale-docente-nomine-gps-a-tempo-determinato-turno-6-a-s-2026-27-del-23-10-2026/",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "LU",
+   "turno": null,
+   "data": "2026-11-09",
+   "url": "https://ustlucca.it/personale-docente-nomine-gps-a-tempo-determinato-turno-7-a-s-2026-27-del-09-11-2026/",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
    "provincia": "PD",
    "turno": 1,
    "data": "2026-08-28",
@@ -273,225 +322,155 @@
    "provincia": "IM",
    "turno": 1,
    "data": "2026-11-15",
-   "url": "https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps--as-2026-27--i-turno",
-   "nota": "nessun PDF o foglio trovato nella pagina"
+   "url": "https://www.istruzioneimperia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1607",
+   "nota": "formato non riconosciuto"
   },
   {
    "provincia": "IM",
    "turno": 2,
    "data": "2026-11-15",
-   "url": "https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps--as-2026-27--ii-turno",
-   "nota": "nessun PDF o foglio trovato nella pagina"
+   "url": "https://www.istruzioneimperia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1626",
+   "nota": "formato non riconosciuto"
   },
   {
    "provincia": "IM",
    "turno": 3,
    "data": "2026-11-15",
-   "url": "https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps-as-2026-27--iii-turno",
-   "nota": "nessun PDF o foglio trovato nella pagina"
+   "url": "https://www.istruzioneimperia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1631",
+   "nota": "formato non riconosciuto"
   },
   {
    "provincia": "IM",
    "turno": 4,
    "data": "2026-11-15",
-   "url": "https://www.istruzioneimperia.gov.it/pagine/nomine-da-gps--iv-turno-",
-   "nota": "nessun PDF o foglio trovato nella pagina"
+   "url": "https://www.istruzioneimperia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1638",
+   "nota": "formato non riconosciuto"
   },
   {
    "provincia": "IM",
    "turno": 5,
    "data": "2026-11-15",
-   "url": "https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps-as-2026-27--v-turno",
-   "nota": "nessun PDF o foglio trovato nella pagina"
+   "url": "https://www.istruzioneimperia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1644",
+   "nota": "righe GPS non leggibili: 1"
   },
   {
    "provincia": "IM",
    "turno": 6,
    "data": "2026-11-15",
-   "url": "https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps--as-2026-27--vi-turno",
-   "nota": "nessun PDF o foglio trovato nella pagina"
+   "url": "https://www.istruzioneimperia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1646",
+   "nota": "formato non riconosciuto"
   },
   {
    "provincia": "IM",
    "turno": 7,
    "data": "2026-11-15",
-   "url": "https://www.istruzioneimperia.gov.it/pagine/vii-turno-di-nomine-da-gps",
-   "nota": "nessun PDF o foglio trovato nella pagina"
+   "url": "https://www.istruzioneimperia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1650",
+   "nota": "formato non riconosciuto"
   },
   {
    "provincia": "IM",
    "turno": 8,
    "data": "2026-11-15",
    "url": "https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps--as-2026-27--vii-turno",
-   "nota": "nessun PDF o foglio trovato nella pagina"
+   "nota": "documento non leggibile"
   },
   {
    "provincia": "IM",
    "turno": 9,
    "data": "2026-11-15",
    "url": "https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps--as-2026-27--ix-turno",
-   "nota": "nessun PDF o foglio trovato nella pagina"
+   "nota": "documento non leggibile"
   },
   {
    "provincia": "IM",
    "turno": 10,
    "data": "2026-11-15",
    "url": "https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps-as-2026-27--x-turno",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "SP",
-   "turno": null,
-   "data": "2026-10-02",
-   "url": "https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---vi-turno-02102026----",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "SP",
-   "turno": null,
-   "data": "2026-10-07",
-   "url": "https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---vii-turno-07102026-",
-   "nota": "nessun PDF o foglio trovato nella pagina"
+   "nota": "documento non leggibile"
   },
   {
    "provincia": "SP",
    "turno": null,
    "data": "2026-10-09",
    "url": "https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---viii-turno-09102026-",
-   "nota": "nessun PDF o foglio trovato nella pagina"
+   "nota": "documento non leggibile"
   },
   {
    "provincia": "SP",
    "turno": null,
    "data": "2026-10-13",
-   "url": "https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---ix-turno-13102026",
-   "nota": "nessun PDF o foglio trovato nella pagina"
+   "url": "https://www.istruzionelaspezia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1542",
+   "nota": "formato non riconosciuto"
+  },
+  {
+   "provincia": "SP",
+   "turno": null,
+   "data": "2026-11-15",
+   "url": "https://www.istruzionelaspezia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1541",
+   "nota": "documento non leggibile"
   },
   {
    "provincia": "SP",
    "turno": 1,
    "data": "2026-11-15",
    "url": "https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---i-turno-as-20262027",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "SP",
-   "turno": 2,
-   "data": "2026-09-11",
-   "url": "https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---ii-turno-11092026",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "SP",
-   "turno": 3,
-   "data": "2026-09-11",
-   "url": "https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---ii-turno-11092026-1",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "SP",
-   "turno": 4,
-   "data": "2026-09-15",
-   "url": "https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---iii-turno-15092026--1",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "SP",
-   "turno": 5,
-   "data": "2026-09-18",
-   "url": "https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---iv-turno-18092026--",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "SP",
-   "turno": 6,
-   "data": "2026-09-21",
-   "url": "https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---v-turno-21092026---",
-   "nota": "nessun PDF o foglio trovato nella pagina"
+   "nota": "documento non leggibile"
   },
   {
    "provincia": "SV",
-   "turno": null,
+   "turno": 4,
+   "data": "2026-11-15",
+   "url": "https://www.istruzionesavona.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1762",
+   "nota": "formato non riconosciuto"
+  },
+  {
+   "provincia": "SV",
+   "turno": 5,
+   "data": "2026-11-15",
+   "url": "https://www.istruzionesavona.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1765",
+   "nota": "formato non riconosciuto"
+  },
+  {
+   "provincia": "SV",
+   "turno": 6,
+   "data": "2026-11-15",
+   "url": "https://www.istruzionesavona.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1769",
+   "nota": "formato non riconosciuto"
+  },
+  {
+   "provincia": "SV",
+   "turno": 11,
+   "data": "2026-11-15",
+   "url": "https://www.istruzionesavona.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1806",
+   "nota": "formato non riconosciuto"
+  },
+  {
+   "provincia": "SV",
+   "turno": 1,
    "data": "2026-11-15",
    "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-1",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "SV",
-   "turno": null,
-   "data": "2026-11-15",
-   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-4",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "SV",
-   "turno": null,
-   "data": "2026-11-15",
-   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-9-1",
-   "nota": "nessun PDF o foglio trovato nella pagina"
+   "nota": "documento non leggibile"
   },
   {
    "provincia": "SV",
    "turno": 2,
    "data": "2026-11-15",
    "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-1-2",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "SV",
-   "turno": 3,
-   "data": "2026-11-15",
-   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-2-",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "SV",
-   "turno": 5,
-   "data": "2026-11-15",
-   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-5",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "SV",
-   "turno": 6,
-   "data": "2026-11-15",
-   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-5-1",
-   "nota": "nessun PDF o foglio trovato nella pagina"
+   "nota": "documento non leggibile"
   },
   {
    "provincia": "SV",
    "turno": 7,
    "data": "2026-11-15",
    "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-6-",
-   "nota": "nessun PDF o foglio trovato nella pagina"
+   "nota": "documento non leggibile"
   },
   {
    "provincia": "SV",
    "turno": 8,
    "data": "2026-11-15",
    "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-8--",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "SV",
-   "turno": 9,
-   "data": "2026-11-15",
-   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-9",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "SV",
-   "turno": 11,
-   "data": "2026-11-15",
-   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps----turno-11",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "SV",
-   "turno": 12,
-   "data": "2026-11-15",
-   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps----turno-12-1",
-   "nota": "nessun PDF o foglio trovato nella pagina"
+   "nota": "documento non leggibile"
   },
   {
    "provincia": "VE",
@@ -662,6 +641,27 @@
    "nota": "formato non riconosciuto"
   },
   {
+   "provincia": "GE",
+   "turno": 14,
+   "data": "2026-11-15",
+   "url": "https://www.istruzionegenova.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1674",
+   "nota": "formato non riconosciuto"
+  },
+  {
+   "provincia": "GE",
+   "turno": 12,
+   "data": "2026-11-15",
+   "url": "https://www.istruzionegenova.gov.it/pagine/xii-turno-gps---as-2026-2027",
+   "nota": "documento non leggibile"
+  },
+  {
+   "provincia": "GE",
+   "turno": 15,
+   "data": "2026-11-15",
+   "url": "https://www.istruzionegenova.gov.it/pagine/xv-turno-gps---as-2026-2027",
+   "nota": "documento non leggibile"
+  },
+  {
    "provincia": "AP",
    "turno": null,
    "data": "2026-08-28",
@@ -737,29 +737,39 @@
    "nota": "bollettino non trovato (si passa dal turno 1 al 3)"
   },
   {
-   "provincia": "SI",
-   "turno": 4,
-   "nota": "bollettino non trovato (si passa dal turno 3 al 5)"
-  },
-  {
    "provincia": "AL",
    "turno": 16,
    "nota": "bollettino non trovato (si passa dal turno 15 al 17)"
   },
   {
-   "provincia": "SV",
+   "provincia": "SP",
    "turno": 4,
    "nota": "bollettino non trovato (si passa dal turno 3 al 5)"
   },
   {
    "provincia": "SV",
-   "turno": 10,
-   "nota": "bollettino non trovato (si passa dal turno 9 al 11)"
+   "turno": 9,
+   "nota": "bollettino non trovato (si passa dal turno 8 al 10)"
+  },
+  {
+   "provincia": "KR",
+   "turno": 5,
+   "nota": "bollettino non trovato (si passa dal turno 4 al 6)"
   },
   {
    "provincia": "GE",
    "turno": 6,
    "nota": "bollettino non trovato (si passa dal turno 5 al 7)"
+  },
+  {
+   "provincia": "GE",
+   "turno": 11,
+   "nota": "bollettino non trovato (si passa dal turno 10 al 12)"
+  },
+  {
+   "provincia": "GE",
+   "turno": 13,
+   "nota": "bollettino non trovato (si passa dal turno 12 al 14)"
   },
   {
    "provincia": "ME",
@@ -1191,13 +1201,6 @@
    "turno": null,
    "data": "2026-11-15",
    "url": "https://www.istruzionepotenza.it/wp-content/uploads/2026/09/m_pi.AOOUSPPZ.REGISTRO-UFFICIALEU.0011335.22-09-2026.pdf",
-   "pagine": 3
-  },
-  {
-   "provincia": "KR",
-   "turno": null,
-   "data": "2026-10-26",
-   "url": "https://www.istruzione.calabria.it/crotone/wp-content/uploads/2026/10/integrazione-al-quarto-turno-di-nomine-a-tempo-determinato-personale-docente-a.s.-2026-2027U.0005587.26-10-2026.pdf",
    "pagine": 3
   },
   {
