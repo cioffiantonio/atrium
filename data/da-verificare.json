@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-15T10:13:24.523Z",
+ "aggiornato": "2026-11-15T13:42:54.708Z",
  "ocr": [],
  "zeroRighe": [],
  "nonLetti": [
@@ -413,6 +413,13 @@
    "provincia": "SV",
    "turno": null,
    "data": "2026-11-15",
+   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-1",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "SV",
+   "turno": null,
+   "data": "2026-11-15",
    "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-4",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
@@ -420,14 +427,7 @@
    "provincia": "SV",
    "turno": null,
    "data": "2026-11-15",
-   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-9",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "SV",
-   "turno": 1,
-   "data": "2026-11-15",
-   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-1",
+   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-9-1",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
@@ -474,9 +474,9 @@
   },
   {
    "provincia": "SV",
-   "turno": 10,
+   "turno": 9,
    "data": "2026-11-15",
-   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-9-1",
+   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-9",
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
@@ -737,6 +737,11 @@
    "nota": "bollettino non trovato (si passa dal turno 1 al 3)"
   },
   {
+   "provincia": "SI",
+   "turno": 4,
+   "nota": "bollettino non trovato (si passa dal turno 3 al 5)"
+  },
+  {
    "provincia": "AL",
    "turno": 16,
    "nota": "bollettino non trovato (si passa dal turno 15 al 17)"
@@ -748,13 +753,8 @@
   },
   {
    "provincia": "SV",
-   "turno": 9,
-   "nota": "bollettino non trovato (si passa dal turno 8 al 10)"
-  },
-  {
-   "provincia": "KR",
-   "turno": 5,
-   "nota": "bollettino non trovato (si passa dal turno 4 al 6)"
+   "turno": 10,
+   "nota": "bollettino non trovato (si passa dal turno 9 al 11)"
   },
   {
    "provincia": "GE",
@@ -1191,6 +1191,13 @@
    "turno": null,
    "data": "2026-11-15",
    "url": "https://www.istruzionepotenza.it/wp-content/uploads/2026/09/m_pi.AOOUSPPZ.REGISTRO-UFFICIALEU.0011335.22-09-2026.pdf",
+   "pagine": 3
+  },
+  {
+   "provincia": "KR",
+   "turno": null,
+   "data": "2026-10-26",
+   "url": "https://www.istruzione.calabria.it/crotone/wp-content/uploads/2026/10/integrazione-al-quarto-turno-di-nomine-a-tempo-determinato-personale-docente-a.s.-2026-2027U.0005587.26-10-2026.pdf",
    "pagine": 3
   },
   {
