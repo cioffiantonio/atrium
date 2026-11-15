@@ -1,36 +1,8 @@
 {
- "aggiornato": "2026-11-15T20:04:12.401Z",
+ "aggiornato": "2026-11-15T22:37:18.930Z",
  "ocr": [],
  "zeroRighe": [],
  "nonLetti": [
-  {
-   "provincia": "AV",
-   "turno": null,
-   "data": "2026-11-15",
-   "url": "https://atavellino.it/graduatorie-provinciali-di-supplenza-terzo-bollettino-nomine-a-tempo-determinato-2026-2027-ogni-ordine-e-grado-avellino-e-provincia/",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "AV",
-   "turno": null,
-   "data": "2026-11-15",
-   "url": "https://atavellino.it/graduatorie-provinciali-di-supplenza-quarto-bollettino-nomine-a-tempo-determinato-2026-2027-ogni-ordine-e-grado-avellino-e-provincia/",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "AV",
-   "turno": 1,
-   "data": "2026-11-15",
-   "url": "https://atavellino.it/graduatorie-provinciali-di-supplenza-primo-bollettino-nomine-a-tempo-determinato-2026-2027-ogni-ordine-e-grado-avellino-e-provincia/",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "AV",
-   "turno": 2,
-   "data": "2026-11-15",
-   "url": "https://atavellino.it/graduatorie-provinciali-di-supplenza-secondo-bollettino-nomine-a-tempo-determinato-2026-2027-ogni-ordine-e-grado-avellino-e-provincia/",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
   {
    "provincia": "VI",
    "turno": null,
@@ -242,27 +214,6 @@
    "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
-   "provincia": "LU",
-   "turno": null,
-   "data": "2026-10-20",
-   "url": "https://ustlucca.it/personale-docente-nomine-gps-a-tempo-determinato-turno-5-a-s-2026-27-del-20-10-2026/",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "LU",
-   "turno": null,
-   "data": "2026-10-23",
-   "url": "https://ustlucca.it/personale-docente-nomine-gps-a-tempo-determinato-turno-6-a-s-2026-27-del-23-10-2026/",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "LU",
-   "turno": null,
-   "data": "2026-11-09",
-   "url": "https://ustlucca.it/personale-docente-nomine-gps-a-tempo-determinato-turno-7-a-s-2026-27-del-09-11-2026/",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
    "provincia": "PD",
    "turno": 1,
    "data": "2026-08-28",
@@ -371,50 +322,22 @@
    "provincia": "IM",
    "turno": 8,
    "data": "2026-11-15",
-   "url": "https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps--as-2026-27--vii-turno",
-   "nota": "documento non leggibile"
+   "url": "https://www.istruzioneimperia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1653",
+   "nota": "righe GPS non leggibili: 4"
   },
   {
    "provincia": "IM",
    "turno": 9,
    "data": "2026-11-15",
-   "url": "https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps--as-2026-27--ix-turno",
-   "nota": "documento non leggibile"
+   "url": "https://www.istruzioneimperia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1656",
+   "nota": "formato non riconosciuto"
   },
   {
    "provincia": "IM",
    "turno": 10,
    "data": "2026-11-15",
-   "url": "https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps-as-2026-27--x-turno",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "SP",
-   "turno": null,
-   "data": "2026-10-09",
-   "url": "https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---viii-turno-09102026-",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "SP",
-   "turno": null,
-   "data": "2026-10-13",
-   "url": "https://www.istruzionelaspezia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1542",
+   "url": "https://www.istruzioneimperia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1658",
    "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "SP",
-   "turno": null,
-   "data": "2026-11-15",
-   "url": "https://www.istruzionelaspezia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1541",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "SP",
-   "turno": 1,
-   "data": "2026-11-15",
-   "url": "https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---i-turno-as-20262027",
-   "nota": "documento non leggibile"
   },
   {
    "provincia": "SV",
@@ -432,9 +355,9 @@
   },
   {
    "provincia": "SV",
-   "turno": 6,
+   "turno": 9,
    "data": "2026-11-15",
-   "url": "https://www.istruzionesavona.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1769",
+   "url": "https://www.istruzionesavona.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1781",
    "nota": "formato non riconosciuto"
   },
   {
@@ -443,34 +366,6 @@
    "data": "2026-11-15",
    "url": "https://www.istruzionesavona.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1806",
    "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "SV",
-   "turno": 1,
-   "data": "2026-11-15",
-   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-1",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "SV",
-   "turno": 2,
-   "data": "2026-11-15",
-   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-1-2",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "SV",
-   "turno": 7,
-   "data": "2026-11-15",
-   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-6-",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "SV",
-   "turno": 8,
-   "data": "2026-11-15",
-   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-8--",
-   "nota": "documento non leggibile"
   },
   {
    "provincia": "VE",
@@ -655,13 +550,6 @@
    "nota": "documento non leggibile"
   },
   {
-   "provincia": "GE",
-   "turno": 15,
-   "data": "2026-11-15",
-   "url": "https://www.istruzionegenova.gov.it/pagine/xv-turno-gps---as-2026-2027",
-   "nota": "documento non leggibile"
-  },
-  {
    "provincia": "AP",
    "turno": null,
    "data": "2026-08-28",
@@ -740,21 +628,6 @@
    "provincia": "AL",
    "turno": 16,
    "nota": "bollettino non trovato (si passa dal turno 15 al 17)"
-  },
-  {
-   "provincia": "SP",
-   "turno": 4,
-   "nota": "bollettino non trovato (si passa dal turno 3 al 5)"
-  },
-  {
-   "provincia": "SV",
-   "turno": 9,
-   "nota": "bollettino non trovato (si passa dal turno 8 al 10)"
-  },
-  {
-   "provincia": "KR",
-   "turno": 5,
-   "nota": "bollettino non trovato (si passa dal turno 4 al 6)"
   },
   {
    "provincia": "GE",
@@ -845,6 +718,20 @@
    "data": "2026-11-03",
    "url": "https://pc.istruzioneer.gov.it/wp-content/uploads/sites/9/2026/11/dotazioni-organiche-sostegno-a.s.-2026_2027-prot.n.-7622.22-10-2026.pdf",
    "pagine": 8
+  },
+  {
+   "provincia": "AV",
+   "turno": null,
+   "data": "2026-11-15",
+   "url": "https://atavellino.it/wp-content/uploads/2026/09/CS-ASSEGNAZIONE-SEDI-TURNO-1-GP24-signed.pdf",
+   "pagine": 2
+  },
+  {
+   "provincia": "AV",
+   "turno": null,
+   "data": "2026-11-15",
+   "url": "https://atavellino.it/wp-content/uploads/2026/08/Diponibilita-primo-turno-di-nomina-supplenze.pdf",
+   "pagine": 13
   },
   {
    "provincia": "SA",
@@ -1190,6 +1077,13 @@
    "pagine": 4
   },
   {
+   "provincia": "LU",
+   "turno": null,
+   "data": "2026-09-03",
+   "url": "https://ustlucca.it/wp-content/uploads/2026/09/m_pi.AOOUSPLU.REGISTRO-UFFICIALEU.0002674.03-09-2026-NOMINE-TERZA-FASCIA.pdf",
+   "pagine": 2
+  },
+  {
    "provincia": "TE",
    "turno": null,
    "data": "2026-10-29",
@@ -1201,6 +1095,13 @@
    "turno": null,
    "data": "2026-11-15",
    "url": "https://www.istruzionepotenza.it/wp-content/uploads/2026/09/m_pi.AOOUSPPZ.REGISTRO-UFFICIALEU.0011335.22-09-2026.pdf",
+   "pagine": 3
+  },
+  {
+   "provincia": "KR",
+   "turno": null,
+   "data": "2026-10-26",
+   "url": "https://www.istruzione.calabria.it/crotone/wp-content/uploads/2026/10/integrazione-al-quarto-turno-di-nomine-a-tempo-determinato-personale-docente-a.s.-2026-2027U.0005587.26-10-2026.pdf",
    "pagine": 3
   },
   {
