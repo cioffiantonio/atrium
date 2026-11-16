@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-16T03:55:16.104Z",
+ "aggiornato": "2026-11-16T14:37:42.212Z",
  "ocr": [],
  "zeroRighe": [],
  "nonLetti": [
@@ -239,20 +239,6 @@
    "turno": null,
    "data": "2026-09-07",
    "url": "https://padova.istruzioneveneto.gov.it/wp-content/uploads/2026/09/I-grado-Restituzione-aggregazioni-dopo-I-turno.pdf",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "PD",
-   "turno": null,
-   "data": "2026-08-28",
-   "url": "https://padova.istruzioneveneto.gov.it/wp-content/uploads/2026/08/Disponibiita-PRIMARIA-I-turno-di-nomina-28-08-2026.pdf",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "PD",
-   "turno": null,
-   "data": "2026-08-28",
-   "url": "https://padova.istruzioneveneto.gov.it/wp-content/uploads/2026/08/Disponibiita-INFANZIA-I-turno-di-nomina-28-08-2026.pdf",
    "nota": "formato non riconosciuto"
   },
   {
@@ -537,23 +523,9 @@
   },
   {
    "provincia": "GE",
-   "turno": 12,
+   "turno": 19,
    "data": "2026-11-16",
-   "url": "https://www.istruzionegenova.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1671",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "GE",
-   "turno": 14,
-   "data": "2026-11-16",
-   "url": "https://www.istruzionegenova.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1674",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "GE",
-   "turno": 15,
-   "data": "2026-11-16",
-   "url": "https://www.istruzionegenova.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1675",
+   "url": "https://www.istruzionegenova.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1681",
    "nota": "formato non riconosciuto"
   },
   {
@@ -637,9 +609,9 @@
    "nota": "bollettino non trovato (si passa dal turno 15 al 17)"
   },
   {
-   "provincia": "KR",
-   "turno": 5,
-   "nota": "bollettino non trovato (si passa dal turno 4 al 6)"
+   "provincia": "AQ",
+   "turno": 7,
+   "nota": "bollettino non trovato (si passa dal turno 6 al 8)"
   },
   {
    "provincia": "GE",
@@ -649,12 +621,42 @@
   {
    "provincia": "GE",
    "turno": 11,
-   "nota": "bollettino non trovato (si passa dal turno 10 al 12)"
+   "nota": "bollettino non trovato (si passa dal turno 10 al 19)"
+  },
+  {
+   "provincia": "GE",
+   "turno": 12,
+   "nota": "bollettino non trovato (si passa dal turno 10 al 19)"
   },
   {
    "provincia": "GE",
    "turno": 13,
-   "nota": "bollettino non trovato (si passa dal turno 12 al 14)"
+   "nota": "bollettino non trovato (si passa dal turno 10 al 19)"
+  },
+  {
+   "provincia": "GE",
+   "turno": 14,
+   "nota": "bollettino non trovato (si passa dal turno 10 al 19)"
+  },
+  {
+   "provincia": "GE",
+   "turno": 15,
+   "nota": "bollettino non trovato (si passa dal turno 10 al 19)"
+  },
+  {
+   "provincia": "GE",
+   "turno": 16,
+   "nota": "bollettino non trovato (si passa dal turno 10 al 19)"
+  },
+  {
+   "provincia": "GE",
+   "turno": 17,
+   "nota": "bollettino non trovato (si passa dal turno 10 al 19)"
+  },
+  {
+   "provincia": "GE",
+   "turno": 18,
+   "nota": "bollettino non trovato (si passa dal turno 10 al 19)"
   },
   {
    "provincia": "ME",
@@ -714,7 +716,7 @@
    "provincia": "FC",
    "turno": null,
    "data": "2026-11-11",
-   "url": "https://fc.istruzioneer.gov.it/wp-content/uploads/sites/4/2026/11/Allegato1_Dichiarazione-sostitutiva-esame.pdf",
+   "url": "https://fc.istruzioneer.gov.it/wp-content/uploads/sites/4/2026/11/Allegato1_Dichiarazione_sostitutiva_esame.pdf",
    "pagine": 1
   },
   {
@@ -1086,6 +1088,13 @@
    "turno": null,
    "data": "2026-11-16",
    "url": "https://www.istruzionepotenza.it/wp-content/uploads/2026/09/m_pi.AOOUSPPZ.REGISTRO-UFFICIALEU.0011335.22-09-2026.pdf",
+   "pagine": 3
+  },
+  {
+   "provincia": "KR",
+   "turno": null,
+   "data": "2026-10-26",
+   "url": "https://www.istruzione.calabria.it/crotone/wp-content/uploads/2026/10/integrazione-al-quarto-turno-di-nomine-a-tempo-determinato-personale-docente-a.s.-2026-2027U.0005587.26-10-2026.pdf",
    "pagine": 3
   },
   {
