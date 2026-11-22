@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-22T14:24:36.746Z",
+ "aggiornato": "2026-11-22T21:24:44.140Z",
  "ocr": [],
  "zeroRighe": [],
  "nonLetti": [
@@ -16,76 +16,6 @@
    "data": "2026-10-26",
    "url": "https://vicenza.istruzioneveneto.gov.it/wp-content/uploads/AllegatiAttiAlboPretorio/BollettinoNomine_TURNO8_26-10-2026.pdf",
    "nota": "righe GPS non leggibili: 33"
-  },
-  {
-   "provincia": "VI",
-   "turno": null,
-   "data": "2026-11-18",
-   "url": "https://vicenza.istruzioneveneto.gov.it/wp-content/uploads/2026/11/ReportDettDispScuola_turno_13.pdf",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "VI",
-   "turno": 12,
-   "data": "2026-11-12",
-   "url": "https://vicenza.istruzioneveneto.gov.it/wp-content/uploads/2026/11/ReportDettDispScuola_turno12.pdf",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "VI",
-   "turno": null,
-   "data": "2026-11-10",
-   "url": "https://vicenza.istruzioneveneto.gov.it/wp-content/uploads/2026/11/ReportDettDispScuola_turno_11-002.pdf",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "VI",
-   "turno": null,
-   "data": "2026-11-04",
-   "url": "https://vicenza.istruzioneveneto.gov.it/wp-content/uploads/2026/11/ReportDettDispScuola_turno_10.pdf",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "VI",
-   "turno": null,
-   "data": "2026-10-30",
-   "url": "https://vicenza.istruzioneveneto.gov.it/wp-content/uploads/2026/10/ReportDettDispScuola_turno_9.pdf",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "VI",
-   "turno": null,
-   "data": "2026-10-26",
-   "url": "https://vicenza.istruzioneveneto.gov.it/wp-content/uploads/2026/10/ReportDettDispScuola_turno_8.pdf",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "VI",
-   "turno": null,
-   "data": "2026-10-20",
-   "url": "https://vicenza.istruzioneveneto.gov.it/wp-content/uploads/2026/10/ReportDettDispScuola_turno_7_1.pdf",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "VI",
-   "turno": 6,
-   "data": "2026-10-14",
-   "url": "https://vicenza.istruzioneveneto.gov.it/wp-content/uploads/2026/10/ReportDettDispScuola_turno6_signed.pdf",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "VI",
-   "turno": 5,
-   "data": "2026-10-09",
-   "url": "https://vicenza.istruzioneveneto.gov.it/wp-content/uploads/2026/10/ReportDettDispScuola_turno5_signed.pdf",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "VI",
-   "turno": 4,
-   "data": "2026-10-02",
-   "url": "https://vicenza.istruzioneveneto.gov.it/wp-content/uploads/2026/10/ReportDettDispScuola_turno4.pdf",
-   "nota": "formato non riconosciuto"
   },
   {
    "provincia": "MB",
@@ -258,27 +188,6 @@
   {
    "provincia": "BA",
    "turno": null,
-   "data": "2026-08-28",
-   "url": "https://www.uspbari.it/usp/wp-content/uploads/2026/08/ALLEGATO-esiti-assegnazione-sede-Surroga-Turno-4_26-27.pdf",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "BA",
-   "turno": null,
-   "data": "2026-08-27",
-   "url": "https://www.uspbari.it/usp/wp-content/uploads/2026/08/Allegato-A-esiti-fase-1-turno-5-scorrimenti.pdf",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "BA",
-   "turno": null,
-   "data": "2026-08-26",
-   "url": "https://www.uspbari.it/usp/wp-content/uploads/2026/08/Allegato-A-esiti-fase-1-surroga-turno-4-scorrimenti.pdf",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "BA",
-   "turno": null,
    "data": "2026-08-31",
    "url": "https://www.istruzionebat.it/wp-content/uploads/2026/09/Disponilita-totali-Turno-1-BAT.pdf",
    "nota": "formato non riconosciuto"
@@ -288,20 +197,6 @@
    "turno": null,
    "data": "2026-08-31",
    "url": "https://www.istruzionebat.it/wp-content/uploads/2026/08/ALLEGATO-esiti-assegnazione-sede-Turno-5_26-27.pdf",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "BA",
-   "turno": null,
-   "data": "2026-08-28",
-   "url": "https://www.istruzionebat.it/wp-content/uploads/2026/08/ALLEGATO-esiti-assegnazione-sede-Surroga-Turno-4_26-27.pdf",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "BA",
-   "turno": null,
-   "data": "2026-08-26",
-   "url": "https://www.istruzionebat.it/wp-content/uploads/2026/08/Allegato-A-esiti-fase-1-surroga-turno-4-scorrimenti.pdf",
    "nota": "formato non riconosciuto"
   },
   {
@@ -399,35 +294,91 @@
    "provincia": "IM",
    "turno": 8,
    "data": "2026-11-22",
-   "url": "https://www.istruzioneimperia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1653",
-   "nota": "righe GPS non leggibili: 4"
+   "url": "https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps--as-2026-27--vii-turno",
+   "nota": "documento non leggibile"
   },
   {
    "provincia": "IM",
    "turno": 9,
    "data": "2026-11-22",
-   "url": "https://www.istruzioneimperia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1656",
-   "nota": "formato non riconosciuto"
+   "url": "https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps--as-2026-27--ix-turno",
+   "nota": "documento non leggibile"
   },
   {
    "provincia": "IM",
    "turno": 10,
    "data": "2026-11-22",
-   "url": "https://www.istruzioneimperia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1658",
-   "nota": "formato non riconosciuto"
+   "url": "https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps-as-2026-27--x-turno",
+   "nota": "documento non leggibile"
   },
   {
    "provincia": "IM",
    "turno": 11,
    "data": "2026-11-22",
-   "url": "https://www.istruzioneimperia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1670",
+   "url": "https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps-as-2026-27--xi-turno",
+   "nota": "documento non leggibile"
+  },
+  {
+   "provincia": "SP",
+   "turno": 6,
+   "data": "2026-09-21",
+   "url": "https://www.istruzionelaspezia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1524",
    "nota": "formato non riconosciuto"
   },
   {
-   "provincia": "SV",
+   "provincia": "SP",
    "turno": null,
+   "data": "2026-10-02",
+   "url": "https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---vi-turno-02102026----",
+   "nota": "documento non leggibile"
+  },
+  {
+   "provincia": "SP",
+   "turno": null,
+   "data": "2026-10-07",
+   "url": "https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---vii-turno-07102026-",
+   "nota": "documento non leggibile"
+  },
+  {
+   "provincia": "SP",
+   "turno": null,
+   "data": "2026-10-09",
+   "url": "https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---viii-turno-09102026-",
+   "nota": "documento non leggibile"
+  },
+  {
+   "provincia": "SP",
+   "turno": 1,
    "data": "2026-11-22",
-   "url": "https://cspace.spaggiari.eu/auth.php?token=c0940bb3728a4fddb795a4c796a6358b0072f615-a07b617f945619d42141369111734f1abedd2782",
+   "url": "https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---i-turno-as-20262027",
+   "nota": "documento non leggibile"
+  },
+  {
+   "provincia": "SV",
+   "turno": 2,
+   "data": "2026-11-22",
+   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-1-2",
+   "nota": "documento non leggibile"
+  },
+  {
+   "provincia": "SV",
+   "turno": 3,
+   "data": "2026-11-22",
+   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-2-",
+   "nota": "documento non leggibile"
+  },
+  {
+   "provincia": "SV",
+   "turno": 8,
+   "data": "2026-11-22",
+   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-8--",
+   "nota": "documento non leggibile"
+  },
+  {
+   "provincia": "SV",
+   "turno": 9,
+   "data": "2026-11-22",
+   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-9",
    "nota": "documento non leggibile"
   },
   {
@@ -442,104 +393,6 @@
    "turno": 10,
    "data": "2026-11-10",
    "url": "https://usrveneto.sharepoint.com/monitoraggi/venezia/",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "AQ",
-   "turno": null,
-   "data": "2026-11-17",
-   "url": "https://www.istruzionechietipescara.it/wp-content/uploads/2026/11/PESCARA-ReportDettDispScuola-TURNO-N.9.pdf",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "AQ",
-   "turno": null,
-   "data": "2026-11-17",
-   "url": "https://www.istruzionechietipescara.it/wp-content/uploads/2026/11/CHIETI-ReportDettDispScuola-Turno-9.pdf",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "AQ",
-   "turno": null,
-   "data": "2026-11-10",
-   "url": "https://www.istruzionechietipescara.it/wp-content/uploads/2026/11/PESCARA-ReportDettDispScuola-TURNO-N.8.pdf",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "AQ",
-   "turno": null,
-   "data": "2026-11-10",
-   "url": "https://www.istruzionechietipescara.it/wp-content/uploads/2026/11/CHIETI-ReportDettDispScuola-Turno-N.-8.pdf",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "AQ",
-   "turno": null,
-   "data": "2026-11-04",
-   "url": "https://www.istruzionechietipescara.it/wp-content/uploads/2026/11/PESCARA-ReportDettDispScuola-TURNO-N.-7.pdf",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "AQ",
-   "turno": null,
-   "data": "2026-11-04",
-   "url": "https://www.istruzionechietipescara.it/wp-content/uploads/2026/11/CHIETI-ReportDettDispScuola-Turno-N.-7.pdf",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "AQ",
-   "turno": null,
-   "data": "2026-10-27",
-   "url": "https://www.istruzionechietipescara.it/wp-content/uploads/2026/10/PESCARA-ReportDettDispScuola-TURNO-N.-6.pdf",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "AQ",
-   "turno": null,
-   "data": "2026-10-27",
-   "url": "https://www.istruzionechietipescara.it/wp-content/uploads/2026/10/CHIETI-ReportDettDispScuola-6-Turno.pdf",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "AQ",
-   "turno": null,
-   "data": "2026-10-08",
-   "url": "https://www.istruzionechietipescara.it/wp-content/uploads/2026/10/PESCARA-ReportDettDispScuola-turno-n.-5.pdf",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "AQ",
-   "turno": null,
-   "data": "2026-10-08",
-   "url": "https://www.istruzionechietipescara.it/wp-content/uploads/2026/10/CHIETI-ReportDettDispScuola-5-Turno.pdf",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "AQ",
-   "turno": null,
-   "data": "2026-10-01",
-   "url": "https://www.istruzionechietipescara.it/wp-content/uploads/2026/10/PESCARA-ReportDettDispScuola-4°-TURNO.pdf",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "AQ",
-   "turno": null,
-   "data": "2026-10-01",
-   "url": "https://www.istruzionechietipescara.it/wp-content/uploads/2026/10/CHIETI-ReportDettDispScuola-4-Turno.pdf",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "AQ",
-   "turno": null,
-   "data": "2026-09-17",
-   "url": "https://www.istruzionechietipescara.it/wp-content/uploads/2026/09/PESCARA-ReportDettDispScuola-TURNO-N.-3.pdf",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "AQ",
-   "turno": null,
-   "data": "2026-09-17",
-   "url": "https://www.istruzionechietipescara.it/wp-content/uploads/2026/09/CHIETI-reportDettDispScuola-TURNO-N.3.pdf",
    "nota": "formato non riconosciuto"
   },
   {
@@ -707,8 +560,29 @@
    "provincia": "GE",
    "turno": null,
    "data": "2026-11-22",
-   "url": "https://www.istruzionegenova.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1684",
-   "nota": "formato non riconosciuto"
+   "url": "https://www.istruzionegenova.gov.it/pagine/xxi-turno-gps---as-2026-2027",
+   "nota": "documento non leggibile"
+  },
+  {
+   "provincia": "GE",
+   "turno": 12,
+   "data": "2026-11-22",
+   "url": "https://www.istruzionegenova.gov.it/pagine/xii-turno-gps---as-2026-2027",
+   "nota": "documento non leggibile"
+  },
+  {
+   "provincia": "GE",
+   "turno": 14,
+   "data": "2026-11-22",
+   "url": "https://www.istruzionegenova.gov.it/pagine/xiv-turno-gps---as-2026-2027",
+   "nota": "documento non leggibile"
+  },
+  {
+   "provincia": "GE",
+   "turno": 15,
+   "data": "2026-11-22",
+   "url": "https://www.istruzionegenova.gov.it/pagine/xv-turno-gps---as-2026-2027",
+   "nota": "documento non leggibile"
   },
   {
    "provincia": "AP",
@@ -753,20 +627,6 @@
    "nota": "formato non riconosciuto"
   },
   {
-   "provincia": "TA",
-   "turno": null,
-   "data": "2026-08-28",
-   "url": "https://www.usptaranto.it/wp-content/uploads/2026/08/ALLEGATO-esiti-assegnazione-sede-Surroga-Turno-4_26-27.pdf",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "TA",
-   "turno": null,
-   "data": "2026-08-28",
-   "url": "https://www.usptaranto.it/wp-content/uploads/2026/08/Allegato-A-esiti-fase-1-turno-5-scorrimenti.pdf",
-   "nota": "formato non riconosciuto"
-  },
-  {
    "provincia": "PA",
    "turno": 2,
    "data": "2026-11-22",
@@ -792,20 +652,6 @@
    "turno": null,
    "data": "2026-11-22",
    "url": "https://rg.usr.sicilia.it/download/1704/11351/11354/documenti.zip",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "PI",
-   "turno": null,
-   "data": "2026-09-10",
-   "url": "https://www.usp-pi.it/wp-content/uploads/2026/09/Bollettino-Nomine-CS-del-10-09-26.pdf",
-   "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "PI",
-   "turno": null,
-   "data": "2026-09-09",
-   "url": "https://www.usp-pi.it/wp-content/uploads/2026/09/Bollettino-Nomine-CS-del-09-09-26.pdf",
    "nota": "formato non riconosciuto"
   },
   {
@@ -840,14 +686,24 @@
    "nota": "bollettino non trovato (si passa dal turno 15 al 17)"
   },
   {
-   "provincia": "KR",
-   "turno": 5,
-   "nota": "bollettino non trovato (si passa dal turno 4 al 6)"
+   "provincia": "SV",
+   "turno": 10,
+   "nota": "bollettino non trovato (si passa dal turno 9 al 11)"
   },
   {
    "provincia": "GE",
    "turno": 6,
    "nota": "bollettino non trovato (si passa dal turno 5 al 7)"
+  },
+  {
+   "provincia": "GE",
+   "turno": 11,
+   "nota": "bollettino non trovato (si passa dal turno 10 al 12)"
+  },
+  {
+   "provincia": "GE",
+   "turno": 13,
+   "nota": "bollettino non trovato (si passa dal turno 12 al 14)"
   },
   {
    "provincia": "ME",
@@ -944,13 +800,6 @@
    "data": "2026-11-22",
    "url": "https://www.mim.gov.it/documents/7673905/7821594/m_pi.AOODRCA.REGISTRO+UFFICIALE%28U%29.0083021.31-10-2025.pdf/53b3e618-77a1-0148-0b80-12afaa019635?t=1761907834845",
    "pagine": 2
-  },
-  {
-   "provincia": "VI",
-   "turno": null,
-   "data": "2026-09-04",
-   "url": "https://vicenza.istruzioneveneto.gov.it/wp-content/uploads/2026/09/ESITI-NOMINE-CS-m_pi.AOOUSPVI.REGISTRO-UFFICIALEU.0013107.04-09-2026.pdf",
-   "pagine": 1
   },
   {
    "provincia": "VI",
@@ -1303,48 +1152,6 @@
    "pagine": 3
   },
   {
-   "provincia": "AQ",
-   "turno": 9,
-   "data": "2026-11-19",
-   "url": "https://lnx.csalaquila.it/wp/wp-content/uploads/2026/11/provvedimento-bollettino-n.-9-GPS-17765.19-11-2026.pdf",
-   "pagine": 2
-  },
-  {
-   "provincia": "AQ",
-   "turno": 8,
-   "data": "2026-11-17",
-   "url": "https://lnx.csalaquila.it/wp/wp-content/uploads/2026/11/provvedimento-bollettino-n.-8-GPS-17628.17-11-2026.pdf",
-   "pagine": 2
-  },
-  {
-   "provincia": "AQ",
-   "turno": 7,
-   "data": "2026-11-10",
-   "url": "https://lnx.csalaquila.it/wp/wp-content/uploads/2026/11/provvedimento-bollettino-n.-7-GPS_17242.10-11-2026.pdf",
-   "pagine": 2
-  },
-  {
-   "provincia": "AQ",
-   "turno": 4,
-   "data": "2026-09-25",
-   "url": "https://lnx.csalaquila.it/wp/wp-content/uploads/2026/09/GPS_provvedimento-n.-14517_25_09_2026_bollettino-n.-4.pdf",
-   "pagine": 2
-  },
-  {
-   "provincia": "AQ",
-   "turno": 2,
-   "data": "2026-11-22",
-   "url": "https://lnx.csalaquila.it/wp/wp-content/uploads/2026/09/GPS-2026_provvedimento-bollettino-n.-2_prot.-n.-13616_8_09_2026.pdf",
-   "pagine": 2
-  },
-  {
-   "provincia": "AQ",
-   "turno": 1,
-   "data": "2026-11-22",
-   "url": "https://lnx.csalaquila.it/wp/wp-content/uploads/2026/08/GPS-2026_provvedimento_bollettino-n.1_prot.-n.-12971-del-28-agosto-2026.pdf",
-   "pagine": 2
-  },
-  {
    "provincia": "TE",
    "turno": null,
    "data": "2026-10-29",
@@ -1356,6 +1163,13 @@
    "turno": null,
    "data": "2026-11-22",
    "url": "https://www.istruzionepotenza.it/wp-content/uploads/2026/09/m_pi.AOOUSPPZ.REGISTRO-UFFICIALEU.0011335.22-09-2026.pdf",
+   "pagine": 3
+  },
+  {
+   "provincia": "KR",
+   "turno": null,
+   "data": "2026-10-26",
+   "url": "https://www.istruzione.calabria.it/crotone/wp-content/uploads/2026/10/integrazione-al-quarto-turno-di-nomine-a-tempo-determinato-personale-docente-a.s.-2026-2027U.0005587.26-10-2026.pdf",
    "pagine": 3
   },
   {
