@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-22T21:24:44.140Z",
+ "aggiornato": "2026-11-22T23:57:17.230Z",
  "ocr": [],
  "zeroRighe": [],
  "nonLetti": [
@@ -294,92 +294,29 @@
    "provincia": "IM",
    "turno": 8,
    "data": "2026-11-22",
-   "url": "https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps--as-2026-27--vii-turno",
-   "nota": "documento non leggibile"
+   "url": "https://www.istruzioneimperia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1653",
+   "nota": "righe GPS non leggibili: 4"
   },
   {
    "provincia": "IM",
    "turno": 9,
    "data": "2026-11-22",
-   "url": "https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps--as-2026-27--ix-turno",
-   "nota": "documento non leggibile"
+   "url": "https://www.istruzioneimperia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1656",
+   "nota": "formato non riconosciuto"
   },
   {
    "provincia": "IM",
    "turno": 10,
    "data": "2026-11-22",
-   "url": "https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps-as-2026-27--x-turno",
-   "nota": "documento non leggibile"
+   "url": "https://www.istruzioneimperia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1658",
+   "nota": "formato non riconosciuto"
   },
   {
    "provincia": "IM",
    "turno": 11,
    "data": "2026-11-22",
-   "url": "https://www.istruzioneimperia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps-as-2026-27--xi-turno",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "SP",
-   "turno": 6,
-   "data": "2026-09-21",
-   "url": "https://www.istruzionelaspezia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1524",
+   "url": "https://www.istruzioneimperia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1670",
    "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "SP",
-   "turno": null,
-   "data": "2026-10-02",
-   "url": "https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---vi-turno-02102026----",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "SP",
-   "turno": null,
-   "data": "2026-10-07",
-   "url": "https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---vii-turno-07102026-",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "SP",
-   "turno": null,
-   "data": "2026-10-09",
-   "url": "https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---viii-turno-09102026-",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "SP",
-   "turno": 1,
-   "data": "2026-11-22",
-   "url": "https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---i-turno-as-20262027",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "SV",
-   "turno": 2,
-   "data": "2026-11-22",
-   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-1-2",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "SV",
-   "turno": 3,
-   "data": "2026-11-22",
-   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-2-",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "SV",
-   "turno": 8,
-   "data": "2026-11-22",
-   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-8--",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "SV",
-   "turno": 9,
-   "data": "2026-11-22",
-   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-9",
-   "nota": "documento non leggibile"
   },
   {
    "provincia": "VE",
@@ -394,90 +331,6 @@
    "data": "2026-11-10",
    "url": "https://usrveneto.sharepoint.com/monitoraggi/venezia/",
    "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "CZ",
-   "turno": 2,
-   "data": "2026-09-11",
-   "url": "https://www.istruzione.calabria.it/catanzaro/m_pi-aoouspcz-registro-ufficialeu-0009525-11-09-2026/",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "CZ",
-   "turno": 4,
-   "data": "2026-10-07",
-   "url": "https://www.istruzione.calabria.it/catanzaro/m_pi-aoouspcz-registro-ufficialeu-0010555-07-10-2026/",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "CZ",
-   "turno": 8,
-   "data": "2026-11-06",
-   "url": "https://www.istruzione.calabria.it/catanzaro/m_pi-aoouspcz-registro-ufficialeu-0011819-06-11-2026/",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "CZ",
-   "turno": 10,
-   "data": "2026-11-19",
-   "url": "https://www.istruzione.calabria.it/catanzaro/m_pi-aoouspcz-registro-ufficialeu-0012404-19-11-2026/",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "RC",
-   "turno": null,
-   "data": "2026-11-22",
-   "url": "https://www.istruzioneatprc.it/aoousprc16117-20260917/",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "RC",
-   "turno": 3,
-   "data": "2026-11-22",
-   "url": "https://www.istruzioneatprc.it/aoousprc17153-20261006/",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "RC",
-   "turno": 4,
-   "data": "2026-11-22",
-   "url": "https://www.istruzioneatprc.it/aoousprc17798-20261016/",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "RC",
-   "turno": 5,
-   "data": "2026-11-22",
-   "url": "https://www.istruzioneatprc.it/aoousprc18242-20261023/",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "RC",
-   "turno": 6,
-   "data": "2026-11-22",
-   "url": "https://www.istruzioneatprc.it/aoousprc18796-20261030/",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "RC",
-   "turno": 7,
-   "data": "2026-11-22",
-   "url": "https://www.istruzioneatprc.it/aoousprc19102-20261104/",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "RC",
-   "turno": 8,
-   "data": "2026-11-22",
-   "url": "https://www.istruzioneatprc.it/aoousprc19769-20261113/",
-   "nota": "nessun PDF o foglio trovato nella pagina"
-  },
-  {
-   "provincia": "RC",
-   "turno": 9,
-   "data": "2026-11-22",
-   "url": "https://www.istruzioneatprc.it/aoousprc20041-20261118/",
-   "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "GE",
@@ -555,13 +408,6 @@
    "data": "2026-10-26",
    "url": "https://cspace.spaggiari.eu//pub/GESR0002/GPS%202026-2028/TURNI%20GPS/XI%20TURNO/Bollettino_TotaleNomine_XI_TURNO.pdf",
    "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "GE",
-   "turno": null,
-   "data": "2026-11-22",
-   "url": "https://www.istruzionegenova.gov.it/pagine/xxi-turno-gps---as-2026-2027",
-   "nota": "documento non leggibile"
   },
   {
    "provincia": "GE",
@@ -684,11 +530,6 @@
    "provincia": "AL",
    "turno": 16,
    "nota": "bollettino non trovato (si passa dal turno 15 al 17)"
-  },
-  {
-   "provincia": "SV",
-   "turno": 10,
-   "nota": "bollettino non trovato (si passa dal turno 9 al 11)"
   },
   {
    "provincia": "GE",
@@ -1163,13 +1004,6 @@
    "turno": null,
    "data": "2026-11-22",
    "url": "https://www.istruzionepotenza.it/wp-content/uploads/2026/09/m_pi.AOOUSPPZ.REGISTRO-UFFICIALEU.0011335.22-09-2026.pdf",
-   "pagine": 3
-  },
-  {
-   "provincia": "KR",
-   "turno": null,
-   "data": "2026-10-26",
-   "url": "https://www.istruzione.calabria.it/crotone/wp-content/uploads/2026/10/integrazione-al-quarto-turno-di-nomine-a-tempo-determinato-personale-docente-a.s.-2026-2027U.0005587.26-10-2026.pdf",
    "pagine": 3
   },
   {
