@@ -372,7 +372,7 @@ totale pagine da controllare: 40
   scarico http://re.istruzioneer.gov.it/wp-content/uploads/sites/10/2019/02/Informazioni-Equipollenze-Titoli-di-Studio-1.pdf
     dalla memoria: non letto (righe GPS=0)
   documento di tipo decreto, non è un bollettino: ignoro wp-content/uploads/sites/10/2026/11/dichiarazione-sostitutivaesame.pdf
-  pagina senza allegato riconoscibile (70248 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (70268 caratteri); collegamenti a documenti: nessuno
      siti esterni nella pagina: gmpg.org(1), wp.me(1), educazionecivicare.altervista.org(1), www.garanteprivacy.it(1), istruzioneer.gov.it(1), archivi.istruzioneer.it(1)
   non sembra un bollettino, ignoro: https://re.istruzioneer.gov.it/2026/08/20/gps-cancellazione-domande-informatizzazione-nomine-supplenze-a-s-2026-2027/
   scarico https://re.istruzioneer.gov.it/wp-content/uploads/sites/10/2026/10/Bollettino_TotaleNomine-6.pdf
@@ -1156,7 +1156,7 @@ totale pagine da controllare: 36
     ok [turno]: calibrato=true righe GPS=3 scartate=0
   anno scolastico precedente, salto: https://ra.istruzioneer.gov.it/2026/08/03/d-m-119-2024-esiti-procedura-straordinaria-di-immissione-in-ruolo-da-gps-i-fascia/
   scartati 1 allegati generici (contatti, organigramma...)
-  pagina senza allegato riconoscibile (70600 caratteri); collegamenti a documenti: 
+  pagina senza allegato riconoscibile (70590 caratteri); collegamenti a documenti: 
      ~ https://ra.istruzioneer.gov.it/wp-content/uploads/sites/7/2026/11/BROCHURE-2026-2027-FASE3-Ravenna3.pdf
      siti esterni nella pagina: www.istruzioneer.gov.it(2), gmpg.org(1), archivi.istruzioneer.it(1), istruzioneer.gov.it(1), www.google.com(1), stats.wp.com(1)
   non sembra un bollettino, ignoro: https://ra.istruzioneer.gov.it/2026/11/09/progetto-speciale-lions-infanzia-e-autismo/
@@ -1295,7 +1295,7 @@ totale pagine da controllare: 9
 link da Orizzonte Scuola: 0
 ricerca diretta non riuscita: HTTP 403 su https://www.uspbenevento.it/?s=nomine+gps
       via diretto: errore HTTP 403 su https://www.uspbenevento.it/uat/wp-content/VARIE_SITO/PUBBLICAZIONE_SUPPLENZE/index.php
-        diagnosi blocco: stato 403, server "aruba-proxy", titolo "Wait a moment...", 14682 caratteri
+        diagnosi blocco: stato 403, server "aruba-proxy", titolo "Wait a moment...", 14674 caratteri
         browser: titolo pagina "Portale Bollettini Supplenze"
       via browser: stato 200, 52161 caratteri -> OK
 piattaforma Benevento: 7 turni trovati (pagina di 52161 caratteri)
@@ -1306,12 +1306,12 @@ piattaforma Benevento: 7 turni trovati (pagina di 52161 caratteri)
    - turno 5 | pagina: BLICAZIONE_SUPPLENZE/dettaglio_bollettino.php?file=Bollettino_TotaleNomine_5.csv | csv: E_SITO/PUBBLICAZIONE_SUPPLENZE/Bollettino_TotaleNomine_5.csv
    - turno 6 | pagina: BLICAZIONE_SUPPLENZE/dettaglio_bollettino.php?file=Bollettino_TotaleNomine_6.csv | csv: E_SITO/PUBBLICAZIONE_SUPPLENZE/Bollettino_TotaleNomine_6.csv
    - turno 7 | pagina: BLICAZIONE_SUPPLENZE/dettaglio_bollettino.php?file=Bollettino_TotaleNomine_7.csv | csv: E_SITO/PUBBLICAZIONE_SUPPLENZE/Bollettino_TotaleNomine_7.csv
-collegamenti dalla pagina elenco https://www.mim.gov.it/web/miur-usr-campania/uat-benevento : 0 (pagina di 63432 caratteri)
+collegamenti dalla pagina elenco https://www.mim.gov.it/web/miur-usr-campania/uat-benevento : 0 (pagina di 63386 caratteri)
 pagine candidate dall'API WordPress: 0
 totale pagine da controllare: 7
   scarico https://www.uspbenevento.it/uat/wp-content/VARIE_SITO/PUBBLICAZIONE_SUPPLENZE/dettaglio_bollettino.php?file=Bollettino_TotaleNomine_1.csv
       via diretto: errore HTTP 403 su https://www.uspbenevento.it/uat/wp-content/VARIE_SITO/PUBBLICAZIONE_SUPPLENZE/dettaglio_
-        diagnosi blocco: stato 403, server "aruba-proxy", titolo "Wait a moment...", 14682 caratteri
+        diagnosi blocco: stato 403, server "aruba-proxy", titolo "Wait a moment...", 14674 caratteri
         browser: titolo pagina "Bollettino Supplenze - Turno 1"
       via browser: stato 200, 394724 caratteri -> OK
     pagina del turno 1: 394724 caratteri, tabelle/righe lette=186, data produzione 2026-08-31
@@ -1321,7 +1321,7 @@ totale pagine da controllare: 7
     ok [turno]: calibrato=true righe GPS=163 scartate=0
   scarico https://www.uspbenevento.it/uat/wp-content/VARIE_SITO/PUBBLICAZIONE_SUPPLENZE/dettaglio_bollettino.php?file=Bollettino_TotaleNomine_2.csv
       via diretto: errore HTTP 403 su https://www.uspbenevento.it/uat/wp-content/VARIE_SITO/PUBBLICAZIONE_SUPPLENZE/dettaglio_
-        diagnosi blocco: stato 403, server "aruba-proxy", titolo "Wait a moment...", 14682 caratteri
+        diagnosi blocco: stato 403, server "aruba-proxy", titolo "Wait a moment...", 14674 caratteri
         browser: titolo pagina "Bollettino Supplenze - Turno 2"
       via browser: stato 200, 260796 caratteri -> OK
     pagina del turno 2: 260796 caratteri, tabelle/righe lette=119, data produzione 2026-09-17
@@ -1331,7 +1331,7 @@ totale pagine da controllare: 7
     ok [turno]: calibrato=true righe GPS=111 scartate=0
   scarico https://www.uspbenevento.it/uat/wp-content/VARIE_SITO/PUBBLICAZIONE_SUPPLENZE/dettaglio_bollettino.php?file=Bollettino_TotaleNomine_3.csv
       via diretto: errore HTTP 403 su https://www.uspbenevento.it/uat/wp-content/VARIE_SITO/PUBBLICAZIONE_SUPPLENZE/dettaglio_
-        diagnosi blocco: stato 403, server "aruba-proxy", titolo "Wait a moment...", 14682 caratteri
+        diagnosi blocco: stato 403, server "aruba-proxy", titolo "Wait a moment...", 14674 caratteri
         browser: titolo pagina "Bollettino Supplenze - Turno 3"
       via browser: stato 200, 102667 caratteri -> OK
     pagina del turno 3: 102667 caratteri, tabelle/righe lette=39, data produzione 2026-10-02
@@ -1341,7 +1341,7 @@ totale pagine da controllare: 7
     ok [turno]: calibrato=true righe GPS=36 scartate=0
   scarico https://www.uspbenevento.it/uat/wp-content/VARIE_SITO/PUBBLICAZIONE_SUPPLENZE/dettaglio_bollettino.php?file=Bollettino_TotaleNomine_4.csv
       via diretto: errore HTTP 403 su https://www.uspbenevento.it/uat/wp-content/VARIE_SITO/PUBBLICAZIONE_SUPPLENZE/dettaglio_
-        diagnosi blocco: stato 403, server "aruba-proxy", titolo "Wait a moment...", 14682 caratteri
+        diagnosi blocco: stato 403, server "aruba-proxy", titolo "Wait a moment...", 14674 caratteri
         browser: titolo pagina "Bollettino Supplenze - Turno 4"
       via browser: stato 200, 51012 caratteri -> OK
     pagina del turno 4: 51012 caratteri, tabelle/righe lette=13, data produzione 2026-10-11
@@ -1351,7 +1351,7 @@ totale pagine da controllare: 7
     ok [turno]: calibrato=true righe GPS=13 scartate=0
   scarico https://www.uspbenevento.it/uat/wp-content/VARIE_SITO/PUBBLICAZIONE_SUPPLENZE/dettaglio_bollettino.php?file=Bollettino_TotaleNomine_5.csv
       via diretto: errore HTTP 403 su https://www.uspbenevento.it/uat/wp-content/VARIE_SITO/PUBBLICAZIONE_SUPPLENZE/dettaglio_
-        diagnosi blocco: stato 403, server "aruba-proxy", titolo "Wait a moment...", 14682 caratteri
+        diagnosi blocco: stato 403, server "aruba-proxy", titolo "Wait a moment...", 14674 caratteri
         browser: titolo pagina "Bollettino Supplenze - Turno 5"
       via browser: stato 200, 52756 caratteri -> OK
     pagina del turno 5: 52756 caratteri, tabelle/righe lette=14, data produzione 2026-10-19
@@ -1361,7 +1361,7 @@ totale pagine da controllare: 7
     ok [turno]: calibrato=true righe GPS=14 scartate=0
   scarico https://www.uspbenevento.it/uat/wp-content/VARIE_SITO/PUBBLICAZIONE_SUPPLENZE/dettaglio_bollettino.php?file=Bollettino_TotaleNomine_6.csv
       via diretto: errore HTTP 403 su https://www.uspbenevento.it/uat/wp-content/VARIE_SITO/PUBBLICAZIONE_SUPPLENZE/dettaglio_
-        diagnosi blocco: stato 403, server "aruba-proxy", titolo "Wait a moment...", 14682 caratteri
+        diagnosi blocco: stato 403, server "aruba-proxy", titolo "Wait a moment...", 14674 caratteri
         browser: titolo pagina "Bollettino Supplenze - Turno 6"
       via browser: stato 200, 68683 caratteri -> OK
     pagina del turno 6: 68683 caratteri, tabelle/righe lette=22, data produzione 2026-11-05
@@ -1371,7 +1371,7 @@ totale pagine da controllare: 7
     ok [turno]: calibrato=true righe GPS=22 scartate=0
   scarico https://www.uspbenevento.it/uat/wp-content/VARIE_SITO/PUBBLICAZIONE_SUPPLENZE/dettaglio_bollettino.php?file=Bollettino_TotaleNomine_7.csv
       via diretto: errore HTTP 403 su https://www.uspbenevento.it/uat/wp-content/VARIE_SITO/PUBBLICAZIONE_SUPPLENZE/dettaglio_
-        diagnosi blocco: stato 403, server "aruba-proxy", titolo "Wait a moment...", 14682 caratteri
+        diagnosi blocco: stato 403, server "aruba-proxy", titolo "Wait a moment...", 14674 caratteri
         browser: titolo pagina "Bollettino Supplenze - Turno 7"
       via browser: stato 200, 43123 caratteri -> OK
     pagina del turno 7: 43123 caratteri, tabelle/righe lette=9, data produzione 2026-11-13
@@ -1548,7 +1548,7 @@ totale pagine da controllare: 25
   turni letti=4 non letti=0 -> provincia completa
 -- SA Salerno --
 link da Orizzonte Scuola: 0
-collegamenti dalla pagina elenco https://www.mim.gov.it/web/miur-usr-campania/uat-salerno : 21 (pagina di 230683 caratteri)
+collegamenti dalla pagina elenco https://www.mim.gov.it/web/miur-usr-campania/uat-salerno : 21 (pagina di 230729 caratteri)
    - Personale docente - Decreto pubblicazione 10° bollettino supplenze | it/web/miur-usr-campania/-/personale-docente-decreto-pubblicazione-10-bollettino-supplenze
    - Personale docente - Decreto Pubblicazione 9° Bollettino Supplenze | .it/web/miur-usr-campania/-/personale-docente-decreto-pubblicazione-9-bollettino-supplenze
    - Personale docente - Decreto pubblicazione 8° bollettino supplenze | .it/web/miur-usr-campania/-/personale-docente-decreto-pubblicazione-8-bollettino-supplenze
@@ -1831,7 +1831,7 @@ totale pagine da controllare: 21
   turni letti=9 non letti=0 -> provincia completa
 -- VI Vicenza --
 link da Orizzonte Scuola: 20
-collegamenti dalla pagina elenco https://vicenza.istruzioneveneto.gov.it/category/docenti-nomine-a-tempo-determinato/ : 12 (pagina di 115371 caratteri)
+collegamenti dalla pagina elenco https://vicenza.istruzioneveneto.gov.it/category/docenti-nomine-a-tempo-determinato/ : 12 (pagina di 115368 caratteri)
    - Docenti – posti disponibili per nomine | https://vicenza.istruzioneveneto.gov.it/category/docenti-posti-disponibili-per-nomine/
    - Docenti – nomine a tempo determinato | https://vicenza.istruzioneveneto.gov.it/category/docenti-nomine-a-tempo-determinato/
    - Ata – Posti disponibili per nomine | https://vicenza.istruzioneveneto.gov.it/category/ata-posti-disponibili-per-nomine/
@@ -1844,7 +1844,7 @@ collegamenti dalla pagina elenco https://vicenza.istruzioneveneto.gov.it/categor
    -  | a-proposta-di-stipula-di-contratto-a-tempo-determinato-per-supplenza-turno-del-26-10-2026/
    -  | a-proposta-di-stipula-di-contratto-a-tempo-determinato-per-supplenza-turno-del-20-10-2026/
    -  | a-proposta-di-stipula-di-contratto-a-tempo-determinato-per-supplenza-turno-del-14-10-2026/
-collegamenti dalla pagina elenco https://vicenza.istruzioneveneto.gov.it/category/docenti-nomine-a-tempo-determinato/page/2/ : 9 (pagina di 112980 caratteri)
+collegamenti dalla pagina elenco https://vicenza.istruzioneveneto.gov.it/category/docenti-nomine-a-tempo-determinato/page/2/ : 9 (pagina di 112977 caratteri)
    - Docenti – posti disponibili per nomine | https://vicenza.istruzioneveneto.gov.it/category/docenti-posti-disponibili-per-nomine/
    - Docenti – nomine a tempo determinato | https://vicenza.istruzioneveneto.gov.it/category/docenti-nomine-a-tempo-determinato/
    - Ata – Posti disponibili per nomine | https://vicenza.istruzioneveneto.gov.it/category/ata-posti-disponibili-per-nomine/
@@ -1854,7 +1854,7 @@ collegamenti dalla pagina elenco https://vicenza.istruzioneveneto.gov.it/categor
    -  | -nomine-a-tempo-determinato-per-supplenze-di-ogni-ordine-e-grado-turno-n-3-del-24-09-2026/
    -  | -nomine-a-tempo-determinato-per-supplenze-di-ogni-ordine-e-grado-turno-n-2-del-15-09-2026/
    - Leggi di pi&ugrave; | -nomine-a-tempo-determinato-per-supplenze-di-ogni-ordine-e-grado-turno-n-1-del-31-08-2026/
-collegamenti dalla pagina elenco https://vicenza.istruzioneveneto.gov.it/category/docenti-nomine-a-tempo-determinato/page/3/ : 4 (pagina di 118882 caratteri)
+collegamenti dalla pagina elenco https://vicenza.istruzioneveneto.gov.it/category/docenti-nomine-a-tempo-determinato/page/3/ : 4 (pagina di 118879 caratteri)
    - Docenti – posti disponibili per nomine | https://vicenza.istruzioneveneto.gov.it/category/docenti-posti-disponibili-per-nomine/
    - Docenti – nomine a tempo determinato | https://vicenza.istruzioneveneto.gov.it/category/docenti-nomine-a-tempo-determinato/
    - Ata – Posti disponibili per nomine | https://vicenza.istruzioneveneto.gov.it/category/ata-posti-disponibili-per-nomine/
@@ -2146,7 +2146,7 @@ totale pagine da controllare: 13
   turni letti=13 non letti=0 -> provincia completa
 -- MB Monza e Brianza --
 link da Orizzonte Scuola: 14
-collegamenti dalla pagina elenco https://www.mim.gov.it/web/monza-brianza/albo-pretorio : 13 (pagina di 346728 caratteri)
+collegamenti dalla pagina elenco https://www.mim.gov.it/web/monza-brianza/albo-pretorio : 13 (pagina di 346774 caratteri)
    - Esiti operazioni di nomina a tempo determinato del personale ATA inser | _publisher_web_portlet_AssetPublisherPortlet_INSTANCE_2dXONPlMhTmr_assetEntryId%3D11014803
    - Prospetto provinciale delle disponibilità del personale ATA per l'anno | _publisher_web_portlet_AssetPublisherPortlet_INSTANCE_2dXONPlMhTmr_assetEntryId%3D11006030
    - Prospetto provinciale delle disponibilità del personale ATA per l'anno | _publisher_web_portlet_AssetPublisherPortlet_INSTANCE_2dXONPlMhTmr_assetEntryId%3D11002804
@@ -2195,12 +2195,10 @@ totale pagine da controllare: 28
     ok [turno]: calibrato=true righe GPS=194 scartate=0
         browser: titolo pagina "Incarichi a tempo determinato personale docente - a.s. 2026/2027 - 3° scorriment"
   prova con il browser: 0 allegati
-     diagnosi pagina: 89 link totali, 0 verso documenti/allegati
+     diagnosi pagina: 83 link totali, 0 verso documenti/allegati
      riquadri incorporati: 0
-     link a possibili pagine dei turni: 4
+     link a possibili pagine dei turni: 2
        > /web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-14-scorrimento-1 | Incarichi a tempo determinato personale docente - 
-       > /web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-13-scorrimento--1 | Incarichi a tempo determinato personale docente - 
-       > /web/monza-brianza/-/disponibilita-per-nomine-a-tempo-determinato-personale-docente-a-s-2026-27-infanzia-primaria-secondaria-i-e-i | Disponibilità per nomine a tempo determinato perso
        > /web/monza-brianza/-/incarichi-a-tempo-determinato-personale-docente-a-s-2026-2027-12-scorrimento--1 | Incarichi a tempo determinato personale docente - 
      link ad atti/albo/scarica: 2
        @ https://www.mim.gov.it/web/monza-brianza/albo-atti-correnti/-/asset_publisher/KzN63xnnaupU/content/incarichi-a-tempo-det | Albo n.114 del 5/10/2026
@@ -4122,7 +4120,7 @@ totale pagine da controllare: 27
   turni letti=20 non letti=0 -> provincia completa
 -- LO Lodi --
 link da Orizzonte Scuola: 10
-collegamenti dalla pagina elenco https://www.mim.gov.it/web/lodi/albo-pretorio : 16 (pagina di 304543 caratteri)
+collegamenti dalla pagina elenco https://www.mim.gov.it/web/lodi/albo-pretorio : 16 (pagina di 304542 caratteri)
    - Decreto Rettifica parziale nomine 2 algoritmo | https://www.mim.gov.it/web/lodi/-/decreto-rettifica-parziale-nomine-2-algoritmo
    - Decreto pubblicazione elenco individuazione dei destinatari della prop | della-proposta-di-stipula-di-contratto-a-tempo-determinato-per-l-a-s-2026-2027-inseriti--1
    - Decreto rettifica sede di servizio assegnata alla docente CAMPAGNOL Lu | lla-docente-campagnol-lucia-individuata-con-turno-5-decreto-drlo-del-30-luglio2026-n-41552
@@ -4913,7 +4911,7 @@ totale pagine da controllare: 44
   turni letti=7 non letti=1 -> da verificare
 -- SO Sondrio --
 link da Orizzonte Scuola: 11
-collegamenti dalla pagina elenco https://www.mim.gov.it/web/sondrio/albo-pretorio : 56 (pagina di 348012 caratteri)
+collegamenti dalla pagina elenco https://www.mim.gov.it/web/sondrio/albo-pretorio : 56 (pagina di 348058 caratteri)
    - Reclutamento del personale ATA per la copertura di posti vacanti e/o d | anti-e-o-disponibili-di-dsga-a-s-2026-2027-esito-vi-interpello-graduatoria-definitiva-e-as
    - Esito conferimento nomine da GAE\GPS - Bollettino n. 13 | https://www.mim.gov.it/web/sondrio/-/esito-conferimento-nomine-da-gae-gps-bollettino-n-13
    - Esito conferimento nomine da GAE\GPS - Bollettino n. 12 | https://www.mim.gov.it/web/sondrio/-/esito-conferimento-nomine-da-gae-gps-bollettino-n-12
@@ -5406,7 +5404,7 @@ totale pagine da controllare: 66
   turno 6 non trovato, ma ci sono bollettini senza numero nel periodo: non lo conto
   turno 9 non trovato, ma ci sono bollettini senza numero nel periodo: non lo conto
   non leggibili che pesano sulle strisce (1):
-     · 2026-11-22  https://www.mim.gov.it/web/sondrio/-/esito-conferimento-nomine-a-tempo-determinato-da-gae-gps-3
+     · 2026-11-23  https://www.mim.gov.it/web/sondrio/-/esito-conferimento-nomine-a-tempo-determinato-da-gae-gps-3
   turni letti=11 non letti=1 -> da verificare
 -- VA Varese --
 link da Orizzonte Scuola: 13
@@ -5632,12 +5630,12 @@ totale pagine da controllare: 54
   scartato documento di accompagnamento non leggibile del 2026-08-30: esiste un bollettino letto con la stessa data
   TURNO MANCANTE: 4
   non leggibili che pesano sulle strisce (2):
-     · 2026-11-22  relativo-agli-esiti-della-procedura-di-conferimento-degli-incarichi-a-tempo-determinato-da-gps-
+     · 2026-11-23  relativo-agli-esiti-della-procedura-di-conferimento-degli-incarichi-a-tempo-determinato-da-gps-
      · 2026-10-09  turno mancante 4 (prima del 5)
   turni letti=9 non letti=2 -> da verificare
 -- CB Campobasso --
 link da Orizzonte Scuola: 10
-collegamenti dalla pagina elenco https://www.mim.gov.it/web/campobasso/albo-on-line : 3 (pagina di 66019 caratteri)
+collegamenti dalla pagina elenco https://www.mim.gov.it/web/campobasso/albo-on-line : 3 (pagina di 66065 caratteri)
    - Conferimento nomine a tempo determinato su posti curriculari e di sost | -e-di-sostegno-del-personale-docente-gps-a-s-2026-2027-scuola-primaria-secondaria-di-i-e-i
    - Conferimento nomine a tempo determinato su posti curriculari e di sost | -e-di-sostegno-del-personale-docente-gps-a-s-2026-2027-scuola-primaria-e-secondaria-di-i-g
    - Nomine a tempo determinato, bollettino “zero” e bollettino I, a.s. 202 | bollettino-zero-e-bollettino-i-a-s-2026-2027-riscontro-omnia-a-diffide-e-reclami-pervenuti
@@ -5709,7 +5707,7 @@ totale pagine da controllare: 26
      testo: cuola Infanzia, Primaria, Secondaria di I e di II Grado - V BOLLETTINO - Campobasso - MIM WebFontConfig = { custom : { families : [ "titillium_black"
      testo: cuola Infanzia, Primaria, Secondaria di I e di II Grado - V BOLLETTINO Conferimento nomine a tempo determinato su posti curriculari del personale doc
      testo: cuola Infanzia, Primaria, Secondaria di I e di II Grado - V BOLLETTINO Martedì, 20 ottobre 2026 Consulta l'Albo on line Tag: nomine a tempo determina
-  pagina senza allegato riconoscibile (72850 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (72896 caratteri); collegamenti a documenti: nessuno
      siti esterni nella pagina: form.agid.gov.it(1), www.istruzione.it(1)
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/campobasso/-/conferimento-nomine-a-tempo-determinato-su-posti-curriculari-del-personale-docente-gps-a-s-2026-2027-scuola-infanzia-primaria-secondaria-di-i-e-di-i-1
   prova con indirizzo alternativo: nale-docente-gps-a-s-2026-2027-scuola-infanzia-primaria-secondaria-di-i-e-di-i-2 -> 3 allegati
@@ -5887,9 +5885,9 @@ totale pagine da controllare: 26
   pagina senza documenti del turno 9 ma il turno è stato letto da altre pagine: ignoro ersonale-docente-gps-a-s-2026-2027-scuola-primaria-secondaria-di-i-e-2
   scartato documento di accompagnamento non leggibile del 2026-09-01: esiste un bollettino letto con la stessa data
   non leggibili che pesano sulle strisce (3):
-     · 2026-11-22  ulari-e-di-sostegno-del-personale-docente-da-gps-a-s-2026-2027-primaria-secondaria-di-ii-grad-1
-     · 2026-11-22  ulari-del-personale-docente-gps-a-s-2026-2027-scuola-infanzia-primaria-secondaria-di-i-e-di-i-1
-     · 2026-11-22  ulari-e-di-sostegno-del-personale-docente-gps-a-s-2026-2027-scuola-primaria-secondaria-di-i-e-1
+     · 2026-11-23  ulari-e-di-sostegno-del-personale-docente-da-gps-a-s-2026-2027-primaria-secondaria-di-ii-grad-1
+     · 2026-11-23  ulari-del-personale-docente-gps-a-s-2026-2027-scuola-infanzia-primaria-secondaria-di-i-e-di-i-1
+     · 2026-11-23  ulari-e-di-sostegno-del-personale-docente-gps-a-s-2026-2027-scuola-primaria-secondaria-di-i-e-1
   turni letti=19 non letti=4 -> da verificare
   tengo i dati precedenti: turni letti ora=19, prima=20, pagine=26
 -- IS Isernia --
@@ -6008,7 +6006,7 @@ totale pagine da controllare: 11
   TURNO MANCANTE: 2
   non leggibili che pesano sulle strisce (3):
      · 2026-10-30  bilit%C3%A0+scuole+%281%29.pdf/5bf66ed2-efb7-6a9b-8b29-c01b2bb52b8f?version=1.0&t=1793376546284
-     · 2026-11-22  ulari-e-posti-di-sostegno-del-personale-docente-da-gae-e-da-gps-a-s-2026-2027-scuola-dell-infan
+     · 2026-11-23  ulari-e-posti-di-sostegno-del-personale-docente-da-gae-e-da-gps-a-s-2026-2027-scuola-dell-infan
      · 2026-10-12  turno mancante 2 (prima del 3)
   turni letti=6 non letti=3 -> da verificare
 -- PT Pistoia --
@@ -6920,19 +6918,84 @@ totale pagine da controllare: 17
 -- VV Vibo Valentia --
 link da Orizzonte Scuola: 13
 totale pagine da controllare: 15
-  errore su https://www.istruzione.calabria.it/vibovalentia/https-www-istruzione-calabria-it-vibovalentia-wp-admin-admin-phppageattiactionapprova-attoid442/ -> HTTP 503 su https://www.istruzione.calabria.it/vibovalentia/https-www-istruzione-calabria-it-vibovalentia-wp-admin-admin-phppageattiactionapprova-attoid442/
-  errore su https://www.istruzione.calabria.it/vibovalentia/https-www-istruzione-calabria-it-vibovalentia-wp-admin-admin-phppageattiactionapprova-attoid444/ -> HTTP 503 su https://www.istruzione.calabria.it/vibovalentia/https-www-istruzione-calabria-it-vibovalentia-wp-admin-admin-phppageattiactionapprova-attoid444/
-  errore su https://www.istruzione.calabria.it/vibovalentia/https-www-istruzione-calabria-it-vibovalentia-wp-admin-admin-phppageattiactionview-attoid453/ -> HTTP 503 su https://www.istruzione.calabria.it/vibovalentia/https-www-istruzione-calabria-it-vibovalentia-wp-admin-admin-phppageattiactionview-attoid453/
-  errore su https://www.istruzione.calabria.it/vibovalentia/https-www-istruzione-calabria-it-vibovalentia-wp-admin-admin-phppageattiactionview-attoid456/ -> HTTP 503 su https://www.istruzione.calabria.it/vibovalentia/https-www-istruzione-calabria-it-vibovalentia-wp-admin-admin-phppageattiactionview-attoid456/
-  errore su https://www.istruzione.calabria.it/vibovalentia/https-www-istruzione-calabria-it-vibovalentia-wp-admin-admin-phppageattiactionview-attoid457/ -> HTTP 503 su https://www.istruzione.calabria.it/vibovalentia/https-www-istruzione-calabria-it-vibovalentia-wp-admin-admin-phppageattiactionview-attoid457/
-  errore su https://www.istruzione.calabria.it/vibovalentia/https-www-istruzione-calabria-it-vibovalentia-wp-admin-admin-phppageattiactionview-attoid458/ -> HTTP 503 su https://www.istruzione.calabria.it/vibovalentia/https-www-istruzione-calabria-it-vibovalentia-wp-admin-admin-phppageattiactionview-attoid458/
-  errore su https://www.istruzione.calabria.it/vibovalentia/https-www-istruzione-calabria-it-vibovalentia-wp-admin-admin-phppageattiactionview-attoid460/ -> HTTP 503 su https://www.istruzione.calabria.it/vibovalentia/https-www-istruzione-calabria-it-vibovalentia-wp-admin-admin-phppageattiactionview-attoid460/
-  errore su https://www.istruzione.calabria.it/vibovalentia/https-www-istruzione-calabria-it-vibovalentia-wp-admin-admin-phppageattiactionview-attoid470/ -> HTTP 503 su https://www.istruzione.calabria.it/vibovalentia/https-www-istruzione-calabria-it-vibovalentia-wp-admin-admin-phppageattiactionview-attoid470/
-  errore su https://www.istruzione.calabria.it/vibovalentia/https-www-istruzione-calabria-it-vibovalentia-wp-admin-admin-phppageattiactionview-attoid472/ -> HTTP 503 su https://www.istruzione.calabria.it/vibovalentia/https-www-istruzione-calabria-it-vibovalentia-wp-admin-admin-phppageattiactionview-attoid472/
-  errore su https://www.istruzione.calabria.it/vibovalentia/https-www-istruzione-calabria-it-vibovalentia-wp-admin-admin-phppageattiactionview-attoid476/ -> HTTP 503 su https://www.istruzione.calabria.it/vibovalentia/https-www-istruzione-calabria-it-vibovalentia-wp-admin-admin-phppageattiactionview-attoid476/
-  errore su https://www.istruzione.calabria.it/vibovalentia/https-www-istruzione-calabria-it-vibovalentia-wp-admin-admin-phppageattiactionview-attoid477/ -> HTTP 503 su https://www.istruzione.calabria.it/vibovalentia/https-www-istruzione-calabria-it-vibovalentia-wp-admin-admin-phppageattiactionview-attoid477/
-  errore su https://www.istruzione.calabria.it/vibovalentia/personale-docente-pubblicazione-viii-bollettino-supplenze-a-s-2026-27/ -> HTTP 503 su https://www.istruzione.calabria.it/vibovalentia/personale-docente-pubblicazione-viii-bollettino-supplenze-a-s-2026-27/
-  errore su https://www.istruzione.calabria.it/vibovalentia/https-www-istruzione-calabria-it-vibovalentia-wp-admin-admin-phppageattiactionview-attoid483/ -> HTTP 503 su https://www.istruzione.calabria.it/vibovalentia/https-www-istruzione-calabria-it-vibovalentia-wp-admin-admin-phppageattiactionview-attoid483/
+  scartati 1 decreti (non sono bollettini)
+  scarico https://www.istruzione.calabria.it/vibovalentia/wp-content/uploads/2026/08/I-BOLLETTINO.pdf
+  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-08-31
+    fasce GPS: F1=159 F2=13
+    classi GPS (classe:fascia=righe): A016:F2=1 A019:F1=2 A020:F1=1 A021:F1=1 A026:F1=3 A027:F1=1 A028:F1=6 A031:F1=3 A034:F1=2 A037:F1=1 A040:F1=1 A041:F1=1 A041:F2=1 A042:F2=1 A044:F1=1 A047:F1=1 A050:F1=3 A051:F1=2 A052:F2=1 A053:F1=1 A054:F1=1 A054:F2=1 A059:F1=1 A060:F1=3 A063:F1=1 A066:F1=2 AB56:F1=2 AC56:F1=1 ADAA:F1=11 ADEE:F1=34 ADMM:F1=26 ADSS:F1=23 AF55:F2=1 AJ55:F1=1 AM12:F1=2 AM2A:F1=1 AM2B:F1=2 AM2D:F2=1 AM48:F1=2 AO55:F1=1 AS01:F1=2 AS12:F1=2 AS2C:F1=1 AS2D:F2=3 AS48:F1=3 AS55:F1=1 B014:F1=2 B017:F1=1 B019:F1=1 B021:F1=1 B024:F2=1 EEEM:F2=2 EEIL:F1=1
+    ok [turno]: calibrato=true righe GPS=172 scartate=0
+  scartati 1 decreti (non sono bollettini)
+  scarico https://www.istruzione.calabria.it/vibovalentia/wp-content/uploads/2026/08/m_pi.AOOUSPVV.REGISTRO-UFFICIALEU.0006372.31-08-2026.pdf
+    OCR: nessuna pagina scansionata nel documento
+  data ricavata dal nome del file: 2026-08-31
+    ok [rett]: calibrato=false righe GPS=0 scartate=0
+  scartati 1 decreti (non sono bollettini)
+  scarico https://www.istruzione.calabria.it/vibovalentia/wp-content/uploads/2026/09/m_pi.AOOUSPVV.REGISTRO-UFFICIALEU.0006838.11-09-2026.pdf
+    OCR: nessuna pagina scansionata nel documento
+  scarico https://www.istruzione.calabria.it/vibovalentia/wp-content/uploads/2026/09/RETTIFICA-I-BOLLETTINO.pdf
+  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-09-11
+    ok [rett]: calibrato=true righe GPS=189 scartate=0
+  scartati 1 decreti (non sono bollettini)
+  scarico https://www.istruzione.calabria.it/vibovalentia/wp-content/uploads/2026/09/REVOCHE.pdf
+    OCR: nessuna pagina scansionata nel documento
+  scarico https://www.istruzione.calabria.it/vibovalentia/wp-content/uploads/2026/09/m_pi.AOOUSPVV.REGISTRO-UFFICIALEU.0007072.19-09-2026.pdf
+    OCR: nessuna pagina scansionata nel documento
+  scarico https://www.istruzione.calabria.it/vibovalentia/wp-content/uploads/2026/09/RETTIFICHE.pdf
+  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-09-19
+    ok [rett]: calibrato=true righe GPS=16 scartate=1
+  scartati 1 decreti (non sono bollettini)
+  scarico https://www.istruzione.calabria.it/vibovalentia/wp-content/uploads/2026/09/II-Bollettino.pdf
+  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-09-22
+    fasce GPS: F1=21 F2=4
+    classi GPS (classe:fascia=righe): A027:F1=1 A037:F1=1 A042:F2=1 A047:F1=1 A050:F1=1 A060:F1=1 ADEE:F1=4 ADMM:F1=1 ADSS:F1=4 AM12:F1=2 AS01:F1=1 B014:F1=1 B014:F2=1 B015:F1=1 B017:F2=1 B019:F1=1 B024:F2=1 EEEE:F1=1
+    ok [turno]: calibrato=true righe GPS=25 scartate=0
+  scartati 1 decreti (non sono bollettini)
+  scarico https://www.istruzione.calabria.it/vibovalentia/wp-content/uploads/2026/09/m_pi.AOOUSPVV.REGISTRO-UFFICIALEU.0007184.23-09-2026.pdf
+    OCR: nessuna pagina scansionata nel documento
+  data ricavata dal nome del file: 2026-09-23
+    ok [altro]: calibrato=false righe GPS=0 scartate=0
+  scartati 1 decreti (non sono bollettini)
+  scarico https://www.istruzione.calabria.it/vibovalentia/wp-content/uploads/2026/09/m_pi.AOOUSPVV.REGISTRO-UFFICIALEU.0007289.28-09-2026.pdf
+    OCR: nessuna pagina scansionata nel documento
+  scarico https://www.istruzione.calabria.it/vibovalentia/wp-content/uploads/2026/09/rettifica.pdf
+  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-09-28
+    ok [rett]: calibrato=true righe GPS=3 scartate=0
+  scartati 1 decreti (non sono bollettini)
+  scarico https://www.istruzione.calabria.it/vibovalentia/wp-content/uploads/2026/10/m_pi.AOOUSPVV.REGISTRO-UFFICIALEU.0007668.12-10-2026.pdf
+    OCR: nessuna pagina scansionata nel documento
+  scarico https://www.istruzione.calabria.it/vibovalentia/wp-content/uploads/2026/10/Rettifica-Bollettino-IV.pdf
+  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-10-12
+    ok [rett]: calibrato=true righe GPS=28 scartate=0
+  scartati 1 decreti (non sono bollettini)
+  scarico https://www.istruzione.calabria.it/vibovalentia/wp-content/uploads/2026/10/Bollettino-V.pdf
+  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-10-16
+    fasce GPS: F1=4 F2=2
+    classi GPS (classe:fascia=righe): A060:F2=1 ADEE:F1=1 ADMM:F1=2 AS2B:F1=1 B024:F2=1
+    ok [turno]: calibrato=true righe GPS=6 scartate=0
+  scartati 1 decreti (non sono bollettini)
+  scarico https://www.istruzione.calabria.it/vibovalentia/wp-content/uploads/2026/10/Bollettino-VI.pdf
+  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-10-23
+    fasce GPS: F1=1 F2=1
+    classi GPS (classe:fascia=righe): AS2B:F1=1 B024:F2=1
+    ok [turno]: calibrato=true righe GPS=2 scartate=0
+  scartati 1 decreti (non sono bollettini)
+  scarico https://www.istruzione.calabria.it/vibovalentia/wp-content/uploads/2026/10/Bollettino-VII.pdf
+  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-10-30
+    fasce GPS: F1=1 F2=1
+    classi GPS (classe:fascia=righe): B024:F2=1 EEEE:F1=1
+    ok [turno]: calibrato=true righe GPS=2 scartate=0
+  scartati 1 decreti (non sono bollettini)
+  scarico https://www.istruzione.calabria.it/vibovalentia/wp-content/uploads/2026/11/Bollettino-8.pdf
+  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-11-10
+    fasce GPS: F1=9 F2=1
+    classi GPS (classe:fascia=righe): A059:F2=1 ADAA:F1=3 ADEE:F1=2 ADMM:F1=1 ADSS:F1=1 EEEE:F1=2
+    ok [turno]: calibrato=true righe GPS=10 scartate=0
+  scartati 1 decreti (non sono bollettini)
+  scarico https://www.istruzione.calabria.it/vibovalentia/wp-content/uploads/2026/11/Bollettino-9.pdf
+  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-11-20
+    fasce GPS: F1=1 F2=0
+    classi GPS (classe:fascia=righe): EEEE:F1=1
+    ok [turno]: calibrato=true righe GPS=1 scartate=0
   scarico https://www.istruzione.calabria.it/vibovalentia/wp-content/uploads/2026/09/III-Bollettino.pdf
     dalla memoria: letto (righe GPS=8)
   data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-09-30
@@ -6945,17 +7008,10 @@ totale pagine da controllare: 15
     fasce GPS: F1=27 F2=2
     classi GPS (classe:fascia=righe): A031:F1=1 A046:F1=1 A060:F1=1 A060:F2=1 ADAA:F1=11 ADEE:F1=6 ADMM:F1=2 ADSS:F1=3 AS2B:F1=1 AS48:F1=1 B024:F2=1
     ok [turno]: calibrato=true righe GPS=29 scartate=0
-  non leggibili che pesano sulle strisce (8):
-     · 9999  ww-istruzione-calabria-it-vibovalentia-wp-admin-admin-phppageattiactionview-attoid472/ (errore)
-     · 9999  ww-istruzione-calabria-it-vibovalentia-wp-admin-admin-phppageattiactionview-attoid476/ (errore)
-     · 9999  ww-istruzione-calabria-it-vibovalentia-wp-admin-admin-phppageattiactionview-attoid477/ (errore)
-     · 9999  it/vibovalentia/personale-docente-pubblicazione-viii-bollettino-supplenze-a-s-2026-27/ (errore)
-     · 9999  ww-istruzione-calabria-it-vibovalentia-wp-admin-admin-phppageattiactionview-attoid483/ (errore)
-     · 9999  p-admin-admin-phppageattiactionapprova-attoid442/ (pagina non raggiungibile, turno 1 mai letto)
-     · 9999  a-wp-admin-admin-phppageattiactionview-attoid457/ (pagina non raggiungibile, turno 2 mai letto)
-     · 9999  a-wp-admin-admin-phppageattiactionview-attoid460/ (pagina non raggiungibile, turno 2 mai letto)
-  turni letti=2 non letti=8 -> da verificare
-  tengo i dati precedenti: turni letti ora=2, prima=9, pagine=15
+  scartato documento di accompagnamento non leggibile del 2026-08-31: esiste un bollettino letto con la stessa data
+  turno 3 non trovato, ma ci sono bollettini senza numero nel periodo: non lo conto
+  turno 4 non trovato, ma ci sono bollettini senza numero nel periodo: non lo conto
+  turni letti=9 non letti=0 -> provincia completa
 -- PD Padova --
 link da Orizzonte Scuola: 19
 ricerca automatica file su https://padova.istruzioneveneto.gov.it -> 28 file
@@ -7901,9 +7957,9 @@ totale pagine da controllare: 17
 Call log:
   - navigating to "https://www.uspmc.sinp.net/documen
       via r.jina.ai: stato 422, 197 caratteri -> non valida
-      via web.archive.org: stato 404, 142724 caratteri -> non valida
+      via web.archive.org: stato 404, 142725 caratteri -> non valida
         titolo pagina: Wayback Machine
-      via allorigins: stato 522, 7260 caratteri -> non valida
+      via allorigins: stato 522, 7257 caratteri -> non valida
         titolo pagina: allorigins.win | 522: Connection timed out
       via corsproxy: stato 403, 322 caratteri -> non valida
   errore su https://www.uspmc.sinp.net/documenti-uspmc-cms/nomine-a-tempo-determinato-a-s-2026-2027_turno-1/ -> nessuna via ha dato una risposta valida per /documenti-uspmc-cms/nomine-a-tempo-determinato-a-s-2026-2027_turno-1/
@@ -7913,8 +7969,7 @@ Call log:
       via r.jina.ai: stato 422, 197 caratteri -> non valida
       via web.archive.org: stato 404, 142676 caratteri -> non valida
         titolo pagina: Wayback Machine
-      via allorigins: stato 520, 7364 caratteri -> non valida
-        titolo pagina: allorigins.win | 520: Web server is returning an unknown error
+      via allorigins: stato 408, 24 caratteri -> non valida
       via corsproxy: stato 403, 322 caratteri -> non valida
   errore su https://www.uspmc.sinp.net/documenti-uspmc-cms/rettifica-gps-macerata-2026-2028/ -> nessuna via ha dato una risposta valida per w.uspmc.sinp.net/documenti-uspmc-cms/rettifica-gps-macerata-2026-2028/
       via diretto: errore fetch failed
@@ -7924,7 +7979,8 @@ Call log:
   - navigating to "https://www.uspmc.sinp.net/documen
       via r.jina.ai: stato 422, 197 caratteri -> non valida
       via web.archive.org: errore fetch failed
-      via allorigins: stato 408, 24 caratteri -> non valida
+      via allorigins: stato 522, 7257 caratteri -> non valida
+        titolo pagina: allorigins.win | 522: Connection timed out
       via corsproxy: stato 403, 322 caratteri -> non valida
   errore su https://www.uspmc.sinp.net/documenti-uspmc-cms/nomine-a-tempo-determinato-a-s-2026-2027_turno-2/ -> nessuna via ha dato una risposta valida per /documenti-uspmc-cms/nomine-a-tempo-determinato-a-s-2026-2027_turno-2/
       via diretto: errore fetch failed
@@ -7933,7 +7989,8 @@ Call log:
       via r.jina.ai: stato 422, 197 caratteri -> non valida
       via web.archive.org: stato 404, 142715 caratteri -> non valida
         titolo pagina: Wayback Machine
-      via allorigins: stato 408, 24 caratteri -> non valida
+      via allorigins: stato 500, 177 caratteri -> non valida
+        titolo pagina: 500 Internal Server Error
       via corsproxy: stato 403, 322 caratteri -> non valida
   errore su https://www.uspmc.sinp.net/documenti-uspmc-cms/nomine-a-tempo-determinato-turno-1-rettifiche/ -> nessuna via ha dato una risposta valida per net/documenti-uspmc-cms/nomine-a-tempo-determinato-turno-1-rettifiche/
       via diretto: errore fetch failed
@@ -7944,7 +8001,7 @@ Call log:
       via r.jina.ai: stato 422, 197 caratteri -> non valida
       via web.archive.org: stato 404, 142715 caratteri -> non valida
         titolo pagina: Wayback Machine
-      via allorigins: stato 522, 7260 caratteri -> non valida
+      via allorigins: stato 522, 7257 caratteri -> non valida
         titolo pagina: allorigins.win | 522: Connection timed out
       via corsproxy: stato 403, 322 caratteri -> non valida
   errore su https://www.uspmc.sinp.net/documenti-uspmc-cms/nomine-a-tempo-determinato-turno-2-rettifiche/ -> nessuna via ha dato una risposta valida per net/documenti-uspmc-cms/nomine-a-tempo-determinato-turno-2-rettifiche/
@@ -7953,8 +8010,8 @@ Call log:
       via browser: errore page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.uspmc.sinp.net/documenti-uspmc-cms/nomine-a-
       via r.jina.ai: stato 422, 197 caratteri -> non valida
       via web.archive.org: errore fetch failed
-      via allorigins: stato 520, 7364 caratteri -> non valida
-        titolo pagina: allorigins.win | 520: Web server is returning an unknown error
+      via allorigins: stato 522, 7257 caratteri -> non valida
+        titolo pagina: allorigins.win | 522: Connection timed out
       via corsproxy: stato 403, 322 caratteri -> non valida
   errore su https://www.uspmc.sinp.net/documenti-uspmc-cms/nomine-a-tempo-determinato-turno-2-ulteriore-rettifica/ -> nessuna via ha dato una risposta valida per enti-uspmc-cms/nomine-a-tempo-determinato-turno-2-ulteriore-rettifica/
       via diretto: errore fetch failed
@@ -7963,18 +8020,17 @@ Call log:
       via r.jina.ai: stato 422, 197 caratteri -> non valida
       via web.archive.org: stato 404, 142724 caratteri -> non valida
         titolo pagina: Wayback Machine
-      via allorigins: stato 522, 7260 caratteri -> non valida
-        titolo pagina: allorigins.win | 522: Connection timed out
+      via allorigins: stato 500, 177 caratteri -> non valida
+        titolo pagina: 500 Internal Server Error
       via corsproxy: stato 403, 322 caratteri -> non valida
   errore su https://www.uspmc.sinp.net/documenti-uspmc-cms/nomine-a-tempo-determinato-a-s-2026-2027_turno-4/ -> nessuna via ha dato una risposta valida per /documenti-uspmc-cms/nomine-a-tempo-determinato-a-s-2026-2027_turno-4/
       via diretto: errore fetch failed
         diagnosi: fetch failed
       via browser: errore page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.uspmc.sinp.net/documenti-uspmc-cms/nomine-a-
       via r.jina.ai: stato 422, 197 caratteri -> non valida
-      via web.archive.org: stato 404, 142725 caratteri -> non valida
+      via web.archive.org: stato 404, 142724 caratteri -> non valida
         titolo pagina: Wayback Machine
-      via allorigins: stato 522, 7260 caratteri -> non valida
-        titolo pagina: allorigins.win | 522: Connection timed out
+      via allorigins: stato 408, 24 caratteri -> non valida
       via corsproxy: stato 403, 322 caratteri -> non valida
   errore su https://www.uspmc.sinp.net/documenti-uspmc-cms/nomine-a-tempo-determinato-a-s-2026-2027_turno-5/ -> nessuna via ha dato una risposta valida per /documenti-uspmc-cms/nomine-a-tempo-determinato-a-s-2026-2027_turno-5/
       via diretto: errore fetch failed
@@ -7982,8 +8038,7 @@ Call log:
       via browser: errore page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.uspmc.sinp.net/documenti-uspmc-cms/nomine-a-
       via r.jina.ai: stato 422, 197 caratteri -> non valida
       via web.archive.org: errore fetch failed
-      via allorigins: stato 522, 7260 caratteri -> non valida
-        titolo pagina: allorigins.win | 522: Connection timed out
+      via allorigins: stato 408, 24 caratteri -> non valida
       via corsproxy: stato 403, 322 caratteri -> non valida
   errore su https://www.uspmc.sinp.net/documenti-uspmc-cms/nomine-a-tempo-determinato-a-s-2026-2027_turno-6/ -> nessuna via ha dato una risposta valida per /documenti-uspmc-cms/nomine-a-tempo-determinato-a-s-2026-2027_turno-6/
       via diretto: errore fetch failed
@@ -7992,19 +8047,18 @@ Call log:
       via r.jina.ai: stato 422, 197 caratteri -> non valida
       via web.archive.org: stato 404, 142724 caratteri -> non valida
         titolo pagina: Wayback Machine
-      via allorigins: stato 408, 24 caratteri -> non valida
+      via allorigins: stato 522, 7257 caratteri -> non valida
+        titolo pagina: allorigins.win | 522: Connection timed out
       via corsproxy: stato 403, 322 caratteri -> non valida
   errore su https://www.uspmc.sinp.net/documenti-uspmc-cms/nomine-a-tempo-determinato-a-s-2026-2027_turno-7/ -> nessuna via ha dato una risposta valida per /documenti-uspmc-cms/nomine-a-tempo-determinato-a-s-2026-2027_turno-7/
       via diretto: errore fetch failed
         diagnosi: fetch failed
-      via browser: errore page.goto: Timeout 60000ms exceeded.
-Call log:
-  - navigating to "https://www.uspmc.sinp.net/documen
+      via browser: errore page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.uspmc.sinp.net/documenti-uspmc-cms/nomine-a-
       via r.jina.ai: stato 422, 197 caratteri -> non valida
       via web.archive.org: stato 404, 142724 caratteri -> non valida
         titolo pagina: Wayback Machine
-      via allorigins: stato 520, 7364 caratteri -> non valida
-        titolo pagina: allorigins.win | 520: Web server is returning an unknown error
+      via allorigins: stato 500, 177 caratteri -> non valida
+        titolo pagina: 500 Internal Server Error
       via corsproxy: stato 403, 322 caratteri -> non valida
   errore su https://www.uspmc.sinp.net/documenti-uspmc-cms/nomine-a-tempo-determinato-a-s-2026-2027_turno-8/ -> nessuna via ha dato una risposta valida per /documenti-uspmc-cms/nomine-a-tempo-determinato-a-s-2026-2027_turno-8/
       via diretto: errore fetch failed
@@ -8012,17 +8066,17 @@ Call log:
       via browser: errore page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.uspmc.sinp.net/documenti-uspmc-cms/nomine-a-
       via r.jina.ai: stato 422, 197 caratteri -> non valida
       via web.archive.org: errore fetch failed
-      via allorigins: stato 522, 7260 caratteri -> non valida
-        titolo pagina: allorigins.win | 522: Connection timed out
+      via allorigins: stato 520, 7361 caratteri -> non valida
+        titolo pagina: allorigins.win | 520: Web server is returning an unknown error
       via corsproxy: stato 403, 322 caratteri -> non valida
   errore su https://www.uspmc.sinp.net/documenti-uspmc-cms/nomine-a-tempo-determinato-a-s-2026-2027_turno-9/ -> nessuna via ha dato una risposta valida per /documenti-uspmc-cms/nomine-a-tempo-determinato-a-s-2026-2027_turno-9/
       via diretto: errore fetch failed
         diagnosi: fetch failed
       via browser: errore page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.uspmc.sinp.net/documenti-uspmc-cms/nomine-a-
       via r.jina.ai: stato 422, 197 caratteri -> non valida
-      via web.archive.org: stato 404, 142727 caratteri -> non valida
-        titolo pagina: Wayback Machine
-      via allorigins: stato 408, 24 caratteri -> non valida
+      via web.archive.org: errore fetch failed
+      via allorigins: stato 522, 7257 caratteri -> non valida
+        titolo pagina: allorigins.win | 522: Connection timed out
       via corsproxy: stato 403, 322 caratteri -> non valida
   errore su https://www.uspmc.sinp.net/documenti-uspmc-cms/nomine-a-tempo-determinato-a-s-2026-2027_turno-10/ -> nessuna via ha dato una risposta valida per documenti-uspmc-cms/nomine-a-tempo-determinato-a-s-2026-2027_turno-10/
       via diretto: errore fetch failed
@@ -8031,16 +8085,16 @@ Call log:
       via r.jina.ai: stato 422, 197 caratteri -> non valida
       via web.archive.org: stato 404, 142727 caratteri -> non valida
         titolo pagina: Wayback Machine
-      via allorigins: stato 522, 7260 caratteri -> non valida
-        titolo pagina: allorigins.win | 522: Connection timed out
+      via allorigins: stato 408, 24 caratteri -> non valida
       via corsproxy: stato 403, 322 caratteri -> non valida
   errore su https://www.uspmc.sinp.net/documenti-uspmc-cms/nomine-a-tempo-determinato-a-s-2026-2027_turno-11/ -> nessuna via ha dato una risposta valida per documenti-uspmc-cms/nomine-a-tempo-determinato-a-s-2026-2027_turno-11/
       via diretto: errore fetch failed
         diagnosi: fetch failed
       via browser: errore page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.uspmc.sinp.net/documenti-uspmc-cms/nomine-a-
       via r.jina.ai: stato 422, 197 caratteri -> non valida
-      via web.archive.org: errore fetch failed
-      via allorigins: stato 522, 7260 caratteri -> non valida
+      via web.archive.org: stato 404, 142727 caratteri -> non valida
+        titolo pagina: Wayback Machine
+      via allorigins: stato 522, 7257 caratteri -> non valida
         titolo pagina: allorigins.win | 522: Connection timed out
       via corsproxy: stato 403, 322 caratteri -> non valida
   errore su https://www.uspmc.sinp.net/documenti-uspmc-cms/nomine-a-tempo-determinato-a-s-2026-2027_turno-12/ -> nessuna via ha dato una risposta valida per documenti-uspmc-cms/nomine-a-tempo-determinato-a-s-2026-2027_turno-12/
@@ -8048,10 +8102,8 @@ Call log:
         diagnosi: fetch failed
       via browser: errore page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.uspmc.sinp.net/documenti-uspmc-cms/nomine-a-
       via r.jina.ai: stato 422, 197 caratteri -> non valida
-      via web.archive.org: stato 404, 142727 caratteri -> non valida
-        titolo pagina: Wayback Machine
-      via allorigins: stato 522, 7260 caratteri -> non valida
-        titolo pagina: allorigins.win | 522: Connection timed out
+      via web.archive.org: errore fetch failed
+      via allorigins: stato 408, 24 caratteri -> non valida
       via corsproxy: stato 403, 322 caratteri -> non valida
   errore su https://www.uspmc.sinp.net/documenti-uspmc-cms/nomine-a-tempo-determinato-a-s-2026-2027_turno-13/ -> nessuna via ha dato una risposta valida per documenti-uspmc-cms/nomine-a-tempo-determinato-a-s-2026-2027_turno-13/
       via diretto: errore fetch failed
@@ -8126,65 +8178,62 @@ totale pagine da controllare: 11
   scarico https://www.istruzioneimperia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1650
     dalla memoria: non letto (righe GPS=0)
   scarico https://www.istruzioneimperia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1649
-    collegamento di condivisione (www.istruzioneimperia.gov.it/pvw2/app/default/tools.php): tipo pdf, 65964 byte, righe lette=0
+    dalla memoria: non letto (righe GPS=0)
     fasce GPS: F1=0 F2=0
     ok [turno]: calibrato=false righe GPS=0 scartate=0
       via diretto: stato 200, 57328 caratteri -> OK
   scarico https://www.istruzioneimperia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1653
-    collegamento di condivisione (www.istruzioneimperia.gov.it/pvw2/app/default/tools.php): tipo pdf, 67855 byte, righe lette=0
+    dalla memoria: non letto (righe GPS=0)
   scarico https://www.istruzioneimperia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1652
-Warning: TT: undefined function: 21
-Warning: TT: undefined function: 21
-    collegamento di condivisione (www.istruzioneimperia.gov.it/pvw2/app/default/tools.php): tipo pdf, 392100 byte, righe lette=0
+    dalla memoria: non letto (righe GPS=0)
     fasce GPS: F1=0 F2=0
     ok [turno]: calibrato=true righe GPS=0 scartate=4
       via diretto: stato 200, 57279 caratteri -> OK
   scarico https://www.istruzioneimperia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1656
-Warning: TT: undefined function: 21
-Warning: TT: undefined function: 21
-    collegamento di condivisione (www.istruzioneimperia.gov.it/pvw2/app/default/tools.php): tipo pdf, 394128 byte, righe lette=0
+    dalla memoria: non letto (righe GPS=0)
   scarico https://www.istruzioneimperia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1655
-    collegamento di condivisione (www.istruzioneimperia.gov.it/pvw2/app/default/tools.php): tipo pdf, 65326 byte, righe lette=0
+    dalla memoria: non letto (righe GPS=0)
     fasce GPS: F1=0 F2=0
     ok [turno]: calibrato=false righe GPS=0 scartate=0
       via diretto: stato 200, 57271 caratteri -> OK
   scarico https://www.istruzioneimperia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1658
-Warning: TT: undefined function: 21
-    collegamento di condivisione (www.istruzioneimperia.gov.it/pvw2/app/default/tools.php): tipo pdf, 597248 byte, righe lette=0
+    dalla memoria: non letto (righe GPS=0)
   scarico https://www.istruzioneimperia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1657
-    collegamento di condivisione (www.istruzioneimperia.gov.it/pvw2/app/default/tools.php): tipo pdf, 62660 byte, righe lette=0
+    dalla memoria: non letto (righe GPS=0)
     fasce GPS: F1=0 F2=0
     ok [turno]: calibrato=false righe GPS=0 scartate=0
       via diretto: stato 200, 57168 caratteri -> OK
   scarico https://www.istruzioneimperia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1670
-    collegamento di condivisione (www.istruzioneimperia.gov.it/pvw2/app/default/tools.php): tipo pdf, 1920663 byte, righe lette=0
+    dalla memoria: non letto (righe GPS=0)
   scarico https://www.istruzioneimperia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1669
-    collegamento di condivisione (www.istruzioneimperia.gov.it/pvw2/app/default/tools.php): tipo pdf, 63044 byte, righe lette=0
+    dalla memoria: non letto (righe GPS=0)
     fasce GPS: F1=0 F2=0
     ok [turno]: calibrato=false righe GPS=0 scartate=0
   non leggibili che pesano sulle strisce (11):
-     · 2026-11-22  https://www.istruzioneimperia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1607
-     · 2026-11-22  https://www.istruzioneimperia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1626
-     · 2026-11-22  https://www.istruzioneimperia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1631
-     · 2026-11-22  https://www.istruzioneimperia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1638
-     · 2026-11-22  https://www.istruzioneimperia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1644
-     · 2026-11-22  https://www.istruzioneimperia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1646
-     · 2026-11-22  https://www.istruzioneimperia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1650
-     · 2026-11-22  https://www.istruzioneimperia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1653
-     · 2026-11-22  https://www.istruzioneimperia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1656
-     · 2026-11-22  https://www.istruzioneimperia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1658
-     · 2026-11-22  https://www.istruzioneimperia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1670
+     · 2026-11-23  https://www.istruzioneimperia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1607
+     · 2026-11-23  https://www.istruzioneimperia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1626
+     · 2026-11-23  https://www.istruzioneimperia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1631
+     · 2026-11-23  https://www.istruzioneimperia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1638
+     · 2026-11-23  https://www.istruzioneimperia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1644
+     · 2026-11-23  https://www.istruzioneimperia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1646
+     · 2026-11-23  https://www.istruzioneimperia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1650
+     · 2026-11-23  https://www.istruzioneimperia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1653
+     · 2026-11-23  https://www.istruzioneimperia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1656
+     · 2026-11-23  https://www.istruzioneimperia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1658
+     · 2026-11-23  https://www.istruzioneimperia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1670
   turni letti=0 non letti=11 -> da verificare
 -- SP La Spezia --
 link da Orizzonte Scuola: 12
 totale pagine da controllare: 13
-      via diretto: stato 200, 110826 caratteri -> OK
+      via diretto: errore HTTP 509 su https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-suppl
+        diagnosi blocco: stato 509, server "nginx/1.30.7", 0 caratteri
+        browser: titolo pagina ""
+      via browser: stato 200, 39 caratteri -> non valida
+      via r.jina.ai: stato 200, 106072 caratteri -> OK
   scarico https://www.istruzionelaspezia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1464
-Warning: TT: undefined function: 21
-Warning: TT: undefined function: 21
-    collegamento di condivisione (www.istruzionelaspezia.gov.it/pvw2/app/default/tools.php): tipo pdf, 346345 byte, righe lette=0
+    dalla memoria: non letto (righe GPS=0)
   scarico https://www.istruzionelaspezia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1463
-    collegamento di condivisione (www.istruzionelaspezia.gov.it/pvw2/app/default/tools.php): tipo xlsx, 83521 byte, righe lette=485
+    dalla memoria: letto (righe GPS=316)
   data ricavata dai metadati del PDF, data di creazione (meno sicura): 2026-08-31
     fasce GPS: F1=204 F2=112
     classi GPS (classe:fascia=righe): A007:F1=1 A008:F2=2 A009:F2=1 A010:F1=1 A011:F1=2 A011:F2=2 A013:F1=2 A016:F2=1 A019:F1=1 A020:F1=1 A020:F2=2 A021:F1=3 A023:F2=2 A026:F1=2 A026:F2=4 A027:F1=2 A027:F2=5 A028:F1=3 A028:F2=2 A031:F2=1 A034:F1=2 A037:F1=2 A037:F2=1 A040:F1=1 A040:F2=1 A041:F1=1 A041:F2=3 A042:F1=1 A042:F2=4 A044:F2=1 A046:F1=1 A050:F1=3 A050:F2=3 A051:F2=2 A053:F1=1 A060:F1=1 A060:F2=2 AAAA:F1=7 AB55:F1=1 ADAA:F1=7 ADAA:F2=14 ADEE:F1=13 ADEE:F2=21 ADMM:F1=20 ADMM:F2=5 ADSS:F1=48 ADSS:F2=1 AJ55:F1=1 AJ56:F2=1 AM01:F1=3 AM12:F1=9 AM2A:F1=2 AM2A:F2=2 AM2B:F1=4 AM2C:F2=1 AM30:F1=1 AM30:F2=1 AM48:F1=4 AM55:F2=1 AM56:F1=2 AO55:F1=1 AO55:F2=1 AP55:F1=1 AS01:F1=1 AS12:F1=7 AS12:F2=1 AS23:F2=2 AS2B:F1=2 AS2B:F2=1 AS2I:F2=1 AS48:F1=3 B003:F2=1 B006:F2=1 B011:F2=2 B012:F1=1 B020:F2=1 B022:F2=1 B023:F2=1 B025:F2=1 BA02:F2=1 EEEE:F1=35 EEEM:F2=11
@@ -8195,21 +8244,17 @@ Warning: TT: undefined function: 21
     ok [rett]: calibrato=false righe GPS=0 scartate=0
       via diretto: stato 200, 110816 caratteri -> OK
   scarico https://www.istruzionelaspezia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1491
-Warning: TT: undefined function: 21
-Warning: TT: undefined function: 21
-    collegamento di condivisione (www.istruzionelaspezia.gov.it/pvw2/app/default/tools.php): tipo pdf, 370535 byte, righe lette=0
+    dalla memoria: non letto (righe GPS=0)
   scarico https://www.istruzionelaspezia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1490
-    collegamento di condivisione (www.istruzionelaspezia.gov.it/pvw2/app/default/tools.php): tipo xlsx, 20017 byte, righe lette=43
+    dalla memoria: letto (righe GPS=32)
     fasce GPS: F1=14 F2=18
     classi GPS (classe:fascia=righe): A008:F2=2 A011:F2=1 A020:F2=1 A028:F2=1 A031:F2=1 A037:F2=2 A046:F1=1 A050:F2=1 A051:F2=1 AAAA:F1=4 AB56:F2=1 ADSS:F1=1 AM01:F2=1 AM2A:F2=1 AM2C:F2=1 AM30:F2=2 AS01:F2=1 AS2B:F1=1 AS48:F1=1 B025:F2=1 EEEE:F1=6
     ok [turno]: calibrato=true righe GPS=32 scartate=0
       via diretto: stato 200, 110850 caratteri -> OK
   scarico https://www.istruzionelaspezia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1503
-Warning: TT: undefined function: 21
-Warning: TT: undefined function: 21
-    collegamento di condivisione (www.istruzionelaspezia.gov.it/pvw2/app/default/tools.php): tipo pdf, 347451 byte, righe lette=0
+    dalla memoria: non letto (righe GPS=0)
   scarico https://www.istruzionelaspezia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1502
-    collegamento di condivisione (www.istruzionelaspezia.gov.it/pvw2/app/default/tools.php): tipo xlsx, 13648 byte, righe lette=5
+    dalla memoria: letto (righe GPS=3)
     fasce GPS: F1=2 F2=1
     classi GPS (classe:fascia=righe): A037:F2=1 A046:F1=1 EEEE:F1=1
     ok [turno]: calibrato=true righe GPS=3 scartate=0
@@ -8221,11 +8266,7 @@ Warning: TT: undefined function: 21
     fasce GPS: F1=1 F2=1
     classi GPS (classe:fascia=righe): A037:F2=1 A046:F1=1
     ok [turno]: calibrato=true righe GPS=2 scartate=0
-      via diretto: errore HTTP 509 su https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-suppl
-        diagnosi blocco: stato 509, server "nginx/1.30.7", 0 caratteri
-        browser: titolo pagina ""
-      via browser: stato 200, 39 caratteri -> non valida
-      via r.jina.ai: stato 200, 106073 caratteri -> OK
+      via diretto: stato 200, 110827 caratteri -> OK
   scarico https://www.istruzionelaspezia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1518
     dalla memoria: non letto (righe GPS=0)
   scarico https://www.istruzionelaspezia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1517
@@ -8233,39 +8274,41 @@ Warning: TT: undefined function: 21
     fasce GPS: F1=0 F2=1
     classi GPS (classe:fascia=righe): A037:F2=1
     ok [turno]: calibrato=true righe GPS=1 scartate=0
-      via diretto: stato 200, 110854 caratteri -> OK
+      via diretto: errore HTTP 509 su https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-suppl
+        diagnosi blocco: stato 509, server "nginx/1.30.7", 0 caratteri
+        browser: titolo pagina ""
+      via browser: stato 200, 39 caratteri -> non valida
+      via r.jina.ai: stato 200, 106100 caratteri -> OK
   scarico https://www.istruzionelaspezia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1524
     dalla memoria: non letto (righe GPS=0)
   scarico https://www.istruzionelaspezia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1523
-    collegamento di condivisione (www.istruzionelaspezia.gov.it/pvw2/app/default/tools.php): tipo xlsx, 16799 byte, righe lette=32
+    dalla memoria: letto (righe GPS=6)
     fasce GPS: F1=1 F2=5
     classi GPS (classe:fascia=righe): ADMM:F2=2 ADSS:F1=1 ADSS:F2=2 B022:F2=1
     ok [turno]: calibrato=true righe GPS=6 scartate=0
       via diretto: stato 200, 110825 caratteri -> OK
   scarico https://www.istruzionelaspezia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1530
-Warning: TT: undefined function: 21
-Warning: TT: undefined function: 21
-    collegamento di condivisione (www.istruzionelaspezia.gov.it/pvw2/app/default/tools.php): tipo pdf, 353025 byte, righe lette=0
+    dalla memoria: non letto (righe GPS=0)
   scarico https://www.istruzionelaspezia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1529
-    collegamento di condivisione (www.istruzionelaspezia.gov.it/pvw2/app/default/tools.php): tipo xlsx, 13132 byte, righe lette=10
+    dalla memoria: letto (righe GPS=1)
     fasce GPS: F1=0 F2=1
     classi GPS (classe:fascia=righe): AM2A:F2=1
     ok [turno]: calibrato=true righe GPS=1 scartate=0
       via diretto: stato 200, 110841 caratteri -> OK
   scarico https://www.istruzionelaspezia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1535
-Warning: TT: undefined function: 21
-Warning: TT: undefined function: 21
-    collegamento di condivisione (www.istruzionelaspezia.gov.it/pvw2/app/default/tools.php): tipo pdf, 353162 byte, righe lette=0
+    dalla memoria: non letto (righe GPS=0)
   scarico https://www.istruzionelaspezia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1534
-    collegamento di condivisione (www.istruzionelaspezia.gov.it/pvw2/app/default/tools.php): tipo xlsx, 11748 byte, righe lette=3
+    dalla memoria: non letto (righe GPS=0)
     nessuna riga GPS, ma 3 righe di altri tipi (GUI/GAE): bollettino letto, senza nomine GPS
     fasce GPS: F1=0 F2=0
     ok [turno]: calibrato=true righe GPS=0 scartate=0
       via diretto: stato 200, 110776 caratteri -> OK
   scarico https://www.istruzionelaspezia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1539
-    collegamento di condivisione (www.istruzionelaspezia.gov.it/pvw2/app/default/tools.php): tipo xlsx, 12944 byte, righe lette=3
+    dalla memoria: non letto (righe GPS=0)
   scarico https://www.istruzionelaspezia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1538
-    documento non leggibile: https://www.istruzionelaspezia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1538 HTTP 509 su https://www.istruzionelaspezia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1538
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+    collegamento di condivisione (www.istruzionelaspezia.gov.it/pvw2/app/default/tools.php): tipo pdf, 358204 byte, righe lette=0
     nessuna riga GPS, ma 3 righe di altri tipi (GUI/GAE): bollettino letto, senza nomine GPS
     fasce GPS: F1=0 F2=0
     ok [turno]: calibrato=true righe GPS=0 scartate=0
@@ -8278,10 +8321,9 @@ Warning: TT: undefined function: 21
     fasce GPS: F1=0 F2=0
     ok [turno]: calibrato=true righe GPS=0 scartate=0
       via diretto: errore HTTP 509 su https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-suppl
-        diagnosi blocco: stato 200, server "nginx/1.30.7", 110825 caratteri
-        browser: titolo pagina ""
-      via browser: stato 200, 39 caratteri -> non valida
-      via r.jina.ai: stato 200, 106071 caratteri -> OK
+        diagnosi blocco: stato 509, server "nginx/1.30.7", 0 caratteri
+        browser: titolo pagina "Individuazione destinatari nomine per supplenza da G.P.S. - XI° Turno 17/11/2026"
+      via browser: stato 200, 126812 caratteri -> OK
   scarico https://www.istruzionelaspezia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1576
     dalla memoria: non letto (righe GPS=0)
   scarico https://www.istruzionelaspezia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1575
@@ -8308,31 +8350,29 @@ totale pagine da controllare: 14
     ok [rett]: calibrato=false righe GPS=0 scartate=0
       via diretto: stato 200, 159298 caratteri -> OK
   scarico https://www.istruzionesavona.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1751
-    collegamento di condivisione (www.istruzionesavona.gov.it/pvw2/app/default/tools.php): tipo xlsx, 28456 byte, righe lette=140
+    dalla memoria: letto (righe GPS=103)
   data ricavata dai metadati del PDF, data di creazione (meno sicura): 2026-09-14
     fasce GPS: F1=35 F2=68
     classi GPS (classe:fascia=righe): A008:F2=1 A010:F2=2 A015:F1=1 A015:F2=1 A018:F2=1 A019:F1=3 A020:F2=2 A021:F2=1 A023:F2=2 A026:F2=3 A027:F2=3 A028:F2=4 A034:F2=2 A037:F2=1 A040:F2=1 A041:F1=1 A041:F2=2 A045:F2=1 A046:F1=1 A046:F2=5 A047:F2=1 A060:F2=1 AAAA:F1=7 AB56:F2=1 ADAA:F2=1 ADMM:F2=4 ADSS:F1=3 AJ55:F1=1 AM01:F2=2 AM12:F1=1 AM12:F2=3 AM2A:F2=1 AM2B:F1=1 AM48:F1=1 AS12:F1=3 AS12:F2=1 AS23:F1=1 AS2B:F2=2 AW55:F2=1 B003:F2=2 B006:F2=1 B011:F2=1 B014:F2=2 B015:F2=3 B016:F2=2 B018:F2=1 B022:F2=1 B024:F2=1 EEEE:F1=11 EEEM:F2=4
     ok [turno]: calibrato=true righe GPS=103 scartate=0
       via diretto: stato 200, 159320 caratteri -> OK
   scarico https://www.istruzionesavona.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1755
-    collegamento di condivisione (www.istruzionesavona.gov.it/pvw2/app/default/tools.php): tipo xlsx, 16076 byte, righe lette=34
+    dalla memoria: letto (righe GPS=26)
   data ricavata dai metadati del PDF, data di creazione (meno sicura): 2026-09-17
     fasce GPS: F1=3 F2=23
     classi GPS (classe:fascia=righe): A011:F2=1 A018:F2=1 A019:F1=1 A026:F2=1 A028:F2=1 A037:F2=1 A045:F2=1 A046:F2=1 A047:F2=1 A060:F2=1 AAAA:F1=1 AM01:F2=1 AM12:F2=1 AM2A:F2=1 AM2B:F2=1 AM30:F2=1 B006:F2=1 B014:F2=1 B015:F2=2 B016:F2=2 EEEE:F1=1 EEEE:F2=2 EEEM:F2=1
     ok [turno]: calibrato=true righe GPS=26 scartate=0
-      via diretto: stato 200, 159481 caratteri -> OK
-  scarico https://www.istruzionesavona.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1758
-Warning: TT: undefined function: 21
-Warning: TT: undefined function: 21
-    collegamento di condivisione (www.istruzionesavona.gov.it/pvw2/app/default/tools.php): tipo pdf, 350099 byte, righe lette=0
-  scarico https://www.istruzionesavona.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1759
-    collegamento di condivisione (www.istruzionesavona.gov.it/pvw2/app/default/tools.php): tipo pdf, 484288 byte, righe lette=0
-    ok [rett]: calibrato=false righe GPS=0 scartate=0
-      via diretto: errore HTTP 509 su https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-4
-        diagnosi blocco: stato 200, server "nginx/1.30.7", titolo "NOMINE DA GPS TURNO 4 | Ufficio III - Ambito territoriale di Savona", 159360 caratteri
+      via diretto: errore HTTP 509 su https://www.istruzionesavona.gov.it/pagine/decreto-rettifica-termine-incarico-personale-
+        diagnosi blocco: stato 509, server "nginx/1.30.7", 0 caratteri
         browser: titolo pagina ""
       via browser: stato 200, 39 caratteri -> non valida
-      via r.jina.ai: stato 200, 149697 caratteri -> OK
+      via r.jina.ai: stato 200, 149817 caratteri -> OK
+  scarico https://www.istruzionesavona.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1758
+    dalla memoria: non letto (righe GPS=0)
+  scarico https://www.istruzionesavona.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1759
+    dalla memoria: non letto (righe GPS=0)
+    ok [rett]: calibrato=false righe GPS=0 scartate=0
+      via diretto: stato 200, 159360 caratteri -> OK
   scarico https://www.istruzionesavona.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1762
     dalla memoria: non letto (righe GPS=0)
   scarico https://www.istruzionesavona.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1761
@@ -8366,37 +8406,31 @@ Warning: TT: undefined function: 21
     ok [turno]: calibrato=true righe GPS=6 scartate=0
       via diretto: stato 200, 159305 caratteri -> OK
   scarico https://www.istruzionesavona.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1777
-Warning: TT: undefined function: 21
-Warning: TT: undefined function: 21
-    collegamento di condivisione (www.istruzionesavona.gov.it/pvw2/app/default/tools.php): tipo pdf, 314865 byte, righe lette=0
+    dalla memoria: non letto (righe GPS=0)
   scarico https://www.istruzionesavona.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1776
-    collegamento di condivisione (www.istruzionesavona.gov.it/pvw2/app/default/tools.php): tipo xlsx, 12783 byte, righe lette=10
+    dalla memoria: letto (righe GPS=2)
   data ricavata dai metadati del PDF, data di creazione (meno sicura): 2026-10-09
     fasce GPS: F1=0 F2=2
     classi GPS (classe:fascia=righe): A051:F2=1 B016:F2=1
     ok [turno]: calibrato=true righe GPS=2 scartate=0
-      via diretto: stato 200, 159323 caratteri -> OK
+      via diretto: errore HTTP 509 su https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-9
+        diagnosi blocco: stato 509, server "nginx/1.30.7", 0 caratteri
+        browser: titolo pagina ""
+      via browser: stato 200, 39 caratteri -> non valida
+      via r.jina.ai: stato 200, 149660 caratteri -> OK
   scarico https://www.istruzionesavona.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1781
-Warning: TT: undefined function: 21
-Warning: TT: undefined function: 21
-    collegamento di condivisione (www.istruzionesavona.gov.it/pvw2/app/default/tools.php): tipo pdf, 297449 byte, righe lette=0
+    dalla memoria: non letto (righe GPS=0)
   scarico https://www.istruzionesavona.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1780
-    collegamento di condivisione (www.istruzionesavona.gov.it/pvw2/app/default/tools.php): tipo csv, 2107 byte, righe lette=5
+    dalla memoria: letto (righe GPS=1)
   data ricavata dai metadati del PDF, data di creazione (meno sicura): 2026-10-13
     fasce GPS: F1=0 F2=1
     classi GPS (classe:fascia=righe): B016:F2=1
     ok [turno]: calibrato=true righe GPS=1 scartate=0
-      via diretto: errore HTTP 509 su https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-9-1
-        diagnosi blocco: stato 509, server "nginx/1.30.7", 0 caratteri
-        browser: titolo pagina ""
-      via browser: stato 200, 39 caratteri -> non valida
-      via r.jina.ai: stato 200, 149638 caratteri -> OK
+      via diretto: stato 200, 159301 caratteri -> OK
   scarico https://www.istruzionesavona.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1789
-Warning: TT: undefined function: 21
-Warning: TT: undefined function: 21
-    collegamento di condivisione (www.istruzionesavona.gov.it/pvw2/app/default/tools.php): tipo pdf, 319993 byte, righe lette=0
+    dalla memoria: non letto (righe GPS=0)
   scarico https://www.istruzionesavona.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1788
-    collegamento di condivisione (www.istruzionesavona.gov.it/pvw2/app/default/tools.php): tipo xlsx, 11683 byte, righe lette=4
+    dalla memoria: letto (righe GPS=3)
   data ricavata dai metadati del PDF, data di creazione (meno sicura): 2026-10-20
     fasce GPS: F1=1 F2=2
     classi GPS (classe:fascia=righe): AAAA:F1=1 B006:F2=1 B016:F2=1
@@ -9180,121 +9214,773 @@ totale pagine da controllare: 7
   tengo i dati precedenti: turni letti ora=1, prima=3, pagine=7
 -- CZ Catanzaro --
 link da Orizzonte Scuola: 12
-ricerca automatica file su https://www.istruzione.calabria.it/catanzaro -> 0 file
 totale pagine da controllare: 12
-  errore su https://www.istruzione.calabria.it/catanzaro/m_pi-aoouspcz-registro-ufficialeu-0008935-31-08-2026/ -> HTTP 503 su https://www.istruzione.calabria.it/catanzaro/m_pi-aoouspcz-registro-ufficialeu-0008935-31-08-2026/
-  errore su https://www.istruzione.calabria.it/catanzaro/personale-docente-supplenze-a-s-2026-2027-rettifiche-i-bollettino/ -> HTTP 503 su https://www.istruzione.calabria.it/catanzaro/personale-docente-supplenze-a-s-2026-2027-rettifiche-i-bollettino/
-  errore su https://www.istruzione.calabria.it/catanzaro/m_pi-aoouspcz-registro-ufficialeu-0009525-11-09-2026/ -> HTTP 503 su https://www.istruzione.calabria.it/catanzaro/m_pi-aoouspcz-registro-ufficialeu-0009525-11-09-2026/
-  errore su https://www.istruzione.calabria.it/catanzaro/m_pi-aoouspcz-registro-ufficialeu-0009780-17-09-2026/ -> HTTP 503 su https://www.istruzione.calabria.it/catanzaro/m_pi-aoouspcz-registro-ufficialeu-0009780-17-09-2026/
-  errore su https://www.istruzione.calabria.it/catanzaro/personale-docente-supplenze-a-s-2026-2027-iii-bollettino-di-nomine/ -> HTTP 503 su https://www.istruzione.calabria.it/catanzaro/personale-docente-supplenze-a-s-2026-2027-iii-bollettino-di-nomine/
-  errore su https://www.istruzione.calabria.it/catanzaro/m_pi-aoouspcz-registro-ufficialeu-0010555-07-10-2026/ -> HTTP 503 su https://www.istruzione.calabria.it/catanzaro/m_pi-aoouspcz-registro-ufficialeu-0010555-07-10-2026/
-  errore su https://www.istruzione.calabria.it/catanzaro/personale-docente-supplenze-a-s-2026-2027-v-bollettino-di-nomine/ -> HTTP 503 su https://www.istruzione.calabria.it/catanzaro/personale-docente-supplenze-a-s-2026-2027-v-bollettino-di-nomine/
-  errore su https://www.istruzione.calabria.it/catanzaro/personale-docente-supplenze-a-s-2026-2027-vi-bollettino-di-nomine/ -> HTTP 503 su https://www.istruzione.calabria.it/catanzaro/personale-docente-supplenze-a-s-2026-2027-vi-bollettino-di-nomine/
-  errore su https://www.istruzione.calabria.it/catanzaro/personale-docente-supplenze-a-s-2026-2027-vii-bollettino-di-nomine/ -> HTTP 503 su https://www.istruzione.calabria.it/catanzaro/personale-docente-supplenze-a-s-2026-2027-vii-bollettino-di-nomine/
-  errore su https://www.istruzione.calabria.it/catanzaro/m_pi-aoouspcz-registro-ufficialeu-0011819-06-11-2026/ -> HTTP 503 su https://www.istruzione.calabria.it/catanzaro/m_pi-aoouspcz-registro-ufficialeu-0011819-06-11-2026/
-  errore su https://www.istruzione.calabria.it/catanzaro/personale-docente-supplenze-a-s-2026-2027-ix-bollettino-di-nomine/ -> HTTP 503 su https://www.istruzione.calabria.it/catanzaro/personale-docente-supplenze-a-s-2026-2027-ix-bollettino-di-nomine/
-  errore su https://www.istruzione.calabria.it/catanzaro/m_pi-aoouspcz-registro-ufficialeu-0012404-19-11-2026/ -> HTTP 503 su https://www.istruzione.calabria.it/catanzaro/m_pi-aoouspcz-registro-ufficialeu-0012404-19-11-2026/
-  non leggibili che pesano sulle strisce (11):
-     · 9999  labria.it/catanzaro/personale-docente-supplenze-a-s-2026-2027-rettifiche-i-bollettino/ (errore)
-     · 2026-09-11  istruzione.calabria.it/catanzaro/m_pi-aoouspcz-registro-ufficialeu-0009525-11-09-2026/ (errore)
-     · 2026-10-07  istruzione.calabria.it/catanzaro/m_pi-aoouspcz-registro-ufficialeu-0010555-07-10-2026/ (errore)
-     · 9999  alabria.it/catanzaro/personale-docente-supplenze-a-s-2026-2027-v-bollettino-di-nomine/ (errore)
-     · 9999  labria.it/catanzaro/personale-docente-supplenze-a-s-2026-2027-vi-bollettino-di-nomine/ (errore)
-     · 9999  abria.it/catanzaro/personale-docente-supplenze-a-s-2026-2027-vii-bollettino-di-nomine/ (errore)
-     · 2026-11-06  istruzione.calabria.it/catanzaro/m_pi-aoouspcz-registro-ufficialeu-0011819-06-11-2026/ (errore)
-     · 9999  labria.it/catanzaro/personale-docente-supplenze-a-s-2026-2027-ix-bollettino-di-nomine/ (errore)
-     · 2026-11-19  istruzione.calabria.it/catanzaro/m_pi-aoouspcz-registro-ufficialeu-0012404-19-11-2026/ (errore)
-     · 9999  -aoouspcz-registro-ufficialeu-0008935-31-08-2026/ (pagina non raggiungibile, turno 1 mai letto)
-     · 9999  supplenze-a-s-2026-2027-iii-bollettino-di-nomine/ (pagina non raggiungibile, turno 3 mai letto)
-  turni letti=0 non letti=11 -> da verificare
-  tengo i dati precedenti: turni letti ora=0, prima=5, pagine=12
+  scarico https://www.istruzione.calabria.it/catanzaro/wp-content/uploads/AllegatiAttiAlboPretorio/BollettinoTotaleNomine_Turno1.pdf
+Warning: getHexString - ignoring invalid character: 33
+Warning: getHexString - ignoring invalid character: 79
+Warning: getHexString - ignoring invalid character: 84
+Warning: getHexString - ignoring invalid character: 89
+Warning: getHexString - ignoring invalid character: 80
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 104
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 104
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 104
+Warning: getHexString - ignoring invalid character: 114
+Warning: getHexString - ignoring invalid character: 115
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 110
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 61
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 105
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring invalid character: 33
+Warning: getHexString - ignoring invalid character: 79
+Warning: getHexString - ignoring invalid character: 84
+Warning: getHexString - ignoring invalid character: 89
+Warning: getHexString - ignoring invalid character: 80
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 104
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 104
+Warning: Indexing all PDF objects
+    documento non leggibile: https://www.istruzione.calabria.it/catanzaro/wp-content/uploads/AllegatiAttiAlboPretorio/BollettinoTotaleNomine_Turno1.pdf Invalid PDF structure.
+  scarico https://www.istruzione.calabria.it/catanzaro/wp-content/uploads/AllegatiAttiAlboPretorio/m_pi.AOOUSPCZ.REGISTRO-UFFICIALEU.0008935.31-08-2026.pdf
+Warning: getHexString - ignoring invalid character: 33
+Warning: getHexString - ignoring invalid character: 79
+Warning: getHexString - ignoring invalid character: 84
+Warning: getHexString - ignoring invalid character: 89
+Warning: getHexString - ignoring invalid character: 80
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 104
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 104
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 104
+Warning: getHexString - ignoring invalid character: 114
+Warning: getHexString - ignoring invalid character: 115
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 110
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 61
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 105
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring invalid character: 33
+Warning: getHexString - ignoring invalid character: 79
+Warning: getHexString - ignoring invalid character: 84
+Warning: getHexString - ignoring invalid character: 89
+Warning: getHexString - ignoring invalid character: 80
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 104
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 104
+Warning: Indexing all PDF objects
+    documento non leggibile: https://www.istruzione.calabria.it/catanzaro/wp-content/uploads/AllegatiAttiAlboPretorio/m_pi.AOOUSPCZ.REGISTRO-UFFICIALEU.0008935.31-08-2026.pdf Invalid PDF structure.
+  nessun PDF utilizzabile in https://www.istruzione.calabria.it/catanzaro/m_pi-aoouspcz-registro-ufficialeu-0008935-31-08-2026/
+  scarico https://www.istruzione.calabria.it/catanzaro/wp-content/uploads/2026/09/Decreto-Rettifica-I-Bollettino-Prot-n.9294.07-09-2026.pdf
+    OCR: nessuna pagina scansionata nel documento
+  scarico https://www.istruzione.calabria.it/catanzaro/wp-content/uploads/2026/09/Rettifiche-Bollettino-1.pdf
+  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-09-07
+    ok [rett]: calibrato=true righe GPS=12 scartate=0
+  scarico https://www.istruzione.calabria.it/catanzaro/wp-content/uploads/AllegatiAttiAlboPretorio/BollettinoTolateNomine_N2_1.pdf
+Warning: getHexString - ignoring invalid character: 33
+Warning: getHexString - ignoring invalid character: 79
+Warning: getHexString - ignoring invalid character: 84
+Warning: getHexString - ignoring invalid character: 89
+Warning: getHexString - ignoring invalid character: 80
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 104
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 104
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 104
+Warning: getHexString - ignoring invalid character: 114
+Warning: getHexString - ignoring invalid character: 115
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 110
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 61
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 105
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring invalid character: 33
+Warning: getHexString - ignoring invalid character: 79
+Warning: getHexString - ignoring invalid character: 84
+Warning: getHexString - ignoring invalid character: 89
+Warning: getHexString - ignoring invalid character: 80
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 104
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 104
+Warning: Indexing all PDF objects
+    documento non leggibile: https://www.istruzione.calabria.it/catanzaro/wp-content/uploads/AllegatiAttiAlboPretorio/BollettinoTolateNomine_N2_1.pdf Invalid PDF structure.
+  scarico https://www.istruzione.calabria.it/catanzaro/wp-content/uploads/AllegatiAttiAlboPretorio/m_pi.AOOUSPCZ.REGISTRO-UFFICIALEU.0009525.11-09-2026_1.pdf
+Warning: getHexString - ignoring invalid character: 33
+Warning: getHexString - ignoring invalid character: 79
+Warning: getHexString - ignoring invalid character: 84
+Warning: getHexString - ignoring invalid character: 89
+Warning: getHexString - ignoring invalid character: 80
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 104
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 104
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 104
+Warning: getHexString - ignoring invalid character: 114
+Warning: getHexString - ignoring invalid character: 115
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 110
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 61
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 105
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring invalid character: 33
+Warning: getHexString - ignoring invalid character: 79
+Warning: getHexString - ignoring invalid character: 84
+Warning: getHexString - ignoring invalid character: 89
+Warning: getHexString - ignoring invalid character: 80
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 104
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 104
+Warning: Indexing all PDF objects
+    documento non leggibile: https://www.istruzione.calabria.it/catanzaro/wp-content/uploads/AllegatiAttiAlboPretorio/m_pi.AOOUSPCZ.REGISTRO-UFFICIALEU.0009525.11-09-2026_1.pdf Invalid PDF structure.
+  nessun PDF utilizzabile in https://www.istruzione.calabria.it/catanzaro/m_pi-aoouspcz-registro-ufficialeu-0009525-11-09-2026/
+  scarico https://www.istruzione.calabria.it/catanzaro/wp-content/uploads/AllegatiAttiAlboPretorio/BollettinoTotale_Rettifiche.pdf
+Warning: getHexString - ignoring invalid character: 33
+Warning: getHexString - ignoring invalid character: 79
+Warning: getHexString - ignoring invalid character: 84
+Warning: getHexString - ignoring invalid character: 89
+Warning: getHexString - ignoring invalid character: 80
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 104
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 104
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 104
+Warning: getHexString - ignoring invalid character: 114
+Warning: getHexString - ignoring invalid character: 115
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 110
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 61
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 105
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring invalid character: 33
+Warning: getHexString - ignoring invalid character: 79
+Warning: getHexString - ignoring invalid character: 84
+Warning: getHexString - ignoring invalid character: 89
+Warning: getHexString - ignoring invalid character: 80
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 104
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 104
+Warning: Indexing all PDF objects
+    documento non leggibile: https://www.istruzione.calabria.it/catanzaro/wp-content/uploads/AllegatiAttiAlboPretorio/BollettinoTotale_Rettifiche.pdf Invalid PDF structure.
+  scarico https://www.istruzione.calabria.it/catanzaro/wp-content/uploads/AllegatiAttiAlboPretorio/m_pi.AOOUSPCZ.REGISTRO-UFFICIALEU.0009780.17-09-2026.pdf
+Warning: getHexString - ignoring invalid character: 33
+Warning: getHexString - ignoring invalid character: 79
+Warning: getHexString - ignoring invalid character: 84
+Warning: getHexString - ignoring invalid character: 89
+Warning: getHexString - ignoring invalid character: 80
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 104
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 104
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 104
+Warning: getHexString - ignoring invalid character: 114
+Warning: getHexString - ignoring invalid character: 115
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 110
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 61
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 105
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring invalid character: 33
+Warning: getHexString - ignoring invalid character: 79
+Warning: getHexString - ignoring invalid character: 84
+Warning: getHexString - ignoring invalid character: 89
+Warning: getHexString - ignoring invalid character: 80
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 104
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 104
+Warning: Indexing all PDF objects
+    documento non leggibile: https://www.istruzione.calabria.it/catanzaro/wp-content/uploads/AllegatiAttiAlboPretorio/m_pi.AOOUSPCZ.REGISTRO-UFFICIALEU.0009780.17-09-2026.pdf Invalid PDF structure.
+  nessun PDF utilizzabile in https://www.istruzione.calabria.it/catanzaro/m_pi-aoouspcz-registro-ufficialeu-0009780-17-09-2026/
+  scarico https://www.istruzione.calabria.it/catanzaro/wp-content/uploads/2026/09/BollettinoTotaleNomine_N3-1.pdf
+  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-09-25
+    fasce GPS: F1=52 F2=4
+    classi GPS (classe:fascia=righe): A013:F1=2 A014:F1=1 A021:F1=1 A028:F1=1 A045:F1=1 A050:F1=1 A051:F1=1 A051:F2=1 A060:F1=3 A066:F2=1 AAAA:F1=3 ADMM:F1=6 ADSS:F1=5 AM2A:F1=1 AM2B:F1=1 AM48:F1=1 AS12:F1=1 AS2B:F1=2 AS2D:F2=1 B011:F1=1 B012:F1=1 B020:F1=1 EEEE:F1=17 EEIL:F1=1 EEIL:F2=1
+    ok [turno]: calibrato=true righe GPS=56 scartate=0
+  scarico https://www.istruzione.calabria.it/catanzaro/wp-content/uploads/AllegatiAttiAlboPretorio/TotaleNomine_4.pdf
+Warning: getHexString - ignoring invalid character: 33
+Warning: getHexString - ignoring invalid character: 79
+Warning: getHexString - ignoring invalid character: 84
+Warning: getHexString - ignoring invalid character: 89
+Warning: getHexString - ignoring invalid character: 80
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 104
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 104
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 104
+Warning: getHexString - ignoring invalid character: 114
+Warning: getHexString - ignoring invalid character: 115
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 110
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 61
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 105
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring invalid character: 33
+Warning: getHexString - ignoring invalid character: 79
+Warning: getHexString - ignoring invalid character: 84
+Warning: getHexString - ignoring invalid character: 89
+Warning: getHexString - ignoring invalid character: 80
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 104
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 104
+Warning: Indexing all PDF objects
+    documento non leggibile: https://www.istruzione.calabria.it/catanzaro/wp-content/uploads/AllegatiAttiAlboPretorio/TotaleNomine_4.pdf Invalid PDF structure.
+  scarico https://www.istruzione.calabria.it/catanzaro/wp-content/uploads/AllegatiAttiAlboPretorio/m_pi.AOOUSPCZ.REGISTRO-UFFICIALEU.0010555.07-10-2026.pdf
+Warning: getHexString - ignoring invalid character: 33
+Warning: getHexString - ignoring invalid character: 79
+Warning: getHexString - ignoring invalid character: 84
+Warning: getHexString - ignoring invalid character: 89
+Warning: getHexString - ignoring invalid character: 80
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 104
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 104
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 104
+Warning: getHexString - ignoring invalid character: 114
+Warning: getHexString - ignoring invalid character: 115
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 110
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 61
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 105
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring invalid character: 33
+Warning: getHexString - ignoring invalid character: 79
+Warning: getHexString - ignoring invalid character: 84
+Warning: getHexString - ignoring invalid character: 89
+Warning: getHexString - ignoring invalid character: 80
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 104
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 104
+Warning: Indexing all PDF objects
+    documento non leggibile: https://www.istruzione.calabria.it/catanzaro/wp-content/uploads/AllegatiAttiAlboPretorio/m_pi.AOOUSPCZ.REGISTRO-UFFICIALEU.0010555.07-10-2026.pdf Invalid PDF structure.
+  nessun PDF utilizzabile in https://www.istruzione.calabria.it/catanzaro/m_pi-aoouspcz-registro-ufficialeu-0010555-07-10-2026/
+  scarico https://www.istruzione.calabria.it/catanzaro/wp-content/uploads/2026/10/Bollettino_TotaleNomine_5-1.pdf
+  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-10-16
+    fasce GPS: F1=12 F2=5
+    classi GPS (classe:fascia=righe): A013:F2=1 A028:F1=2 A031:F2=1 A042:F2=1 A045:F1=1 A050:F1=1 A060:F1=1 A066:F2=1 AD55:F2=1 ADMM:F1=2 ADSS:F1=1 AM12:F1=1 EEEE:F1=2 EEIL:F1=1
+    ok [turno]: calibrato=true righe GPS=17 scartate=0
+  scarico https://www.istruzione.calabria.it/catanzaro/wp-content/uploads/2026/10/BollettinoTotaleNomine_6-1.pdf
+  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-10-20
+    fasce GPS: F1=9 F2=2
+    classi GPS (classe:fascia=righe): A028:F1=1 A031:F2=1 A041:F1=1 A042:F2=1 A045:F1=1 A050:F1=1 ADMM:F1=1 ADSS:F1=2 AM01:F1=1 EEEE:F1=1
+    ok [turno]: calibrato=true righe GPS=11 scartate=0
+  scarico https://www.istruzione.calabria.it/catanzaro/wp-content/uploads/2026/10/Bollettino_TotaleNomine_Turno7-1.pdf
+  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-10-30
+    fasce GPS: F1=12 F2=0
+    classi GPS (classe:fascia=righe): A028:F1=1 A041:F1=1 A045:F1=1 A050:F1=1 ADMM:F1=1 ADSS:F1=1 AM01:F1=2 EEEE:F1=4
+    ok [turno]: calibrato=true righe GPS=12 scartate=0
+  scarico https://www.istruzione.calabria.it/catanzaro/wp-content/uploads/AllegatiAttiAlboPretorio/BollettinoTotaleNomine_8.pdf
+Warning: getHexString - ignoring invalid character: 33
+Warning: getHexString - ignoring invalid character: 79
+Warning: getHexString - ignoring invalid character: 84
+Warning: getHexString - ignoring invalid character: 89
+Warning: getHexString - ignoring invalid character: 80
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 104
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 104
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 104
+Warning: getHexString - ignoring invalid character: 114
+Warning: getHexString - ignoring invalid character: 115
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 110
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 61
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 105
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring invalid character: 33
+Warning: getHexString - ignoring invalid character: 79
+Warning: getHexString - ignoring invalid character: 84
+Warning: getHexString - ignoring invalid character: 89
+Warning: getHexString - ignoring invalid character: 80
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 104
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 104
+Warning: Indexing all PDF objects
+    documento non leggibile: https://www.istruzione.calabria.it/catanzaro/wp-content/uploads/AllegatiAttiAlboPretorio/BollettinoTotaleNomine_8.pdf Invalid PDF structure.
+  scarico https://www.istruzione.calabria.it/catanzaro/wp-content/uploads/AllegatiAttiAlboPretorio/m_pi.AOOUSPCZ.REGISTRO-UFFICIALEU.0011819.06-11-2026.pdf
+Warning: getHexString - ignoring invalid character: 33
+Warning: getHexString - ignoring invalid character: 79
+Warning: getHexString - ignoring invalid character: 84
+Warning: getHexString - ignoring invalid character: 89
+Warning: getHexString - ignoring invalid character: 80
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 104
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 104
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 104
+Warning: getHexString - ignoring invalid character: 114
+Warning: getHexString - ignoring invalid character: 115
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 110
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 61
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 105
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring invalid character: 33
+Warning: getHexString - ignoring invalid character: 79
+Warning: getHexString - ignoring invalid character: 84
+Warning: getHexString - ignoring invalid character: 89
+Warning: getHexString - ignoring invalid character: 80
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 104
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 104
+Warning: Indexing all PDF objects
+    documento non leggibile: https://www.istruzione.calabria.it/catanzaro/wp-content/uploads/AllegatiAttiAlboPretorio/m_pi.AOOUSPCZ.REGISTRO-UFFICIALEU.0011819.06-11-2026.pdf Invalid PDF structure.
+  nessun PDF utilizzabile in https://www.istruzione.calabria.it/catanzaro/m_pi-aoouspcz-registro-ufficialeu-0011819-06-11-2026/
+  scarico https://www.istruzione.calabria.it/catanzaro/wp-content/uploads/2026/11/BollettinoTotaleNomine_9.pdf
+  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-11-12
+    fasce GPS: F1=12 F2=0
+    classi GPS (classe:fascia=righe): A045:F1=1 ADMM:F1=1 ADSS:F1=5 AM01:F1=1 EEEE:F1=3 EEIL:F1=1
+    ok [turno]: calibrato=true righe GPS=12 scartate=0
+  scarico https://www.istruzione.calabria.it/catanzaro/wp-content/uploads/AllegatiAttiAlboPretorio/TotaleTurno_10.pdf
+Warning: getHexString - ignoring invalid character: 33
+Warning: getHexString - ignoring invalid character: 79
+Warning: getHexString - ignoring invalid character: 84
+Warning: getHexString - ignoring invalid character: 89
+Warning: getHexString - ignoring invalid character: 80
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 104
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 104
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 104
+Warning: getHexString - ignoring invalid character: 114
+Warning: getHexString - ignoring invalid character: 115
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 110
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 61
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 105
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring invalid character: 33
+Warning: getHexString - ignoring invalid character: 79
+Warning: getHexString - ignoring invalid character: 84
+Warning: getHexString - ignoring invalid character: 89
+Warning: getHexString - ignoring invalid character: 80
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 104
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 104
+Warning: Indexing all PDF objects
+    documento non leggibile: https://www.istruzione.calabria.it/catanzaro/wp-content/uploads/AllegatiAttiAlboPretorio/TotaleTurno_10.pdf Invalid PDF structure.
+  scarico https://www.istruzione.calabria.it/catanzaro/wp-content/uploads/AllegatiAttiAlboPretorio/m_pi.AOOUSPCZ.REGISTRO-UFFICIALEU.0012404.19-11-2026_1.pdf
+Warning: getHexString - ignoring invalid character: 33
+Warning: getHexString - ignoring invalid character: 79
+Warning: getHexString - ignoring invalid character: 84
+Warning: getHexString - ignoring invalid character: 89
+Warning: getHexString - ignoring invalid character: 80
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 104
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 104
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 104
+Warning: getHexString - ignoring invalid character: 114
+Warning: getHexString - ignoring invalid character: 115
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 110
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 61
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 105
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring invalid character: 33
+Warning: getHexString - ignoring invalid character: 79
+Warning: getHexString - ignoring invalid character: 84
+Warning: getHexString - ignoring invalid character: 89
+Warning: getHexString - ignoring invalid character: 80
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 104
+Warning: getHexString - ignoring invalid character: 116
+Warning: getHexString - ignoring invalid character: 109
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring invalid character: 108
+Warning: getHexString - ignoring additional invalid characters.
+Warning: getHexString - ignoring invalid character: 104
+Warning: Indexing all PDF objects
+    documento non leggibile: https://www.istruzione.calabria.it/catanzaro/wp-content/uploads/AllegatiAttiAlboPretorio/m_pi.AOOUSPCZ.REGISTRO-UFFICIALEU.0012404.19-11-2026_1.pdf Invalid PDF structure.
+  nessun PDF utilizzabile in https://www.istruzione.calabria.it/catanzaro/m_pi-aoouspcz-registro-ufficialeu-0012404-19-11-2026/
+  ignorati 1 documenti non leggibili precedenti al primo bollettino letto (2026-09-07)
+  non leggibili che pesano sulle strisce (4):
+     · 2026-09-11  ps://www.istruzione.calabria.it/catanzaro/m_pi-aoouspcz-registro-ufficialeu-0009525-11-09-2026/
+     · 2026-10-07  ps://www.istruzione.calabria.it/catanzaro/m_pi-aoouspcz-registro-ufficialeu-0010555-07-10-2026/
+     · 2026-11-06  ps://www.istruzione.calabria.it/catanzaro/m_pi-aoouspcz-registro-ufficialeu-0011819-06-11-2026/
+     · 2026-11-19  ps://www.istruzione.calabria.it/catanzaro/m_pi-aoouspcz-registro-ufficialeu-0012404-19-11-2026/
+  turni letti=5 non letti=4 -> da verificare
 -- CS Cosenza --
 link da Orizzonte Scuola: 19
 totale pagine da controllare: 18
-  errore su https://www.istruzione.calabria.it/cosenza/aoouspcs12781-20260829/ -> HTTP 503 su https://www.istruzione.calabria.it/cosenza/aoouspcs12781-20260829/
-  errore su https://www.istruzione.calabria.it/cosenza/aoouspcs13061-202600109/ -> HTTP 503 su https://www.istruzione.calabria.it/cosenza/aoouspcs13061-202600109/
-  errore su https://www.istruzione.calabria.it/cosenza/aoouspcs13235-2026000903/ -> HTTP 503 su https://www.istruzione.calabria.it/cosenza/aoouspcs13235-2026000903/
-  errore su https://www.istruzione.calabria.it/cosenza/aoouspcs13490-20260908/ -> HTTP 503 su https://www.istruzione.calabria.it/cosenza/aoouspcs13490-20260908/
-  errore su https://www.istruzione.calabria.it/cosenza/aoouspcs13532-202600909/ -> HTTP 503 su https://www.istruzione.calabria.it/cosenza/aoouspcs13532-202600909/
-  errore su https://www.istruzione.calabria.it/cosenza/aoouspcs13628-202600911/ -> HTTP 503 su https://www.istruzione.calabria.it/cosenza/aoouspcs13628-202600911/
-  errore su https://www.istruzione.calabria.it/cosenza/aoouspcs13816-202600915/ -> HTTP 503 su https://www.istruzione.calabria.it/cosenza/aoouspcs13816-202600915/
-  errore su https://www.istruzione.calabria.it/cosenza/aoouspcs13939-202600917/ -> HTTP 503 su https://www.istruzione.calabria.it/cosenza/aoouspcs13939-202600917/
-  errore su https://www.istruzione.calabria.it/cosenza/aoouspcs14281-202600924/ -> HTTP 503 su https://www.istruzione.calabria.it/cosenza/aoouspcs14281-202600924/
-  errore su https://www.istruzione.calabria.it/cosenza/aoouspcs14441-202600928/ -> HTTP 503 su https://www.istruzione.calabria.it/cosenza/aoouspcs14441-202600928/
-  errore su https://www.istruzione.calabria.it/cosenza/aoouspcs14744-202601001/ -> HTTP 503 su https://www.istruzione.calabria.it/cosenza/aoouspcs14744-202601001/
-  errore su https://www.istruzione.calabria.it/cosenza/aoouspcs14882-202601015/ -> HTTP 503 su https://www.istruzione.calabria.it/cosenza/aoouspcs14882-202601015/
-  errore su https://www.istruzione.calabria.it/cosenza/aoouspcs15554-20261016/ -> HTTP 503 su https://www.istruzione.calabria.it/cosenza/aoouspcs15554-20261016/
-  errore su https://www.istruzione.calabria.it/cosenza/aoouspcs15732-20261020/ -> HTTP 503 su https://www.istruzione.calabria.it/cosenza/aoouspcs15732-20261020/
-  errore su https://www.istruzione.calabria.it/cosenza/aoouspcs16123-20261027/ -> HTTP 503 su https://www.istruzione.calabria.it/cosenza/aoouspcs16123-20261027/
-  errore su https://www.istruzione.calabria.it/cosenza/aoouspcs16340-20261030/ -> HTTP 503 su https://www.istruzione.calabria.it/cosenza/aoouspcs16340-20261030/
-  errore su https://www.istruzione.calabria.it/cosenza/aoouspcs16727-20261106/ -> HTTP 503 su https://www.istruzione.calabria.it/cosenza/aoouspcs16727-20261106/
-  errore su https://www.istruzione.calabria.it/cosenza/aoouspcs17568-20261120/ -> HTTP 503 su https://www.istruzione.calabria.it/cosenza/aoouspcs17568-20261120/
-  non leggibili che pesano sulle strisce (9):
-     · 9999  https://www.istruzione.calabria.it/cosenza/aoouspcs13532-202600909/ (errore)
-     · 9999  https://www.istruzione.calabria.it/cosenza/aoouspcs15554-20261016/ (errore)
-     · 9999  https://www.istruzione.calabria.it/cosenza/aoouspcs16123-20261027/ (errore)
-     · 9999  https://www.istruzione.calabria.it/cosenza/aoouspcs16727-20261106/ (errore)
-     · 9999  https://www.istruzione.calabria.it/cosenza/aoouspcs17568-20261120/ (errore)
-     · 9999  ione.calabria.it/cosenza/aoouspcs13628-202600911/ (pagina non raggiungibile, turno 2 mai letto)
-     · 9999  ione.calabria.it/cosenza/aoouspcs13816-202600915/ (pagina non raggiungibile, turno 2 mai letto)
-     · 9999  ione.calabria.it/cosenza/aoouspcs13939-202600917/ (pagina non raggiungibile, turno 2 mai letto)
-     · 9999  ione.calabria.it/cosenza/aoouspcs14744-202601001/ (pagina non raggiungibile, turno 3 mai letto)
-  turni letti=0 non letti=9 -> da verificare
-  tengo i dati precedenti: turni letti ora=0, prima=7, pagine=18
+  scarico https://www.istruzione.calabria.it/cosenza/wp-content/uploads/2026/08/BollettinoTotaleNomine-4.pdf
+  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-08-29
+    fasce GPS: F1=1032 F2=106
+    classi GPS (classe:fascia=righe): A002:F2=1 A005:F2=1 A008:F1=4 A009:F1=1 A011:F1=7 A013:F1=7 A014:F1=1 A014:F2=1 A015:F1=1 A015:F2=1 A016:F2=2 A018:F1=5 A019:F1=6 A020:F1=2 A021:F1=5 A023:F1=14 A023:F2=6 A026:F1=11 A027:F1=10 A028:F1=11 A031:F1=3 A033:F2=1 A034:F1=5 A037:F1=6 A040:F1=8 A040:F2=1 A041:F1=2 A042:F1=1 A042:F2=3 A043:F2=1 A044:F1=1 A045:F1=1 A047:F1=1 A050:F1=9 A051:F1=5 A051:F2=1 A052:F1=1 A052:F2=1 A060:F1=10 A061:F2=1 A063:F1=1 A064:F1=1 A065:F1=1 AAAA:F1=2 AAHN:F1=4 AB56:F1=5 AC55:F1=1 AC56:F1=2 AD56:F1=2 ADAA:F1=69 ADAA:F2=6 ADEE:F1=150 ADEE:F2=19 ADMM:F1=158 ADSS:F1=163 AE56:F1=1 AF56:F1=1 AI55:F1=1 AI56:F1=1 AJ55:F1=1 AJ56:F1=6 AK55:F1=1 AK56:F1=2 AL56:F1=1 AM01:F1=24 AM12:F1=16 AM2A:F1=12 AM2A:F2=2 AM2B:F1=15 AM2C:F1=1 AM2D:F2=1 AM30:F1=10 AM48:F1=7 AM56:F1=2 AN55:F1=1 AO55:F1=1 AP55:F1=1 AS01:F1=4 AS12:F1=11 AS23:F1=2 AS2A:F1=6 AS2A:F2=1 AS2B:F1=15 AS2C:F2=1 AS2D:F2=3 AS48:F1=3 AW55:F2=1 B003:F1=1 B006:F1=2 B007:F1=1 B011:F1=2 B012:F1=3 B014:F1=1 B016:F1=2 B017:F1=4 B018:F1=2 B019:F1=1 B020:F1=2 B021:F1=1 B021:F2=1 B023:F1=2 B024:F2=1 B026:F1=1 B026:F2=1 B028:F2=1 BA02:F2=1 BB02:F1=1 BC02:F1=3 EEEE:F1=123 EEEM:F1=1 EEEM:F2=46 EEIL:F1=36
+    ok [turno]: calibrato=true righe GPS=1138 scartate=0
+  scartati 1 decreti (non sono bollettini)
+  scarico https://www.istruzione.calabria.it/cosenza/wp-content/uploads/2026/09/m_pi.AOOUSPCS.REGISTRO-UFFICIALEU.0013061.01-09-2026.pdf
+    OCR: nessuna pagina scansionata nel documento
+  data ricavata dal nome del file: 2026-09-01
+    ok [rett]: calibrato=false righe GPS=0 scartate=0
+  scarico https://www.istruzione.calabria.it/cosenza/wp-content/uploads/2026/09/m_pi.AOOUSPCS.REGISTRO-UFFICIALEU.0013235.03-09-2026-1.pdf
+    OCR: nessuna pagina scansionata nel documento
+  data ricavata dal nome del file: 2026-09-03
+    ok [rett]: calibrato=false righe GPS=0 scartate=0
+  scarico https://www.istruzione.calabria.it/cosenza/wp-content/uploads/2026/09/m_pi.AOOUSPCS.REGISTRO-UFFICIALEU.0013490.08-09-2026.pdf
+    OCR: nessuna pagina scansionata nel documento
+  data ricavata dal nome del file: 2026-09-08
+    ok [rett]: calibrato=false righe GPS=0 scartate=0
+  scarico https://www.istruzione.calabria.it/cosenza/wp-content/uploads/2026/09/Bollettino-Totale-Nomine-3.pdf
+  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-09-09
+    fasce GPS: F1=89 F2=9
+    classi GPS (classe:fascia=righe): A009:F2=1 A011:F1=1 A018:F1=1 A019:F1=1 A021:F1=1 A023:F2=1 A026:F1=2 A027:F1=1 A028:F1=4 A031:F1=1 A034:F1=1 A042:F2=2 A047:F1=1 A050:F1=2 A051:F2=1 A060:F1=2 A064:F1=1 AAAA:F1=5 ADEE:F1=2 ADMM:F1=16 ADSS:F1=12 AJ56:F1=2 AL56:F1=1 AM01:F1=2 AM12:F1=3 AM2A:F1=1 AM2A:F2=1 AM2B:F1=2 AM56:F1=1 AS12:F1=2 AS2B:F1=2 AS48:F1=1 B009:F2=1 B015:F1=1 B016:F1=1 B017:F1=1 EEEE:F1=14 EEEM:F2=2 EEIL:F1=1
+    ok [turno]: calibrato=true righe GPS=98 scartate=0
+  scarico https://www.istruzione.calabria.it/cosenza/wp-content/uploads/2026/09/m_pi.AOOUSPCS.REGISTRO-UFFICIALEU.0013628.11-09-2026.pdf
+    OCR: nessuna pagina scansionata nel documento
+  data ricavata dal nome del file: 2026-09-11
+    ok [rett]: calibrato=false righe GPS=0 scartate=0
+  scarico https://www.istruzione.calabria.it/cosenza/wp-content/uploads/2026/09/m_pi.AOOUSPCS.REGISTRO-UFFICIALEU.0013816.15-09-2026.pdf
+    OCR: nessuna pagina scansionata nel documento
+  data ricavata dal nome del file: 2026-09-15
+    ok [rett]: calibrato=false righe GPS=0 scartate=0
+  scarico https://www.istruzione.calabria.it/cosenza/wp-content/uploads/2026/09/m_pi.AOOUSPCS.REGISTRO-UFFICIALEU.0013939.17-09-2026.pdf
+    OCR: nessuna pagina scansionata nel documento
+  data ricavata dal nome del file: 2026-09-17
+    ok [rett]: calibrato=false righe GPS=0 scartate=0
+  scarico https://www.istruzione.calabria.it/cosenza/wp-content/uploads/2026/09/m_pi.AOOUSPCS.REGISTRO-UFFICIALEU.0014281.24-09-2026.pdf
+    OCR: nessuna pagina scansionata nel documento
+  data ricavata dal nome del file: 2026-09-24
+    ok [altro]: calibrato=false righe GPS=0 scartate=0
+  scarico https://www.istruzione.calabria.it/cosenza/wp-content/uploads/2026/09/m_pi.AOOUSPCS.REGISTRO-UFFICIALEU.0014441.28-09-2026-1.pdf
+    OCR: nessuna pagina scansionata nel documento
+  data ricavata dal nome del file: 2026-09-28
+    ok [rett]: calibrato=false righe GPS=0 scartate=0
+  scarico https://www.istruzione.calabria.it/cosenza/wp-content/uploads/2026/10/Bollettino_TotaleNomine-PUBBLICAZIONE.pdf
+  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-10-01
+    fasce GPS: F1=71 F2=6
+    classi GPS (classe:fascia=righe): A019:F1=1 A026:F1=1 A031:F1=1 A040:F2=2 A041:F1=2 A042:F2=1 A045:F1=1 A047:F1=1 A051:F2=1 A060:F1=1 AAAA:F1=2 ADAA:F1=1 ADEE:F1=1 ADMM:F1=23 ADSS:F1=20 AM2A:F2=1 AM2B:F1=2 AM48:F1=1 AM56:F1=1 AM56:F2=1 AS12:F1=1 AS2B:F1=1 EEEE:F1=10
+    ok [turno]: calibrato=true righe GPS=77 scartate=0
+  scarico https://www.istruzione.calabria.it/cosenza/wp-content/uploads/2026/10/m_pi.AOOUSPCS.REGISTRO-UFFICIALEU.0014882.05-10-2026.pdf
+    OCR: nessuna pagina scansionata nel documento
+  data ricavata dal nome del file: 2026-10-05
+    ok [rett]: calibrato=false righe GPS=0 scartate=0
+  scarico https://www.istruzione.calabria.it/cosenza/wp-content/uploads/2026/10/BollettinoTotaleNomine-5.pdf
+Warning: TT: undefined function: 21
+  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-10-16
+    fasce GPS: F1=27 F2=3
+    classi GPS (classe:fascia=righe): A027:F1=1 A040:F2=2 A041:F1=1 A042:F2=1 A045:F1=1 A060:F1=2 AAAA:F1=2 ADMM:F1=7 ADSS:F1=8 AS12:F1=2 EEEE:F1=3
+    ok [turno]: calibrato=true righe GPS=30 scartate=0
+  scarico https://www.istruzione.calabria.it/cosenza/wp-content/uploads/2026/10/m_pi.AOOUSPCS.REGISTRO-UFFICIALEU.0015732.20-10-2026.pdf
+    OCR: nessuna pagina scansionata nel documento
+  data ricavata dal nome del file: 2026-10-20
+    ok [altro]: calibrato=false righe GPS=0 scartate=0
+  scarico https://www.istruzione.calabria.it/cosenza/wp-content/uploads/2026/10/BollettinoTotaleNomine.pdf
+  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-10-27
+    fasce GPS: F1=15 F2=1
+    classi GPS (classe:fascia=righe): A040:F2=1 A041:F1=1 A045:F1=1 A060:F1=2 AAAA:F1=1 ADMM:F1=1 ADSS:F1=5 AS12:F1=1 EEEE:F1=3
+    ok [turno]: calibrato=true righe GPS=16 scartate=0
+  scarico https://www.istruzione.calabria.it/cosenza/wp-content/uploads/2026/10/m_pi.AOOUSPCS.REGISTRO-UFFICIALEU.0016340.30-10-2026.pdf
+    OCR: nessuna pagina scansionata nel documento
+  data ricavata dal nome del file: 2026-10-30
+    ok [altro]: calibrato=false righe GPS=0 scartate=0
+  scarico https://www.istruzione.calabria.it/cosenza/wp-content/uploads/2026/11/Bollettino-totale-nomine-4.pdf
+Warning: TT: undefined function: 21
+  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-11-06
+    fasce GPS: F1=36 F2=2
+    classi GPS (classe:fascia=righe): A040:F1=1 A040:F2=1 AAAA:F1=1 ADMM:F1=10 ADSS:F1=16 AG56:F1=1 AJ56:F1=1 AM30:F1=1 AN55:F1=1 AO55:F1=1 AW55:F2=1 B022:F1=1 EEEE:F1=2
+    ok [turno]: calibrato=true righe GPS=38 scartate=0
+  scarico https://www.istruzione.calabria.it/cosenza/wp-content/uploads/2026/11/bollettino-nomine-settimo-turno.pdf
+  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-11-20
+    fasce GPS: F1=16 F2=4
+    classi GPS (classe:fascia=righe): A026:F1=1 A040:F2=2 AAAA:F1=1 ADMM:F1=5 ADSS:F1=4 AM2B:F1=1 AM30:F1=1 AS2A:F2=1 AW55:F2=1 EEEE:F1=3
+    ok [turno]: calibrato=true righe GPS=20 scartate=0
+  turni letti=7 non letti=0 -> provincia completa
 -- KR Crotone --
 link da Orizzonte Scuola: 10
 totale pagine da controllare: 10
-  errore su https://www.istruzione.calabria.it/crotone/bollettino-n-1-per-nomine-a-tempo-determinato/ -> HTTP 503 su https://www.istruzione.calabria.it/crotone/bollettino-n-1-per-nomine-a-tempo-determinato/
-  errore su https://www.istruzione.calabria.it/crotone/rettifiche-ed-integrazioni-al-bollettino-di-nomine-1-supplenze-docenti-da-gae-e-gps/ -> HTTP 503 su https://www.istruzione.calabria.it/crotone/rettifiche-ed-integrazioni-al-bollettino-di-nomine-1-supplenze-docenti-da-gae-e-gps/
-  errore su https://www.istruzione.calabria.it/crotone/seconda-rettifica-al-bollettino-n-1-per-nomine-a-tempo-determinato-personale-docente-da-gps/ -> HTTP 503 su https://www.istruzione.calabria.it/crotone/seconda-rettifica-al-bollettino-n-1-per-nomine-a-tempo-determinato-personale-docente-da-gps/
-  errore su https://www.istruzione.calabria.it/crotone/bollettino-n-2-per-nomine-a-tempo-determinato-personale-docente/ -> HTTP 503 su https://www.istruzione.calabria.it/crotone/bollettino-n-2-per-nomine-a-tempo-determinato-personale-docente/
-  errore su https://www.istruzione.calabria.it/crotone/integrazioni-e-rettifiche-al-bollettino-n-2-per-contratti-a-tempo-determinato/ -> HTTP 503 su https://www.istruzione.calabria.it/crotone/integrazioni-e-rettifiche-al-bollettino-n-2-per-contratti-a-tempo-determinato/
-  errore su https://www.istruzione.calabria.it/crotone/terzo-bollettino-di-nomine-per-contratti-a-tempo-determinato-personale-docente/ -> HTTP 503 su https://www.istruzione.calabria.it/crotone/terzo-bollettino-di-nomine-per-contratti-a-tempo-determinato-personale-docente/
-  errore su https://www.istruzione.calabria.it/crotone/integrazioni-e-rettifiche-terzo-turno-bollettino-di-nomine-personale-docente/ -> HTTP 503 su https://www.istruzione.calabria.it/crotone/integrazioni-e-rettifiche-terzo-turno-bollettino-di-nomine-personale-docente/
-  errore su https://www.istruzione.calabria.it/crotone/quarto-bollettino-nomine-a-tempo-determinato/ -> HTTP 503 su https://www.istruzione.calabria.it/crotone/quarto-bollettino-nomine-a-tempo-determinato/
-  errore su https://www.istruzione.calabria.it/crotone/integrazione-al-quarto-bollettino-nomine-docenti/ -> HTTP 503 su https://www.istruzione.calabria.it/crotone/integrazione-al-quarto-bollettino-nomine-docenti/
-  errore su https://www.istruzione.calabria.it/crotone/bollettino-n-6-nomine-a-tempo-determinato-personale-docente/ -> HTTP 503 su https://www.istruzione.calabria.it/crotone/bollettino-n-6-nomine-a-tempo-determinato-personale-docente/
-  non leggibili che pesano sulle strisce (10):
-     · 9999  e/rettifiche-ed-integrazioni-al-bollettino-di-nomine-1-supplenze-docenti-da-gae-e-gps/ (errore)
-     · 9999  /crotone/integrazioni-e-rettifiche-terzo-turno-bollettino-di-nomine-personale-docente/ (errore)
-     · 9999  tps://www.istruzione.calabria.it/crotone/quarto-bollettino-nomine-a-tempo-determinato/ (errore)
-     · 9999  //www.istruzione.calabria.it/crotone/integrazione-al-quarto-bollettino-nomine-docenti/ (errore)
-     · 9999  ne/bollettino-n-1-per-nomine-a-tempo-determinato/ (pagina non raggiungibile, turno 1 mai letto)
-     · 9999  ine-a-tempo-determinato-personale-docente-da-gps/ (pagina non raggiungibile, turno 1 mai letto)
-     · 9999  per-nomine-a-tempo-determinato-personale-docente/ (pagina non raggiungibile, turno 2 mai letto)
-     · 9999  bollettino-n-2-per-contratti-a-tempo-determinato/ (pagina non raggiungibile, turno 2 mai letto)
-     · 9999  -contratti-a-tempo-determinato-personale-docente/ (pagina non raggiungibile, turno 3 mai letto)
-     · 9999  n-6-nomine-a-tempo-determinato-personale-docente/ (pagina non raggiungibile, turno 6 mai letto)
-  turni letti=0 non letti=10 -> da verificare
-  tengo i dati precedenti: turni letti ora=0, prima=8, pagine=10
+  scarico https://www.istruzione.calabria.it/crotone/wp-content/uploads/2026/08/BOLLETTINO-N.-1.pdf
+  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-08-31
+    fasce GPS: F1=452 F2=38
+    classi GPS (classe:fascia=righe): A002:F2=1 A010:F2=1 A011:F1=2 A015:F1=1 A016:F2=2 A018:F1=2 A019:F1=2 A020:F1=1 A021:F1=1 A023:F1=1 A023:F2=2 A026:F1=1 A027:F1=1 A028:F1=9 A037:F1=2 A040:F1=1 A041:F1=2 A045:F1=1 A047:F1=2 A050:F1=5 A052:F2=1 A054:F1=2 A054:F2=1 A060:F1=3 A063:F1=1 AC55:F2=1 AC56:F1=4 ADAA:F1=36 ADAA:F2=1 ADEE:F1=47 ADEE:F2=11 ADMM:F1=146 ADMM:F2=1 ADSS:F1=126 AG56:F1=1 AI55:F1=1 AI56:F1=1 AJ56:F1=1 AK55:F1=1 AM01:F1=1 AM12:F1=7 AM2A:F1=3 AM2B:F1=3 AM2C:F1=1 AM30:F1=2 AM48:F1=4 AP55:F2=1 AR55:F1=1 AS12:F1=4 AS23:F1=1 AS2B:F1=1 AS2C:F1=2 AS2C:F2=1 AS48:F1=3 AW55:F1=1 B006:F1=1 B011:F1=1 B014:F1=1 B015:F1=1 B015:F2=1 B016:F1=4 B017:F1=1 B020:F1=1 B024:F2=1 BC02:F2=1 EEEE:F1=2 EEEM:F2=11 EEIL:F1=2
+    ok [turno]: calibrato=true righe GPS=490 scartate=0
+  scarico https://www.istruzione.calabria.it/crotone/wp-content/uploads/2026/09/GPS-2026-2028-rettifiche-I-turno-di-nomine_prot_0004472.09-09-2026.pdf
+    OCR: nessuna pagina scansionata nel documento
+  scarico https://www.istruzione.calabria.it/crotone/wp-content/uploads/2026/09/rettifiche-ed-integrzioni-al-Bollettino-n.-1.pdf
+  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-09-09
+    ok [rett]: calibrato=true righe GPS=52 scartate=0
+  scarico https://www.istruzione.calabria.it/crotone/wp-content/uploads/2026/09/Seconda-rettifica-al-bollettino-n.-1-nomine-a-tempo-determinato-personale-docente-a.s.-2026-2027U.0004517.10-09-2026.pdf
+    OCR: nessuna pagina scansionata nel documento
+  scarico https://www.istruzione.calabria.it/crotone/wp-content/uploads/2026/09/Seconda-rettifica-al-bollettino-n.1.pdf
+  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-09-10
+    ok [rett]: calibrato=true righe GPS=13 scartate=0
+  scarico https://www.istruzione.calabria.it/crotone/wp-content/uploads/2026/09/bollettino-n.-2-nomine-a-tempo-determinato-personale-docente.pdf
+  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-09-17
+    fasce GPS: F1=30 F2=7
+    classi GPS (classe:fascia=righe): A002:F2=1 A011:F1=2 A018:F1=1 A019:F1=1 A026:F1=2 A028:F1=1 A037:F1=1 A040:F1=1 A045:F1=1 A047:F1=2 A050:F1=1 A051:F1=1 A060:F2=1 ADAA:F1=1 ADMM:F1=2 ADSS:F1=8 AM2A:F2=1 AS12:F1=1 B011:F2=2 B015:F2=1 B026:F1=1 EEEE:F1=2 EEEM:F1=1 EEEM:F2=1
+    ok [turno]: calibrato=true righe GPS=37 scartate=0
+  scarico https://www.istruzione.calabria.it/crotone/wp-content/uploads/2026/09/Integrazioni-e-rettifiche-al-bollettino-n.-2.pdf
+  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-09-22
+    ok [rett]: calibrato=true righe GPS=9 scartate=0
+  scarico https://www.istruzione.calabria.it/crotone/wp-content/uploads/2026/10/III-bollettino-nomine-a-t.d.-2026-2027.pdf
+  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-10-07
+    fasce GPS: F1=11 F2=7
+    classi GPS (classe:fascia=righe): A016:F2=1 A018:F1=1 A028:F1=1 A037:F2=1 A040:F2=1 ADAA:F1=1 ADAA:F2=3 ADSS:F1=3 AG56:F1=1 AM2B:F1=1 AM2C:F1=1 AM48:F1=1 EEEM:F2=1 EEIL:F1=1
+    ok [turno]: calibrato=true righe GPS=18 scartate=0
+  scarico https://www.istruzione.calabria.it/crotone/wp-content/uploads/2026/10/INTEGRAZIONI-E-RETTIFICHE-A-III-TURNO-NOMINE-A-T.D.-2026-2027.pdf
+  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-10-14
+    ok [rett]: calibrato=true righe GPS=2 scartate=0
+  scarico https://www.istruzione.calabria.it/crotone/wp-content/uploads/2026/10/bollettino-n.-4-nomine-a-tempo-determinato.pdf
+  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-10-21
+    fasce GPS: F1=14 F2=1
+    classi GPS (classe:fascia=righe): A026:F1=1 A028:F1=1 ADMM:F1=1 ADSS:F1=2 AM01:F1=1 AM12:F1=3 AM2B:F1=2 AM30:F1=1 AS2B:F1=1 EEEE:F1=1 EEEM:F2=1
+    ok [turno]: calibrato=true righe GPS=15 scartate=0
+  scarico https://www.istruzione.calabria.it/crotone/wp-content/uploads/2026/10/integrazione-bollettino-n.4.pdf
+  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-10-26
+    fasce GPS: F1=1 F2=0
+    classi GPS (classe:fascia=righe): A028:F1=1
+    ok [turno]: calibrato=true righe GPS=1 scartate=0
+  scarico https://www.istruzione.calabria.it/crotone/wp-content/uploads/2026/11/bollettino-n.-6-nomine-a-tempo-determinato-personale-docente.pdf
+  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-11-11
+    fasce GPS: F1=2 F2=0
+    classi GPS (classe:fascia=righe): ADSS:F1=1 AM30:F1=1
+    ok [turno]: calibrato=true righe GPS=2 scartate=0
+  TURNO MANCANTE: 5
+  non leggibili che pesano sulle strisce (1):
+     · 2026-11-11  turno mancante 5 (prima del 6)
+  turni letti=6 non letti=1 -> da verificare
+  tengo i dati precedenti: turni letti ora=6, prima=8, pagine=10
 -- RC Reggio Calabria --
 link da Orizzonte Scuola: 14
 totale pagine da controllare: 14
-  errore su https://www.istruzioneatprc.it/aoousprc14671-20260829/ -> fetch failed
-  errore su https://www.istruzioneatprc.it/aoousprc15453-20260908/ -> fetch failed
-  errore su https://www.istruzioneatprc.it/aoousprc15931-20260916/ -> fetch failed
-  errore su https://www.istruzioneatprc.it/aoousprc16117-20260917/ -> fetch failed
-  errore su https://www.istruzioneatprc.it/aoousprc16485-20260924/ -> fetch failed
-  errore su https://www.istruzioneatprc.it/aoousprc17153-20261006/ -> fetch failed
-  errore su https://www.istruzioneatprc.it/aoousprc17250-20261008/ -> fetch failed
-  errore su https://www.istruzioneatprc.it/aoousprc17472-20261013/ -> fetch failed
-  errore su https://www.istruzioneatprc.it/aoousprc17798-20261016/ -> fetch failed
-  errore su https://www.istruzioneatprc.it/aoousprc18242-20261023/ -> fetch failed
-  errore su https://www.istruzioneatprc.it/aoousprc18796-20261030/ -> fetch failed
-  errore su https://www.istruzioneatprc.it/aoousprc19102-20261104/ -> fetch failed
-  errore su https://www.istruzioneatprc.it/aoousprc19769-20261113/ -> fetch failed
-  errore su https://www.istruzioneatprc.it/aoousprc20041-20261118/ -> fetch failed
-  non leggibili che pesano sulle strisce (9):
-     · 9999  https://www.istruzioneatprc.it/aoousprc16117-20260917/ (errore)
-     · 9999  https://www.istruzioneatprc.it/aoousprc17153-20261006/ (errore)
-     · 9999  https://www.istruzioneatprc.it/aoousprc17798-20261016/ (errore)
-     · 9999  https://www.istruzioneatprc.it/aoousprc18242-20261023/ (errore)
-     · 9999  https://www.istruzioneatprc.it/aoousprc18796-20261030/ (errore)
-     · 9999  https://www.istruzioneatprc.it/aoousprc19102-20261104/ (errore)
-     · 9999  https://www.istruzioneatprc.it/aoousprc19769-20261113/ (errore)
-     · 9999  https://www.istruzioneatprc.it/aoousprc20041-20261118/ (errore)
-     · 9999  ://www.istruzioneatprc.it/aoousprc14671-20260829/ (pagina non raggiungibile, turno 1 mai letto)
-  turni letti=0 non letti=9 -> da verificare
+  nessun PDF o foglio trovato in https://www.istruzioneatprc.it/aoousprc14671-20260829/
+  nessun PDF o foglio trovato in https://www.istruzioneatprc.it/aoousprc15453-20260908/
+  nessun PDF o foglio trovato in https://www.istruzioneatprc.it/aoousprc15931-20260916/
+  pagina senza allegato riconoscibile (181251 caratteri); collegamenti a documenti: nessuno
+     siti esterni nella pagina: www.istruzione.calabria.it(7), www.miur.gov.it(2)
+  nessun PDF o foglio trovato in https://www.istruzioneatprc.it/aoousprc16117-20260917/
+  nessun PDF o foglio trovato in https://www.istruzioneatprc.it/aoousprc16485-20260924/
+  pagina senza allegato riconoscibile (181244 caratteri); collegamenti a documenti: nessuno
+     siti esterni nella pagina: www.istruzione.calabria.it(7), www.miur.gov.it(2)
+  nessun PDF o foglio trovato in https://www.istruzioneatprc.it/aoousprc17153-20261006/
+  nessun PDF o foglio trovato in https://www.istruzioneatprc.it/aoousprc17250-20261008/
+  nessun PDF o foglio trovato in https://www.istruzioneatprc.it/aoousprc17472-20261013/
+  pagina senza allegato riconoscibile (181180 caratteri); collegamenti a documenti: nessuno
+     siti esterni nella pagina: www.istruzione.calabria.it(7), www.miur.gov.it(2)
+  nessun PDF o foglio trovato in https://www.istruzioneatprc.it/aoousprc17798-20261016/
+  pagina senza allegato riconoscibile (181210 caratteri); collegamenti a documenti: nessuno
+     siti esterni nella pagina: www.istruzione.calabria.it(7), www.miur.gov.it(2)
+  nessun PDF o foglio trovato in https://www.istruzioneatprc.it/aoousprc18242-20261023/
+  pagina senza allegato riconoscibile (181333 caratteri); collegamenti a documenti: nessuno
+     siti esterni nella pagina: www.istruzione.calabria.it(7), www.miur.gov.it(2)
+  nessun PDF o foglio trovato in https://www.istruzioneatprc.it/aoousprc18796-20261030/
+  pagina senza allegato riconoscibile (181298 caratteri); collegamenti a documenti: nessuno
+     siti esterni nella pagina: www.istruzione.calabria.it(7), www.miur.gov.it(2)
+  nessun PDF o foglio trovato in https://www.istruzioneatprc.it/aoousprc19102-20261104/
+  pagina senza allegato riconoscibile (181412 caratteri); collegamenti a documenti: nessuno
+     siti esterni nella pagina: www.istruzione.calabria.it(7), www.miur.gov.it(2)
+  nessun PDF o foglio trovato in https://www.istruzioneatprc.it/aoousprc19769-20261113/
+  pagina senza allegato riconoscibile (181348 caratteri); collegamenti a documenti: nessuno
+     siti esterni nella pagina: www.istruzione.calabria.it(7), www.miur.gov.it(2)
+  nessun PDF o foglio trovato in https://www.istruzioneatprc.it/aoousprc20041-20261118/
+  non leggibili che pesano sulle strisce (8):
+     · 2026-11-23  https://www.istruzioneatprc.it/aoousprc16117-20260917/
+     · 2026-11-23  https://www.istruzioneatprc.it/aoousprc17153-20261006/
+     · 2026-11-23  https://www.istruzioneatprc.it/aoousprc17798-20261016/
+     · 2026-11-23  https://www.istruzioneatprc.it/aoousprc18242-20261023/
+     · 2026-11-23  https://www.istruzioneatprc.it/aoousprc18796-20261030/
+     · 2026-11-23  https://www.istruzioneatprc.it/aoousprc19102-20261104/
+     · 2026-11-23  https://www.istruzioneatprc.it/aoousprc19769-20261113/
+     · 2026-11-23  https://www.istruzioneatprc.it/aoousprc20041-20261118/
+  turni letti=0 non letti=8 -> da verificare
 -- GO Gorizia --
 link da Orizzonte Scuola: 5
 totale pagine da controllare: 5
@@ -9451,6 +10137,7 @@ totale pagine da controllare: 10
   scartati 1 decreti (non sono bollettini)
   scarico https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/Direzione/Ufficio3/allegati-ufficio-3/2026/VI-bollettino-nomine-a-TD.pdf
     dalla memoria: letto (righe GPS=4)
+  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-10-15
     fasce GPS: F1=1 F2=3
     classi GPS (classe:fascia=righe): A027:F2=1 AS48:F1=1 B016:F2=2
     ok [turno]: calibrato=true righe GPS=4 scartate=0
@@ -9498,6 +10185,7 @@ totale pagine da controllare: 14
     ok [rett]: calibrato=false righe GPS=0 scartate=0
   scarico https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/ufficio-territoriale-di-udine/allegati/2026-09-17_12016_AOOUSPUD_assunzioni-TD-docenti_Bollettino_TotaleNomine_definitivo.pdf
     dalla memoria: letto (righe GPS=21)
+  data ricavata dal nome del file: 2026-09-17
     fasce GPS: F1=4 F2=17
     classi GPS (classe:fascia=righe): A019:F1=1 A041:F2=2 A050:F2=1 AAAA:F1=1 AAAA:F2=1 AM01:F2=1 AP55:F1=1 AS12:F1=1 B003:F2=1 B012:F2=1 B017:F2=3 B018:F2=1 BD02:F2=1 EEEE:F2=1 PPPP:F2=4
     ok [turno]: calibrato=true righe GPS=21 scartate=0
@@ -9523,6 +10211,7 @@ totale pagine da controllare: 14
     ok [turno]: calibrato=true righe GPS=3 scartate=0
   scarico https://usrfvg.gov.it/export/sites/default/it/home/menu/uffici/ufficio-territoriale-di-udine/allegati/2026-10-19_13161_AOOUSPUD_assunzioni-TD-docenti_Bollettino_TotaleNomine_definitivo.pdf
     dalla memoria: letto (righe GPS=1)
+  data ricavata dal nome del file: 2026-10-19
     fasce GPS: F1=0 F2=1
     classi GPS (classe:fascia=righe): B018:F2=1
     ok [turno]: calibrato=true righe GPS=1 scartate=0
@@ -9998,9 +10687,9 @@ totale pagine da controllare: 23
   scarico https://www.istruzionegenova.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1640
     dalla memoria: non letto (righe GPS=0)
   scarico https://www.istruzionegenova.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1639
-    collegamento di condivisione (www.istruzionegenova.gov.it/pvw2/app/default/tools.php): tipo pdf, 57089 byte, righe lette=0
+    dalla memoria: non letto (righe GPS=0)
   scarico https://www.istruzionegenova.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1638
-    collegamento di condivisione (www.istruzionegenova.gov.it/pvw2/app/default/tools.php): tipo xlsx, 19148 byte, righe lette=0
+    dalla memoria: non letto (righe GPS=0)
   data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-10-01
     fasce GPS: F1=0 F2=0
     ok [turno]: calibrato=false righe GPS=0 scartate=0
@@ -10010,12 +10699,11 @@ totale pagine da controllare: 23
   scarico https://cspace.spaggiari.eu//pub/GESR0002/GPS%202026-2028/TURNI%20GPS/VII%20TURNO/Bollettino_TotaleNomine_VII_TURNO.xlsx
     dalla memoria: non letto (righe GPS=0)
   scarico https://www.istruzionegenova.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1650
-Warning: TT: undefined function: 32
-    collegamento di condivisione (www.istruzionegenova.gov.it/pvw2/app/default/tools.php): tipo pdf, 256825 byte, righe lette=0
+    dalla memoria: non letto (righe GPS=0)
   scarico https://www.istruzionegenova.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1649
-    collegamento di condivisione (www.istruzionegenova.gov.it/pvw2/app/default/tools.php): tipo pdf, 30290 byte, righe lette=0
+    dalla memoria: non letto (righe GPS=0)
   scarico https://www.istruzionegenova.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1648
-    collegamento di condivisione (www.istruzionegenova.gov.it/pvw2/app/default/tools.php): tipo xlsx, 10834 byte, righe lette=0
+    dalla memoria: non letto (righe GPS=0)
   data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-10-14
     fasce GPS: F1=0 F2=0
     ok [turno]: calibrato=false righe GPS=0 scartate=0
@@ -10028,8 +10716,7 @@ Warning: TT: undefined function: 32
   scarico https://cspace.spaggiari.eu//pub/GESR0002/GPS%202026-2028/TURNI%20GPS/VII%20TURNO/Bollettino_TotaleNomine_VII_TURNO.xlsx
     dalla memoria: non letto (righe GPS=0)
   scarico https://www.istruzionegenova.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1656
-Warning: TT: undefined function: 32
-    collegamento di condivisione (www.istruzionegenova.gov.it/pvw2/app/default/tools.php): tipo pdf, 257029 byte, righe lette=0
+    dalla memoria: non letto (righe GPS=0)
   data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-10-19
     fasce GPS: F1=0 F2=0
     ok [turno]: calibrato=false righe GPS=0 scartate=0
@@ -10039,12 +10726,11 @@ Warning: TT: undefined function: 32
   scarico https://cspace.spaggiari.eu//pub/GESR0002/GPS%202026-2028/TURNI%20GPS/IX%20turno/Bollettino_TotaleNomine_IX_TURNO.xlsx
     dalla memoria: non letto (righe GPS=0)
   scarico https://www.istruzionegenova.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1663
-    collegamento di condivisione (www.istruzionegenova.gov.it/pvw2/app/default/tools.php): tipo xlsx, 4953 byte, righe lette=0
+    dalla memoria: non letto (righe GPS=0)
   scarico https://www.istruzionegenova.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1662
-    collegamento di condivisione (www.istruzionegenova.gov.it/pvw2/app/default/tools.php): tipo pdf, 28259 byte, righe lette=0
+    dalla memoria: non letto (righe GPS=0)
   scarico https://www.istruzionegenova.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1661
-Warning: TT: undefined function: 32
-    collegamento di condivisione (www.istruzionegenova.gov.it/pvw2/app/default/tools.php): tipo pdf, 257400 byte, righe lette=0
+    dalla memoria: non letto (righe GPS=0)
   data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-10-21
     fasce GPS: F1=0 F2=0
     ok [turno]: calibrato=false righe GPS=0 scartate=0
@@ -10056,9 +10742,9 @@ Warning: TT: undefined function: 32
   scarico https://www.istruzionegenova.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1667
     dalla memoria: non letto (righe GPS=0)
   scarico https://www.istruzionegenova.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1665
-    collegamento di condivisione (www.istruzionegenova.gov.it/pvw2/app/default/tools.php): tipo pdf, 28088 byte, righe lette=0
+    dalla memoria: non letto (righe GPS=0)
   scarico https://www.istruzionegenova.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1664
-    collegamento di condivisione (www.istruzionegenova.gov.it/pvw2/app/default/tools.php): tipo xlsx, 4828 byte, righe lette=0
+    dalla memoria: non letto (righe GPS=0)
   data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-10-23
     fasce GPS: F1=0 F2=0
     ok [turno]: calibrato=false righe GPS=0 scartate=0
@@ -10066,25 +10752,15 @@ Warning: TT: undefined function: 32
   scarico https://cspace.spaggiari.eu//pub/GESR0002/GPS%202026-2028/TURNI%20GPS/XI%20TURNO/Bollettino_TotaleNomine_XI_TURNO.pdf
     dalla memoria: non letto (righe GPS=0)
   scarico https://www.istruzionegenova.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1669
-    collegamento di condivisione (www.istruzionegenova.gov.it/pvw2/app/default/tools.php): tipo pdf, 27869 byte, righe lette=0
+    dalla memoria: non letto (righe GPS=0)
   scarico https://www.istruzionegenova.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1668
-Warning: TT: undefined function: 32
-    collegamento di condivisione (www.istruzionegenova.gov.it/pvw2/app/default/tools.php): tipo pdf, 253928 byte, righe lette=0
+    dalla memoria: non letto (righe GPS=0)
   data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-10-26
     fasce GPS: F1=0 F2=0
     ok [turno]: calibrato=false righe GPS=0 scartate=0
-  scartati 1 decreti (non sono bollettini)
-  scarico https://www.istruzionegenova.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1671
-    documento non leggibile: https://www.istruzionegenova.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1671 HTTP 509 su https://www.istruzionegenova.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1671
-  nessun PDF utilizzabile in https://www.istruzionegenova.gov.it/pagine/xii-turno-gps---as-2026-2027
-  scartati 1 decreti (non sono bollettini)
-  scarico https://www.istruzionegenova.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1674
-    documento non leggibile: https://www.istruzionegenova.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1674 HTTP 509 su https://www.istruzionegenova.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1674
-  nessun PDF utilizzabile in https://www.istruzionegenova.gov.it/pagine/xiv-turno-gps---as-2026-2027
-  scartati 1 decreti (non sono bollettini)
-  scarico https://www.istruzionegenova.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1675
-    documento non leggibile: https://www.istruzionegenova.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1675 HTTP 509 su https://www.istruzionegenova.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1675
-  nessun PDF utilizzabile in https://www.istruzionegenova.gov.it/pagine/xv-turno-gps---as-2026-2027
+  errore su https://www.istruzionegenova.gov.it/pagine/xii-turno-gps---as-2026-2027 -> HTTP 509 su https://www.istruzionegenova.gov.it/pagine/xii-turno-gps---as-2026-2027
+  errore su https://www.istruzionegenova.gov.it/pagine/xiv-turno-gps---as-2026-2027 -> HTTP 509 su https://www.istruzionegenova.gov.it/pagine/xiv-turno-gps---as-2026-2027
+  errore su https://www.istruzionegenova.gov.it/pagine/xv-turno-gps---as-2026-2027 -> HTTP 509 su https://www.istruzionegenova.gov.it/pagine/xv-turno-gps---as-2026-2027
   errore su https://www.istruzionegenova.gov.it/pagine/xvi-turno-gps---as-2026-2027 -> HTTP 509 su https://www.istruzionegenova.gov.it/pagine/xvi-turno-gps---as-2026-2027
   errore su https://www.istruzionegenova.gov.it/pagine/xvii-turno-gps---as-2026-2027 -> HTTP 509 su https://www.istruzionegenova.gov.it/pagine/xvii-turno-gps---as-2026-2027
   errore su https://www.istruzionegenova.gov.it/pagine/xviii-turno-gps---as-2026-2027 -> HTTP 509 su https://www.istruzionegenova.gov.it/pagine/xviii-turno-gps---as-2026-2027
@@ -10095,9 +10771,7 @@ Warning: TT: undefined function: 32
   errore su https://www.istruzionegenova.gov.it/pagine/xxiii-turno-gps---as-2026-2027 -> HTTP 509 su https://www.istruzionegenova.gov.it/pagine/xxiii-turno-gps---as-2026-2027
   errore su https://www.istruzionegenova.gov.it/pagine/xxv-turno-gps---as-2026-2027 -> HTTP 509 su https://www.istruzionegenova.gov.it/pagine/xxv-turno-gps---as-2026-2027
   TURNO MANCANTE: 6
-  TURNO MANCANTE: 11
-  TURNO MANCANTE: 13
-  non leggibili che pesano sulle strisce (26):
+  non leggibili che pesano sulle strisce (24):
      · 2026-08-31  e.spaggiari.eu//pub/GESR0002/GPS%202026-2028/TURNI%20GPS/I%20TURNO_GPS_GENOVA.pdf?_t=1788190575
      · 2026-09-04  https://cspace.spaggiari.eu//pub/GESR0002/GPS%202026-2028/TURNI%20GPS/ppp.pdf?_t=1788533921
      · 2026-09-11  PS%202026-2028/TURNI%20GPS/ii%20turno/II%20TURNO%20GPS%20-%20bollettino%20INS.pdf?_t=1789138390
@@ -10109,8 +10783,8 @@ Warning: TT: undefined function: 32
      · 2026-10-21  ri.eu//pub/GESR0002/GPS%202026-2028/TURNI%20GPS/IX%20turno/Bollettino_TotaleNomine_IX_TURNO.pdf
      · 2026-10-23  iari.eu//pub/GESR0002/GPS%202026-2028/TURNI%20GPS/X%20Turno/Bollettino_TotaleNomine_X_TURNO.pdf
      · 2026-10-26  ri.eu//pub/GESR0002/GPS%202026-2028/TURNI%20GPS/XI%20TURNO/Bollettino_TotaleNomine_XI_TURNO.pdf
-     · 9999  https://www.istruzionegenova.gov.it/pagine/xvi-turno-gps---as-2026-2027 (errore)
-  turni letti=0 non letti=26 -> da verificare
+     · 9999  https://www.istruzionegenova.gov.it/pagine/xii-turno-gps---as-2026-2027 (errore)
+  turni letti=0 non letti=24 -> da verificare
 -- AP Ascoli Piceno --
 link da Orizzonte Scuola: 18
 ricerca automatica file su https://www.uspascolipiceno.it/wordpress -> 18 file
@@ -11001,9 +11675,9 @@ totale pagine da controllare: 3
      siti esterni nella pagina: www.phoca.cz(1)
   nessun PDF o foglio trovato in https://www.ustlecce.it/index.php/personale-docente
   non leggibili che pesano sulle strisce (3):
-     · 2026-11-22  -chiarimenti-sugli-esiti-della-fase-1-delle-supplenze-e-modalita-di-gestione-delle-segnalazioni
-     · 2026-11-22  https://www.ustlecce.it/index.php/personale-docente
-     · 2026-11-22  r-l-anno-scolastico-2026-27-fase-1-scuola-infanzia-primaria-secondaria-di-primo-e-secondo-grado
+     · 2026-11-23  -chiarimenti-sugli-esiti-della-fase-1-delle-supplenze-e-modalita-di-gestione-delle-segnalazioni
+     · 2026-11-23  https://www.ustlecce.it/index.php/personale-docente
+     · 2026-11-23  r-l-anno-scolastico-2026-27-fase-1-scuola-infanzia-primaria-secondaria-di-primo-e-secondo-grado
   turni letti=0 non letti=3 -> da verificare
 -- TA Taranto --
 link da Orizzonte Scuola: 12
@@ -11540,9 +12214,9 @@ totale pagine da controllare: 8
     classi GPS (classe:fascia=righe): A005:F2=1 A009:F1=1 A026:F1=1 A027:F1=1 A028:F1=3 A041:F1=1 A050:F1=1 A060:F1=1 ADMM:F1=7 ADSS:F1=3 AK56:F1=1 AM12:F1=2 AM30:F1=3 AS01:F1=1 AS2A:F1=1 AW55:F1=1 B009:F2=1 B018:F1=1 EEEE:F1=8 EEEM:F2=1 EEIL:F1=1
     ok [turno]: calibrato=true righe GPS=41 scartate=0
   non leggibili che pesano sulle strisce (3):
-     · 2026-11-22  t/supplenze-docenti-da-gae-e-gps-a-s-2026-27-individuazione-e-assegnazione-delle-sedi-ii-turno/
-     · 2026-11-22  /supplenze-docenti-da-gae-e-gps-a-s-2026-27-individuazione-e-assegnazione-delle-sedi-iii-turno/
-     · 2026-11-22  t/supplenze-docenti-da-gae-e-gps-a-s-2026-27-individuazione-e-assegnazione-delle-sedi-iv-turno/
+     · 2026-11-23  t/supplenze-docenti-da-gae-e-gps-a-s-2026-27-individuazione-e-assegnazione-delle-sedi-ii-turno/
+     · 2026-11-23  /supplenze-docenti-da-gae-e-gps-a-s-2026-27-individuazione-e-assegnazione-delle-sedi-iii-turno/
+     · 2026-11-23  t/supplenze-docenti-da-gae-e-gps-a-s-2026-27-individuazione-e-assegnazione-delle-sedi-iv-turno/
   turni letti=3 non letti=3 -> da verificare
 -- RG Ragusa --
 link da Orizzonte Scuola: 16
@@ -11645,7 +12319,7 @@ totale pagine da controllare: 16
   scartato documento di accompagnamento non leggibile del 2026-10-12: esiste un bollettino letto con la stessa data
   scartato documento di accompagnamento non leggibile del 2026-10-12: esiste un bollettino letto con la stessa data
   non leggibili che pesano sulle strisce (1):
-     · 2026-11-22  https://rg.usr.sicilia.it/download/1704/11351/11354/documenti.zip
+     · 2026-11-23  https://rg.usr.sicilia.it/download/1704/11351/11354/documenti.zip
   turni letti=8 non letti=1 -> da verificare
 -- SR Siracusa --
 link da Orizzonte Scuola: 8
@@ -12510,5 +13184,5 @@ totale pagine da controllare: 11
     ok [turno]: calibrato=true righe GPS=4 scartate=0
   ignorati 1 documenti non leggibili precedenti al primo bollettino letto (2026-09-11)
   turni letti=10 non letti=0 -> provincia completa
-RIEPILOGO DA VERIFICARE: letti con OCR=0 | zero righe=0 | non letti=73 | turni mancanti=8
+RIEPILOGO DA VERIFICARE: letti con OCR=0 | zero righe=0 | non letti=82 | turni mancanti=7
 Scritto /home/runner/work/atrium/atrium/data/bollettini.json
