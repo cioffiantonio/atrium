@@ -377,7 +377,7 @@ totale pagine da controllare: 40
   scarico http://re.istruzioneer.gov.it/wp-content/uploads/sites/10/2019/02/Informazioni-Equipollenze-Titoli-di-Studio-1.pdf
     dalla memoria: non letto (righe GPS=0)
   documento di tipo decreto, non è un bollettino: ignoro wp-content/uploads/sites/10/2026/11/dichiarazione-sostitutivaesame.pdf
-  pagina senza allegato riconoscibile (70233 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (70268 caratteri); collegamenti a documenti: nessuno
      siti esterni nella pagina: gmpg.org(1), wp.me(1), educazionecivicare.altervista.org(1), www.garanteprivacy.it(1), istruzioneer.gov.it(1), archivi.istruzioneer.it(1)
   non sembra un bollettino, ignoro: https://re.istruzioneer.gov.it/2026/08/20/gps-cancellazione-domande-informatizzazione-nomine-supplenze-a-s-2026-2027/
   scarico https://re.istruzioneer.gov.it/wp-content/uploads/sites/10/2026/10/Bollettino_TotaleNomine-6.pdf
@@ -495,21 +495,9 @@ totale pagine da controllare: 49
     classi GPS (classe:fascia=righe): A027:F1=1 A031:F1=1 ADSS:F1=4 AJ56:F1=1 AS2A:F1=1 EEEE:F1=1 EEEE:F2=1
     ok [turno]: calibrato=true righe GPS=10 scartate=0
   scarico https://bo.istruzioneer.gov.it/2026/11/24/nomine-gps-a-t-d-ogni-ordine-e-grado-disponibilita-20-turno-a-s-2026-27/?download=38768
-    OCR: nessuna pagina scansionata nel documento
+    dalla memoria: non letto (righe GPS=0)
   scarico https://bo.istruzioneer.gov.it/2026/11/24/nomine-gps-a-t-d-ogni-ordine-e-grado-disponibilita-20-turno-a-s-2026-27/?download=38773
-Warning: TT: undefined function: 21
-Warning: TT: undefined function: 21
-Warning: TT: invalid function id: 136
-Warning: TT: invalid function id: 136
-Warning: TT: undefined function: 21
-Warning: TT: undefined function: 21
-Warning: TT: invalid function id: 136
-Warning: TT: invalid function id: 136
-    OCR: nessuna pagina scansionata nel documento
-Warning: TT: undefined function: 21
-Warning: TT: undefined function: 21
-Warning: TT: invalid function id: 136
-Warning: TT: invalid function id: 136
+    dalla memoria: non letto (righe GPS=0)
     ok [altro]: calibrato=false righe GPS=0 scartate=0
   scarico https://bo.istruzioneer.gov.it/2026/11/19/nomine-gps-a-t-d-ogni-ordine-e-grado-disponibilita-19-turno-a-s-2026-27/?download=38711
     dalla memoria: non letto (righe GPS=0)
@@ -1202,7 +1190,7 @@ totale pagine da controllare: 36
     ok [turno]: calibrato=true righe GPS=3 scartate=0
   anno scolastico precedente, salto: https://ra.istruzioneer.gov.it/2026/08/03/d-m-119-2024-esiti-procedura-straordinaria-di-immissione-in-ruolo-da-gps-i-fascia/
   scartati 1 allegati generici (contatti, organigramma...)
-  pagina senza allegato riconoscibile (70615 caratteri); collegamenti a documenti: 
+  pagina senza allegato riconoscibile (70595 caratteri); collegamenti a documenti: 
      ~ https://ra.istruzioneer.gov.it/wp-content/uploads/sites/7/2026/11/BROCHURE-2026-2027-FASE3-Ravenna3.pdf
      siti esterni nella pagina: www.istruzioneer.gov.it(2), gmpg.org(1), archivi.istruzioneer.it(1), istruzioneer.gov.it(1), www.google.com(1), stats.wp.com(1)
   non sembra un bollettino, ignoro: https://ra.istruzioneer.gov.it/2026/11/09/progetto-speciale-lions-infanzia-e-autismo/
@@ -1599,7 +1587,7 @@ totale pagine da controllare: 25
   turni letti=4 non letti=0 -> provincia completa
 -- SA Salerno --
 link da Orizzonte Scuola: 0
-collegamenti dalla pagina elenco https://www.mim.gov.it/web/miur-usr-campania/uat-salerno : 21 (pagina di 231637 caratteri)
+collegamenti dalla pagina elenco https://www.mim.gov.it/web/miur-usr-campania/uat-salerno : 21 (pagina di 231644 caratteri)
    - Personale docente - Decreto pubblicazione 10° bollettino supplenze | it/web/miur-usr-campania/-/personale-docente-decreto-pubblicazione-10-bollettino-supplenze
    - Personale docente - Decreto Pubblicazione 9° Bollettino Supplenze | .it/web/miur-usr-campania/-/personale-docente-decreto-pubblicazione-9-bollettino-supplenze
    - Personale docente - Decreto pubblicazione 8° bollettino supplenze | .it/web/miur-usr-campania/-/personale-docente-decreto-pubblicazione-8-bollettino-supplenze
@@ -2046,7 +2034,7 @@ totale pagine da controllare: 36
   pagina di elenco o avviso, non è un bollettino: ignoro co-i-bollettini-nomine-al-31-agosto-o-30-giugno-2027-in-aggiornamento/
   pagina di elenco o avviso, non è un bollettino: ignoro -i-bollettini-nomine-al-31-agosto-o-30-giugno-2027-in-aggiornamento%2F
   pagina di elenco o avviso, non è un bollettino: ignoro co-i-bollettini-nomine-al-31-agosto-o-30-giugno-2027-in-aggiornamento/
-  pagina senza allegato riconoscibile (2952856 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (2952863 caratteri); collegamenti a documenti: nessuno
      siti esterni nella pagina: encrypted-tbn3.gstatic.com(1), www.tiktok.com(1), www.orizzontescuola.it(1)
   non sembra un bollettino, ignoro: https://profile.google.com/cp/Cg0vZy8xMXZrejAweDg1
   pagina di elenco o avviso, non è un bollettino: ignoro forma-ed-evitare-errori-iscriviti-al-webinar-come-farlo-gratuitamente/
@@ -2233,7 +2221,7 @@ totale pagine da controllare: 13
   turni letti=13 non letti=0 -> provincia completa
 -- MB Monza e Brianza --
 link da Orizzonte Scuola: 15
-collegamenti dalla pagina elenco https://www.mim.gov.it/web/monza-brianza/albo-pretorio : 13 (pagina di 346633 caratteri)
+collegamenti dalla pagina elenco https://www.mim.gov.it/web/monza-brianza/albo-pretorio : 13 (pagina di 346587 caratteri)
    - Esiti operazioni di nomina a tempo determinato del personale ATA inser | _publisher_web_portlet_AssetPublisherPortlet_INSTANCE_2dXONPlMhTmr_assetEntryId%3D11014803
    - Prospetto provinciale delle disponibilità del personale ATA per l'anno | _publisher_web_portlet_AssetPublisherPortlet_INSTANCE_2dXONPlMhTmr_assetEntryId%3D11006030
    - Prospetto provinciale delle disponibilità del personale ATA per l'anno | _publisher_web_portlet_AssetPublisherPortlet_INSTANCE_2dXONPlMhTmr_assetEntryId%3D11002804
@@ -2756,7 +2744,7 @@ totale pagine da controllare: 61
   turni letti=10 non letti=2 -> da verificare
 -- BG Bergamo --
 link da Orizzonte Scuola: 15
-collegamenti dalla pagina elenco https://www.mim.gov.it/web/bergamo/albo-pretorio : 55 (pagina di 326178 caratteri)
+collegamenti dalla pagina elenco https://www.mim.gov.it/web/bergamo/albo-pretorio : 55 (pagina di 326224 caratteri)
    - Nomine a tempo determinato da GPS – a.s. 2026/27 – Bollettino n. 15 | www.mim.gov.it/web/bergamo/-/nomine-a-tempo-determinato-da-gps-a-s-2026-27-bollettino-n-15
    - Nomine a tempo determinato da GPS – a.s. 2026/27 – Bollettino n. 14 | www.mim.gov.it/web/bergamo/-/nomine-a-tempo-determinato-da-gps-a-s-2026-27-bollettino-n-14
    - Nomine a tempo determinato da GPS – a.s. 2026/27 – Bollettino n. 13 | www.mim.gov.it/web/bergamo/-/nomine-a-tempo-determinato-da-gps-a-s-2026-27-bollettino-n-13
@@ -3047,7 +3035,7 @@ totale pagine da controllare: 68
   turni letti=13 non letti=0 -> provincia completa
 -- BS Brescia --
 link da Orizzonte Scuola: 11
-collegamenti dalla pagina elenco https://www.mim.gov.it/web/brescia/albo-pretorio : 33 (pagina di 305931 caratteri)
+collegamenti dalla pagina elenco https://www.mim.gov.it/web/brescia/albo-pretorio : 33 (pagina di 305932 caratteri)
    - Tredicesimo bollettino di nomine a tempo determinato da GAE e GPS - Es | i-nomine-a-tempo-determinato-da-gae-e-gps-esito-conferimento-nomine-a-t-d-da-i-e-ii-fascia
    - Dodicesimo bollettino di nomine a tempo determinato da GAE e GPS - Esi | i-nomine-a-tempo-determinato-da-gae-e-gps-esito-conferimento-nomine-a-t-d-da-i-e-ii-fascia
    - Undicesimo bollettino di nomine a tempo determinato da GAE e GPS - Esi | i-nomine-a-tempo-determinato-da-gae-e-gps-esito-conferimento-nomine-a-t-d-da-i-e-ii-fascia
@@ -3580,7 +3568,7 @@ totale pagine da controllare: 56
   turni letti=10 non letti=0 -> provincia completa
 -- CR Cremona --
 link da Orizzonte Scuola: 12
-collegamenti dalla pagina elenco https://www.mim.gov.it/web/cremona/albo-pretorio : 40 (pagina di 278008 caratteri)
+collegamenti dalla pagina elenco https://www.mim.gov.it/web/cremona/albo-pretorio : 40 (pagina di 278054 caratteri)
    - Nomine a tempo determinato personale docente – a.s. 2026/27 – Bolletti | b/cremona/-/nomine-a-tempo-determinato-personale-docente-a-s-2026-27-bollettino-17-11-2026
    - Disponibilità posti comuni e di sostegno per conferimento incarichi a  | -per-conferimento-incarichi-a-tempo-determinato-a-s-2026-2027-finalizzate-al-10-bollettino
    - Nomine a tempo determinato personale docente – a.s. 2026/27 – Bolletti | b/cremona/-/nomine-a-tempo-determinato-personale-docente-a-s-2026-27-bollettino-11-11-2026
@@ -3855,7 +3843,7 @@ totale pagine da controllare: 52
   turni letti=10 non letti=0 -> provincia completa
 -- LC Lecco --
 link da Orizzonte Scuola: 21
-collegamenti dalla pagina elenco https://www.mim.gov.it/web/lecco/albo-pretorio : 6 (pagina di 313227 caratteri)
+collegamenti dalla pagina elenco https://www.mim.gov.it/web/lecco/albo-pretorio : 6 (pagina di 313273 caratteri)
    - Rettifica nomine a tempo determinato a.s. 2026/27 personale docente di | ettifica-nomine-a-tempo-determinato-a-s-2026-27-personale-docente-di-scuola-dell-infanzia-
    - Surroghe nomine in ruolo ATA | https://www.mim.gov.it/web/lecco/-/surroghe-nomine-in-ruolo-ata-2
    - Personale ATA - Riepilogo nomine a tempo determinato - RETTIFICA/INTEG | v.it/web/lecco/-/personale-ata-riepilogo-nomine-a-tempo-determinato-rettifica-integrazione
@@ -4234,7 +4222,7 @@ totale pagine da controllare: 27
   turni letti=20 non letti=0 -> provincia completa
 -- LO Lodi --
 link da Orizzonte Scuola: 10
-collegamenti dalla pagina elenco https://www.mim.gov.it/web/lodi/albo-pretorio : 16 (pagina di 304589 caratteri)
+collegamenti dalla pagina elenco https://www.mim.gov.it/web/lodi/albo-pretorio : 16 (pagina di 304542 caratteri)
    - Decreto Rettifica parziale nomine 2 algoritmo | https://www.mim.gov.it/web/lodi/-/decreto-rettifica-parziale-nomine-2-algoritmo
    - Decreto pubblicazione elenco individuazione dei destinatari della prop | della-proposta-di-stipula-di-contratto-a-tempo-determinato-per-l-a-s-2026-2027-inseriti--1
    - Decreto rettifica sede di servizio assegnata alla docente CAMPAGNOL Lu | lla-docente-campagnol-lucia-individuata-con-turno-5-decreto-drlo-del-30-luglio2026-n-41552
@@ -4498,7 +4486,7 @@ totale pagine da controllare: 26
   turni letti=8 non letti=0 -> provincia completa
 -- MN Mantova --
 link da Orizzonte Scuola: 11
-collegamenti dalla pagina elenco https://www.mim.gov.it/web/mantova/albo-pretorio : 72 (pagina di 383957 caratteri)
+collegamenti dalla pagina elenco https://www.mim.gov.it/web/mantova/albo-pretorio : 72 (pagina di 384003 caratteri)
    - Nomine a tempo determinato da GPS – a.s. 26- 27- Esito conferimento no | tova/-/nomine-a-tempo-determinato-da-gps-a-s-26-27-esito-conferimento-nomine-xi-bollettino
    - Pubblicazione disponibilità per le operazioni di nomina da GPS a.s. 26 | t/web/mantova/-/pubblicazione-disponibilita-per-le-operazioni-di-nomina-da-gps-a-s-26-27-8
    - Nomine a tempo determinato da GPS – a.s. 26- 27- Esito conferimento no | ntova/-/nomine-a-tempo-determinato-da-gps-a-s-26-27-esito-conferimento-nomine-x-bollettino
@@ -5221,7 +5209,7 @@ totale pagine da controllare: 68
      testo: Esito conferimento nomine a tempo determinato da GAE\GPS - Esito conferimento nomine a tempo determinato da GAE\GPS - Sondrio - MIM WebFontConf
      testo: bre 2016 Settembre USR LOMBARDIA Sondrio Home Comunicazioni Esito conferimento nomine a tempo determinato da GAE\GPS Esito conferimento nomine a
      testo:  tempo determinato da GAE\GPS Pubblicazione bollettino N 10 Venerdì, 30 ottobre 2026 Pubblicazione Albo n. 138/2 026 Documento acquis
-  pagina senza allegato riconoscibile (131070 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (131024 caratteri); collegamenti a documenti: nessuno
      siti esterni nella pagina: mim.gov.it(1), www.lombardia.istruzione.it(1)
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/sondrio/-/esito-conferimento-nomine-a-tempo-determinato-da-gae-gps-3
   prova con indirizzo alternativo: ww.mim.gov.it/web/sondrio/-/esito-conferimento-nomine-da-gae-gps-bollettino-n-11 -> 2 allegati
@@ -5802,7 +5790,7 @@ totale pagine da controllare: 27
      testo:  - a. s. 2026/2027 – Primaria – Secondaria di II Grado. III BOLLETTINO. - Campobasso - MIM WebFontConfig = { custom : { families : [ "titillium_black
      testo:  - a. s. 2026/2027 – Primaria – Secondaria di II Grado. III BOLLETTINO. Conferimento nomine a tempo determinato su posti curriculari e di sostegno de
      testo:  - a. s. 2026/2027 – Primaria – Secondaria di II Grado. III BOLLETTINO. Mercoledì, 23 settembre 2026 Consulta l'Albo on line Tag: nomine a tempo dete
-  pagina senza allegato riconoscibile (72945 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (72899 caratteri); collegamenti a documenti: nessuno
      siti esterni nella pagina: form.agid.gov.it(1), www.istruzione.it(1)
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/campobasso/-/conferimento-nomine-a-tempo-determinato-su-posti-curriculari-e-di-sostegno-del-personale-docente-da-gps-a-s-2026-2027-primaria-secondaria-di-ii-grad-1
   prova con indirizzo alternativo: personale-docente-gps-a-s-2026-2027-scuola-secondaria-di-ii-grado-iv-bollettino- -> 3 allegati
@@ -5906,7 +5894,7 @@ totale pagine da controllare: 27
      testo: 2026/2027 – Scuola Primaria, Secondaria di I e II Grado. IX BOLLETTINO. - Campobasso - MIM WebFontConfig = { custom : { families : [ "titillium_black
      testo: 2026/2027 – Scuola Primaria, Secondaria di I e II Grado. IX BOLLETTINO. Conferimento nomine a tempo determinato su posti curriculari e di sostegno de
      testo: 2026/2027 – Scuola Primaria, Secondaria di I e II Grado. IX BOLLETTINO. Mercoledì, 18 novembre 2026 Consulta l'Albo on line Tag: nomine a tempo deter
-  pagina senza allegato riconoscibile (72966 caratteri); collegamenti a documenti: nessuno
+  pagina senza allegato riconoscibile (72920 caratteri); collegamenti a documenti: nessuno
      siti esterni nella pagina: form.agid.gov.it(1), www.istruzione.it(1)
   nessun PDF o foglio trovato in https://www.mim.gov.it/web/campobasso/-/conferimento-nomine-a-tempo-determinato-su-posti-curriculari-e-di-sostegno-del-personale-docente-gps-a-s-2026-2027-scuola-primaria-secondaria-di-i-e-2
   scarico https://www.mim.gov.it/documents/10563525/0/DISPONIBILITA+9+BOLLETTINO.pdf/33ddb026-4d75-f749-aa1c-0786aff250c9?version=1.0&t=1794992307036
@@ -8120,8 +8108,7 @@ Call log:
       via r.jina.ai: stato 422, 197 caratteri -> non valida
       via web.archive.org: stato 404, 142724 caratteri -> non valida
         titolo pagina: Wayback Machine
-      via allorigins: stato 522, 7257 caratteri -> non valida
-        titolo pagina: allorigins.win | 522: Connection timed out
+      via allorigins: stato 408, 24 caratteri -> non valida
       via corsproxy: stato 403, 322 caratteri -> non valida
   errore su https://www.uspmc.sinp.net/documenti-uspmc-cms/nomine-a-tempo-determinato-a-s-2026-2027_turno-1/ -> nessuna via ha dato una risposta valida per /documenti-uspmc-cms/nomine-a-tempo-determinato-a-s-2026-2027_turno-1/
       via diretto: errore fetch failed
@@ -8130,8 +8117,7 @@ Call log:
       via r.jina.ai: stato 422, 197 caratteri -> non valida
       via web.archive.org: stato 404, 142676 caratteri -> non valida
         titolo pagina: Wayback Machine
-      via allorigins: stato 522, 7257 caratteri -> non valida
-        titolo pagina: allorigins.win | 522: Connection timed out
+      via allorigins: stato 408, 24 caratteri -> non valida
       via corsproxy: stato 403, 322 caratteri -> non valida
   errore su https://www.uspmc.sinp.net/documenti-uspmc-cms/rettifica-gps-macerata-2026-2028/ -> nessuna via ha dato una risposta valida per w.uspmc.sinp.net/documenti-uspmc-cms/rettifica-gps-macerata-2026-2028/
       via diretto: errore fetch failed
@@ -8141,7 +8127,8 @@ Call log:
   - navigating to "https://www.uspmc.sinp.net/documen
       via r.jina.ai: stato 422, 197 caratteri -> non valida
       via web.archive.org: errore fetch failed
-      via allorigins: stato 408, 24 caratteri -> non valida
+      via allorigins: stato 522, 7257 caratteri -> non valida
+        titolo pagina: allorigins.win | 522: Connection timed out
       via corsproxy: stato 403, 322 caratteri -> non valida
   errore su https://www.uspmc.sinp.net/documenti-uspmc-cms/nomine-a-tempo-determinato-a-s-2026-2027_turno-2/ -> nessuna via ha dato una risposta valida per /documenti-uspmc-cms/nomine-a-tempo-determinato-a-s-2026-2027_turno-2/
       via diretto: errore fetch failed
@@ -8150,19 +8137,18 @@ Call log:
       via r.jina.ai: stato 422, 197 caratteri -> non valida
       via web.archive.org: stato 404, 142715 caratteri -> non valida
         titolo pagina: Wayback Machine
-      via allorigins: stato 500, 177 caratteri -> non valida
-        titolo pagina: 500 Internal Server Error
+      via allorigins: stato 522, 7257 caratteri -> non valida
+        titolo pagina: allorigins.win | 522: Connection timed out
       via corsproxy: stato 403, 322 caratteri -> non valida
   errore su https://www.uspmc.sinp.net/documenti-uspmc-cms/nomine-a-tempo-determinato-turno-1-rettifiche/ -> nessuna via ha dato una risposta valida per net/documenti-uspmc-cms/nomine-a-tempo-determinato-turno-1-rettifiche/
       via diretto: errore fetch failed
         diagnosi: fetch failed
-      via browser: errore page.goto: Timeout 60000ms exceeded.
-Call log:
-  - navigating to "https://www.uspmc.sinp.net/documen
+      via browser: errore page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.uspmc.sinp.net/documenti-uspmc-cms/nomine-a-
       via r.jina.ai: stato 422, 197 caratteri -> non valida
-      via web.archive.org: stato 404, 142715 caratteri -> non valida
+      via web.archive.org: stato 404, 142716 caratteri -> non valida
         titolo pagina: Wayback Machine
-      via allorigins: stato 408, 24 caratteri -> non valida
+      via allorigins: stato 522, 7257 caratteri -> non valida
+        titolo pagina: allorigins.win | 522: Connection timed out
       via corsproxy: stato 403, 322 caratteri -> non valida
   errore su https://www.uspmc.sinp.net/documenti-uspmc-cms/nomine-a-tempo-determinato-turno-2-rettifiche/ -> nessuna via ha dato una risposta valida per net/documenti-uspmc-cms/nomine-a-tempo-determinato-turno-2-rettifiche/
       via diretto: errore fetch failed
@@ -8170,7 +8156,7 @@ Call log:
       via browser: errore page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.uspmc.sinp.net/documenti-uspmc-cms/nomine-a-
       via r.jina.ai: stato 422, 197 caratteri -> non valida
       via web.archive.org: errore fetch failed
-      via allorigins: stato 400, 65 caratteri -> non valida
+      via allorigins: stato 408, 24 caratteri -> non valida
       via corsproxy: stato 403, 322 caratteri -> non valida
   errore su https://www.uspmc.sinp.net/documenti-uspmc-cms/nomine-a-tempo-determinato-turno-2-ulteriore-rettifica/ -> nessuna via ha dato una risposta valida per enti-uspmc-cms/nomine-a-tempo-determinato-turno-2-ulteriore-rettifica/
       via diretto: errore fetch failed
@@ -8179,29 +8165,26 @@ Call log:
       via r.jina.ai: stato 422, 197 caratteri -> non valida
       via web.archive.org: stato 404, 142724 caratteri -> non valida
         titolo pagina: Wayback Machine
-      via allorigins: stato 522, 7257 caratteri -> non valida
-        titolo pagina: allorigins.win | 522: Connection timed out
+      via allorigins: stato 408, 24 caratteri -> non valida
       via corsproxy: stato 403, 322 caratteri -> non valida
   errore su https://www.uspmc.sinp.net/documenti-uspmc-cms/nomine-a-tempo-determinato-a-s-2026-2027_turno-4/ -> nessuna via ha dato una risposta valida per /documenti-uspmc-cms/nomine-a-tempo-determinato-a-s-2026-2027_turno-4/
       via diretto: errore fetch failed
         diagnosi: fetch failed
       via browser: errore page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.uspmc.sinp.net/documenti-uspmc-cms/nomine-a-
       via r.jina.ai: stato 422, 197 caratteri -> non valida
-      via web.archive.org: stato 404, 142724 caratteri -> non valida
+      via web.archive.org: stato 404, 142725 caratteri -> non valida
         titolo pagina: Wayback Machine
-      via allorigins: stato 500, 177 caratteri -> non valida
-        titolo pagina: 500 Internal Server Error
+      via allorigins: stato 522, 7256 caratteri -> non valida
+        titolo pagina: allorigins.win | 522: Connection timed out
       via corsproxy: stato 403, 322 caratteri -> non valida
   errore su https://www.uspmc.sinp.net/documenti-uspmc-cms/nomine-a-tempo-determinato-a-s-2026-2027_turno-5/ -> nessuna via ha dato una risposta valida per /documenti-uspmc-cms/nomine-a-tempo-determinato-a-s-2026-2027_turno-5/
       via diretto: errore fetch failed
         diagnosi: fetch failed
-      via browser: errore page.goto: Timeout 60000ms exceeded.
-Call log:
-  - navigating to "https://www.uspmc.sinp.net/documen
+      via browser: errore page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.uspmc.sinp.net/documenti-uspmc-cms/nomine-a-
       via r.jina.ai: stato 422, 197 caratteri -> non valida
       via web.archive.org: errore fetch failed
-      via allorigins: stato 522, 7259 caratteri -> non valida
-        titolo pagina: allorigins.win | 522: Connection timed out
+      via allorigins: stato 500, 177 caratteri -> non valida
+        titolo pagina: 500 Internal Server Error
       via corsproxy: stato 403, 322 caratteri -> non valida
   errore su https://www.uspmc.sinp.net/documenti-uspmc-cms/nomine-a-tempo-determinato-a-s-2026-2027_turno-6/ -> nessuna via ha dato una risposta valida per /documenti-uspmc-cms/nomine-a-tempo-determinato-a-s-2026-2027_turno-6/
       via diretto: errore fetch failed
@@ -8215,23 +8198,20 @@ Call log:
   errore su https://www.uspmc.sinp.net/documenti-uspmc-cms/nomine-a-tempo-determinato-a-s-2026-2027_turno-7/ -> nessuna via ha dato una risposta valida per /documenti-uspmc-cms/nomine-a-tempo-determinato-a-s-2026-2027_turno-7/
       via diretto: errore fetch failed
         diagnosi: fetch failed
-      via browser: errore page.goto: Timeout 60000ms exceeded.
-Call log:
-  - navigating to "https://www.uspmc.sinp.net/documen
+      via browser: errore page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.uspmc.sinp.net/documenti-uspmc-cms/nomine-a-
       via r.jina.ai: stato 422, 197 caratteri -> non valida
       via web.archive.org: stato 404, 142724 caratteri -> non valida
         titolo pagina: Wayback Machine
-      via allorigins: stato 522, 7257 caratteri -> non valida
-        titolo pagina: allorigins.win | 522: Connection timed out
+      via allorigins: stato 408, 24 caratteri -> non valida
       via corsproxy: stato 403, 322 caratteri -> non valida
   errore su https://www.uspmc.sinp.net/documenti-uspmc-cms/nomine-a-tempo-determinato-a-s-2026-2027_turno-8/ -> nessuna via ha dato una risposta valida per /documenti-uspmc-cms/nomine-a-tempo-determinato-a-s-2026-2027_turno-8/
       via diretto: errore fetch failed
         diagnosi: fetch failed
       via browser: errore page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.uspmc.sinp.net/documenti-uspmc-cms/nomine-a-
       via r.jina.ai: stato 422, 197 caratteri -> non valida
-      via web.archive.org: stato 404, 142724 caratteri -> non valida
+      via web.archive.org: stato 404, 142725 caratteri -> non valida
         titolo pagina: Wayback Machine
-      via allorigins: stato 522, 7257 caratteri -> non valida
+      via allorigins: stato 522, 7256 caratteri -> non valida
         titolo pagina: allorigins.win | 522: Connection timed out
       via corsproxy: stato 403, 322 caratteri -> non valida
   errore su https://www.uspmc.sinp.net/documenti-uspmc-cms/nomine-a-tempo-determinato-a-s-2026-2027_turno-9/ -> nessuna via ha dato una risposta valida per /documenti-uspmc-cms/nomine-a-tempo-determinato-a-s-2026-2027_turno-9/
@@ -8240,8 +8220,8 @@ Call log:
       via browser: errore page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.uspmc.sinp.net/documenti-uspmc-cms/nomine-a-
       via r.jina.ai: stato 422, 197 caratteri -> non valida
       via web.archive.org: errore fetch failed
-      via allorigins: stato 500, 177 caratteri -> non valida
-        titolo pagina: 500 Internal Server Error
+      via allorigins: stato 522, 7257 caratteri -> non valida
+        titolo pagina: allorigins.win | 522: Connection timed out
       via corsproxy: stato 403, 322 caratteri -> non valida
   errore su https://www.uspmc.sinp.net/documenti-uspmc-cms/nomine-a-tempo-determinato-a-s-2026-2027_turno-10/ -> nessuna via ha dato una risposta valida per documenti-uspmc-cms/nomine-a-tempo-determinato-a-s-2026-2027_turno-10/
       via diretto: errore fetch failed
@@ -8258,14 +8238,17 @@ Call log:
         diagnosi: fetch failed
       via browser: errore page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.uspmc.sinp.net/documenti-uspmc-cms/nomine-a-
       via r.jina.ai: stato 422, 197 caratteri -> non valida
-      via web.archive.org: stato 404, 142728 caratteri -> non valida
+      via web.archive.org: stato 404, 142727 caratteri -> non valida
         titolo pagina: Wayback Machine
-      via allorigins: stato 408, 24 caratteri -> non valida
+      via allorigins: stato 500, 177 caratteri -> non valida
+        titolo pagina: 500 Internal Server Error
       via corsproxy: stato 403, 322 caratteri -> non valida
   errore su https://www.uspmc.sinp.net/documenti-uspmc-cms/nomine-a-tempo-determinato-a-s-2026-2027_turno-12/ -> nessuna via ha dato una risposta valida per documenti-uspmc-cms/nomine-a-tempo-determinato-a-s-2026-2027_turno-12/
       via diretto: errore fetch failed
         diagnosi: fetch failed
-      via browser: errore page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.uspmc.sinp.net/documenti-uspmc-cms/nomine-a-
+      via browser: errore page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.uspmc.sinp.net/documen
       via r.jina.ai: stato 422, 197 caratteri -> non valida
       via web.archive.org: errore fetch failed
       via allorigins: stato 408, 24 caratteri -> non valida
@@ -8276,8 +8259,7 @@ Call log:
       via browser: errore page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.uspmc.sinp.net/documenti-uspmc-cms/nomine-a-
       via r.jina.ai: stato 422, 197 caratteri -> non valida
       via web.archive.org: errore fetch failed
-      via allorigins: stato 522, 7257 caratteri -> non valida
-        titolo pagina: allorigins.win | 522: Connection timed out
+      via allorigins: stato 408, 24 caratteri -> non valida
       via corsproxy: stato 403, 322 caratteri -> non valida
   errore su https://www.uspmc.sinp.net/documenti-uspmc-cms/nomine-a-tempo-determinato-a-s-2026-2027_turno-14/ -> nessuna via ha dato una risposta valida per documenti-uspmc-cms/nomine-a-tempo-determinato-a-s-2026-2027_turno-14/
   non leggibili che pesano sulle strisce (16):
@@ -8372,7 +8354,7 @@ totale pagine da controllare: 12
         diagnosi blocco: stato 509, server "nginx/1.30.7", 0 caratteri
         browser: titolo pagina ""
       via browser: stato 200, 39 caratteri -> non valida
-      via r.jina.ai: stato 200, 56404 caratteri -> OK
+      via r.jina.ai: stato 200, 56405 caratteri -> OK
   scarico https://www.istruzioneimperia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1673
     dalla memoria: non letto (righe GPS=0)
   scarico https://www.istruzioneimperia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1672
@@ -8480,7 +8462,7 @@ totale pagine da controllare: 13
     fasce GPS: F1=0 F2=0
     ok [turno]: calibrato=true righe GPS=0 scartate=0
       via diretto: errore HTTP 509 su https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-suppl
-        diagnosi blocco: stato 200, server "nginx/1.30.7", 110814 caratteri
+        diagnosi blocco: stato 509, server "nginx/1.30.7", 0 caratteri
         browser: titolo pagina ""
       via browser: stato 200, 39 caratteri -> non valida
       via r.jina.ai: stato 200, 106060 caratteri -> OK
@@ -8523,17 +8505,18 @@ totale pagine da controllare: 14
     fasce GPS: F1=35 F2=68
     classi GPS (classe:fascia=righe): A008:F2=1 A010:F2=2 A015:F1=1 A015:F2=1 A018:F2=1 A019:F1=3 A020:F2=2 A021:F2=1 A023:F2=2 A026:F2=3 A027:F2=3 A028:F2=4 A034:F2=2 A037:F2=1 A040:F2=1 A041:F1=1 A041:F2=2 A045:F2=1 A046:F1=1 A046:F2=5 A047:F2=1 A060:F2=1 AAAA:F1=7 AB56:F2=1 ADAA:F2=1 ADMM:F2=4 ADSS:F1=3 AJ55:F1=1 AM01:F2=2 AM12:F1=1 AM12:F2=3 AM2A:F2=1 AM2B:F1=1 AM48:F1=1 AS12:F1=3 AS12:F2=1 AS23:F1=1 AS2B:F2=2 AW55:F2=1 B003:F2=2 B006:F2=1 B011:F2=1 B014:F2=2 B015:F2=3 B016:F2=2 B018:F2=1 B022:F2=1 B024:F2=1 EEEE:F1=11 EEEM:F2=4
     ok [turno]: calibrato=true righe GPS=103 scartate=0
-      via diretto: errore HTTP 509 su https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-2-
-        diagnosi blocco: stato 509, server "nginx/1.30.7", 0 caratteri
-        browser: titolo pagina "NOMINE DA GPS TURNO 3 | Ufficio III - Ambito territoriale di Savona"
-      via browser: stato 200, 175428 caratteri -> OK
+      via diretto: stato 200, 159320 caratteri -> OK
   scarico https://www.istruzionesavona.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1755
     dalla memoria: letto (righe GPS=26)
   data ricavata dai metadati del PDF, data di creazione (meno sicura): 2026-09-17
     fasce GPS: F1=3 F2=23
     classi GPS (classe:fascia=righe): A011:F2=1 A018:F2=1 A019:F1=1 A026:F2=1 A028:F2=1 A037:F2=1 A045:F2=1 A046:F2=1 A047:F2=1 A060:F2=1 AAAA:F1=1 AM01:F2=1 AM12:F2=1 AM2A:F2=1 AM2B:F2=1 AM30:F2=1 B006:F2=1 B014:F2=1 B015:F2=2 B016:F2=2 EEEE:F1=1 EEEE:F2=2 EEEM:F2=1
     ok [turno]: calibrato=true righe GPS=26 scartate=0
-      via diretto: stato 200, 159481 caratteri -> OK
+      via diretto: errore HTTP 509 su https://www.istruzionesavona.gov.it/pagine/decreto-rettifica-termine-incarico-personale-
+        diagnosi blocco: stato 509, server "nginx/1.30.7", 0 caratteri
+        browser: titolo pagina ""
+      via browser: stato 200, 39 caratteri -> non valida
+      via r.jina.ai: stato 200, 149817 caratteri -> OK
   scarico https://www.istruzionesavona.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1758
     dalla memoria: non letto (righe GPS=0)
   scarico https://www.istruzionesavona.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1759
@@ -8564,11 +8547,7 @@ totale pagine da controllare: 14
     fasce GPS: F1=4 F2=5
     classi GPS (classe:fascia=righe): A050:F2=1 AAAA:F1=1 ADAA:F1=1 AM12:F1=1 AM12:F2=1 AM48:F1=1 B015:F2=1 B016:F2=1 B017:F2=1
     ok [turno]: calibrato=true righe GPS=9 scartate=0
-      via diretto: errore HTTP 509 su https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-6-
-        diagnosi blocco: stato 509, server "nginx/1.30.7", 0 caratteri
-        browser: titolo pagina ""
-      via browser: stato 200, 39 caratteri -> non valida
-      via r.jina.ai: stato 200, 149652 caratteri -> OK
+      via diretto: stato 200, 159315 caratteri -> OK
   scarico https://www.istruzionesavona.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1775
     dalla memoria: letto (righe GPS=6)
   data ricavata dai metadati del PDF, data di creazione (meno sicura): 2026-10-07
@@ -8584,7 +8563,11 @@ totale pagine da controllare: 14
     fasce GPS: F1=0 F2=2
     classi GPS (classe:fascia=righe): A051:F2=1 B016:F2=1
     ok [turno]: calibrato=true righe GPS=2 scartate=0
-      via diretto: stato 200, 159323 caratteri -> OK
+      via diretto: errore HTTP 509 su https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-9
+        diagnosi blocco: stato 509, server "nginx/1.30.7", 0 caratteri
+        browser: titolo pagina ""
+      via browser: stato 200, 39 caratteri -> non valida
+      via r.jina.ai: stato 200, 149660 caratteri -> OK
   scarico https://www.istruzionesavona.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1781
     dalla memoria: non letto (righe GPS=0)
   scarico https://www.istruzionesavona.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1780
@@ -9565,8 +9548,7 @@ totale pagine da controllare: 18
   turni letti=7 non letti=0 -> provincia completa
 -- KR Crotone --
 link da Orizzonte Scuola: 10
-ricerca automatica file su https://www.istruzione.calabria.it/crotone -> 10 file
-totale pagine da controllare: 20
+totale pagine da controllare: 10
   scarico https://www.istruzione.calabria.it/crotone/wp-content/uploads/2026/08/BOLLETTINO-N.-1.pdf
     dalla memoria: letto (righe GPS=490)
   data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-08-31
@@ -9623,42 +9605,11 @@ totale pagine da controllare: 20
     fasce GPS: F1=2 F2=0
     classi GPS (classe:fascia=righe): ADSS:F1=1 AM30:F1=1
     ok [turno]: calibrato=true righe GPS=2 scartate=0
-  scarico https://www.istruzione.calabria.it/crotone/wp-content/uploads/2026/11/bollettino-n.-7-per-il-sito.zip
-      zip: 3 file (pdf/xlsx/csv), righe lette=4
-  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-11-18
-    fasce GPS: F1=2 F2=0
-    classi GPS (classe:fascia=righe): AM30:F1=1 EEEE:F1=1
-    ok [turno]: calibrato=true righe GPS=2 scartate=0
-  stesso documento già trovato in questo giro, salto: https://www.istruzione.calabria.it/crotone/wp-content/uploads/2026/11/bollettino-n.-6-nomine-a-tempo-determinato-personale-docente.pdf
-  tutti i documenti di questa pagina sono già stati letti in questo giro: non la conto tra i non leggibili: 26/11/bollettino-n.-6-nomine-a-tempo-determinato-personale-docente.pdf
-  scarico https://www.istruzione.calabria.it/crotone/wp-content/uploads/2026/11/bollettino-n.-5-nomine-a-tempo-determinato-personale-docente.pdf
-  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-11-05
-    fasce GPS: F1=9 F2=0
-    classi GPS (classe:fascia=righe): A028:F1=1 ADSS:F1=4 AL56:F1=1 AM30:F1=1 AM56:F1=1 B017:F1=1
-    ok [turno]: calibrato=true righe GPS=9 scartate=0
-  stesso documento già trovato in questo giro, salto: https://www.istruzione.calabria.it/crotone/wp-content/uploads/2026/10/integrazione-bollettino-n.4.pdf
-  tutti i documenti di questa pagina sono già stati letti in questo giro: non la conto tra i non leggibili: .it/crotone/wp-content/uploads/2026/10/integrazione-bollettino-n.4.pdf
-  stesso documento già trovato in questo giro, salto: https://www.istruzione.calabria.it/crotone/wp-content/uploads/2026/10/bollettino-n.-4-nomine-a-tempo-determinato.pdf
-  tutti i documenti di questa pagina sono già stati letti in questo giro: non la conto tra i non leggibili: content/uploads/2026/10/bollettino-n.-4-nomine-a-tempo-determinato.pdf
-  stesso documento già trovato in questo giro, salto: https://www.istruzione.calabria.it/crotone/wp-content/uploads/2026/10/III-bollettino-nomine-a-t.d.-2026-2027.pdf
-  tutti i documenti di questa pagina sono già stati letti in questo giro: non la conto tra i non leggibili: /wp-content/uploads/2026/10/III-bollettino-nomine-a-t.d.-2026-2027.pdf
-  stesso documento già trovato in questo giro, salto: https://www.istruzione.calabria.it/crotone/wp-content/uploads/2026/09/bollettino-n.-2-nomine-a-tempo-determinato-personale-docente.pdf
-  tutti i documenti di questa pagina sono già stati letti in questo giro: non la conto tra i non leggibili: 26/09/bollettino-n.-2-nomine-a-tempo-determinato-personale-docente.pdf
-  stesso documento già trovato in questo giro, salto: https://www.istruzione.calabria.it/crotone/wp-content/uploads/2026/08/BOLLETTINO-N.-1.pdf
-  tutti i documenti di questa pagina sono già stati letti in questo giro: non la conto tra i non leggibili: one.calabria.it/crotone/wp-content/uploads/2026/08/BOLLETTINO-N.-1.pdf
-  scarico https://www.istruzione.calabria.it/crotone/wp-content/uploads/2026/10/integrazione-al-quarto-turno-di-nomine-a-tempo-determinato-personale-docente-a.s.-2026-2027U.0005587.26-10-2026.pdf
-    OCR: nessuna pagina scansionata nel documento
-  documento di tipo decreto, non è un bollettino: ignoro o-determinato-personale-docente-a.s.-2026-2027U.0005587.26-10-2026.pdf
-  scarico https://www.istruzione.calabria.it/crotone/wp-content/uploads/2026/08/KR-Risultato-AssegnazioneSede-TURNO4-20260820-125652.pdf
-Warning: TT: undefined function: 21
-Warning: TT: undefined function: 21
-    OCR: nessuna pagina scansionata nel documento
-Warning: TT: undefined function: 21
-  data ricavata dall'intestazione Last-Modified del server (meno sicura): 2026-08-20
-    fasce GPS: F1=0 F2=0
-    ok [turno]: calibrato=false righe GPS=0 scartate=0
-  ignorati 1 documenti non leggibili precedenti al primo bollettino letto (2026-08-31)
-  turni letti=8 non letti=0 -> provincia completa
+  TURNO MANCANTE: 5
+  non leggibili che pesano sulle strisce (1):
+     · 2026-11-11  turno mancante 5 (prima del 6)
+  turni letti=6 non letti=1 -> da verificare
+  tengo i dati precedenti: turni letti ora=6, prima=8, pagine=10
 -- RC Reggio Calabria --
 link da Orizzonte Scuola: 14
 totale pagine da controllare: 14
@@ -10557,18 +10508,20 @@ totale pagine da controllare: 23
   errore su https://www.istruzionegenova.gov.it/pagine/xii-turno-gps---as-2026-2027 -> HTTP 509 su https://www.istruzionegenova.gov.it/pagine/xii-turno-gps---as-2026-2027
   errore su https://www.istruzionegenova.gov.it/pagine/xiv-turno-gps---as-2026-2027 -> HTTP 509 su https://www.istruzionegenova.gov.it/pagine/xiv-turno-gps---as-2026-2027
   errore su https://www.istruzionegenova.gov.it/pagine/xv-turno-gps---as-2026-2027 -> HTTP 509 su https://www.istruzionegenova.gov.it/pagine/xv-turno-gps---as-2026-2027
-  scartati 1 decreti (non sono bollettini)
-  scarico https://www.istruzionegenova.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1676
-Warning: TT: undefined function: 32
-    collegamento di condivisione (www.istruzionegenova.gov.it/pvw2/app/default/tools.php): tipo pdf, 217009 byte, righe lette=0
-Warning: TT: undefined function: 32
-  documento di tipo decreto, non è un bollettino: ignoro zionegenova.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1676
+  errore su https://www.istruzionegenova.gov.it/pagine/xvi-turno-gps---as-2026-2027 -> HTTP 509 su https://www.istruzionegenova.gov.it/pagine/xvi-turno-gps---as-2026-2027
   errore su https://www.istruzionegenova.gov.it/pagine/xvii-turno-gps---as-2026-2027 -> HTTP 509 su https://www.istruzionegenova.gov.it/pagine/xvii-turno-gps---as-2026-2027
   errore su https://www.istruzionegenova.gov.it/pagine/xviii-turno-gps---as-2026-2027 -> HTTP 509 su https://www.istruzionegenova.gov.it/pagine/xviii-turno-gps---as-2026-2027
   errore su https://www.istruzionegenova.gov.it/pagine/xix-turno-gps---as-2026-2027 -> HTTP 509 su https://www.istruzionegenova.gov.it/pagine/xix-turno-gps---as-2026-2027
   errore su https://www.istruzionegenova.gov.it/pagine/xx-turno-gps---as-2026-2027 -> HTTP 509 su https://www.istruzionegenova.gov.it/pagine/xx-turno-gps---as-2026-2027
   errore su https://www.istruzionegenova.gov.it/pagine/xxi-turno-gps---as-2026-2027 -> HTTP 509 su https://www.istruzionegenova.gov.it/pagine/xxi-turno-gps---as-2026-2027
-  errore su https://www.istruzionegenova.gov.it/pagine/xxii-turno-gps---as-2026-2027 -> HTTP 509 su https://www.istruzionegenova.gov.it/pagine/xxii-turno-gps---as-2026-2027
+  scartati 1 decreti (non sono bollettini)
+  scarico https://www.istruzionegenova.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1684
+Warning: TT: undefined function: 32
+Warning: TT: undefined function: 32
+    collegamento di condivisione (www.istruzionegenova.gov.it/pvw2/app/default/tools.php): tipo pdf, 332269 byte, righe lette=0
+Warning: TT: undefined function: 32
+Warning: TT: undefined function: 32
+  documento di tipo decreto, non è un bollettino: ignoro zionegenova.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1684
   errore su https://www.istruzionegenova.gov.it/pagine/xxiii-turno-gps---as-2026-2027 -> HTTP 509 su https://www.istruzionegenova.gov.it/pagine/xxiii-turno-gps---as-2026-2027
   errore su https://www.istruzionegenova.gov.it/pagine/xxv-turno-gps---as-2026-2027 -> HTTP 509 su https://www.istruzionegenova.gov.it/pagine/xxv-turno-gps---as-2026-2027
   TURNO MANCANTE: 6
@@ -11498,7 +11451,7 @@ Call log:
      link a possibili pagine dei turni: 0
      link ad atti/albo/scarica: 0
      blocco anti-robot nel testo: false
-     testo: anzia, Primaria, Secondaria di primo e secondo grado Nomine Bollettino Fase 6.zip New Hot File Size: 240.04 kB Date: 14 Ottobre 2026 Downloads: 6064 
+     testo: anzia, Primaria, Secondaria di primo e secondo grado Nomine Bollettino Fase 6.zip New Hot File Size: 240.04 kB Date: 14 Ottobre 2026 Downloads: 6072 
      testo: carichi a tempo determinato da GAE e GPS –Chiarimenti sugli esiti della Fase 1 delle supplenze e modalità di gestione delle segnalazioni. m_pi.AO
      testo: carichi a tempo determinato da GAE e GPS –Chiarimenti sugli esiti della Fase 1 delle supplenze e modalità di gestione delle segnalazioni. Prot. n
      testo: NFERME DEI DOCENTI A TEMPO DETERMINATO SU POSTO DI SOSTEGNO ESITO fase 0 incarichi t.d. personale docente confermato sostegno a.s. 2026-2027.AOO
@@ -12986,5 +12939,5 @@ totale pagine da controllare: 11
     classi GPS (classe:fascia=righe): A028:F2=1 ADSS:F1=1 B014:F2=1 PPPP:F2=1
     ok [turno]: calibrato=true righe GPS=4 scartate=0
   turni letti=11 non letti=0 -> provincia completa
-RIEPILOGO DA VERIFICARE: letti con OCR=0 | zero righe=0 | non letti=87 | turni mancanti=17
+RIEPILOGO DA VERIFICARE: letti con OCR=0 | zero righe=0 | non letti=87 | turni mancanti=18
 Scritto /home/runner/work/atrium/atrium/data/bollettini.json
