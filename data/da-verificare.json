@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-24T16:45:21.346Z",
+ "aggiornato": "2026-11-24T18:36:13.092Z",
  "ocr": [],
  "zeroRighe": [],
  "nonLetti": [
@@ -685,11 +685,6 @@
    "nota": "bollettino non trovato (si passa dal turno 8 al 11)"
   },
   {
-   "provincia": "KR",
-   "turno": 5,
-   "nota": "bollettino non trovato (si passa dal turno 4 al 6)"
-  },
-  {
    "provincia": "GE",
    "turno": 6,
    "nota": "bollettino non trovato (si passa dal turno 5 al 7)"
@@ -1204,10 +1199,17 @@
    "pagine": 3
   },
   {
-   "provincia": "GE",
+   "provincia": "KR",
    "turno": null,
+   "data": "2026-10-26",
+   "url": "https://www.istruzione.calabria.it/crotone/wp-content/uploads/2026/10/integrazione-al-quarto-turno-di-nomine-a-tempo-determinato-personale-docente-a.s.-2026-2027U.0005587.26-10-2026.pdf",
+   "pagine": 3
+  },
+  {
+   "provincia": "GE",
+   "turno": 16,
    "data": "2026-11-24",
-   "url": "https://www.istruzionegenova.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1679",
+   "url": "https://www.istruzionegenova.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1676",
    "pagine": 6
   },
   {
