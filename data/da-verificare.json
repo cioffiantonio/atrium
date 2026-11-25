@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-25T17:22:15.669Z",
+ "aggiornato": "2026-11-25T19:21:22.361Z",
  "ocr": [],
  "zeroRighe": [],
  "nonLetti": [
@@ -359,20 +359,6 @@
    "data": "2026-11-25",
    "url": "https://www.istruzioneimperia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1670",
    "nota": "formato non riconosciuto"
-  },
-  {
-   "provincia": "SP",
-   "turno": null,
-   "data": "2026-10-02",
-   "url": "https://www.istruzionelaspezia.gov.it/pagine/individuazione-destinatari-nomine-per-supplenza-da-gps---vi-turno-02102026----",
-   "nota": "documento non leggibile"
-  },
-  {
-   "provincia": "SV",
-   "turno": 6,
-   "data": "2026-11-25",
-   "url": "https://www.istruzionesavona.gov.it/pagine/nomine-da-gps-turno-5-1",
-   "nota": "documento non leggibile"
   },
   {
    "provincia": "VE",
@@ -1171,6 +1157,13 @@
    "pagine": 5
   },
   {
+   "provincia": "IM",
+   "turno": 12,
+   "data": "2026-11-25",
+   "url": "https://www.istruzioneimperia.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1673",
+   "pagine": 5
+  },
+  {
    "provincia": "TE",
    "turno": null,
    "data": "2026-10-29",
@@ -1186,16 +1179,9 @@
   },
   {
    "provincia": "GE",
-   "turno": 12,
+   "turno": 14,
    "data": "2026-11-25",
-   "url": "https://www.istruzionegenova.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1671",
-   "pagine": 6
-  },
-  {
-   "provincia": "GE",
-   "turno": null,
-   "data": "2026-11-25",
-   "url": "https://www.istruzionegenova.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1687",
+   "url": "https://www.istruzionegenova.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1674",
    "pagine": 6
   },
   {
