@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-26T02:46:23.474Z",
+ "aggiornato": "2026-11-26T08:13:39.714Z",
  "ocr": [],
  "zeroRighe": [],
  "nonLetti": [
@@ -627,6 +627,11 @@
    "nota": "bollettino non trovato (si passa dal turno 1 al 3)"
   },
   {
+   "provincia": "SI",
+   "turno": 2,
+   "nota": "bollettino non trovato (si passa dal turno 1 al 3)"
+  },
+  {
    "provincia": "AL",
    "turno": 16,
    "nota": "bollettino non trovato (si passa dal turno 15 al 17)"
@@ -1172,9 +1177,16 @@
   },
   {
    "provincia": "GE",
-   "turno": 17,
+   "turno": 12,
    "data": "2026-11-26",
-   "url": "https://www.istruzionegenova.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1677",
+   "url": "https://www.istruzionegenova.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1671",
+   "pagine": 6
+  },
+  {
+   "provincia": "GE",
+   "turno": 15,
+   "data": "2026-11-26",
+   "url": "https://www.istruzionegenova.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1675",
    "pagine": 6
   },
   {
