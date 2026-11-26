@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-26T13:31:34.785Z",
+ "aggiornato": "2026-11-26T16:02:42.162Z",
  "ocr": [],
  "zeroRighe": [],
  "nonLetti": [
@@ -298,6 +298,34 @@
    "nota": "formato non riconosciuto"
   },
   {
+   "provincia": "CZ",
+   "turno": 2,
+   "data": "2026-09-11",
+   "url": "https://www.istruzione.calabria.it/catanzaro/m_pi-aoouspcz-registro-ufficialeu-0009525-11-09-2026/",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "CZ",
+   "turno": 4,
+   "data": "2026-10-07",
+   "url": "https://www.istruzione.calabria.it/catanzaro/m_pi-aoouspcz-registro-ufficialeu-0010555-07-10-2026/",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "CZ",
+   "turno": 8,
+   "data": "2026-11-06",
+   "url": "https://www.istruzione.calabria.it/catanzaro/m_pi-aoouspcz-registro-ufficialeu-0011819-06-11-2026/",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "CZ",
+   "turno": 10,
+   "data": "2026-11-19",
+   "url": "https://www.istruzione.calabria.it/catanzaro/m_pi-aoouspcz-registro-ufficialeu-0012404-19-11-2026/",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
    "provincia": "RC",
    "turno": null,
    "data": "2026-11-26",
@@ -432,10 +460,10 @@
   },
   {
    "provincia": "GE",
-   "turno": null,
-   "data": "2026-11-24",
-   "url": "https://cspace.spaggiari.eu//pub/GESR0002/GPS%202026-2028/TURNI%20GPS/XXVII%20TURNO/Bollettino_XXVII_TURNO_GPS_Genova.pdf",
-   "nota": "formato non riconosciuto"
+   "turno": 19,
+   "data": "2026-11-26",
+   "url": "https://www.istruzionegenova.gov.it/pagine/xix-turno-gps---as-2026-2027",
+   "nota": "documento non leggibile"
   },
   {
    "provincia": "AP",
@@ -557,9 +585,54 @@
    "nota": "bollettino non trovato (si passa dal turno 8 al 11)"
   },
   {
+   "provincia": "KR",
+   "turno": 5,
+   "nota": "bollettino non trovato (si passa dal turno 4 al 6)"
+  },
+  {
    "provincia": "GE",
    "turno": 6,
    "nota": "bollettino non trovato (si passa dal turno 5 al 7)"
+  },
+  {
+   "provincia": "GE",
+   "turno": 11,
+   "nota": "bollettino non trovato (si passa dal turno 10 al 19)"
+  },
+  {
+   "provincia": "GE",
+   "turno": 12,
+   "nota": "bollettino non trovato (si passa dal turno 10 al 19)"
+  },
+  {
+   "provincia": "GE",
+   "turno": 13,
+   "nota": "bollettino non trovato (si passa dal turno 10 al 19)"
+  },
+  {
+   "provincia": "GE",
+   "turno": 14,
+   "nota": "bollettino non trovato (si passa dal turno 10 al 19)"
+  },
+  {
+   "provincia": "GE",
+   "turno": 15,
+   "nota": "bollettino non trovato (si passa dal turno 10 al 19)"
+  },
+  {
+   "provincia": "GE",
+   "turno": 16,
+   "nota": "bollettino non trovato (si passa dal turno 10 al 19)"
+  },
+  {
+   "provincia": "GE",
+   "turno": 17,
+   "nota": "bollettino non trovato (si passa dal turno 10 al 19)"
+  },
+  {
+   "provincia": "GE",
+   "turno": 18,
+   "nota": "bollettino non trovato (si passa dal turno 10 al 19)"
   },
   {
    "provincia": "ME",
@@ -1075,6 +1148,13 @@
    "turno": 12,
    "data": "2026-11-26",
    "url": "https://www.istruzionegenova.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1671",
+   "pagine": 6
+  },
+  {
+   "provincia": "GE",
+   "turno": 14,
+   "data": "2026-11-26",
+   "url": "https://www.istruzionegenova.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1674",
    "pagine": 6
   },
   {
