@@ -1,8 +1,43 @@
 {
- "aggiornato": "2026-11-27T07:54:20.209Z",
+ "aggiornato": "2026-11-27T10:07:55.546Z",
  "ocr": [],
  "zeroRighe": [],
  "nonLetti": [
+  {
+   "provincia": "AV",
+   "turno": null,
+   "data": "2026-11-27",
+   "url": "https://atavellino.it/graduatorie-provinciali-di-supplenza-terzo-bollettino-nomine-a-tempo-determinato-2026-2027-ogni-ordine-e-grado-avellino-e-provincia/",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "AV",
+   "turno": null,
+   "data": "2026-11-27",
+   "url": "https://atavellino.it/graduatorie-provinciali-di-supplenza-quarto-bollettino-nomine-a-tempo-determinato-2026-2027-ogni-ordine-e-grado-avellino-e-provincia/",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "AV",
+   "turno": null,
+   "data": "2026-11-27",
+   "url": "https://atavellino.it/graduatorie-provinciali-di-supplenza-quinto-bollettino-nomine-a-tempo-determinato-2026-2027-ogni-ordine-e-grado-avellino-e-provincia/",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "AV",
+   "turno": 1,
+   "data": "2026-11-27",
+   "url": "https://atavellino.it/graduatorie-provinciali-di-supplenza-primo-bollettino-nomine-a-tempo-determinato-2026-2027-ogni-ordine-e-grado-avellino-e-provincia/",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "AV",
+   "turno": 2,
+   "data": "2026-11-27",
+   "url": "https://atavellino.it/graduatorie-provinciali-di-supplenza-secondo-bollettino-nomine-a-tempo-determinato-2026-2027-ogni-ordine-e-grado-avellino-e-provincia/",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
   {
    "provincia": "VI",
    "turno": null,
@@ -205,6 +240,27 @@
    "data": "2026-08-31",
    "url": "https://www.istruzionebat.it/wp-content/uploads/2026/08/ALLEGATO-esiti-assegnazione-sede-Turno-5_26-27.pdf",
    "nota": "formato non riconosciuto"
+  },
+  {
+   "provincia": "LU",
+   "turno": null,
+   "data": "2026-10-20",
+   "url": "https://ustlucca.it/personale-docente-nomine-gps-a-tempo-determinato-turno-5-a-s-2026-27-del-20-10-2026/",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "LU",
+   "turno": null,
+   "data": "2026-10-23",
+   "url": "https://ustlucca.it/personale-docente-nomine-gps-a-tempo-determinato-turno-6-a-s-2026-27-del-23-10-2026/",
+   "nota": "nessun PDF o foglio trovato nella pagina"
+  },
+  {
+   "provincia": "LU",
+   "turno": null,
+   "data": "2026-11-09",
+   "url": "https://ustlucca.it/personale-docente-nomine-gps-a-tempo-determinato-turno-7-a-s-2026-27-del-09-11-2026/",
+   "nota": "nessun PDF o foglio trovato nella pagina"
   },
   {
    "provincia": "PD",
@@ -590,11 +646,6 @@
    "provincia": "IM",
    "turno": 10,
    "nota": "bollettino non trovato (si passa dal turno 8 al 11)"
-  },
-  {
-   "provincia": "KR",
-   "turno": 5,
-   "nota": "bollettino non trovato (si passa dal turno 4 al 6)"
   },
   {
    "provincia": "GE",
@@ -1125,10 +1176,17 @@
    "pagine": 3
   },
   {
+   "provincia": "KR",
+   "turno": null,
+   "data": "2026-10-26",
+   "url": "https://www.istruzione.calabria.it/crotone/wp-content/uploads/2026/10/integrazione-al-quarto-turno-di-nomine-a-tempo-determinato-personale-docente-a.s.-2026-2027U.0005587.26-10-2026.pdf",
+   "pagine": 3
+  },
+  {
    "provincia": "GE",
-   "turno": 14,
+   "turno": 12,
    "data": "2026-11-27",
-   "url": "https://www.istruzionegenova.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1674",
+   "url": "https://www.istruzionegenova.gov.it/pvw2/app/default/tools.php?act=downloadFile&id=1671",
    "pagine": 6
   },
   {
